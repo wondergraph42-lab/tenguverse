@@ -1,0 +1,13 @@
+name = "CRD Broadcasts"
+filename = "crd_broadcasts-neoforge-1.4.1+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "216325e2e6a56823d48d06329bd3825e43355730"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7652143
+project-id = 1361740

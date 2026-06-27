@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "lc"
+    ],
+    "key": {
+        "c": {
+            "item": "cobblemon:black_balance_shard"
+        },
+        "l": {
+            "item": "cobblemon:white_balance_shard"
+        }
+    },
+    "result": {
+        "count": 1,
+        "id": "cobblemon:fragmented_balance_stone"
+    }
+}

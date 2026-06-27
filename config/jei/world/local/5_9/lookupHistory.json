@@ -1,0 +1,11 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"cobblenav:pokenav_item_base"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":"spectreonee","type":"com.cobbledex.jei.PokemonIngredient","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblenav:fishingnav_item"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblenav:pokenav_item_black"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblenav:pokenav_item_white"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblenav:pokenav_item_gray"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblenav:pokenav_item_purple"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblenav:pokenav_item_yellow"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

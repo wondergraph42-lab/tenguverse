@@ -1,0 +1,9 @@
+{
+  "pokemon": ["xerfawn"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:gold_nugget",
+      "aspects": ["xerfawn_costume-gold_nugget"]
+    }
+  ]
+}

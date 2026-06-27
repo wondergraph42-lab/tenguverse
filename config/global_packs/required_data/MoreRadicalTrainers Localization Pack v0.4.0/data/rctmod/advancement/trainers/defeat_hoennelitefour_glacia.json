@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_hoennelitefour_phoebe",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_hoennelitefour_glacia"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_hoennelitefour_glacia.description"
+    },
+    "icon": {
+      "id": "cobblemon:ultra_ball"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "hoennelitefour_glacia"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:statchic",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:statchic",
+            "model": "cobblemon:statchic.geo",
+            "texture": "cobblemon:textures/pokemon/statchic/statchic.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/statchic/statchic_shiny.png",
+            "layers": []
+        }
+    ]
+}

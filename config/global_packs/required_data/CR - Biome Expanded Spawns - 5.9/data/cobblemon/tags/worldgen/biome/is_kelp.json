@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "regions_unexplored:tropical_river",
+            "required": false
+        }
+    ]
+}

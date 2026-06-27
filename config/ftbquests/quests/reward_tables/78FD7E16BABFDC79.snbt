@@ -1,0 +1,375 @@
+{
+	icon: {
+		id: "cobblemon:citrine_ball"
+	}
+	id: "78FD7E16BABFDC79"
+	loot_crate: {
+		color: 12293378
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		glow: 1b
+		item_name: "PokeCrate [Rocket]"
+		string_id: "pokecrate_tier_1"
+	}
+	loot_size: 1
+	order_index: 43
+	rewards: [
+		{
+			command: "/spawnpokemon ekans lvl=10"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Ekans!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "3C011F8E7DBC2CB8"
+			permission_level: 2
+			type: "command"
+			weight: 2.0f
+		}
+		{
+			command: "/spawnpokemon koffing lvl=10"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Koffing!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "18AE1A35D167824E"
+			permission_level: 2
+			type: "command"
+			weight: 2.0f
+		}
+		{
+			command: "/spawnpokemon arbok lvl=15"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Arbok!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "7BCB9A4336EB990F"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon meowth lvl=10"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Meowth!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "66C02A359704C8B4"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon zubat lvl=10"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Zubat!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "6D6DC9ADEB5C9978"
+			permission_level: 2
+			type: "command"
+			weight: 2.0f
+		}
+		{
+			command: "/spawnpokemon wobbuffet lvl=15"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Wobbuffet!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "7A32515A5BB6033D"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon weezing lvl=15"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Weezing!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "0034EF2AC98321B1"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon grimer lvl=10"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Grimer!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "19DCB869AB6DA73B"
+			permission_level: 2
+			type: "command"
+			weight: 2.0f
+		}
+		{
+			command: "/spawnpokemon lickitung lvl=15"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Lickitung!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "2067D0B7DD80BEE8"
+			permission_level: 2
+			type: "command"
+			weight: 2.0f
+		}
+		{
+			command: "/spawnpokemon golbat lvl=15"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Golbat!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "3B9DC7EF9A443164"
+			permission_level: 2
+			type: "command"
+			weight: 2.0f
+		}
+		{
+			command: "/spawnpokemon gourgeist lvl=10"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Gourgeist!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "72A25F6C9D5C18EE"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon nidoranm lvl=10"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Nidoran! [male]"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "616C12C891789F2B"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon nidoranf lvl=10"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Nidoran! [female]"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "681F2AF32A67BF12"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon rhyhorn lvl=15"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Rhyhorn!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "2533E70C4E9382AA"
+			permission_level: 2
+			type: "command"
+			weight: 0.5f
+		}
+		{
+			command: "/spawnpokemon ekans shiny lvl=10"
+			exclude_from_claim_all: true
+			feedback_message: "You Got Ekans! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "12688EDC1083F35B"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon koffing shiny lvl=10"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Koffing! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "1C9D47EBC79759F0"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon arbok shiny lvl=15"
+			exclude_from_claim_all: true
+			feedback_message: "You Got Arbok - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "735B6191223F8F12"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon meowth shiny lvl=10"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Meowth - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "3CA04C173A4C59A5"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon zubat shiny lvl=10"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Zubat! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "798AED603DF0A26E"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon wobbuffet shiny lvl=15"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Wobbuffet! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "2C79C360F4B21595"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon weezing shiny lvl=15"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Weezing! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "26E362F32C86F03D"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon grimer shiny lvl=10"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Grimer! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "2E3E72E2213AA778"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon lickitung shiny lvl=15"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Lickitung! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "68D9CB51C22ADEEE"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon golbat shiny lvl=15"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Golbat! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "67E60A4710534FAA"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon gourgeist shiny lvl=10"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Gourgeist! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "30779A38271BF56A"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon nidoranm shiny lvl=10"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Nidoran! [male] - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "7FAF6F19BF683DCF"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon nidoranf shiny lvl=10"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Nidoran! [female] - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "2C2C2A033E57C7C0"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon rhyhorn shiny lvl=15"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Rhyhorn! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "08A1AAD569235D93"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon mewtwo lvl=50"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A MewTwo!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "1D09B08E3B2824A7"
+			permission_level: 2
+			type: "command"
+			weight: 0.02f
+		}
+		{
+			command: "/spawnpokemon mewtwo shiny lvl=50"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Mewtwo - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "524039F88C6570EE"
+			permission_level: 2
+			type: "command"
+			weight: 0.01f
+		}
+	]
+	use_title: true
+}

@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:wildgene",
+  "order": 7,
+  "variations": [
+    {
+      "aspects": ["toxin-gear"],
+      "poser": "cobblemon:wildgene",
+      "model": "cobblemon:wildgene_gear.geo",
+      "texture": "cobblemon:textures/pokemon/wildgene/wildgene_toxin-gear.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/wildgene/wildgene_toxin-gear_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    },
+    {
+      "aspects": ["shiny", "toxin-gear"],
+      "texture": "cobblemon:textures/pokemon/wildgene/wildgene_toxin-gear_shiny.png"
+    }
+  ]
+}

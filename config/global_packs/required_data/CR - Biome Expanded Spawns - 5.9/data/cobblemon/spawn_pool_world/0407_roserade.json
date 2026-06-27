@@ -1,0 +1,70 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "roserade-1",
+      "pokemon": "roserade",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "common",
+      "level": "35-52",
+      "weight": 0.05,
+      "condition": {
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "biomes": [
+          "#cobblemon:is_floral"
+        ]
+      }
+    },
+    {
+      "id": "roserade-1-aether",
+      "pokemon": "roserade",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "common",
+      "level": "35-52",
+      "weight": 0.05,
+      "condition": {
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "biomes": [
+          "#aether:is_aether"
+        ],
+        "dimensions": [
+          "aether:the_aether"
+        ]
+      }
+    },
+    {
+      "id": "roserade-2",
+      "pokemon": "roserade",
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "common",
+      "level": "35-52",
+      "weight": 0.05,
+      "condition": {
+        "biomes": [
+          "the_bumblezone:floral_meadow"
+        ],
+        "dimensions": [
+          "the_bumblezone:the_bumblezone"
+        ]
+      },
+      "anticondition": {
+        "structures": [
+          "#the_bumblezone:sempiternal_sanctums"
+        ]
+      }
+    }
+  ]
+}

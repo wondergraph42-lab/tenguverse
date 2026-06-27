@@ -1,0 +1,21 @@
+{
+  "id": "cobblemon:irongenesis",
+  "speciesId": "cobblemon:irongenesis",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "normal",
+      "unlockForms": [
+        "normal"
+      ]
+    },
+    {
+      "displayForm": "mega",
+      "unlockForms": [
+        "mega"
+      ]
+    }
+  ],
+  "variations": []
+}

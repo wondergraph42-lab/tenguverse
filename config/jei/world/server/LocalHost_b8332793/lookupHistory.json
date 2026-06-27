@@ -1,0 +1,4 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:trial_key","components":{"minecraft:custom_model_data":260614,"mega_showdown:registry_type_component":"form_change_interact","mega_showdown:registry_location_component":"atmxmsd:binding_armor","minecraft:item_name":"{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\":\"Binding Armor\"}],\"italic\":false,\"text\":\"\"}","minecraft:lore":["{\"color\":\"dark_gray\",\"text\":\"atmxmsd:binding_armor_datapack\"}"],"minecraft:custom_data":{"recipeitemsync:virtual_id":"atmxmsd:binding_armor_datapack","recipesync:virtual_id":"atmxmsd:binding_armor_datapack"},"minecraft:custom_name":"\"Binding Armor (atmxmsd:binding_armor_datapack)\""}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

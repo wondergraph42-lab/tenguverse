@@ -1,0 +1,37 @@
+{
+  "criteria": {
+    "defeat_all_mangatrainers": {
+      "conditions": {
+        "count": -1,
+        "entity": {
+          "type": null
+        },
+        "trainer_ids": [],
+        "trainer_type": "pokespe"
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": null,
+    "description": {
+      "translate": "advancements.rctmod.defeat_all_mangatrainers.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "id": "cobblemon:ultra_ball"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.rctmod.defeat_all_mangatrainers"
+    }
+  },
+  "parent": "rctmod:trainers/defeat_pokespe_red",
+  "requirements": [
+    [
+      "defeat_all_mangatrainers"
+    ]
+  ]
+}

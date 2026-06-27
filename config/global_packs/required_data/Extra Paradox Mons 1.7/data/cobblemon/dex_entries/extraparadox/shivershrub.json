@@ -1,0 +1,15 @@
+{
+  "id": "cobblemon:shivershrub",
+  "speciesId": "cobblemon:shivershrub",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "normal",
+      "unlockForms": [
+        "normal"
+      ]
+    }
+  ],
+  "variations": []
+}

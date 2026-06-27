@@ -1,0 +1,13 @@
+name = "Pokemon Atmosphere [Grass, Weather, Biomes, ...]"
+filename = "Pokemon Atmosphere v1 - 1.21.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2d646fcba9df919a9c1c028a28a412a89d3a415d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7144902
+project-id = 1371557

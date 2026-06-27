@@ -1,0 +1,13 @@
+{
+  "type": "choice",
+  "keys": [
+    "perfection_state"
+  ],
+  "default": "prototype",
+  "choices": [
+    "prototype",
+    "perfected"
+  ],
+  "isAspect": true,
+  "aspectFormat": "{{choice}}"
+}

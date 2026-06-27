@@ -1,0 +1,26 @@
+{
+  "livingDexStartBox": 1,
+  "livingDexEndBox": 35,
+  "duplicateStartBox": 36,
+  "duplicateEndBox": 40,
+  "variantStartBox": 41,
+  "variantEndBox": 45,
+  "pokemonPerBox": 30,
+  "excludedBoxes": [],
+  "livingDexNamingPattern": "dex_range",
+  "duplicateBoxName": "Duplicates",
+  "variantBoxName": "Variants",
+  "numberExtraBoxes": true,
+  "preferShinies": false,
+  "regionalFormAspects": [
+    "alolan",
+    "galarian",
+    "hisuian",
+    "paldean"
+  ],
+  "useDuplicatesAsPlaceholders": false,
+  "placeholderPriority": "pre_evolution_only",
+  "showSortStatistics": true,
+  "showBoxRenameMessage": true,
+  "renameBoxes": true
+}

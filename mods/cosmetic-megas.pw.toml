@@ -1,0 +1,13 @@
+name = "Cosmetic Megas [Cobblemon]"
+filename = "Cosmetic Megas [v1.3-mod].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb9991a94fe659c9c81acba0a18f179c3cf54d84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8157030
+project-id = 1504338

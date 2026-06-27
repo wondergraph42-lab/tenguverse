@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:swirlix",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:swirlix",
+            "model": "cobblemon:cafe_swirlix.geo",
+            "texture": "cobblemon:textures/pokemon/swirlix/swirlix.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/swirlix/swirlix_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/swirlix/cafe_swirlix.png"
+                }
+            ]
+        }
+    ]
+}

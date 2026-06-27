@@ -1,0 +1,109 @@
+{
+  "portraitScale": 1.9,
+  "portraitTranslation": [0, -0.5, 0],
+  "profileScale": 0.8,
+  "profileTranslation": [-0.04, 0.58, -1.8],
+  "animations": {
+    "cry": "q.bedrock_stateful('rowlet_duo', 'cry')",
+    "recoil": "q.bedrock_stateful('rowlet_duo', 'recoil')",
+    "status": "q.bedrock_primary('rowlet_duo', 'head_rotate', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND", "WALK"],
+      "isBattle": true,
+      "animations": [
+        "q.bedrock('rowlet_duo', 'battle_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('rowlet_duo', 'blink')"
+      ]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+        "q.bedrock('rowlet_duo', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('rowlet_duo', 'blink')",
+        "q.bedrock_quirk('rowlet_duo', 'head_rotate')"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.bedrock('rowlet_duo', 'ground_walk')"
+      ]
+    },
+    "flying": {
+      "transformTicks": 5,
+      "poseTypes": ["FLY"],
+      "animations": [
+        "q.bedrock('rowlet_duo', 'fly_walk')"
+      ]
+    },
+    "hover": {
+      "transformTicks": 5,
+      "poseTypes": ["HOVER"],
+      "animations": [
+        "q.bedrock('rowlet_duo', 'fly_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('rowlet_duo', 'blink')"
+      ]
+    },
+    "float": {
+      "poseTypes": ["FLOAT"],
+      "animations": [
+        "q.bedrock('rowlet_duo', 'fly_idle')"
+      ]
+    },
+    "swim": {
+      "poseTypes": ["SWIM"],
+      "animations": [
+        "q.bedrock('rowlet_duo', 'fly_walk')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": ["q.bedrock('rowlet_duo', 'sleep')"]
+    },
+   "leftshoulder": {
+     "poseName": "leftshoulder",
+     "transformTicks": 10,
+     "poseTypes": [
+       "SHOULDER_LEFT"
+     ],
+     "animations": [
+       "bedrock(rowlet_duo, left_shoulder)"
+     ],
+     "quirks": [
+       {
+         "name": "blink",
+         "animations": [
+           "bedrock(rowlet_duo, blink)"
+         ]
+       }
+     ]
+   },
+   "rightshoulder": {
+     "poseName": "rightshoulder",
+     "transformTicks": 10,
+     "poseTypes": [
+       "SHOULDER_RIGHT"
+     ],
+     "animations": [
+       "bedrock(rowlet_duo, right_shoulder)"
+     ],
+     "quirks": [
+       {
+         "name": "blink",
+         "animations": [
+           "bedrock(rowlet_duo, blink)"
+         ]
+       }
+     ]
+   }
+  }
+}

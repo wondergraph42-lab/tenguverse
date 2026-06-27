@@ -1,0 +1,334 @@
+{
+  "implemented": true,
+  "name": "wildgene",
+  "nationalPokedexNumber": 9908,
+  "primaryType": "bug",
+  "secondaryType": "dragon",
+  "abilities": [
+    "protosynthesis"
+  ],
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "cobblemon:dragon_fang",
+        "quantityRange": "1-3"
+      },
+      {
+        "item": "cobblemon:aguav_berry",
+        "percentage": 10
+      }
+    ]
+  },
+  "baseStats": {
+    "hp": 87,
+    "attack": 129,
+    "defence": 123,
+    "special_attack": 71,
+    "special_defence": 123,
+    "speed": 57
+  },
+"behaviour": {
+   "resting": {
+     "canSleep": true,
+     "willSleepOnBed": false,
+     "depth": "normal",
+     "light": "0-4"
+   },
+        "moving": {
+          "walk": {
+        "avoidsLand": false,
+        "walkSpeed": 0.14
+      },
+          "swim": {
+            "avoidsWater": true
+          }
+        },
+        "combat": {
+          "willDefendSelf": true,
+          "willDefendOwner": true,
+          "willFlee": false
+        },
+        "fireImmune": false
+  },
+  "catchRate": 10,
+  "maleRatio": -1,
+  "shoulderMountable": false,
+  "baseExperienceYield": 169,
+  "experienceGroup": "slow",
+  "eggCycles": 20,
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "moves": [
+    "1:conversion",
+    "1:breakingswipe",
+    "1:crushclaw",
+    "1:bugbuzz",
+    "1:fellstinger",
+    "1:firstimpression",
+    "1:honeclaws",
+    "21:laserfocus",
+    "26:playrough",
+    "31:conversion2",
+    "36:stickyweb",
+    "39:xscissor",
+    "43:meteormash",
+    "50:triattack",
+    "57:cottonguard",
+    "64:dragondance",
+    "71:shellsmash",
+    "78:glaiverush",
+    "85:dracometeor",
+    "86:arachnoclasp",
+
+    "tm:pollenpuff",
+    "tm:megahorn",
+    "tm:swordsdance",
+    "tm:grassyterrain",
+    "tm:megadrain",
+    "tm:gigadrain",
+    "tm:willowisp",
+    "tm:irondefense",
+    "tm:dragonclaw",
+    "tm:dragontail",
+    "tm:dazzlinggleam",
+    "tm:infestation",
+    "tm:drainpunch",
+    "tm:throatchop",
+    "tm:dualchop",
+    "tm:aurasphere",
+    "tm:dragonpulse",
+    "tm:endure",
+    "tm:energyball",
+    "tm:facade",
+    "tm:dragoncheer",
+    "tm:firepunch",
+    "tm:fling",
+    "tm:focusblast",
+    "tm:ironhead",
+    "tm:outrage",
+    "tm:grassknot",
+    "tm:bulkup",
+    "tm:helpinghand",
+    "tm:nightslash",
+    "tm:icepunch",
+    "tm:nastyplot",
+    "tm:speedswap",
+    "tm:lowsweep",
+    "tm:payback",
+    "tm:playrough",
+    "tm:poweruppunch",
+    "tm:protect",
+    "tm:dynamicpunch",
+    "tm:playrough",
+    "tm:psychic",
+    "tm:gyroball",
+    "tm:rest",
+    "tm:irontail",
+    "tm:dracometeor",
+    "tm:storedpower",
+    "tm:protect",
+    "tm:shadowclaw",
+    "tm:signalbeam",
+    "tm:bugbuzz",
+    "tm:sleeptalk",
+    "tm:toxic",
+    "tm:xscissor",
+    "tm:substitute",
+    "tm:sunnyday",
+    "tm:terablast",
+    "tm:solarblade",
+    "tm:signalbeam",
+    "tm:uturn",
+    "tm:wonderroom",
+    "tm:zenheadbutt"
+ ],
+  "labels": [
+    "gen9",
+    "paradox"
+  ],
+  "pokedex": [
+    "cobblemon.species.wildgene.desc"
+  ],
+  "baseFriendship": 50,
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 2,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "height": 2,
+  "weight": 1720,
+  "aspects": [],
+  "cannotDynamax": false,
+  "hitbox": {
+    "width": 1,
+    "height": 2.1,
+    "fixed": false
+      },
+      "forms": [
+        {
+      "name": "Flutter",
+      "primaryType": "bug",
+      "secondaryType": "fairy",
+      "maleRatio": -1,
+      "height": 2,
+      "weight": 2520,
+      "pokedex": [
+        "cobblemon.species.wildgene-flutter.desc"
+      ],
+      "labels": [
+        "gen9",
+        "paradox"
+      ],
+      "aspects": [
+        "flutter-gear"
+      ],
+      "evolutions": [],
+      "battleOnly": false
+    },
+    {
+      "name": "Ghastly",
+      "primaryType": "bug",
+      "secondaryType": "ghost",
+      "maleRatio": -1,
+      "height": 2,
+      "weight": 2520,
+      "pokedex": [
+        "cobblemon.species.wildgene-ghastly.desc"
+      ],
+      "labels": [
+        "gen9",
+        "paradox"
+      ],
+      "aspects": [
+        "ghastly-gear"
+      ],
+      "evolutions": [],
+      "battleOnly": false
+    },
+    {
+      "name": "Toxin",
+      "primaryType": "bug",
+      "secondaryType": "poison",
+      "maleRatio": -1,
+      "height": 2,
+      "weight": 2520,
+      "pokedex": [
+        "cobblemon.species.wildgene-toxin.desc"
+      ],
+      "labels": [
+        "gen9",
+        "paradox"
+      ],
+      "aspects": [
+        "toxin-gear"
+      ],
+      "evolutions": [],
+      "battleOnly": false
+    },
+    {
+      "name": "Fossil",
+      "primaryType": "bug",
+      "secondaryType": "rock",
+      "maleRatio": -1,
+      "height": 2,
+      "weight": 2520,
+      "pokedex": [
+        "cobblemon.species.wildgene-fossil.desc"
+      ],
+      "labels": [
+        "gen9",
+        "paradox"
+      ],
+      "aspects": [
+        "fossil-gear"
+      ],
+      "evolutions": [],
+      "battleOnly": false
+    },
+    {
+      "name": "Zap",
+      "primaryType": "bug",
+      "secondaryType": "electric",
+      "maleRatio": -1,
+      "height": 2,
+      "weight": 2520,
+      "pokedex": [
+        "cobblemon.species.wildgene-zap.desc"
+      ],
+      "labels": [
+        "gen9",
+        "paradox"
+      ],
+      "aspects": [
+        "zap-gear"
+      ],
+      "evolutions": [],
+      "battleOnly": false
+    },
+    {
+      "name": "Frost",
+      "primaryType": "bug",
+      "secondaryType": "ice",
+      "maleRatio": -1,
+      "height": 2,
+      "weight": 2520,
+      "pokedex": [
+        "cobblemon.species.wildgene-frost.desc"
+      ],
+      "labels": [
+        "gen9",
+        "paradox"
+      ],
+      "aspects": [
+        "frost-gear"
+      ],
+      "evolutions": [],
+      "battleOnly": false
+    },
+    {
+      "name": "Flare",
+      "primaryType": "bug",
+      "secondaryType": "fire",
+      "maleRatio": -1,
+      "height": 2,
+      "weight": 2520,
+      "pokedex": [
+        "cobblemon.species.wildgene-flare.desc"
+      ],
+      "labels": [
+        "gen9",
+        "paradox"
+      ],
+      "aspects": [
+        "flare-gear"
+      ],
+      "evolutions": [],
+      "battleOnly": false
+    },
+    {
+      "name": "Wave",
+      "primaryType": "bug",
+      "secondaryType": "water",
+      "maleRatio": -1,
+      "height": 2,
+      "weight": 2520,
+      "pokedex": [
+        "cobblemon.species.wildgene-wave.desc"
+      ],
+      "labels": [
+        "gen9",
+        "paradox"
+      ],
+      "aspects": [
+        "wave-gear"
+      ],
+      "evolutions": [],
+      "battleOnly": false
+    }
+  ]
+    }

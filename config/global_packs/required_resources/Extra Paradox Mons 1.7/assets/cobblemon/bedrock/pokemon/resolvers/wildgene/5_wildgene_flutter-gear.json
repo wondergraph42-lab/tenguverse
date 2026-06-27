@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:wildgene",
+  "order": 5,
+  "variations": [
+    {
+      "aspects": ["flutter-gear"],
+      "poser": "cobblemon:wildgene",
+      "model": "cobblemon:wildgene_gear.geo",
+      "texture": "cobblemon:textures/pokemon/wildgene/wildgene_flutter-gear.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/wildgene/wildgene_flutter-gear_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    },
+    {
+      "aspects": ["shiny", "flutter-gear"],
+      "texture": "cobblemon:textures/pokemon/wildgene/wildgene_flutter-gear_shiny.png"
+    }
+  ]
+}

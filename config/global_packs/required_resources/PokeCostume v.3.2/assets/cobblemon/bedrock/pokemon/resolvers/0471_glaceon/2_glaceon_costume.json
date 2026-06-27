@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:glaceon",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["summer"],
+      "poser": "cobblemon:glaceon_summer",
+      "model": "cobblemon:glaceon_summer.geo",
+      "texture": "cobblemon:textures/pokemon/0471_glaceon/glaceon_summer.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny","summer"],
+      "texture": "cobblemon:textures/pokemon/0471_glaceon/glaceon_summer_shiny.png"
+    }
+  ]
+}

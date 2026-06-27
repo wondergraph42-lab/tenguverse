@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:quilava",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:quilava",
+            "model": "cobblemon:cafe_quilava.geo",
+            "texture": "cobblemon:textures/pokemon/quilava/quilava.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/quilava/quilava_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/quilava/cafe_quilava.png"
+                }
+            ]
+        }
+    ]
+}

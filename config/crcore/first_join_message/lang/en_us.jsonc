@@ -1,0 +1,15 @@
+{
+  // ============================================================
+  // CRCore First Join Message language file
+  // Use Minecraft formatting codes: §6, §e, §l, §r ...
+  // Placeholder: %player%
+  // ============================================================
+
+  "first_join_message": "§f✨ Welcome to §6§lCobblemon Realms§r §f✨
+§fYour adventure begins on the §eSpawn Island§f, the perfect place to get your bearings.
+§fTake a look around, meet the first NPCs, and get ready for the journey ahead.
+§fBefore anything else, go see §6§lProfessor Oak§r§f at spawn to claim your §estarter§f.
+§fOnce you are ready, the rest of Cobblemon Realms is yours to explore.",
+  "join_message": "§6§lImportant information§r\n§fYour old §eRealms Coin§f has been replaced by\n§6the new official modpack currency§f.\n\n§fYou can convert your old coins §a1:1§f at any time.\n\n§a[ Convert my Realms Coins ]\n\n§fUse §e/spawn§f or §e/hub§f to return to the spawn island.",
+  "server_broadcast_message": "§f§6§lWelcome§r §e%player%§r §fto §6Cobblemon Realms§f!\n§fHe is the §e§l%unique%§r§fth unique trainer to join this world."
+}

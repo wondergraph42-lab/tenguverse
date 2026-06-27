@@ -1,0 +1,43 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "kecleon-herd-1T",
+      "presets": [
+          "natural"
+      ],
+      "type": "pokemon-herd",
+      "spawnablePositionType": "grounded",
+      "bucket": "uncommon",
+      "levelRange": "19-44",
+      "weight": 10.0,
+      "maxHerdSize": 2,
+      "minDistanceBetweenSpawns": 1.25,
+      "herdablePokemon": [
+        {
+          "pokemon": "kecleon kecleon_color=pmd",
+          "isLeader": true,
+          "levelRange": "25-35",
+          "weight": 1,
+          "maxTimes": 1
+        },
+        {
+          "pokemon": "kecleon",
+          "isLeader": false,
+          "levelRange": "10-30",
+          "weight": 1
+        }
+      ],
+      "condition": {
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "biomes": [
+          "#cobblemon:is_jungle",
+          "#cobblemon:is_tropical_island"
+        ]
+      }
+    }
+  ]
+}

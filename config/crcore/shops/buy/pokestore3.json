@@ -1,0 +1,283 @@
+{
+  "pages": [
+    {
+      "enabled": true,
+      "items": [
+        {
+          "item": "cobblemon:x_attack",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:x_defence",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:x_special_attack",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:x_special_defence",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:x_speed",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:x_accuracy",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:dire_hit",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:guard_spec",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "enabled": true,
+      "items": [
+        {
+          "item": "cobblemon:fire_stone",
+          "price": 30,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:water_stone",
+          "price": 30,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:thunder_stone",
+          "price": 30,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:leaf_stone",
+          "price": 30,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:moon_stone",
+          "price": 30,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:dusk_stone",
+          "price": 30,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:shiny_stone",
+          "price": 30,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "enabled": true,
+      "items": [
+        {
+          "item": "mega_showdown:keystone",
+          "price": 125,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "mega_showdown:tera_orb",
+          "price": 50,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "mega_showdown:mega_stone",
+          "price": 125,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "mega_showdown:max_mushroom",
+          "price": 35,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "mega_showdown:wishing_star",
+          "price": 125,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "mega_showdown:blank_z",
+          "price": 125,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "enabled": true,
+      "items": [
+        {
+          "item": "cobblemon_utility:ballsynchronizer",
+          "price": 40,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon_utility:cobblemax",
+          "price": 200,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon_utility:cobblemin",
+          "price": 75,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon_utility:commoncandy",
+          "price": 15,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon_utility:devolutionrelic",
+          "price": 50,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon_utility:goldencap",
+          "price": 100,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon_utility:hpobsidiancap",
+          "price": 35,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon_utility:hpsilvercap",
+          "price": 60,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon_utility:mastercandy",
+          "price": 150,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon_utility:poketreat",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon_utility:shinycard",
+          "price": 125,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon_utility:stalepoketreat",
+          "price": 5,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon_utility:transmutationorb",
+          "price": 45,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon_utility:voidcap",
+          "price": 50,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon_utility:voidfeather",
+          "price": 20,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon_utility:woodencap",
+          "price": 40,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

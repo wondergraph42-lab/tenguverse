@@ -1,0 +1,59 @@
+{
+  "portraitScale": 1.8,
+  "portraitTranslation": [-2.5, 0.5, 0],
+  "profileScale": 0.5,
+  "profileTranslation": [0, 0.8, 0],
+  "animations": {
+    "cry": "q.bedrock_stateful('ironflux_mega', 'cry')",
+    "recoil": "q.bedrock_stateful('ironflux_mega', 'recoil')",
+    "status": "q.bedrock_stateful('ironflux_mega', 'cry', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('ironflux_mega', 'ground_idle')"
+      ],
+      "quirks": []
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('ironflux_mega', 'ground_idle')"
+      ],
+      "quirks": []
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('ironflux_mega', 'ground_walk')"
+      ],
+      "quirks": []
+    },
+    "hover": {
+      "poseTypes": ["HOVER"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('ironflux_mega', 'air_idle')"
+      ],
+      "quirks": []
+    },
+    "fly": {
+      "poseTypes": ["FLY"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('ironflux_mega', 'air_fly')"
+      ]
+    }
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": ["q.bedrock('ironflux_mega', 'sleep')"]
+    }
+}
+ 

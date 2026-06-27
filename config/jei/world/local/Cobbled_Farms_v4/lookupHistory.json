@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"cobblemon:fire_stone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mega_showdown:keystone"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,13 @@
+[general]
+	#How often leaderboard data refreshes, in minutes.
+	# Default: 5
+	# Range: 1 ~ 1440
+	refresh_interval_minutes = 5
+	#How often hologram footer timers refresh, in seconds.
+	# Default: 30
+	# Range: 5 ~ 3600
+	hologram_footer_refresh_seconds = 60
+	#How long placement previews stay alive, in seconds.
+	# Default: 90
+	# Range: 15 ~ 3600
+	preview_duration_seconds = 90

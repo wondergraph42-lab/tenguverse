@@ -1,0 +1,36 @@
+{
+    "species": "cobblemon:rayquaza",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:lunar_rayquaza",
+            "model": "cobblemon:lunar_rayquaza.geo",
+            "texture": "cobblemon:textures/pokemon/rayquaza/rayquaza.png",
+            "layers": [
+                {
+                    "name": "emissive",
+                    "texture": "cobblemon:textures/pokemon/rayquaza/rayquaza_emissive.png",
+                    "emissive": true,
+                    "translucent_cull": true
+                }
+]
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/rayquaza/rayquaza_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-gold_nugget"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/rayquaza/lunar_rayquaza.png"
+                }
+            ]
+        }
+    ]
+}

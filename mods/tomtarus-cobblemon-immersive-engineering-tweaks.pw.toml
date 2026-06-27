@@ -1,0 +1,13 @@
+name = "Tomtaru's Cobblemon & Immersive Engineering Tweaks"
+filename = "Tomtaru's Cobblemon  Immersive Engineering Tweaks - 1.21.1 - R.2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "da0cd7581a3bcf5d4931a1339d1525d1408c1cde"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7338036
+project-id = 853156

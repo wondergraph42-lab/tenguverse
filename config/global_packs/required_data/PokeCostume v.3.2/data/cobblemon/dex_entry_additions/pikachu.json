@@ -1,0 +1,9 @@
+{
+    "entryId": "cobblemon:pikachu",
+    "forms": [
+      {
+        "displayForm": "world",
+        "unlockForms": ["world"]
+      }
+    ]
+}

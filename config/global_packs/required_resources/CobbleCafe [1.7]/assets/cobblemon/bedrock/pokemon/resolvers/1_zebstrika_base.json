@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:zebstrika",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:zebstrika",
+            "model": "cobblemon:lunar_zebstrika.geo",
+            "texture": "cobblemon:textures/pokemon/zebstrika/zebstrika.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/zebstrika/zebstrika_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-gold_nugget"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/zebstrika/lunar_zebstrika.png"
+                }
+            ]
+        }
+    ]
+}

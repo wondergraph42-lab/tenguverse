@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_aqua_grunt_male_manta",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_aqua_grunt_female_inky"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_aqua_grunt_female_inky.description"
+    },
+    "icon": {
+      "id": "cobblemon:azure_ball"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "aqua_grunt_female_inky"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

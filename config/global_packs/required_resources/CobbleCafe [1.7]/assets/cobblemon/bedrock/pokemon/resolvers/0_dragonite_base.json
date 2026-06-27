@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:dragonite",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:dragonite",
+            "model": "cobblemon:cafe_dragonite.geo",
+            "texture": "cobblemon:textures/pokemon/dragonite/dragonite.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/dragonite/dragonite_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/dragonite/cafe_dragonite.png"
+                }
+            ]
+        }
+    ]
+}

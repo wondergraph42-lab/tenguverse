@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:temga",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:temga",
+            "model": "cobblemon:temga.geo",
+            "texture": "cobblemon:textures/pokemon/temga/temga.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/temga/temga_shiny.png",
+            "layers": []
+        }
+    ]
+}

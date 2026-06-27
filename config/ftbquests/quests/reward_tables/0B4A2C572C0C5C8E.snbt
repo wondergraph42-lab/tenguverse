@@ -1,0 +1,48 @@
+{
+	id: "0B4A2C572C0C5C8E"
+	loot_size: 1
+	order_index: 9
+	rewards: [
+		{
+			auto: "disabled"
+			count: 5
+			exclude_from_claim_all: true
+			id: "5F78D46876AB96D2"
+			item: {
+				count: 1
+				id: "cobblemon:ultra_ball"
+			}
+		}
+		{
+			auto: "disabled"
+			count: 5
+			exclude_from_claim_all: true
+			id: "006881D9607BCA2F"
+			item: {
+				count: 1
+				id: "cobblemon:timer_ball"
+			}
+		}
+		{
+			auto: "disabled"
+			count: 5
+			exclude_from_claim_all: true
+			id: "62B230083812073F"
+			item: {
+				count: 1
+				id: "cobblemon:quick_ball"
+			}
+		}
+		{
+			auto: "disabled"
+			count: 5
+			exclude_from_claim_all: true
+			id: "4CEF23A14C0AC5D0"
+			item: {
+				count: 1
+				id: "cobblemon:beast_ball"
+			}
+		}
+	]
+	use_title: true
+}

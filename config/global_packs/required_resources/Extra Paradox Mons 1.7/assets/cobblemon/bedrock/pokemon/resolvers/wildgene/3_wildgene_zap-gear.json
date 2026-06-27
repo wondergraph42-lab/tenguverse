@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:wildgene",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": ["zap-gear"],
+      "poser": "cobblemon:wildgene",
+      "model": "cobblemon:wildgene_gear.geo",
+      "texture": "cobblemon:textures/pokemon/wildgene/wildgene_zap-gear.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/wildgene/wildgene_zap-gear_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    },
+    {
+      "aspects": ["shiny", "zap-gear"],
+      "texture": "cobblemon:textures/pokemon/wildgene/wildgene_zap-gear_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_pokespe_gold",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_pokespe_silver"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_pokespe_silver.description"
+    },
+    "icon": {
+      "id": "cobblemon:poke_ball"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "pokespe_silver"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

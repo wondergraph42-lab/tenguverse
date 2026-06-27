@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:magneton",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["iono"],
+      "poser": "cobblemon:magneton",
+      "model": "cobblemon:magneton_iono.geo",
+      "texture": "cobblemon:textures/pokemon/0082_magneton/magneton_iono.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny","iono"],
+      "texture": "cobblemon:textures/pokemon/0082_magneton/magneton_iono_shiny.png"
+    }
+  ]
+}

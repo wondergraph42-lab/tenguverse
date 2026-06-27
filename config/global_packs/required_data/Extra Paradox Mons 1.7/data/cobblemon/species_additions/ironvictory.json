@@ -1,0 +1,9 @@
+{
+ "target": "cobblemon:ironvictory",
+ "baseScale": 0.6,
+ "hitbox": {
+   "width": 1,
+   "height": 1.7,
+   "fixed": false
+ }
+}

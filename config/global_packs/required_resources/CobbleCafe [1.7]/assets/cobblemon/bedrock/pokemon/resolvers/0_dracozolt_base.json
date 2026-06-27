@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:dracozolt",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:dracozolt",
+            "model": "cobblemon:cafe_dracozolt.geo",
+            "texture": "cobblemon:textures/pokemon/dracozolt/dracozolt.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/dracozolt/dracozolt_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/dracozolt/cafe_dracozolt.png"
+                }
+            ]
+        }
+    ]
+}

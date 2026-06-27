@@ -1,0 +1,25 @@
+{
+	icon: {
+		id: "cobblemon:poke_ball"
+	}
+	id: "0C5BCBDA3D0E49D6"
+	loot_size: 1
+	order_index: 61
+	rewards: [
+		{
+			command: "/spawnpokemon Sprigatito shiny lvl=10"
+			id: "5D944CF869631560"
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon Fuecoco shiny lvl=10"
+			id: "3FBF5DFA69FE56FD"
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon Quaxly shiny lvl=10"
+			id: "1E0B52E4C821C3B2"
+			type: "command"
+		}
+	]
+}

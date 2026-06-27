@@ -1,0 +1,46 @@
+{
+    "net.minecraft.client.gui.screens.inventory.ContainerScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "top": 85
+            },
+            "SETTINGS": {
+                "top": 85
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 2,
+                "top": 79
+            },
+            "SETTINGS": {
+                "horizontalOffset": 322,
+                "top": 146
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "top": 110
+            },
+            "SETTINGS": {
+                "horizontalOffset": 405,
+                "top": 137
+            }
+        }
+    },
+    "io.wispforest.accessories.client.gui.AccessoriesExperimentalScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SORT": {
+                "top": -13
+            }
+        }
+    },
+    "io.wispforest.accessories.menu.variants.AccessoriesExperimentalMenu": {
+        "ignore": true
+    }
+}

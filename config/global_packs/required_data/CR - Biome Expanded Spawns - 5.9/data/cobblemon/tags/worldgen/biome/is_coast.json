@@ -1,0 +1,160 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_beach",
+    "minecraft:stony_shore",
+    "#cobblemon:is_beach",
+    {
+      "id": "biomesoplenty:dune_beach",
+      "required": false
+    },
+    {
+      "id": "terralith:white_cliffs",
+      "required": false
+    },
+    {
+      "id": "#c:stony_shores",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:rocky_reef",
+      "required": false
+    },
+    {
+      "id": "terralith:basalt_cliffs",
+      "required": false
+    },
+    {
+      "id": "terralith:granite_cliffs",
+      "required": false
+    },
+    {
+      "id": "terralith:white_cliffs",
+      "required": false
+    },
+    {
+      "id": "wythers:calcite_coast",
+      "required": false
+    },
+    {
+      "id": "wythers:coastal_mangroves",
+      "required": false
+    },
+    {
+      "id": "wythers:cold_island",
+      "required": false
+    },
+    {
+      "id": "wythers:cold_stony_shore",
+      "required": false
+    },
+    {
+      "id": "wythers:deepslate_shore",
+      "required": false
+    },
+    {
+      "id": "wythers:frigid_island",
+      "required": false
+    },
+    {
+      "id": "wythers:frozen_island",
+      "required": false
+    },
+    {
+      "id": "wythers:gravelly_beach",
+      "required": false
+    },
+    {
+      "id": "wythers:icy_shore",
+      "required": false
+    },
+    {
+      "id": "wythers:mediterranean_island",
+      "required": false
+    },
+    {
+      "id": "wythers:temperate_island",
+      "required": false
+    },
+    {
+      "id": "wythers:tropical_island",
+      "required": false
+    },
+    {
+      "id": "wythers:warm_stony_shore",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:rocky_reef",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:chalk_cliffs",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:basalt_barrera",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:dacite_shore",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:rainbow_beach",
+      "required": false
+    },
+    {
+      "id": "still_life:arctic_beach",
+      "required": false
+    },
+    {
+      "id": "still_life:arctic_shallow_ocean",
+      "required": false
+    },
+    {
+      "id": "still_life:arid_beach",
+      "required": false
+    },
+    {
+      "id": "still_life:cold_tundra_beach",
+      "required": false
+    },
+    {
+      "id": "still_life:arctic_wetlands",
+      "required": false
+    },
+    {
+      "id": "still_life:desert_wetlands",
+      "required": false
+    },
+    {
+      "id": "still_life:mediterranean_beach",
+      "required": false
+    },
+    {
+      "id": "still_life:savanna_beach",
+      "required": false
+    },
+    {
+      "id": "still_life:taiga_beach",
+      "required": false
+    },
+    {
+      "id": "still_life:temperate_beach",
+      "required": false
+    },
+    {
+      "id": "still_life:tropical_beach",
+      "required": false
+    },
+    {
+      "id": "still_life:tropical_wetlands",
+      "required": false
+    },
+    {
+      "id": "still_life:tundra_beach",
+      "required": false
+    }
+  ]
+}

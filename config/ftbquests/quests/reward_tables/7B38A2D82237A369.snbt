@@ -1,0 +1,647 @@
+{
+	icon: {
+		id: "minecraft:dragon_breath"
+	}
+	id: "7B38A2D82237A369"
+	loot_size: 1
+	order_index: 44
+	rewards: [
+		{
+			auto: "disabled"
+			command: "/category Starter Pokemon"
+			exclude_from_claim_all: true
+			feedback_message: "You Clicked A Category"
+			id: "5C8FA9BB17A1EB3C"
+			silent: true
+			type: "command"
+		}
+		{
+			icon: {
+				id: "cobblemon:grass_gem"
+			}
+			id: "73755EADCDA68C03"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:fire_gem"
+			}
+			id: "1343598C402ECF4B"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:grass_gem"
+			}
+			id: "072D87B2AE555043"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:fire_gem"
+			}
+			id: "5998AAA9771182F5"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:fire_gem"
+			}
+			id: "29F38D521A85B654"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:normal_gem"
+			}
+			id: "24933A07C2C6917C"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:fire_gem"
+			}
+			id: "5E233A6E1EF58CA0"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:water_gem"
+			}
+			id: "5924F85B1496FD41"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:fire_gem"
+			}
+			id: "7229479299AB0D3B"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:water_gem"
+			}
+			id: "6DFDAE94F91BF586"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:water_gem"
+			}
+			id: "0028BA49A2A8A26B"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:electric_gem"
+			}
+			id: "33EF5679FA290DDA"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:water_gem"
+			}
+			id: "066C995EE43A2C6E"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:water_gem"
+			}
+			id: "3AEE6D8B9BAE8512"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:fighting_gem"
+			}
+			id: "3A1939031BC98238"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:grass_gem"
+			}
+			id: "4ED97C3E7463D002"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:grass_gem"
+			}
+			id: "522741B922007963"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:grass_gem"
+			}
+			id: "6CAC8976E3141092"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:water_gem"
+			}
+			id: "6C6DDAC725867D13"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:fire_gem"
+			}
+			id: "383CEBE42E7A027E"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:fire_gem"
+			}
+			id: "7D7DE89B2678B7ED"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:water_gem"
+			}
+			id: "700B3E2CC3C5CC4C"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:grass_gem"
+			}
+			id: "0656317A123BD145"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:grass_gem"
+			}
+			id: "549BBACDF50C1267"
+			type: "custom"
+		}
+		{
+			auto: "disabled"
+			command: "/category Normal Pokemon"
+			exclude_from_claim_all: true
+			feedback_message: "You Clicked A Category"
+			id: "2297D5F4A17CC078"
+			silent: true
+			type: "command"
+		}
+		{
+			icon: {
+				id: "cobblemon:fairy_gem"
+			}
+			id: "194D93998BCB11E0"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:rock_gem"
+			}
+			id: "75CBF6FEEB421F60"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:rock_gem"
+			}
+			id: "77EF59FA6799A658"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:steel_gem"
+			}
+			id: "505273AE85C10EC8"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:grass_gem"
+			}
+			id: "27EF9F8DAF0C69E6"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:grass_gem"
+			}
+			id: "75583F42E5376E1C"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:bug_gem"
+			}
+			id: "2151821F7B1ED62E"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:fire_gem"
+			}
+			id: "4ECE9366E2055A60"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:normal_gem"
+			}
+			id: "0825D638DDC8A2F9"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:psychic_gem"
+			}
+			id: "5C2C82B7546B2863"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:fairy_gem"
+			}
+			id: "16289E6A8FA06293"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:bug_gem"
+			}
+			id: "12A7507DE70FB1CD"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:fairy_gem"
+			}
+			id: "446006D6478FE515"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:bug_gem"
+			}
+			id: "334ED52F6835102D"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:dragon_gem"
+			}
+			id: "3A232412EB987FC6"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:psychic_gem"
+			}
+			id: "59FC4058F518FCD5"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:fairy_gem"
+			}
+			id: "42A0F2E98D8A55EA"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:normal_gem"
+			}
+			id: "7356D1769B58C0C1"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:psychic_gem"
+			}
+			id: "70543DD4BD811D6A"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:grass_gem"
+			}
+			id: "6AE5E2C07B96B55D"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:ghost_gem"
+			}
+			id: "30343AD71FAF90C6"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:rock_gem"
+			}
+			id: "61834123578622D2"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:normal_gem"
+			}
+			id: "7DA0BF35CE9CE99D"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:bug_gem"
+			}
+			id: "031677FC0EBCC8EE"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:steel_gem"
+			}
+			id: "05011522E5D7BFD3"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:bug_gem"
+			}
+			id: "537D034CF1181E5B"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:rock_gem"
+			}
+			id: "0E829F44C805EF9C"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:ghost_gem"
+			}
+			id: "5BE925AF900F2032"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:fighting_gem"
+			}
+			id: "4765C57C436863C7"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:normal_gem"
+			}
+			id: "7732E65F2EFAF833"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:fairy_gem"
+			}
+			id: "7C48BE232914D3F8"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:ghost_gem"
+			}
+			id: "5BFBBDF0FE8568FD"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:electric_gem"
+			}
+			id: "39F8E990E7AFDE0E"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:grass_gem"
+			}
+			id: "1BF50DE44F791CA6"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:dark_gem"
+			}
+			id: "20EC60045B4B8C2B"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:electric_gem"
+			}
+			id: "4AA5305B6C3E40A8"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:grass_gem"
+			}
+			id: "50D2D82153D93B38"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:electric_gem"
+			}
+			id: "360FC36E978271DA"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:normal_gem"
+			}
+			id: "764C48439C9DAAC9"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:normal_gem"
+			}
+			id: "2000074CD2ED9FEE"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:electric_gem"
+			}
+			id: "7E9CB3CFB2152FE5"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:psychic_gem"
+			}
+			id: "50579BB112FCA0DE"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:rock_gem"
+			}
+			id: "3673108553EDB5FE"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:flying_gem"
+			}
+			id: "3BD5254A9D3F4765"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:dark_gem"
+			}
+			id: "094083A73097874A"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:bug_gem"
+			}
+			id: "3FFD6313E01D3873"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:electric_gem"
+			}
+			id: "4DBE6EF5287CC993"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:poison_gem"
+			}
+			id: "167331E4A331866A"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:fire_gem"
+			}
+			id: "5E53DB919C63E1B2"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:poison_gem"
+			}
+			id: "442BCB801BF765D9"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:ice_gem"
+			}
+			id: "774CE07E454F18B0"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:normal_gem"
+			}
+			id: "1C580B47BE10C57C"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:normal_gem"
+			}
+			id: "7200EB1F777C3D05"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:normal_gem"
+			}
+			id: "44B9B328D6EAF82C"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:normal_gem"
+			}
+			id: "5159C51330A3DCC0"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:dragon_gem"
+			}
+			id: "6C7220A291DFA109"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:fighting_gem"
+			}
+			id: "696316C6877FF115"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:bug_gem"
+			}
+			id: "2B3F3186E1AE1EE2"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:water_gem"
+			}
+			id: "7D06B413ECCD662C"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:normal_gem"
+			}
+			id: "4593EF43AC552C5E"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:dark_gem"
+			}
+			id: "1FBFAEDE1E372287"
+			type: "custom"
+		}
+		{
+			icon: {
+				id: "cobblemon:poison_gem"
+			}
+			id: "198474C02AA910F7"
+			type: "custom"
+		}
+		{
+			auto: "disabled"
+			command: "/category Legendary/Mythical"
+			exclude_from_claim_all: true
+			feedback_message: "You Clicked A Category"
+			id: "4947877DC40AB8D0"
+			silent: true
+			type: "command"
+		}
+		{
+			icon: {
+				id: "cobblemon:psychic_gem"
+			}
+			id: "364BCE9355624F62"
+			type: "custom"
+		}
+	]
+	use_title: true
+}

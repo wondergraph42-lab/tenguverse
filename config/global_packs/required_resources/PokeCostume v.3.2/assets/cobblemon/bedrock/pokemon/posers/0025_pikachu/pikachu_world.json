@@ -1,0 +1,66 @@
+{
+    "portraitScale": 2.0,
+    "portraitTranslation": [ -0.1, -0.4, 0 ],
+    "profileScale": 0.7,
+    "profileRotation": 90,
+    "profileTranslation": [ 0, 0.65, 0 ],
+    "faint": "bedrock(pikachu_world, ground_sleep)",
+	"animations": {
+      "cry": "q.bedrock_stateful('pikachu_world', 'cry')"
+    },
+    "poses": {
+
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": [
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE"
+        ],
+        "animations": [
+          "bedrock(pikachu_world, ground_idle)"
+        ],
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(pikachu_world, blink)"]
+          }
+        ]
+      },
+
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": [ "WALK" ],
+        "animations": [ "bedrock(pikachu_world, ground_walk)" ],
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(pikachu_world, blink)"]
+          }
+        ]
+      },
+	  "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": ["q.bedrock('pikachu_world', 'sleep')"]
+    },
+    "shoulder_left": {
+      "poseName": "shoulder_left",
+      "transformTicks": 10,
+      "poseTypes": ["SHOULDER_LEFT"],
+      "animations": [
+        "bedrock(pikachu_world, shoulder_left)"
+      ]
+    },
+    "shoulder_right": {
+      "poseName": "shoulder_right",
+      "transformTicks": 10,
+      "poseTypes": ["SHOULDER_RIGHT"],
+      "animations": [
+        "bedrock(pikachu_world, shoulder_right)"
+      ]
+    }
+    }
+  }

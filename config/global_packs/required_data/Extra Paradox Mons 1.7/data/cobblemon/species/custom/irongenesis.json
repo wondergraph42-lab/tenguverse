@@ -1,0 +1,228 @@
+{
+  "implemented": true,
+  "name": "irongenesis",
+  "nationalPokedexNumber": 9924,
+  "primaryType": "psychic",
+  "secondaryType": "dark",
+  "abilities": [
+    "quarkdrive"
+  ],
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:ender_pearl",
+        "quantityRange": "10-15"
+      },
+      {
+        "item": "cobblemon:watmel_berry",
+        "percentage": 10
+      }
+    ]
+  },
+  "baseStats": {
+    "hp": 88,
+    "attack": 126,
+    "defence": 76,
+    "special_attack": 126,
+    "special_defence": 76,
+    "speed": 98
+  },
+  "baseScale": 0.7,
+      "hitbox": {
+      "width": 1.5,
+      "height": 5,
+      "fixed": false
+      },  
+"behaviour": {
+   "resting": {
+     "canSleep": true,
+     "willSleepOnBed": false,
+     "depth": "normal",
+     "light": "0-4"
+   },
+        "moving": {
+          "swim": {
+            "avoidsWater": true
+          },
+          "fly": {
+        "canFly": true
+        }
+        },
+        "combat": {
+          "willDefendSelf": true,
+          "willDefendOwner": true,
+          "willFlee": false
+        },
+        "fireImmune": false
+  },
+  "catchRate": 10,
+  "maleRatio": -1,
+  "shoulderMountable": false,
+  "baseExperienceYield": 169,
+  "experienceGroup": "slow",
+  "eggCycles": 20,
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "moves": [
+    "1:lightscreen",
+    "1:darkpulse",
+    "1:poweruppunch",
+    "1:wonderroom",
+    "1:futuresight",
+    "1:moonblast",
+    "21:electricterrain",
+    "26:storedpower",
+    "31:psychic",
+    "33:closecombat",
+    "36:shadowball",
+    "43:shadowpunch",
+    "50:psychocut",
+    "51:throatchop",
+    "57:aurasphere",
+    "64:psyshock",
+    "71:discharge",
+    "78:darkestlariat",
+    "85:expandingforce",
+    "86:psychoburst",
+
+    "tm:playrough",
+    "tm:magnetbomb",
+    "tm:sludgebomb",
+    "tm:xscissor",
+    "tm:bulletpunch",
+    "tm:thief",
+    "tm:closecombat",
+    "tm:smackdown",
+    "tm:skittersmack",
+    "tm:knockoff",
+    "tm:irondefense",
+    "tm:dragontail",
+    "tm:aurasphere",
+    "tm:dragonpulse",
+    "tm:endure",
+    "tm:energyball",
+    "tm:facade",
+    "tm:ironhead",
+    "tm:venoshock",
+    "tm:thunder",
+    "tm:focusblast",
+    "tm:fling",
+    "tm:magicroom",
+    "tm:payback",
+    "tm:overheat",
+    "tm:thunderpunch",
+    "tm:irontail",
+    "tm:thunderbolt",
+    "tm:icebeam",
+    "tm:falseswipe",
+    "tm:toxic",
+    "tm:triattack",
+    "tm:payback",
+    "tm:workup",
+    "tm:protect",
+    "tm:darkpulse",
+    "tm:electricterrain",
+    "tm:hyperbeam",
+    "tm:tripleaxel",
+    "tm:rest",
+    "tm:gigaimpact",
+    "tm:smartstrike",
+    "tm:flashcannon",
+    "tm:throatchop",
+    "tm:seismictoss",
+    "tm:takedown",
+    "tm:sleeptalk",
+    "tm:",
+    "tm:psychocut",
+    "tm:doubleedge",
+    "tm:doubleteam",
+    "tm:substitute",
+    "tm:moonblast",
+    "tm:terablast",
+    "tm:signalbeam",
+    "tm:chargebeam",
+    "tm:voltswitch",
+    "tm:zenheadbutt" ],
+  "labels": [
+    "gen9",
+    "paradox"
+  ],
+  "pokedex": [
+    "cobblemon.species.irongenesis.desc"
+  ],
+  "baseFriendship": 50,
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 2,
+    "special_defence": 1,
+    "speed": 0
+  },
+  "height": 2.5,
+  "weight": 2680,
+  "combat": {
+          "willDefendSelf": true,
+          "willDefendOwner": true,
+          "willFlee": false
+        },
+  "cannotDynamax": false,
+  "evolutions": [],
+  "forms": [
+    {
+      "name": "mega",
+      "primaryType": "psychic",
+      "secondaryType": "dark",
+      "maleRatio": -1,
+      "height": 65,
+      "weight": 2940,
+      "abilities": [
+      "quarkdrive"
+      ],
+      "pokedex": [
+        "cobblemon.species.irongenesis-mega.desc"
+      ],
+      "labels": [
+        "gen9",
+        "paradox",
+        "mega"
+      ],
+      "aspects": [
+        "mega"
+      ],
+      "baseStats": {
+       "hp": 88,
+       "attack": 156,
+       "defence": 96,
+       "special_attack": 156,
+       "special_defence": 96,
+       "speed": 98
+      },
+      "baseScale": 0.63,
+         "hitbox": {
+         "width": 1.5,
+         "height": 4,
+         "fixed": false
+        },
+      "baseExperienceYield": 243,
+      
+      "evolutions": [],
+      "battleOnly": false,
+      "behaviour": {
+        "moving": {
+          "swim": {
+            "avoidsWater": true
+          }
+        },
+        "combat": {
+          "willDefendSelf": true,
+          "willDefendOwner": true,
+          "willFlee": false
+        },
+        "fireImmune": false
+      }
+    }
+  ]
+}

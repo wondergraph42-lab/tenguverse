@@ -1,0 +1,6 @@
+{
+  "keys": [ "ot" ],
+  "type": "flag",
+  "isAspect": true,
+  "default": false
+}

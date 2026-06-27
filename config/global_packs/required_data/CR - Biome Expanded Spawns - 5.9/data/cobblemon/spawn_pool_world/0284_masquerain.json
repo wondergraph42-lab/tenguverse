@@ -1,0 +1,107 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "masquerain-1",
+      "pokemon": "masquerain",
+      "presets": [
+        "water"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "surface",
+      "bucket": "uncommon",
+      "level": "22-45",
+      "weight": 0.96,
+      "condition": {
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "biomes": [
+          "#cobblemon:is_freshwater"
+        ],
+        "isRaining": false
+      },
+      "anticondition": {
+        "biomes": [
+          "#cobblemon:is_freezing"
+        ]
+      }
+    },
+    {
+      "id": "masquerain-2",
+      "pokemon": "masquerain",
+      "presets": [
+        "water"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "surface",
+      "bucket": "uncommon",
+      "level": "22-45",
+      "weight": 1.6,
+      "condition": {
+        "biomes": [
+          "#the_bumblezone:the_bumblezone"
+        ],
+        "dimensions": [
+          "the_bumblezone:the_bumblezone"
+        ]
+      },
+      "anticondition": {
+        "structures": [
+          "#the_bumblezone:sempiternal_sanctums"
+        ]
+      }
+    },
+    {
+      "id": "masquerain-3",
+      "pokemon": "masquerain",
+      "presets": [
+        "water"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "surface",
+      "bucket": "common",
+      "level": "30-40",
+      "weight": 3.4,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 15,
+        "biomes": [
+          "aether:skyroot_meadow",
+          "aether:skyroot_grove",
+          "aether:skyroot_woodland",
+          "aether:skyroot_forest"
+        ],
+        "dimensions": [
+          "aether:the_aether"
+        ]
+      }
+    },
+    {
+      "id": "masquerain-3",
+      "pokemon": "masquerain",
+      "presets": [
+        "water"
+      ],
+      "type": "pokemon",
+      "context": "surface",
+      "bucket": "common",
+      "level": "30-40",
+      "weight": 3.4,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 15,
+        "biomes": [
+          "aether:skyroot_meadow",
+          "aether:skyroot_grove",
+          "aether:skyroot_woodland",
+          "aether:skyroot_forest"
+        ],
+        "dimensions": [
+          "aether:the_aether"
+        ]
+      }
+    }
+  ]
+}

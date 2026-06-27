@@ -1,0 +1,12 @@
+{
+  "type": "cobblemon:brewing_stand",
+  "input": {
+    "item": "cobblemon:never-melt_ice"
+  },
+  "bottle": {
+    "item": "minecraft:water_bottle"
+  },
+  "result": {
+    "id": "cobblemon:frost_dna"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "dusclops-1",
+      "pokemon": "dusclops",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "common",
+      "level": "37-46",
+      "weight": 0.57,
+      "condition": {
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "biomes": [
+          "#cobblemon:is_spooky"
+        ],
+        "timeRange": "night"
+      }
+    },
+    {
+      "id": "dusclops-2",
+      "pokemon": "dusclops",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "common",
+      "level": "37-46",
+      "weight": 0.95,
+      "condition": {
+        "biomes": [
+          "#cobblemon:nether/is_soul_sand"
+        ]
+      }
+    },
+    {
+      "id": "deeper-dusclops-1",
+      "pokemon": "dusclops",
+      "presets": [
+        "deep_dark"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "uncommon",
+      "level": "35-51",
+      "weight": 1.1,
+      "condition": {
+        "biomes": [
+          "deeperdarker:deeplands",
+          "deeperdarker:echoing_forest"
+        ],
+        "dimensions": [
+          "deeperdarker:otherside"
+        ]
+      }
+    },
+    {
+      "pokemon": "cobblemon:dusclops",
+      "id": "dusclops-skypillar",
+      "presets": [
+        "sky_pillar"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "uncommon",
+      "level": "54-56",
+      "weight": 1.5,
+      "condition": {}
+    }
+  ]
+}

@@ -1,0 +1,4195 @@
+{
+	autofocus_id: "2698CF171269E9C1"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "frealms_shop"
+	group: ""
+	icon: {
+		components: {
+			"ftbquests:icon": "ftbquests:textures/gui/shop.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "10A725AB9ABE33A4"
+	images: [{
+		height: 28.0d
+		image: "cobblemonrealmss:textures/ftbquests/logos/shopcr2.png"
+		order: 1
+		rotation: 0.0d
+		width: 42.0d
+		x: 10.5d
+		y: 4.5d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "28AC5746E6C20BA7"
+			rewards: [{
+				id: "10FD014166864019"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 5L
+				id: "408F896310014BE3"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:great_ball"
+			}
+			id: "1858C05F4B21B540"
+			rewards: [{
+				id: "5C3C8CBD8654025C"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 7L
+				id: "6662A56F3C3A8A1D"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:safari_ball"
+			}
+			id: "4CDB0B8351FC3E4E"
+			rewards: [{
+				id: "2395E516F80D455A"
+				item: {
+					count: 1
+					id: "cobblemon:safari_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 7L
+				id: "12AD25C21AA21487"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "1DDE3C79C86E9BE0"
+			rewards: [{
+				id: "35D4C4BBB6C1E473"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 11L
+				id: "259D17BA66A74FD8"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:sport_ball"
+			}
+			id: "1C0F93088535AEB0"
+			rewards: [{
+				id: "45D53AFFF6844ED8"
+				item: {
+					count: 1
+					id: "cobblemon:sport_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 13L
+				id: "2808DF7390831E0E"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:park_ball"
+			}
+			id: "477330EC87F68165"
+			rewards: [{
+				id: "5ADAD220FF60458D"
+				item: {
+					count: 1
+					id: "cobblemon:park_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 13L
+				id: "24D8ECFDDD0C417D"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:fast_ball"
+			}
+			id: "0691EA15F65951A3"
+			rewards: [{
+				id: "2D09384BD1F84D7F"
+				item: {
+					count: 1
+					id: "cobblemon:fast_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 14L
+				id: "20C0A91AF0C184D8"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:level_ball"
+			}
+			id: "76A192E5AF6F1945"
+			rewards: [{
+				id: "7A20813D0C72C362"
+				item: {
+					count: 1
+					id: "cobblemon:level_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 12L
+				id: "769540FED8BBA990"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:lure_ball"
+			}
+			id: "226379921C23BE18"
+			rewards: [{
+				id: "45A0D7056ED44B4C"
+				item: {
+					count: 1
+					id: "cobblemon:lure_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 13L
+				id: "3E776B6C88974BA4"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:heavy_ball"
+			}
+			id: "0163C62977F9C2B6"
+			rewards: [{
+				id: "52DB270465FE8E41"
+				item: {
+					count: 1
+					id: "cobblemon:heavy_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 12L
+				id: "2F4AEB90A2840B32"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 4.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:love_ball"
+			}
+			id: "108BBC0F6285CCCA"
+			rewards: [{
+				id: "26950977C43945F8"
+				item: {
+					count: 1
+					id: "cobblemon:love_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 12L
+				id: "5813A95399EFB04E"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:friend_ball"
+			}
+			id: "3766CCCDEF26A6F2"
+			rewards: [{
+				id: "61EEF7E1229F4309"
+				item: {
+					count: 1
+					id: "cobblemon:friend_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 13L
+				id: "5D7A0066F5964BFE"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:moon_ball"
+			}
+			id: "615519BA75E46435"
+			rewards: [{
+				id: "634199270C0747F7"
+				item: {
+					count: 1
+					id: "cobblemon:moon_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 12L
+				id: "0163BEF33CF84DE7"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:net_ball"
+			}
+			id: "297ACF3712BED7FE"
+			rewards: [{
+				id: "226C81FAB2CA4689"
+				item: {
+					count: 1
+					id: "cobblemon:net_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 12L
+				id: "1929896925745777"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:dive_ball"
+			}
+			id: "200DA5B8E8EFC55F"
+			rewards: [{
+				id: "63F3EA0DE92B4323"
+				item: {
+					count: 1
+					id: "cobblemon:dive_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 13L
+				id: "0D685CFCEED07329"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:nest_ball"
+			}
+			id: "4A241531B24A1DF4"
+			rewards: [{
+				id: "30B03C7E779CFD9A"
+				item: {
+					count: 1
+					id: "cobblemon:nest_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 13L
+				id: "6932D51A5D934B00"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:repeat_ball"
+			}
+			id: "6FCF753DB01B5410"
+			rewards: [{
+				id: "2D4F9FD09D48D95A"
+				item: {
+					count: 1
+					id: "cobblemon:repeat_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 12L
+				id: "500134E258E8F96F"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:timer_ball"
+			}
+			id: "7D1F9853DF4B577F"
+			rewards: [{
+				id: "7461B26FC7D84D7B"
+				item: {
+					count: 1
+					id: "cobblemon:timer_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 13L
+				id: "1B58162CA6781982"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:dusk_ball"
+			}
+			id: "7F91A3A84C2D35C5"
+			rewards: [{
+				id: "17AF07C41BBF4E3C"
+				item: {
+					count: 1
+					id: "cobblemon:dusk_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 14L
+				id: "132D39916D394290"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:heal_ball"
+			}
+			id: "15AD91218F0239C4"
+			rewards: [{
+				id: "6A9FEFB4E8384E65"
+				item: {
+					count: 1
+					id: "cobblemon:heal_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 12L
+				id: "51E460DA050E48EB"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:quick_ball"
+			}
+			id: "2BE92CDAE92707EA"
+			rewards: [{
+				id: "5307D364D77189B7"
+				item: {
+					count: 1
+					id: "cobblemon:quick_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 14L
+				id: "6C91DD85C9AB47DD"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:dream_ball"
+			}
+			id: "12F6832437A05C55"
+			rewards: [{
+				id: "012E215CAF9E4359"
+				item: {
+					count: 1
+					id: "cobblemon:dream_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 13L
+				id: "590CFC0C779F4684"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:beast_ball"
+			}
+			id: "4A81870C26A0106B"
+			rewards: [{
+				id: "0989C80AD5B2FF91"
+				item: {
+					count: 1
+					id: "cobblemon:beast_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 13L
+				id: "17F1876B8886949D"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:luxury_ball"
+			}
+			id: "18485C4C43D25835"
+			rewards: [{
+				id: "25D23284C36768CF"
+				item: {
+					count: 1
+					id: "cobblemon:luxury_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 13L
+				id: "5E2934548A3CA93B"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:cherish_ball"
+			}
+			id: "520CF41A22A4E970"
+			rewards: [{
+				id: "0E85F2A58EAD4AC2"
+				item: {
+					count: 1
+					id: "cobblemon:cherish_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 23L
+				id: "1EE0515111D0C318"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:master_ball"
+			}
+			id: "435F763E9FACE391"
+			rewards: [{
+				id: "5F136DCC48DB4CD8"
+				item: {
+					count: 1
+					id: "cobblemon:master_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 134L
+				id: "74E2FE01487DD2E7"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:berry_juice"
+			}
+			id: "6E4325A46FEDADC3"
+			rewards: [{
+				id: "5ECB06724A47F3F5"
+				item: {
+					count: 1
+					id: "cobblemon:berry_juice"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				id: "754AA7F94D3B67DC"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:antidote"
+			}
+			id: "6EF28A7CEBADFFB6"
+			rewards: [{
+				id: "3EB24B718CA251EB"
+				item: {
+					count: 1
+					id: "cobblemon:antidote"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				id: "775B380B07A77279"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:awakening"
+			}
+			id: "5B0DAAF803DC9162"
+			rewards: [{
+				id: "20C2BDCEDD754042"
+				item: {
+					count: 1
+					id: "cobblemon:awakening"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				id: "062A8BEC436CA0E4"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:burn_heal"
+			}
+			id: "2698CF171269E9C1"
+			rewards: [{
+				id: "4512F6821941EF23"
+				item: {
+					count: 1
+					id: "cobblemon:burn_heal"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				id: "3CC4A2C1F9114269"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:ice_heal"
+			}
+			id: "53C9624B9B8EA571"
+			rewards: [{
+				id: "345E934CB826B906"
+				item: {
+					count: 1
+					id: "cobblemon:ice_heal"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				id: "73714BFBA79A9EB3"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:medicinal_brew"
+			}
+			id: "2F4338E3D002771D"
+			rewards: [{
+				id: "69634289B3C00802"
+				item: {
+					count: 1
+					id: "cobblemon:medicinal_brew"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				id: "048C41B092A64E34"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:paralyze_heal"
+			}
+			id: "0CD75ED1463052B1"
+			rewards: [{
+				id: "07079C9965452CF6"
+				item: {
+					count: 1
+					id: "cobblemon:paralyze_heal"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				id: "5E761B67D56845DC"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:potion"
+			}
+			id: "4E89AA9810B0B1E5"
+			rewards: [{
+				id: "4ED0F916FEC948C4"
+				item: {
+					count: 1
+					id: "cobblemon:potion"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				id: "7A790A46486A4F3F"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:full_heal"
+			}
+			id: "55D71A92B42FA61E"
+			rewards: [{
+				id: "5370A1C7A2437846"
+				item: {
+					count: 1
+					id: "cobblemon:full_heal"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 5L
+				id: "18827F6551D55881"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:heal_powder"
+			}
+			id: "0FEFA6E50288C9EF"
+			rewards: [{
+				id: "028CE24166EF46B4"
+				item: {
+					count: 1
+					id: "cobblemon:heal_powder"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 5L
+				id: "204B021085E942C8"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:remedy"
+			}
+			id: "21182C3BAECF8241"
+			rewards: [{
+				id: "6A211DDD8895DE75"
+				item: {
+					count: 1
+					id: "cobblemon:remedy"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 5L
+				id: "48AE5A0E0231B7F3"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:ether"
+			}
+			id: "4EA85DF8440B66C7"
+			rewards: [{
+				id: "1A6124029279417B"
+				item: {
+					count: 1
+					id: "cobblemon:ether"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 6L
+				id: "35ED0D21BAF44BE0"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:super_potion"
+			}
+			id: "124A648CE2419E2C"
+			rewards: [{
+				id: "3CA14FD7C6BC5B21"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 6L
+				id: "75790D60DD20BB88"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:energy_root"
+			}
+			id: "4D430D3E8C067722"
+			rewards: [{
+				id: "45A8F8087BFD40F0"
+				item: {
+					count: 1
+					id: "cobblemon:energy_root"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "33FECD56362C4F05"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:fine_remedy"
+			}
+			id: "37D6DF6A233E526D"
+			rewards: [{
+				id: "63D838F6FE8C9F22"
+				item: {
+					count: 1
+					id: "cobblemon:fine_remedy"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 7L
+				id: "32BFC892D41EE565"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:hyper_potion"
+			}
+			id: "7FBBBBC2BF153C54"
+			rewards: [{
+				id: "50AA7A1C78F42657"
+				item: {
+					count: 1
+					id: "cobblemon:hyper_potion"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "58C235DB1C634018"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:elixir"
+			}
+			id: "5E5AD16780CD9A23"
+			rewards: [{
+				id: "546423CA62CAF065"
+				item: {
+					count: 1
+					id: "cobblemon:elixir"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "371234AA1E2FF45A"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:max_ether"
+			}
+			id: "6F232FE5BA1BDB46"
+			rewards: [{
+				id: "3447A3D41A2E47E7"
+				item: {
+					count: 1
+					id: "cobblemon:max_ether"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "690D7F63BE3ED963"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:revive"
+			}
+			id: "097CE4D62C3D9F04"
+			rewards: [{
+				id: "272884D831DB4829"
+				item: {
+					count: 1
+					id: "cobblemon:revive"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "1B64F676CFF5483F"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:max_elixir"
+			}
+			id: "44E64A6C0B60FFC7"
+			rewards: [{
+				id: "0A8F14F57BDF42E3"
+				item: {
+					count: 1
+					id: "cobblemon:max_elixir"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 11L
+				id: "759841B3565942C1"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:superb_remedy"
+			}
+			id: "1E3BD30F3E17A7EA"
+			rewards: [{
+				id: "61BAA2397CDA43C6"
+				item: {
+					count: 1
+					id: "cobblemon:superb_remedy"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 11L
+				id: "59EF4228DA14488E"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:max_potion"
+			}
+			id: "3BFEC531BE68E77E"
+			rewards: [{
+				id: "3B08E0F33EC24E06"
+				item: {
+					count: 1
+					id: "cobblemon:max_potion"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "2C96F57E6CA3EB74"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:full_restore"
+			}
+			id: "4AB05464509123A1"
+			rewards: [{
+				id: "0370954E27078F56"
+				item: {
+					count: 1
+					id: "cobblemon:full_restore"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 20L
+				id: "75A82E69D2BE6CA6"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:max_revive"
+			}
+			id: "2B8FEA5F3313AA67"
+			rewards: [{
+				id: "144B7718FE348CD0"
+				item: {
+					count: 1
+					id: "cobblemon:max_revive"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 22L
+				id: "0C80FCDFD4DF600B"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:calcium"
+			}
+			id: "523D5CE6B26FA8B6"
+			rewards: [{
+				id: "7C6044DB1DC84CBA"
+				item: {
+					count: 1
+					id: "cobblemon:calcium"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 34L
+				id: "0496965329124063"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 10.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:carbos"
+			}
+			id: "01561709CD33A571"
+			rewards: [{
+				id: "49E889F0E33D486D"
+				item: {
+					count: 1
+					id: "cobblemon:carbos"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 34L
+				id: "32CC0309BA7341D5"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 10.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:hp_up"
+			}
+			id: "5A460F9EC340C688"
+			rewards: [{
+				id: "7FD8EFE78FD92D7A"
+				item: {
+					count: 1
+					id: "cobblemon:hp_up"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 33L
+				id: "232F1AB9EDAF43CE"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 10.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:iron"
+			}
+			id: "7E7460CCDA0FC2D4"
+			rewards: [{
+				id: "250D6C9D476F2E09"
+				item: {
+					count: 1
+					id: "cobblemon:iron"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 33L
+				id: "31089ED86FB14BCE"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 11.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:protein"
+			}
+			id: "323064238ED8FAA5"
+			rewards: [{
+				id: "6B4F3DB174CC4A48"
+				item: {
+					count: 1
+					id: "cobblemon:protein"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 38L
+				id: "1A81156463974DD9"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 11.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:zinc"
+			}
+			id: "6CAC4880BDEE7A74"
+			rewards: [{
+				id: "1ED4EC1420C504C7"
+				item: {
+					count: 1
+					id: "cobblemon:zinc"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 36L
+				id: "7615ACEA40943543"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 11.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:pp_up"
+			}
+			id: "73EC43D61B4DF12C"
+			rewards: [{
+				id: "3707B9150ED2C737"
+				item: {
+					count: 1
+					id: "cobblemon:pp_up"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 43L
+				id: "58AD745B222DC617"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:pp_max"
+			}
+			id: "7CC8579F93C977AA"
+			rewards: [{
+				id: "08DA3DF23777FBCD"
+				item: {
+					count: 1
+					id: "cobblemon:pp_max"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 65L
+				id: "2156C5DD586643AC"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 11.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:dire_hit"
+			}
+			id: "28F9FAB2B7C43BC9"
+			rewards: [{
+				id: "03757C93602E42F8"
+				item: {
+					count: 1
+					id: "cobblemon:dire_hit"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 15L
+				id: "3425B8135A0C40D6"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:guard_spec"
+			}
+			id: "222C39D221359469"
+			rewards: [{
+				id: "78069866BDEC6FC9"
+				item: {
+					count: 1
+					id: "cobblemon:guard_spec"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 13L
+				id: "6481694EDB464224"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:x_accuracy"
+			}
+			id: "39D85A5C59353FDF"
+			rewards: [{
+				id: "44D9E5CD0096541D"
+				item: {
+					count: 1
+					id: "cobblemon:x_accuracy"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 14L
+				id: "307FFB086CE05726"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:x_attack"
+			}
+			id: "38E92FA9F513AE8F"
+			rewards: [{
+				id: "32481C96AAD74271"
+				item: {
+					count: 1
+					id: "cobblemon:x_attack"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 15L
+				id: "7BBCCFC70AF605C1"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:x_special_attack"
+			}
+			id: "1F5C8E86E2C86A9E"
+			rewards: [{
+				id: "4B73654DE1F64DE7"
+				item: {
+					count: 1
+					id: "cobblemon:x_special_attack"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 15L
+				id: "4239B96B4CF920B9"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:x_defence"
+			}
+			id: "35CA6C204B153E10"
+			rewards: [{
+				id: "6E5ABE4E05B1D7F4"
+				item: {
+					count: 1
+					id: "cobblemon:x_defence"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 14L
+				id: "12ADCD15C79A42F0"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:x_special_defence"
+			}
+			id: "2D38AF5044E82C72"
+			rewards: [{
+				id: "745EF7CCF4A429DA"
+				item: {
+					count: 1
+					id: "cobblemon:x_special_defence"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 15L
+				id: "0BFBD7108AE1CD9B"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:x_speed"
+			}
+			id: "4EFADD9A604F5B36"
+			rewards: [{
+				id: "7D90347990D2513C"
+				item: {
+					count: 1
+					id: "cobblemon:x_speed"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 15L
+				id: "11D5FEFB5E7049D6"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon_utility:stalepoketreat"
+			}
+			id: "7BF5EECC7B909D70"
+			rewards: [{
+				id: "12AD66D2B7C5C022"
+				item: {
+					count: 1
+					id: "cobblemon_utility:stalepoketreat"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "17C2B9F0EBDAD995"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon_utility:poketreat"
+			}
+			id: "496736362FB1AC9D"
+			rewards: [{
+				id: "4F0F8E1DDB694C78"
+				item: {
+					count: 1
+					id: "cobblemon_utility:poketreat"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 14L
+				id: "25662EB003D5445D"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon_utility:commoncandy"
+			}
+			id: "6E70E6819D3291D1"
+			rewards: [{
+				id: "0091B8FF0CC3D6BC"
+				item: {
+					count: 1
+					id: "cobblemon_utility:commoncandy"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 19L
+				id: "1D2E750EDA284A2C"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon_utility:voidfeather"
+			}
+			id: "3F76E31C898E0F65"
+			rewards: [{
+				id: "3FB1DB25542D45C6"
+				item: {
+					count: 1
+					id: "cobblemon_utility:voidfeather"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 27L
+				id: "4677F54BD6AD46C3"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:exp_candy_l"
+			}
+			id: "59C3051C1FF5709B"
+			rewards: [{
+				id: "515D2837FE3BECE7"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_l"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 40L
+				id: "77487540A939BCA6"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon_utility:hpobsidiancap"
+			}
+			id: "2362546AF81848F6"
+			rewards: [{
+				id: "4C16F2E1B5E64CF9"
+				item: {
+					count: 1
+					id: "cobblemon_utility:hpobsidiancap"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 46L
+				id: "0F7B45F6AC3D4C23"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 9.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:rare_candy"
+			}
+			id: "555CD1056299A6C4"
+			rewards: [{
+				id: "0C5F9CA1478F4154"
+				item: {
+					count: 1
+					id: "cobblemon:rare_candy"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 60L
+				id: "46F8341C265940F8"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 9.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon_utility:ballsynchronizer"
+			}
+			id: "0EFFE95B271B014B"
+			rewards: [{
+				id: "1A20C833AAF30399"
+				item: {
+					count: 1
+					id: "cobblemon_utility:ballsynchronizer"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 59L
+				id: "5F63DDED9E1F463B"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 9.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon_utility:woodencap"
+			}
+			id: "64BCA378771296FA"
+			rewards: [{
+				id: "03D6216ED8F748AD"
+				item: {
+					count: 1
+					id: "cobblemon_utility:woodencap"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 54L
+				id: "4FCF54F7F1602456"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 9.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon_utility:transmutationorb"
+			}
+			id: "09F8DCD42523D686"
+			rewards: [{
+				id: "1E5B567B57DD4DE2"
+				item: {
+					count: 1
+					id: "cobblemon_utility:transmutationorb"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "180AA0D37D9F4B6D"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 9.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:exp_candy_xl"
+			}
+			id: "466B9D84021D416A"
+			rewards: [{
+				id: "7DBC3BC29ED74245"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_xl"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 68L
+				id: "6CF66984D103525C"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 10.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon_utility:devolutionrelic"
+			}
+			id: "47BE2DCE5CCC34C5"
+			rewards: [{
+				id: "2C1B3490B74582BE"
+				item: {
+					count: 1
+					id: "cobblemon_utility:devolutionrelic"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 74L
+				id: "3B126E8F1C1AB54C"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 10.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon_utility:voidcap"
+			}
+			id: "768F66CCB00B6A6B"
+			rewards: [{
+				id: "16A9BBF060604191"
+				item: {
+					count: 1
+					id: "cobblemon_utility:voidcap"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 69L
+				id: "52CDBAC12D20431D"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 10.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon_utility:hpsilvercap"
+			}
+			id: "0284DDE8D2BD94BE"
+			rewards: [{
+				id: "2B3C4FD478EB9E3B"
+				item: {
+					count: 1
+					id: "cobblemon_utility:hpsilvercap"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 79L
+				id: "723487704C2347F4"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 10.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:ability_patch"
+			}
+			id: "4E0C90370FD7918E"
+			rewards: [{
+				id: "5114223780864783"
+				item: {
+					count: 1
+					id: "cobblemon:ability_patch"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 99L
+				id: "3C449ADB66F2ED08"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 10.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon_utility:cobblemin"
+			}
+			id: "6EA596BAA62B4BC5"
+			rewards: [{
+				id: "5243CC8CE9DC4018"
+				item: {
+					count: 1
+					id: "cobblemon_utility:cobblemin"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 105L
+				id: "5E9D8A1FFB79AF01"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 11.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon_utility:goldencap"
+			}
+			id: "656BDA4B88B77D9B"
+			rewards: [{
+				id: "37A3D7E4640E42D8"
+				item: {
+					count: 1
+					id: "cobblemon_utility:goldencap"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 132L
+				id: "1E2092BC633F90A7"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 11.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon_utility:shinycard"
+			}
+			id: "3C98A5D9981CC62F"
+			rewards: [{
+				id: "404E717CBAEB21AB"
+				item: {
+					count: 1
+					id: "cobblemon_utility:shinycard"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 175L
+				id: "2CB36575D40DD181"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 11.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon_utility:item/mastercandy"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1D3BDDCF63131467"
+			rewards: [{
+				id: "047368AFC35941E7"
+				item: {
+					count: 1
+					id: "cobblemon_utility:mastercandy"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 222L
+				id: "5E34FD128C617D4A"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 11.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon_utility:cobblemax"
+			}
+			id: "451D550C0DF02EC3"
+			rewards: [{
+				id: "7D457E5903934545"
+				item: {
+					count: 1
+					id: "cobblemon_utility:cobblemax"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 270L
+				id: "7F2E80461D8A824A"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 11.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:fire_stone"
+			}
+			id: "06A44DF7DB0D5BF6"
+			rewards: [{
+				id: "3F0925DDE1D44B46"
+				item: {
+					count: 1
+					id: "cobblemon:fire_stone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 40L
+				id: "23629B3F3AA1D2EA"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:water_stone"
+			}
+			id: "1B13B834468B3C18"
+			rewards: [{
+				id: "790546A2B02D4586"
+				item: {
+					count: 1
+					id: "cobblemon:water_stone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 45L
+				id: "3CD0F43FC409EACE"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:thunder_stone"
+			}
+			id: "6886983CFDCDC130"
+			rewards: [{
+				id: "452EF0499F215E7A"
+				item: {
+					count: 1
+					id: "cobblemon:thunder_stone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 42L
+				id: "58D72B61B8CF4129"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:leaf_stone"
+			}
+			id: "09C73EF17E81E199"
+			rewards: [{
+				id: "394D2583872648F9"
+				item: {
+					count: 1
+					id: "cobblemon:leaf_stone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 39L
+				id: "4B8AA2BD45D340E5"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:moon_stone"
+			}
+			id: "073C86246515DC62"
+			rewards: [{
+				id: "6275E42CB8F34E5F"
+				item: {
+					count: 1
+					id: "cobblemon:moon_stone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 38L
+				id: "3164A3DF1A9AA943"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:sun_stone"
+			}
+			id: "1CEA868812E481D6"
+			rewards: [{
+				id: "1C00748AC842A15C"
+				item: {
+					count: 1
+					id: "cobblemon:sun_stone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 39L
+				id: "45A01CBB10A74CFB"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:ice_stone"
+			}
+			id: "02CFA5DEA75FA52D"
+			rewards: [{
+				id: "0BE954B3C2C34649"
+				item: {
+					count: 1
+					id: "cobblemon:ice_stone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 43L
+				id: "36470C77F32E6137"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:dawn_stone"
+			}
+			id: "6F448844BD9FD0FA"
+			rewards: [{
+				id: "7E90BC091B7749BA"
+				item: {
+					count: 1
+					id: "cobblemon:dawn_stone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 44L
+				id: "29BA07BE9D2C460D"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:dusk_stone"
+			}
+			id: "1E977860863C411D"
+			rewards: [{
+				id: "4849460C78E64EB6"
+				item: {
+					count: 1
+					id: "cobblemon:dusk_stone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 41L
+				id: "57B32BE9DA3E4BE9"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:shiny_stone"
+			}
+			id: "56B55DF225522CD7"
+			rewards: [{
+				id: "41EFF41E3AB44D1A"
+				item: {
+					count: 1
+					id: "cobblemon:shiny_stone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 38L
+				id: "41CE031138FBCBD5"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:oval_stone"
+			}
+			id: "3E53888A69785FEE"
+			rewards: [{
+				id: "1FD6DAD552D6831B"
+				item: {
+					count: 1
+					id: "cobblemon:oval_stone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 48L
+				id: "79B201B114F543CD"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:deep_sea_scale"
+			}
+			id: "627DDFB2070B1C77"
+			rewards: [{
+				id: "6844A16459A8C7BD"
+				item: {
+					count: 1
+					id: "cobblemon:deep_sea_scale"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 60L
+				id: "7F52DCFAB0083312"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:deep_sea_tooth"
+			}
+			id: "3AC57EEBE551A581"
+			rewards: [{
+				id: "61C654F82ED44DC3"
+				item: {
+					count: 1
+					id: "cobblemon:deep_sea_tooth"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 56L
+				id: "7F239DF4A7974CB2"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:dragon_scale"
+			}
+			id: "2A50FBE823845254"
+			rewards: [{
+				id: "5D1D0DF3682F4419"
+				item: {
+					count: 1
+					id: "cobblemon:dragon_scale"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 60L
+				id: "0DB951296E67008A"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 14.5d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:galarica_cuff"
+			}
+			id: "1B9D0E8456DA0165"
+			rewards: [{
+				id: "1399CA69EDA148C6"
+				item: {
+					count: 1
+					id: "cobblemon:galarica_cuff"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 59L
+				id: "1B22427B70D2042F"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 14.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:kings_rock"
+			}
+			id: "60771AEF5DA00C6E"
+			rewards: [{
+				id: "14593D9EC360BD97"
+				item: {
+					count: 1
+					id: "cobblemon:kings_rock"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 51L
+				id: "72040105E97F4B42"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:peat_block"
+			}
+			id: "1D2EAF07B73D276A"
+			rewards: [{
+				id: "18100185A8504FD9"
+				item: {
+					count: 1
+					id: "cobblemon:peat_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 58L
+				id: "427F802C0D694986"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:prism_scale"
+			}
+			id: "20BE8D548479200A"
+			rewards: [{
+				id: "08AD23CF1842484A"
+				item: {
+					count: 1
+					id: "cobblemon:prism_scale"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 57L
+				id: "572238C3A8E34F5D"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:razor_claw"
+			}
+			id: "4A85EF49B147CC7D"
+			rewards: [{
+				id: "03F46ECD2A01AA7B"
+				item: {
+					count: 1
+					id: "cobblemon:razor_claw"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 56L
+				id: "27C9819564A450A4"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:razor_fang"
+			}
+			id: "2ED5058523D1C2E4"
+			rewards: [{
+				id: "1BDF30ACD1E04A9D"
+				item: {
+					count: 1
+					id: "cobblemon:razor_fang"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 53L
+				id: "0A63023109E9EB80"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:sachet"
+			}
+			id: "0F5864294F8D8718"
+			rewards: [{
+				id: "2E85F3619BBF4DBD"
+				item: {
+					count: 1
+					id: "cobblemon:sachet"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 57L
+				id: "7B1EEF909EEA3041"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:sweet_apple"
+			}
+			id: "39FCEC357C1198DA"
+			rewards: [{
+				id: "302F988B40704BAC"
+				item: {
+					count: 1
+					id: "cobblemon:sweet_apple"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 52L
+				id: "00F2C5961A25117A"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:tart_apple"
+			}
+			id: "32369917BFB82D10"
+			rewards: [{
+				id: "6BF3C5B8E65C3749"
+				item: {
+					count: 1
+					id: "cobblemon:tart_apple"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 55L
+				id: "1AB6AF62D7A64A0C"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:whipped_dream"
+			}
+			id: "475A348DBDA6737E"
+			rewards: [{
+				id: "7A2D197B4B9C4ED0"
+				item: {
+					count: 1
+					id: "cobblemon:whipped_dream"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 55L
+				id: "469251DABD4C4B28"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:black_augurite"
+			}
+			id: "0CC982CCEC6E8056"
+			rewards: [{
+				id: "0E791F336DB74158"
+				item: {
+					count: 1
+					id: "cobblemon:black_augurite"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 67L
+				id: "102B617553D049D9"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:dubious_disc"
+			}
+			id: "45733D3E770E306C"
+			rewards: [{
+				id: "31282C448F0E4AD9"
+				item: {
+					count: 1
+					id: "cobblemon:dubious_disc"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 67L
+				id: "41B6A01B136667E3"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:electirizer"
+			}
+			id: "665698573AED0798"
+			rewards: [{
+				id: "51CADF26CFBF404F"
+				item: {
+					count: 1
+					id: "cobblemon:electirizer"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 60L
+				id: "648D02E8EC917D37"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:galarica_wreath"
+			}
+			id: "3F9BB7B23F30A57C"
+			rewards: [{
+				id: "6B33B63E82F145E8"
+				item: {
+					count: 1
+					id: "cobblemon:galarica_wreath"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 62L
+				id: "48674B71C9A19491"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:magmarizer"
+			}
+			id: "11952E5EDE776BA4"
+			rewards: [{
+				id: "1FB28598C404A2B3"
+				item: {
+					count: 1
+					id: "cobblemon:magmarizer"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 59L
+				id: "5B6DB4FD61BE44A0"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:protector"
+			}
+			id: "5DC7F01F6FEFBF86"
+			rewards: [{
+				id: "248905D091738A33"
+				item: {
+					count: 1
+					id: "cobblemon:protector"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 67L
+				id: "0131289BECCBC6B5"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:reaper_cloth"
+			}
+			id: "057E83C094B79B63"
+			rewards: [{
+				id: "7613A1BC58E749CE"
+				item: {
+					count: 1
+					id: "cobblemon:reaper_cloth"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 67L
+				id: "5E24E3FE713C48D4"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:shell_helmet"
+			}
+			id: "736C24DF4F896448"
+			rewards: [{
+				id: "433A2E2550B74EC2"
+				item: {
+					count: 1
+					id: "cobblemon:shell_helmet"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 60L
+				id: "21550EA71ED04E53"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:upgrade"
+			}
+			id: "227603E144793489"
+			rewards: [{
+				id: "53A0B0A4076D4D2A"
+				item: {
+					count: 1
+					id: "cobblemon:upgrade"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "6857383EB15645C5"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:link_cable"
+			}
+			id: "276EF28DC158DB20"
+			rewards: [{
+				id: "7382C687FB15461C"
+				item: {
+					count: 1
+					id: "cobblemon:link_cable"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 71L
+				id: "3839AA3853FC7097"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemonrealmss:textures/ftbquests/logos/multistone.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "69573851238DE4A9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "21E83A0C6DFE3A94"
+				table_id: 1172875230100417833L
+				type: "random"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 26L
+				id: "50BBABB5C6D9E910"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:charcoal_stick"
+			}
+			id: "44B90ED63973C8AB"
+			rewards: [{
+				id: "2B7EC39088457D81"
+				item: {
+					count: 1
+					id: "cobblemon:charcoal_stick"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 37L
+				id: "1A64BB46EEF94836"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:hard_stone"
+			}
+			id: "19B427E47DF55A68"
+			rewards: [{
+				id: "0B2CB910F6F84771"
+				item: {
+					count: 1
+					id: "cobblemon:hard_stone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 35L
+				id: "15470E23E55518E6"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:silk_scarf"
+			}
+			id: "10E614499F8BD22F"
+			rewards: [{
+				id: "62CE5DD7DCC639F0"
+				item: {
+					count: 1
+					id: "cobblemon:silk_scarf"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 37L
+				id: "41D3EBFD76244583"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:silver_powder"
+			}
+			id: "0013949C879E9372"
+			rewards: [{
+				id: "31E29DFAA1794E08"
+				item: {
+					count: 1
+					id: "cobblemon:silver_powder"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 35L
+				id: "1774043B8947A412"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:soft_sand"
+			}
+			id: "56B0DBF61149353F"
+			rewards: [{
+				id: "28F5F286928B4766"
+				item: {
+					count: 1
+					id: "cobblemon:soft_sand"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "2855376511F948F5"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:black_belt"
+			}
+			id: "3467F212066EAAD4"
+			rewards: [{
+				id: "41BAC3FB63F411A8"
+				item: {
+					count: 1
+					id: "cobblemon:black_belt"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 40L
+				id: "1C4151E6A94E0F31"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:black_glasses"
+			}
+			id: "344B7F91AE6A2236"
+			rewards: [{
+				id: "562D42CE361D3D99"
+				item: {
+					count: 1
+					id: "cobblemon:black_glasses"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 38L
+				id: "3683BDC12202D586"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:fairy_feather"
+			}
+			id: "6896D5253EDE3E34"
+			rewards: [{
+				id: "6FD2924E0259458A"
+				item: {
+					count: 1
+					id: "cobblemon:fairy_feather"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 45L
+				id: "33AD47D3DD0C8D02"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:magnet"
+			}
+			id: "659BCA215CDF15A6"
+			rewards: [{
+				id: "1412E69E9702490F"
+				item: {
+					count: 1
+					id: "cobblemon:magnet"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 45L
+				id: "1400D9A991FF4752"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:miracle_seed"
+			}
+			id: "4C7EE61B3FAC5710"
+			rewards: [{
+				id: "01177F51C0F2C6AC"
+				item: {
+					count: 1
+					id: "cobblemon:miracle_seed"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 44L
+				id: "730DC6D1AFBB5E63"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:mystic_water"
+			}
+			id: "7D44C7E3D10F45F8"
+			rewards: [{
+				id: "2E3B5DC1332F4EA0"
+				item: {
+					count: 1
+					id: "cobblemon:mystic_water"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 40L
+				id: "5C0FA8050748596E"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:never_melt_ice"
+			}
+			id: "65761A6ED658A33E"
+			rewards: [{
+				id: "1A080D0E71E54D8A"
+				item: {
+					count: 1
+					id: "cobblemon:never_melt_ice"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 38L
+				id: "522BDC5AF1CBE59A"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:poison_barb"
+			}
+			id: "6144C901401C81E3"
+			rewards: [{
+				id: "3F5BCED9E4044EEB"
+				item: {
+					count: 1
+					id: "cobblemon:poison_barb"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 45L
+				id: "136B8439AB38820D"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:spell_tag"
+			}
+			id: "47A162E733357F1D"
+			rewards: [{
+				id: "04AEA5A2B209E8E9"
+				item: {
+					count: 1
+					id: "cobblemon:spell_tag"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 45L
+				id: "3AB35B231F136138"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:twisted_spoon"
+			}
+			id: "286D8BED94F0FEDB"
+			rewards: [{
+				id: "247527113EDB99C6"
+				item: {
+					count: 1
+					id: "cobblemon:twisted_spoon"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 39L
+				id: "2C4F8FFD45A24EA0"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:dragon_fang"
+			}
+			id: "4BCDA30F672614E4"
+			rewards: [{
+				id: "13CDB9FE388EB6B5"
+				item: {
+					count: 1
+					id: "cobblemon:dragon_fang"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 49L
+				id: "443C07BBF15EF918"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:metal_coat"
+			}
+			id: "0C6916A53041352F"
+			rewards: [{
+				id: "2985A05CB9DC48A7"
+				item: {
+					count: 1
+					id: "cobblemon:metal_coat"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 51L
+				id: "3C6AC3B9B6784310"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:zoom_lens"
+			}
+			id: "6772C55090D96045"
+			rewards: [{
+				id: "50C64F43798B98A4"
+				item: {
+					count: 1
+					id: "cobblemon:zoom_lens"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 44L
+				id: "18663D0901F44C31"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: 11.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:shell_bell"
+			}
+			id: "21802E96BB06753B"
+			rewards: [{
+				id: "1C2F111A86A09F90"
+				item: {
+					count: 1
+					id: "cobblemon:shell_bell"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 51L
+				id: "11CDBE931856A537"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: 10.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:scope_lens"
+			}
+			id: "614F43C87ADC0983"
+			rewards: [{
+				id: "7610D11CBA84420B"
+				item: {
+					count: 1
+					id: "cobblemon:scope_lens"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 45L
+				id: "3A1F9A0E02821C62"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 14.5d
+			y: 11.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:power_band"
+			}
+			id: "6C961775130482A3"
+			rewards: [{
+				id: "6B0532403EA48DF7"
+				item: {
+					count: 1
+					id: "cobblemon:power_band"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 48L
+				id: "04DED38837EE3FE9"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: 9.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:power_belt"
+			}
+			id: "5F2AED98CD7D9A88"
+			rewards: [{
+				id: "10120933E4774491"
+				item: {
+					count: 1
+					id: "cobblemon:power_belt"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 49L
+				id: "3B0B0EFC04464A01"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 14.5d
+			y: 9.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:power_bracer"
+			}
+			id: "4426E0BFC3D5A99D"
+			rewards: [{
+				id: "3E71747EA9F24FB4"
+				item: {
+					count: 1
+					id: "cobblemon:power_bracer"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 47L
+				id: "0EAA37D354328D08"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 15.5d
+			y: 9.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:power_anklet"
+			}
+			id: "0B9C15EA7273937D"
+			rewards: [{
+				id: "3DD05D8BF5C04DB6"
+				item: {
+					count: 1
+					id: "cobblemon:power_anklet"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 52L
+				id: "755CDFEFDC0C8F41"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: 9.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:power_lens"
+			}
+			id: "33F2A8C81803F312"
+			rewards: [{
+				id: "4EB33963B0EC3A4F"
+				item: {
+					count: 1
+					id: "cobblemon:power_lens"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 48L
+				id: "4535CD44E0B74DD9"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: 10.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:power_weight"
+			}
+			id: "7811FADBDE107CF4"
+			rewards: [{
+				id: "6F1E9B386A507E7A"
+				item: {
+					count: 1
+					id: "cobblemon:power_weight"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 46L
+				id: "53E599D14263BDD2"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: 9.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:focus_band"
+			}
+			id: "79141C73F8163CD1"
+			rewards: [{
+				id: "0D2037B786CB4391"
+				item: {
+					count: 1
+					id: "cobblemon:focus_band"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 56L
+				id: "456E6D04586542F8"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:muscle_band"
+			}
+			id: "47CBE03C64AF014B"
+			rewards: [{
+				id: "63EC7ABEB0104EC4"
+				item: {
+					count: 1
+					id: "cobblemon:muscle_band"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 58L
+				id: "04828D8388D1B049"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:wise_glasses"
+			}
+			id: "6B6CA19D10C12B0F"
+			rewards: [{
+				id: "5C8CBBE8A2F44C14"
+				item: {
+					count: 1
+					id: "cobblemon:wise_glasses"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 53L
+				id: "4C4FC326E8042FE6"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 14.5d
+			y: 10.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:rocky_helmet"
+			}
+			id: "5018E0007F79FD20"
+			rewards: [{
+				id: "6376A0BAAA7F486F"
+				item: {
+					count: 1
+					id: "cobblemon:rocky_helmet"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 54L
+				id: "57048A10203F4AAB"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 15.5d
+			y: 11.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:focus_sash"
+			}
+			id: "1162BC373D58E71D"
+			rewards: [{
+				id: "009881677DB849A7"
+				item: {
+					count: 1
+					id: "cobblemon:focus_sash"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 68L
+				id: "7EAA4A5A3FF5A171"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: 11.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:assault_vest"
+			}
+			id: "6B931D3DF0940C76"
+			rewards: [{
+				id: "30076C838D4345BC"
+				item: {
+					count: 1
+					id: "cobblemon:assault_vest"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "5FE7DA23BC4F4B0B"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: 11.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:choice_band"
+			}
+			id: "1F847D0997F3B7FC"
+			rewards: [{
+				id: "3EA196B2E50C19ED"
+				item: {
+					count: 1
+					id: "cobblemon:choice_band"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 68L
+				id: "6A94A0CB143C8168"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:choice_specs"
+			}
+			id: "0B06BE82AE7E1A6C"
+			rewards: [{
+				id: "64791C2901A44438"
+				item: {
+					count: 1
+					id: "cobblemon:choice_specs"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 69L
+				id: "0A08012511614AB0"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: 10.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:choice_scarf"
+			}
+			id: "1422F1FB73ACD651"
+			rewards: [{
+				id: "594376EEC1584333"
+				item: {
+					count: 1
+					id: "cobblemon:choice_scarf"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 65L
+				id: "763605BB1774DA05"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 15.5d
+			y: 10.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:leftovers"
+			}
+			id: "2EB8C666DC521960"
+			rewards: [{
+				id: "2F5A690DFAC2CF7A"
+				item: {
+					count: 1
+					id: "cobblemon:leftovers"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 66L
+				id: "0D739694D7F54E52"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 12.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:lucky_egg"
+			}
+			id: "437BB235B9E07B3B"
+			rewards: [{
+				id: "44B210DB61CB4BC9"
+				item: {
+					count: 1
+					id: "cobblemon:lucky_egg"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 67L
+				id: "460B5B24DFDC402D"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 12.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:exp_share"
+			}
+			id: "0249CA88A22B29BF"
+			rewards: [{
+				id: "30C66FBC14BC4AAA"
+				item: {
+					count: 1
+					id: "cobblemon:exp_share"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 70L
+				id: "31100F7AD8564AFC"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 12.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ftblibrary:icons/info"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5BBF89A95474E8AC"
+			shape: "none"
+			size: 1.5d
+			x: 18.0d
+			y: -2.25d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "mega_showdown:mega_stone"
+			}
+			id: "79D62C428279D80B"
+			rewards: [{
+				id: "1EA6412AC4587A62"
+				item: {
+					count: 1
+					id: "mega_showdown:mega_stone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 164L
+				id: "6C52BB375C226A74"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "mega_showdown:max_mushroom"
+			}
+			id: "14CD80AD74F1809A"
+			rewards: [{
+				id: "1CB7A1B288D2B49D"
+				item: {
+					count: 1
+					id: "mega_showdown:max_mushroom"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 46L
+				id: "6F6733EC74CD687F"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "mega_showdown:keystone"
+			}
+			id: "70FC690222EA16A6"
+			rewards: [{
+				id: "38AFDB0D8BF84FEA"
+				item: {
+					count: 1
+					id: "mega_showdown:keystone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 159L
+				id: "26801BE3ED4D05DA"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemonrealmss:textures/ftbquests/logos/moinsmoins.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2E82B8B267E28E1B"
+			rewards: [{
+				auto: "enabled"
+				command: "/pokesizer @p Slot1 0.3"
+				id: "126460BB81FFE5D6"
+				permission_level: 2
+				team_reward: false
+				type: "command"
+			}]
+			size: 1.5d
+			tasks: [
+				{
+					id: "32D9E0F2D78CA0A8"
+					type: "checkmark"
+				}
+				{
+					consume_items: true
+					count: 36L
+					id: "4B98AC8855A9B95E"
+					item: { count: 1, id: "cobblemonrealms:realms_coin" }
+					type: "item"
+				}
+			]
+			x: 25.0d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemonrealmss:textures/ftbquests/logos/moins.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "70E3BFDC9A0269E2"
+			rewards: [{
+				auto: "enabled"
+				command: "/pokesizer @p Slot1 0.6"
+				id: "3F757393757C2AC1"
+				permission_level: 2
+				team_reward: false
+				type: "command"
+			}]
+			size: 1.5d
+			tasks: [
+				{
+					id: "525F26CB183B5A3E"
+					type: "checkmark"
+				}
+				{
+					consume_items: true
+					count: 33L
+					id: "56E76DEADE75D597"
+					item: { count: 1, id: "cobblemonrealms:realms_coin" }
+					type: "item"
+				}
+			]
+			x: 25.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemonrealmss:textures/ftbquests/logos/plus.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "08A319A1BEE4F036"
+			rewards: [{
+				auto: "enabled"
+				command: "/pokesizer @p Slot1 1"
+				id: "4990FB17BCE5B93C"
+				permission_level: 2
+				team_reward: false
+				type: "command"
+			}]
+			size: 1.5d
+			tasks: [
+				{
+					id: "0F6D08CF30652D0D"
+					type: "checkmark"
+				}
+				{
+					consume_items: true
+					count: 30L
+					id: "2DB30EBF64128470"
+					item: { count: 1, id: "cobblemonrealms:realms_coin" }
+					type: "item"
+				}
+			]
+			x: 25.0d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemonrealmss:textures/ftbquests/logos/plusplus.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "53FAD016D5140970"
+			rewards: [{
+				auto: "enabled"
+				command: "/pokesizer @p Slot1 1.3"
+				id: "3A572C052C33902B"
+				permission_level: 2
+				team_reward: false
+				type: "command"
+			}]
+			size: 1.5d
+			tasks: [
+				{
+					id: "717A766B54226C40"
+					type: "checkmark"
+				}
+				{
+					consume_items: true
+					count: 44L
+					id: "3BC2A2319D1BC143"
+					item: { count: 1, id: "cobblemonrealms:realms_coin" }
+					type: "item"
+				}
+			]
+			x: 25.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemonrealmss:textures/ftbquests/logos/plusplusplus.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "496EF0137A09C2E0"
+			rewards: [{
+				auto: "enabled"
+				command: "/pokesizer @p Slot1 1.8"
+				id: "2CE98580427F61B4"
+				permission_level: 2
+				team_reward: false
+				type: "command"
+			}]
+			size: 1.5d
+			tasks: [
+				{
+					id: "1E6723A9C2B9E92A"
+					type: "checkmark"
+				}
+				{
+					consume_items: true
+					count: 51L
+					id: "50BB1FD3F6606C87"
+					item: { count: 1, id: "cobblemonrealms:realms_coin" }
+					type: "item"
+				}
+			]
+			x: 25.0d
+			y: 7.5d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "mega_showdown:tera_orb"
+			}
+			id: "7E7E4B11787DF188"
+			rewards: [{
+				id: "24F59C5874BBC46A"
+				item: {
+					count: 1
+					id: "mega_showdown:tera_orb"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 66L
+				id: "2A4BDB7D29305801"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 17.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "mega_showdown:wishing_star"
+			}
+			id: "64BC7E5D25CC62B8"
+			rewards: [{
+				id: "19FECA9ADDF8E970"
+				item: {
+					count: 1
+					id: "mega_showdown:wishing_star"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 178L
+				id: "38B2A73412F06E1D"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 17.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "mega_showdown:sparkling_stone_light"
+			}
+			id: "4114B8816FF34D28"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3E60423CB2DAB2C9"
+				table_id: 4109789742773346402L
+				type: "choice"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 163L
+				id: "2A89700BBF4141E6"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 17.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "mega_showdown:blank_z"
+			}
+			id: "778D30CA5999A044"
+			rewards: [{
+				id: "2480F696A953C6FA"
+				item: {
+					count: 1
+					id: "mega_showdown:blank_z"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 161L
+				id: "6B4D3D55D1239ABC"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: 2.0d
+		}
+	]
+}

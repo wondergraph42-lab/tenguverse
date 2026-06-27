@@ -1,0 +1,185 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "cleffa-1",
+      "pokemon": "cleffa",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "uncommon",
+      "level": "1-22",
+      "weight": 8.4,
+      "condition": {
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "biomes": [
+          "#cobblemon:is_dripstone"
+        ],
+        "timeRange": "night"
+      }
+    },
+    {
+      "id": "cleffa-2",
+      "pokemon": "cleffa",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "uncommon",
+      "level": "1-22",
+      "weight": 8.4,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 7,
+        "biomes": [
+          "#cobblemon:is_dripstone"
+        ]
+      }
+    },
+    {
+      "id": "cleffa-2-aether",
+      "pokemon": "cleffa",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "uncommon",
+      "level": "1-22",
+      "weight": 8.4,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 7,
+        "biomes": [
+          "#aether:is_aether"
+        ],
+        "dimensions": [
+          "aether:the_aether"
+        ]
+      }
+    },
+    {
+      "id": "cleffa-3",
+      "pokemon": "cleffa",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "uncommon",
+      "level": "1-22",
+      "weight": 8.4,
+      "condition": {
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "biomes": [
+          "#cobblemon:is_hills"
+        ],
+        "timeRange": "night"
+      }
+    },
+    {
+      "id": "cleffa-4",
+      "pokemon": "cleffa",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "uncommon",
+      "level": "1-22",
+      "weight": 8.4,
+      "condition": {
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "biomes": [
+          "#cobblemon:is_magical"
+        ],
+        "timeRange": "night"
+      },
+      "anticondition": {
+        "biomes": [
+          "#cobblemon:is_spooky"
+        ]
+      }
+    },
+    {
+      "id": "cleffa-5",
+      "pokemon": "cleffa",
+      "presets": [
+        "natural",
+        "wild"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "1-22",
+      "weight": 1.4,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 15,
+        "biomes": [
+          "aether:skyroot_meadow",
+          "aether:skyroot_grove",
+          "aether:skyroot_woodland",
+          "aether:skyroot_forest"
+        ],
+        "dimensions": [
+          "aether:the_aether"
+        ]
+      }
+    },
+    {
+      "id": "cleffa-3",
+      "pokemon": "cleffa",
+      "presets": [
+        "natural",
+        "wild"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "uncommon",
+      "level": "1-22",
+      "weight": 1.4,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 15,
+        "biomes": [
+          "aether:skyroot_meadow",
+          "aether:skyroot_grove",
+          "aether:skyroot_woodland",
+          "aether:skyroot_forest"
+        ],
+        "dimensions": [
+          "aether:the_aether"
+        ]
+      }
+    },
+    {
+      "id": "aether_cleffa_1",
+      "pokemon": "cleffa",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "40-80",
+      "weight": 10.0,
+      "condition": {
+        "biomes": [
+          "aether:skyroot_woodland"
+        ],
+        "dimensions": [
+          "aether:the_aether"
+        ]
+      }
+    }
+  ]
+}

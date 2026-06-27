@@ -1,0 +1,41 @@
+{
+  "portraitScale": 1.87,
+  "portraitTranslation": [-0.13, 1.16, 0],
+  "profileScale": 0.7,
+  "profileTranslation": [0.03, 0.66, 0],
+   "rootBone": "ditto_trainer",
+  "animations": {
+    "cry": "q.bedrock_stateful('ditto_trainer', 'cry')"
+  },
+  "poses": {
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE","FLOAT"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('ditto_trainer', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('ditto_trainer', 'blink')"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK","SWIM"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('ditto_trainer', 'ground_walk')"
+      ],
+      "quirks": ["q.bedrock_quirk('ditto_trainer', 'blink')"]
+    },
+	 "running": {
+      "poseTypes": ["WALK", "SWIM"],
+      "isTouchingWater": false,
+      "condition": "!q.in_air && q.is_sprinting",
+      "animations": [
+        "q.bedrock('ditto_trainer', 'ground_run')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('ditto_trainer', 'blink')"
+      ]
+    }
+  }
+}

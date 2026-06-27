@@ -1,0 +1,44 @@
+{
+	icon: {
+		id: "cobblemon:slate_ball"
+	}
+	id: "48419A64F97EA1A4"
+	loot_size: 1
+	order_index: 31
+	rewards: [
+		{
+			auto: "disabled"
+			command: "/spawnpokemon hoopa lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:luxury_ball"
+			}
+			id: "0228B98D50D0E505"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon diancie lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:heal_ball"
+			}
+			id: "5FD5F6563BD69EA5"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon volcanion lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:fast_ball"
+			}
+			id: "1238D7C17C0556CB"
+			permission_level: 2
+			type: "command"
+		}
+	]
+	use_title: true
+}

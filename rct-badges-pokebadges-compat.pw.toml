@@ -1,0 +1,13 @@
+name = "RCT Badges - PokeBadges Compat"
+filename = "RCT-Badges-PokeBadges-1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce0acfdbffcd1c27ea7cda51f7f49078d8556d39"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7734017
+project-id = 1481877

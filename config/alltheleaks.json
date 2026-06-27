@@ -1,0 +1,16 @@
+{
+  "ingredientDedupe": true,
+  "entitySectionCME": false,
+  "scoreboardDebug": false,
+  "debugItemStackModifications": false,
+  "version": 1,
+  "debugNativeImage": false,
+  "disableSearchTree": false,
+  "logIntervalInMinutes": 30,
+  "showSummaryOnDebugScreen": false,
+  "memoryUsageWarningPercentage": 95,
+  "debugChunkLoading": false,
+  "debugThreadsStuck": false,
+  "disableEternalStarlightProgress": false,
+  "skipTickingUnloadedFluxNetworks": false
+}

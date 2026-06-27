@@ -1,0 +1,962 @@
+============================================================
+  CATCHRATE DISPLAY - GUARANTEED FAILURE INCIDENT
+  Generated: 2026-06-05 02:02:17.239
+============================================================
+
+--- FAILURE ---
+Time: 2026-06-05 02:02:17.238
+Battle: cd8648d1-03db-456d-9e7e-52b7b7b674d3
+TargetPNX: p2a
+Pokemon: Mankey Lv12
+Ball: repeat_ball (3.5x)
+Turn: 19
+Base Catch Rate: 190
+Modified Catch Rate: 538.3333
+HP: 28.6%
+Status: none (1.0x)
+Ball Condition: met=true reason="Déjà capturé"
+
+--- ENVIRONMENT ---
+Mod Version: 2.8.22
+Minecraft: 1.21.1
+Loader: Fabric
+Loader Version: unknown
+Cobblemon: 1.6.0
+Java: 21.0.9 (Eclipse Adoptium)
+OS: Windows 11 10.0 (amd64)
+Debug Enabled: false (config=false, session=null)
+Server: Multiplayer - 109.239.154.131:26065
+Server Name: Minecraft Server
+Battle Active: yes (id=cd8648d1-03db-456d-9e7e-52b7b7b674d3, isPvW=true, mustChoose=true)
+  Opponent: Mankey Lv12
+
+--- RECENT DEBUG LOG ---
+  [2026-06-05 02:02:04.862] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:04.903] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:04.956] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:05.019] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:05.064] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:05.107] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:05.153] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:05.197] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:05.244] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:05.292] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:05.334] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:05.375] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:05.419] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:05.466] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:05.520] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:05.576] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:05.625] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:05.677] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:05.728] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:05.776] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:05.826] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:05.870] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:05.920] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:05.980] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:06.027] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:06.068] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:06.107] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:06.152] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:06.196] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:06.241] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:06.284] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:06.330] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:06.374] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:06.425] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:06.475] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:06.526] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:06.584] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:06.639] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:06.701] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:06.753] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:06.800] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:06.845] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:06.892] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:06.941] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:06.991] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:07.043] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:07.094] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:07.144] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:07.196] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:07.244] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:07.289] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:07.335] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:07.381] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:07.427] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:07.474] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:07.518] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:07.567] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:07.617] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:07.658] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:07.715] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:07.758] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:07.802] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:07.851] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:07.897] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:07.942] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:07.985] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:08.030] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:10.119] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:10.166] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:10.211] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:10.257] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:10.302] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:10.347] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:10.394] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:10.439] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:10.488] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:10.536] === Catch Rate Calculation ===
+  Pokemon: Mankey Lv12
+  Ball: repeat_ball (3.5x) condition_met=true reason="Déjà capturé"
+  Base Catch Rate: 190
+  HP: 28.6%
+  Status: none (1.0x)
+  Level Bonus: 1.0x
+  Modified Catch Rate: 538.3333
+  In Battle: true
+  Guaranteed: true
+  Final Percentage: 100.00%
+  Turn: 18
+  [2026-06-05 02:02:10.606] Battle turn advanced to 19 for cd8648d1-03db-456d-9e7e-52b7b7b674d3
+  [2026-06-05 02:02:10.635] Armed guaranteed capture check: Mankey Lv12 with repeat_ball turn 19
+  [2026-06-05 02:02:10.638] Armed guaranteed capture check: Mankey Lv12 with repeat_ball turn 19
+
+============================================================

@@ -1,0 +1,63 @@
+{
+  "id": "cobblemon:wildgene",
+  "speciesId": "cobblemon:wildgene",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "normal",
+      "unlockForms": [
+        "normal"
+      ]
+    },
+    {
+      "displayForm": "wave",
+      "unlockForms": [
+        "wave"
+      ]
+    },
+    {
+      "displayForm": "flare",
+      "unlockForms": [
+        "flare"
+      ]
+    },
+    {
+      "displayForm": "zap",
+      "unlockForms": [
+        "zap"
+      ]
+    },
+    {
+      "displayForm": "frost",
+      "unlockForms": [
+        "frost"
+      ]
+    },
+    {
+      "displayForm": "flutter",
+      "unlockForms": [
+        "flutter"
+      ]
+    },
+    {
+      "displayForm": "ghastly",
+      "unlockForms": [
+        "ghastly"
+      ]
+    },
+    {
+      "displayForm": "toxin",
+      "unlockForms": [
+        "toxin"
+      ]
+    },
+    {
+      "displayForm": "fossil",
+      "unlockForms": [
+        "fossil"
+      ]
+    }
+  ],
+  "variations": []
+}

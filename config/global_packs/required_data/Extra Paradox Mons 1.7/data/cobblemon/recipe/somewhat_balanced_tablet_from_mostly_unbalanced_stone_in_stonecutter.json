@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "cobblemon:mostly_unbalanced_stone"
+    },
+    "result": {
+        "id": "cobblemon:somewhat_balanced_tablet",
+    "count": 1
+    }
+}

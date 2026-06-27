@@ -1,0 +1,12 @@
+{
+  "type": "cobblemon:brewing_stand",
+  "input": {
+    "item": "cobblemon:toxic_orb"
+  },
+  "bottle": {
+    "item": "minecraft:water_bottle"
+  },
+  "result": {
+    "id": "cobblemon:toxin_dna"
+  }
+}

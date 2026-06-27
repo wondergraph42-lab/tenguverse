@@ -1,0 +1,9 @@
+{
+	id: "1BF328190FFA5B90"
+	loot_size: 1
+	order_index: 10
+	rewards: [
+		{ id: "2A3574D33CD8A7EA", item: { count: 1, id: "cobblemon:deep_sea_scale" } }
+		{ id: "39DE421082712EFC", item: { count: 1, id: "cobblemon:deep_sea_tooth" } }
+	]
+}

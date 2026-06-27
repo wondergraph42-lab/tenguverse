@@ -1,0 +1,47 @@
+{
+  "head": "head",
+  "portraitScale": 2.2,
+  "portraitTranslation": [-0.6, 0.3, 0],
+  "profileScale": 0.9,
+  "profileTranslation": [0, 0.4, 0],
+  "animations": {},
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('karfoal', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('karfoal', 'blink')"
+      ]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('karfoal', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('karfoal', 'blink')"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.bedrock('karfoal', 'ground_walk')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('karfoal', 'blink')"
+      ]
+    },
+    "sleep": {
+     "poseTypes": ["SLEEP"],
+     "condition": "!q.is_standing_on_blocks(2, 'minecraft:sand', 'minecraft:red_sand')",
+     "namedAnimations": {},
+     "animations": ["q.bedrock('karfoal', 'sleep')"]
+   }
+  }
+}

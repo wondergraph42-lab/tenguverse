@@ -1,0 +1,14 @@
+
+{
+  "type": "minecraft:smithing_transform",
+    "base": {
+     "item": "cobblemon:somewhat_balanced_tablet"
+  },
+  "template": {
+    "item": "cobblemon:black_augurite"
+  },
+  "result": {
+    "id": "cobblemon:balance_tablet",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:inteleon",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:inteleon",
+            "model": "cobblemon:cafe_inteleon.geo",
+            "texture": "cobblemon:textures/pokemon/inteleon/inteleon.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/inteleon/inteleon_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/inteleon/cafe_inteleon.png"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:magneton",
+  "shoulderMountable": true,
+  "forms": [
+    {
+      "name": "iono",
+      "aspects": ["iono"],
+      "pokedex": ["cobblemon.species.magneton-iono.desc"],
+	  "maleRatio": 0.25
+    }
+  ]
+}

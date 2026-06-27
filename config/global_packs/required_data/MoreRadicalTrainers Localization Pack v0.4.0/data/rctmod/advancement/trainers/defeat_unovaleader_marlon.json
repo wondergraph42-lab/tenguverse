@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_unovaleader_roxie",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_unovaleader_marlon"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_unovaleader_marlon.description"
+    },
+    "icon": {
+      "id": "cobblemonpokemonbadges:cascade_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "unovaleader_marlon"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

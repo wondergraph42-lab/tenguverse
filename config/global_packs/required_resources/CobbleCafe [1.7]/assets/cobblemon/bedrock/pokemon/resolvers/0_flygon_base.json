@@ -1,0 +1,44 @@
+{
+    "species": "cobblemon:flygon",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:flygon",
+            "model": "cobblemon:cafe_flygon.geo",
+            "texture": "cobblemon:textures/pokemon/flygon/flygon.png",
+            "layers": [
+                {
+                    "name": "eyes",
+                    "texture": "cobblemon:textures/pokemon/flygon/flygon_transparency.png",
+                    "translucent": true,
+                    "translucent_cull": true
+                }
+            ]
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/flygon/flygon_shiny.png",
+            "layers": [
+                {
+                    "name": "eyes",
+                    "texture": "cobblemon:textures/pokemon/flygon/flygon_transparency_shiny.png",
+                    "translucent": true,
+                    "translucent_cull": true
+                }
+            ]
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/flygon/cafe_flygon.png"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+  "implemented": true,
+  "name": "ironbeak",
+  "nationalPokedexNumber": 9914,
+  "primaryType": "electric",
+  "secondaryType": "poison",
+  "abilities": [
+    "quarkdrive"
+  ],
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:feather",
+        "quantityRange": "10-15"
+      },
+      {
+        "item": "cobblemon:hopo_berry",
+        "percentage": 10
+      }
+    ]
+  },
+  "baseStats": {
+    "hp": 78,
+    "attack": 114,
+    "defence": 74,
+    "special_attack": 118,
+    "special_defence": 74,
+    "speed": 122
+  },
+"behaviour": {
+   "resting": {
+     "canSleep": true,
+     "willSleepOnBed": false,
+     "depth": "normal",
+     "light": "0-4"
+   },
+        "moving": {
+          "swim": {
+            "avoidsWater": true
+          }
+        },
+        "combat": {
+          "willDefendSelf": true,
+          "willDefendOwner": true,
+          "willFlee": false
+        },
+        "fireImmune": false
+  },
+  "catchRate": 10,
+  "maleRatio": -1,
+  "shoulderMountable": false,
+  "baseExperienceYield": 169,
+  "experienceGroup": "slow",
+  "eggCycles": 20,
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "moves": [
+    "1:lightscreen",
+    "1:gastroacid",
+    "1:acidspray",
+    "1:poisonjab",
+    "1:amnesia",
+    "1:calmmind",
+    "21:electricterrain",
+    "26:storedpower",
+    "31:chargebeam",
+    "33:poisonsting",
+    "36:sludgewave",
+    "43:venoshock",
+    "50:charge",
+    "55:boltbeak",
+    "57:switcheroo",
+    "64:sludgebomb",
+    "71:naturesmadness",
+    "78:crosspoison",
+    "80:risingvoltage",
+    "85:bravebird",
+    "86:toxinshock",
+    
+    "tm:playrough",
+    "tm:gunkshot",
+    "tm:magnetbomb",
+    "tm:sludgebomb",
+    "tm:sludgewave",
+    "tm:solarblade",
+    "tm:thief",
+    "tm:nastyplot",
+    "tm:smackdown",
+    "tm:skittersmack",
+    "tm:knockoff",
+    "tm:acrobatics",
+    "tm:scald",
+    "tm:steelwing",
+    "tm:roost",
+    "tm:aurasphere",
+    "tm:dragonpulse",
+    "tm:endure",
+    "tm:energyball",
+    "tm:facade",
+    "tm:ironhead",
+    "tm:venoshock",
+    "tm:thunder",
+    "tm:focusblast",
+    "tm:fling",
+    "tm:airslash",
+    "tm:shadowclaw",
+    "tm:overheat",
+    "tm:thunderpunch",
+    "tm:helpinghand",
+    "tm:thunderbolt",
+    "tm:falseswipe",
+    "tm:toxic",
+    "tm:triattack",
+    "tm:payback",
+    "tm:workup",
+    "tm:protect",
+    "tm:darkpulse",
+    "tm:electricterrain",
+    "tm:hyperbeam",
+    "tm:tripleaxel",
+    "tm:rest",
+    "tm:gigaimpact",
+    "tm:smartstrike",
+    "tm:flashcannon",
+    "tm:uturn",
+    "tm:throatchop",
+    "tm:seismictoss",
+    "tm:takedown",
+    "tm:sleeptalk",
+    "tm:doubleedge",
+    "tm:doubleteam",
+    "tm:substitute",
+    "tm:moonblast",
+    "tm:terablast",
+    "tm:signalbeam",
+    "tm:chargebeam",
+    "tm:voltswitch",
+    "tm:zenheadbutt" ],
+  "labels": [
+    "gen9",
+    "paradox"
+  ],
+  "pokedex": [
+    "cobblemon.species.ironbeak.desc"
+  ],
+  "baseFriendship": 50,
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 2,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "height": 2.5,
+  "weight": 1620,
+  "aspects": [],
+  "cannotDynamax": false,
+  "hitbox": {
+    "width": 1.4,
+    "height": 2.5,
+    "fixed": false
+  }
+}

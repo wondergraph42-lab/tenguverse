@@ -1,0 +1,26 @@
+{
+	icon: {
+		id: "cobblemon:poke_ball"
+	}
+	id: "280499CCB73ECC50"
+	loot_size: 1
+	order_index: 54
+	rewards: [
+		{
+			command: "/spawnpokemon Charmander shiny lvl=10"
+			disable_reward_screen_blur: true
+			id: "41BA9F8CFE8907D1"
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon Bulbasaur shiny lvl=10"
+			id: "1E58CF9B6D2EA465"
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon Squirtle shiny lvl=10"
+			id: "42A363B6D93E7A46"
+			type: "command"
+		}
+	]
+}

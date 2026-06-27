@@ -1,0 +1,30 @@
+{
+  "species": "cobblemon:ironbell",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:ironbell",
+      "model": "cobblemon:ironbell.geo",
+      "texture": "cobblemon:textures/pokemon/ironbell/ironbell.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/ironbell/ironbell_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/ironbell/ironbell_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/ironbell/ironbell_shiny_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    }
+  ]
+}

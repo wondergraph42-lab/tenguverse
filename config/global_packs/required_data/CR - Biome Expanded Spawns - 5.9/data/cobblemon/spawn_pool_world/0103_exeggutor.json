@@ -1,0 +1,99 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "exeggutor-1",
+      "pokemon": "exeggutor",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "common",
+      "level": "28-52",
+      "weight": 0.15,
+      "condition": {
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "biomes": [
+          "#cobblemon:is_jungle",
+          "#cobblemon:is_savanna"
+        ]
+      }
+    },
+    {
+      "id": "exeggutor-alolan-1",
+      "pokemon": "exeggutor alolan",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "uncommon",
+      "level": "28-53",
+      "weight": 0.9,
+      "condition": {
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "biomes": [
+          "#cobblemon:is_beach",
+          "#cobblemon:is_tropical_island"
+        ]
+      }
+    },
+    {
+      "id": "exeggutor-alolan-aether-1",
+      "pokemon": "exeggutor alolan",
+      "presets": [
+        "natural",
+        "wild"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "rare",
+      "level": "40-55",
+      "weight": 4.0,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 15,
+        "biomes": [
+          "aether:skyroot_meadow",
+          "aether:skyroot_grove",
+          "aether:skyroot_woodland",
+          "aether:skyroot_forest"
+        ],
+        "dimensions": [
+          "aether:the_aether"
+        ]
+      }
+    },
+    {
+      "id": "exeggutor-3",
+      "pokemon": "exeggutor alolan",
+      "presets": [
+        "natural",
+        "wild"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "40-55",
+      "weight": 4.4,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 15,
+        "biomes": [
+          "aether:skyroot_meadow",
+          "aether:skyroot_grove",
+          "aether:skyroot_woodland",
+          "aether:skyroot_forest"
+        ],
+        "dimensions": [
+          "aether:the_aether"
+        ]
+      }
+    }
+  ]
+}

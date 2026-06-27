@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:gardevoir",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["pin"],
+      "poser": "cobblemon:gardevoir",
+      "model": "cobblemon:gardevoir_pin.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/gardevoir_pin.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny","pin"],
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/gardevoir_pin_shiny.png"
+    }
+  ]
+}

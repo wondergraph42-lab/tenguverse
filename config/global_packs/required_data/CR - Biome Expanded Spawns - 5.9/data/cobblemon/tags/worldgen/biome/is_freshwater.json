@@ -1,0 +1,63 @@
+{
+  "replace": false,
+  "values": [
+    "#cobblemon:is_river",
+    "#cobblemon:is_swamp",
+    {
+      "id": "wythers:desert_lakes",
+      "required": false
+    },
+    {
+      "id": "wythers:guelta",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:chalk_cliffs",
+      "required": false
+    },
+    {
+      "id": "wythers:tropical_forest_river",
+      "required": false
+    },
+    {
+      "id": "still_life:arctic_river",
+      "required": false
+    },
+    {
+      "id": "still_life:boreal_river",
+      "required": false
+    },
+    {
+      "id": "still_life:desert_river",
+      "required": false
+    },
+    {
+      "id": "still_life:mediterranean_river",
+      "required": false
+    },
+    {
+      "id": "still_life:savanna_river",
+      "required": false
+    },
+    {
+      "id": "still_life:steppe_river",
+      "required": false
+    },
+    {
+      "id": "still_life:temperate_river",
+      "required": false
+    },
+    {
+      "id": "still_life:tropical_rainforest_river",
+      "required": false
+    },
+    {
+      "id": "still_life:tundra_river",
+      "required": false
+    },
+    {
+      "id": "still_life:warm_temperate_river",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:snorlax",
+  "order": 50,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-mosslax"],
+      "poser": "cobblemon:snorlax_mosslax",
+      "model": "cobblemon:snorlax_mosslax.geo",
+      "texture": "cobblemon:textures/pokemon/cosmetic/pokopia/snorlax_mosslax.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny","cosmetic_item-mosslax"],
+      "texture": "cobblemon:textures/pokemon/cosmetic/pokopia/snorlax_mosslax_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+	id: "f4ea4be3-782e-48b5-aa34-b2a525d6d123"
+	type: "player"
+	player_name: "wondeerr"
+	ranks: {
+		f4ea4be3-782e-48b5-aa34-b2a525d6d123: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "wondeerr"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59E3FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 0b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,113 @@
+{
+    "nationalPokedexNumber": 6756,
+    "name": "Haidon",
+    "primaryType": "fighting",
+    "maleRatio": -1,
+    "height": 35,
+    "weight": 9500,
+    "pokedex": [
+        "cobblemon.species.haidon.desc"
+    ],
+    "labels": [
+        "gen9",
+        "legendary",
+        "restricted"
+    ],
+    "aspects": [
+        "standard"
+    ],
+    "abilities": [
+        "flashfire"
+    ],
+    "eggGroups": [
+        "undiscovered"
+    ],
+    "baseStats": {
+        "hp": 50,
+        "attack": 67,
+        "defence": 56,
+        "special_attack": 43,
+        "special_defence": 50,
+        "speed": 67
+    },
+    "evYield": {
+        "attack": 3
+    },
+ "behaviour": {
+   "resting": {
+     "canSleep": true,
+     "willSleepOnBed": true,
+     "depth": "normal",
+     "light": "0-4"
+   }
+ },
+    "baseExperienceYield": 335,
+    "experienceGroup": "slow",
+    "catchRate": 3,
+    "eggCycles": 120,
+    "baseFriendship": 0,
+    "baseScale": 1,
+    "hitbox": {
+        "width": 1,
+        "height": 1,
+        "fixed": false
+    },
+    "drops": {
+        "amount": 1,
+        "entries": [
+            {
+                "item": "minecraft:nether_star"
+            }
+        ]
+    },
+    "moves": [
+        "1:mudshot",
+        "1:scaryface",
+        "1:ember",
+        "9:flamecharge",
+        "13:rocksmash",
+        "18:agility",
+        "27:mudshot",
+        "31:dragonbreath",
+        "36:sunnyday",
+        "40:crunch",
+        "45:shadowclaw",
+        "49:roar",
+        "54:taunt",
+        "66:swordsdance",
+        "72:snarl",
+        "81:solarbeam",
+        "90:closecombat",
+        "100:dracometeor"
+      
+    ],
+    "evolutions": [
+        {
+      "id": "haidon-trade",
+      "variant": "trade",
+      "result": "koraidon",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "collisioncourse"
+      ],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:dragon_fang"
+        }
+      ],
+      "requiredContext": ""
+    },
+    {
+      "id": "haidon-item_interact",
+      "variant": "item_interact",
+      "result": "koraidon",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "collisioncourse"
+      ],
+      "requirements": [],
+      "requiredContext": "farmersdelight:chicken_sandwich"
+    }
+    ]
+}

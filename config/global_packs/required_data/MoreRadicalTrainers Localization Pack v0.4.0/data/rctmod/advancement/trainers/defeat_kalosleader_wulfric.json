@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_kalosleader_olympia",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_kalosleader_wulfric"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_kalosleader_wulfric.description"
+    },
+    "icon": {
+      "id": "cobblemonpokemonbadges:iceberg_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "kalosleader_wulfric"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

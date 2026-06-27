@@ -1,0 +1,13 @@
+name = "PokeBadges [Cobblemon & Pixelmon Addon]"
+filename = "pokebadges-neoforge-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a56487292134eebe06a26ab9158483d64d825298"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8193547
+project-id = 1460979

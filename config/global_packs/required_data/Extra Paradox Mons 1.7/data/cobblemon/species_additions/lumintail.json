@@ -1,0 +1,9 @@
+{
+ "target": "cobblemon:lumintail",
+ "baseScale": 1,
+ "hitbox": {
+   "width": 1,
+   "height": 0.6,
+   "fixed": false
+ }
+}

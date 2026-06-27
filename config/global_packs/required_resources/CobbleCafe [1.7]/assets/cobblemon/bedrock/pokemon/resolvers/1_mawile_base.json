@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:mawile",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:mawile",
+            "model": "cobblemon:cafe_mawile.geo",
+            "texture": "cobblemon:textures/pokemon/mawile/mawile.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/mawile/mawile_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/mawile/cafe_mawile.png"
+                }
+            ]
+        }
+    ]
+}

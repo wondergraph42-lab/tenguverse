@@ -1,0 +1,308 @@
+{
+	icon: {
+		id: "cobblemon:poke_ball"
+	}
+	id: "157233C8C40DC1A0"
+	loot_crate: {
+		color: 10420760
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		glow: 1b
+		item_name: "PokeCrate [Magma]"
+		string_id: "pokecrate_tier_2_magma_"
+	}
+	loot_size: 1
+	order_index: 47
+	rewards: [
+		{
+			command: "/spawnpokemon numel lvl=25"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Numel!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "0A6DF5F4F8CBB4E0"
+			permission_level: 2
+			type: "command"
+			weight: 2.0f
+		}
+		{
+			command: "/spawnpokemon numel shiny lvl=25"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Numel! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "6B0E98358CB51FAC"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon camerupt lvl=30"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Camerupt!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "062CED9A06A3D4E8"
+			permission_level: 2
+			type: "command"
+			weight: 0.5f
+		}
+		{
+			command: "/spawnpokemon camerupt shiny lvl=30"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Camerupt! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "5440266EE1C58690"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon slugma lvl=25"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Slugma!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "29168A3EC3324D94"
+			permission_level: 2
+			type: "command"
+			weight: 2.0f
+		}
+		{
+			command: "/spawnpokemon slugma shiny lvl=25"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Slugma! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "4D6FF54265060459"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon magcargo lvl=30"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Magcargo!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "261A79325B2C7606"
+			permission_level: 2
+			type: "command"
+			weight: 0.5f
+		}
+		{
+			command: "/spawnpokemon magcargo shiny lvl= 30"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Magcargo! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "0E79B47294DB5A8C"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon baltoy lvl=25"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Baltoy!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "21B51AFC7666DAFC"
+			permission_level: 2
+			type: "command"
+			weight: 2.0f
+		}
+		{
+			command: "/spawnpokemon baltoy shiny lvl=25"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Baltoy! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "208F23728B54C219"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon claydol lvl=30"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Claydol!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "7326B9A46A546E42"
+			permission_level: 2
+			type: "command"
+			weight: 0.5f
+		}
+		{
+			command: "/spawnpokemon claydol shiny lvl=30"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Claydol! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "7C0A942AE0CD400B"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon torkoal lvl=25"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Torkoal!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "6782512D46BC5BBF"
+			permission_level: 2
+			type: "command"
+			weight: 2.0f
+		}
+		{
+			command: "/spawnpokemon torkoal shiny lvl=25"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Torkoal! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "6AD67F26A20308AB"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon houndour lvl=25"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Houndour!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "67A1C51E9EA3F534"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon houndour shiny lvl=25"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Houndour! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "74DC47DEB7A95A00"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon houndoom lvl=30"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Houndoom!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "0BF8EE2029A01CE3"
+			permission_level: 2
+			type: "command"
+			weight: 0.5f
+		}
+		{
+			command: "/spawnpokemon houndoom shiny lvl=30"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Houndoom! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "59EEF8653A9283B9"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon growlithe lvl=25"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Growlithe!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "7651914F742F9C48"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon growlithe shiny lvl=25"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Growlithe! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "47BFECD4BDC6929B"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon arcanine lvl=30"
+			exclude_from_claim_all: true
+			feedback_message: "You Got An Arcanine!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "73DE8A1C3978B960"
+			permission_level: 2
+			type: "command"
+			weight: 0.5f
+		}
+		{
+			command: "/spawnpokemon arcanine shiny lvl=30"
+			exclude_from_claim_all: true
+			feedback_message: "You Got An Arcanine! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "22AD1559CFFDC155"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon groudon lvl=50"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Groudon!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "39CA80B5C4C0CD43"
+			permission_level: 2
+			type: "command"
+			weight: 0.02f
+		}
+		{
+			command: "/spawnpokemon groudon shiny lvl=50"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Groudon! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "28DA38AF910CECD1"
+			permission_level: 2
+			type: "command"
+			weight: 0.01f
+		}
+	]
+	use_title: true
+}

@@ -1,0 +1,1034 @@
+{
+	id: "2F176587E9F7DC1F"
+	loot_size: 1
+	order_index: 42
+	rewards: [
+		{
+			auto: "disabled"
+			command: "/pwiki abomasnow"
+			exclude_from_claim_all: true
+			feedback_message: "Abomasnow"
+			icon: {
+				id: "cobblemon:ice_gem"
+			}
+			id: "2399A7C7FCAAFCDE"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki abra"
+			exclude_from_claim_all: true
+			feedback_message: "Abra"
+			icon: {
+				id: "cobblemon:psychic_gem"
+			}
+			id: "32CE3F3D9A389CFB"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki absol"
+			exclude_from_claim_all: true
+			feedback_message: "Absol"
+			icon: {
+				id: "cobblemon:dark_gem"
+			}
+			id: "7526591298F0CB9A"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki accelgor"
+			exclude_from_claim_all: true
+			feedback_message: "Accelgor"
+			icon: {
+				id: "cobblemon:bug_gem"
+			}
+			id: "665EC611CD1EA6E4"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki aegislash"
+			exclude_from_claim_all: true
+			feedback_message: "Ageislash"
+			icon: {
+				id: "cobblemon:steel_gem"
+			}
+			id: "12E96BB3C0A7C8C6"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki aerodactyl"
+			exclude_from_claim_all: true
+			feedback_message: "Aerodactyl"
+			icon: {
+				id: "cobblemon:rock_gem"
+			}
+			id: "7340466C817F95EB"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki aggron"
+			exclude_from_claim_all: true
+			feedback_message: "Aggron"
+			id: "6423865DDF940316"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki aipom"
+			exclude_from_claim_all: true
+			feedback_message: "Aipom"
+			id: "7C893782BAB0AB1D"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki alakazam"
+			exclude_from_claim_all: true
+			feedback_message: "Alakazam"
+			id: "58A5336FC1845643"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki alcremie"
+			exclude_from_claim_all: true
+			feedback_message: "Alcremie"
+			id: "57CBD050234121CA"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki alomomola"
+			exclude_from_claim_all: true
+			feedback_message: "Alomomola"
+			id: "2E89A50EE75B9C95"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki altaria"
+			exclude_from_claim_all: true
+			feedback_message: "Altaria"
+			id: "661D216B82FD4668"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki amaura"
+			exclude_from_claim_all: true
+			feedback_message: "Amaura"
+			id: "535F7A54175C3D16"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki ambipom"
+			exclude_from_claim_all: true
+			feedback_message: "Ambipom"
+			id: "4E2318BC399B7E19"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki amoonguss"
+			exclude_from_claim_all: true
+			feedback_message: "Amoonguss"
+			id: "5F4C796EC9CBEAB3"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki ampharos"
+			exclude_from_claim_all: true
+			feedback_message: "Ampharos"
+			id: "4C2B7ABC1A4EC5C1"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki annihilape"
+			exclude_from_claim_all: true
+			feedback_message: "Annihilape"
+			id: "3A71C9E74D66737E"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki anorith"
+			exclude_from_claim_all: true
+			feedback_message: "Anorith"
+			id: "715E1F13BEA8B8D5"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki appletun"
+			exclude_from_claim_all: true
+			feedback_message: "Appletun"
+			id: "0C1FE7560273639B"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki applin"
+			exclude_from_claim_all: true
+			feedback_message: "Applin"
+			id: "0D7EF223B1D3B3CE"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki araquanid"
+			exclude_from_claim_all: true
+			feedback_message: "Araquanid"
+			id: "4EB4873EEB2DA09A"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki arbok"
+			exclude_from_claim_all: true
+			feedback_message: "Arbok"
+			id: "012E92D0F5428244"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki arboliva"
+			exclude_from_claim_all: true
+			feedback_message: "Arboliva"
+			id: "41F53E47A02C8B9C"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki arcanine"
+			exclude_from_claim_all: true
+			feedback_message: "Arcanine"
+			id: "62E685241BB08D5F"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki arceus"
+			exclude_from_claim_all: true
+			feedback_message: "Arceus"
+			id: "674C76CD8DD3F316"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			command: "/pwiki archaludon"
+			exclude_from_claim_all: true
+			feedback_message: "Archaludon"
+			id: "657F9A46B176EDC8"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki archen"
+			exclude_from_claim_all: true
+			feedback_message: "Archen"
+			id: "515312258D37F28F"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki archeops"
+			exclude_from_claim_all: true
+			feedback_message: "Archeops"
+			id: "266D8A20BCEC5801"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki arctibax"
+			exclude_from_claim_all: true
+			feedback_message: "Arctibax"
+			id: "4B487E16A93F74AE"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki arctovish"
+			exclude_from_claim_all: true
+			feedback_message: "Arctovish"
+			id: "51D43D868D1E13D0"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki arctozolt"
+			exclude_from_claim_all: true
+			feedback_message: "Arctozolt"
+			id: "68DBD0498E7B3D8C"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki ariados"
+			exclude_from_claim_all: true
+			feedback_message: "Ariados"
+			id: "42C2D3B5BA7AEFE8"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki armaldo"
+			exclude_from_claim_all: true
+			feedback_message: "Armaldo"
+			id: "26FD1D6EE312A694"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki armarouge"
+			exclude_from_claim_all: true
+			feedback_message: "Armarouge"
+			id: "0E5C9E20B706D8A9"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki aromatisse"
+			exclude_from_claim_all: true
+			feedback_message: "Aromatisse"
+			id: "784DF6932362EFCC"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki aron"
+			exclude_from_claim_all: true
+			feedback_message: "Aron"
+			id: "2AC6165DA1670F05"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki arrokuda"
+			exclude_from_claim_all: true
+			feedback_message: "Arrokuda"
+			id: "333596563962AF32"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki articuno"
+			exclude_from_claim_all: true
+			feedback_message: "Articuno"
+			id: "65184AA9C4714499"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki audino"
+			exclude_from_claim_all: true
+			feedback_message: "Audino"
+			id: "3D4777F288D2024E"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki aurorus"
+			exclude_from_claim_all: true
+			feedback_message: "Aurorus"
+			id: "7895F862EF4CB53B"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki avalugg"
+			exclude_from_claim_all: true
+			feedback_message: "Avalugg"
+			id: "7722575D16E9BBCE"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki axew"
+			exclude_from_claim_all: true
+			feedback_message: "Axew"
+			id: "408E75CD09C5C770"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki azelf"
+			exclude_from_claim_all: true
+			feedback_message: "Azelf"
+			id: "5D677524658E45F4"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki azumarill"
+			exclude_from_claim_all: true
+			feedback_message: "Azumarill"
+			id: "79210BED89A93FE0"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki azurill"
+			exclude_from_claim_all: true
+			feedback_message: "Azurill"
+			id: "2113B9A3F2BF228C"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki bagon"
+			exclude_from_claim_all: true
+			feedback_message: "Bagon"
+			id: "1948A275A1A48274"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki baltoy"
+			exclude_from_claim_all: true
+			feedback_message: "Baltoy"
+			id: "4FC422BD3D163273"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki banette"
+			exclude_from_claim_all: true
+			feedback_message: "Banette"
+			id: "4627ABC37E2E9281"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki barbaracle"
+			exclude_from_claim_all: true
+			feedback_message: "Barbaracle"
+			id: "6E18B57AD8F242AD"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki barboach"
+			exclude_from_claim_all: true
+			feedback_message: "Barboach"
+			id: "0A2BEB5B439BCD3D"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki barraskewda"
+			exclude_from_claim_all: true
+			feedback_message: "Barraskewda"
+			id: "48E6E21F7E64ABA5"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki basculegion"
+			exclude_from_claim_all: true
+			feedback_message: "Basculegion"
+			id: "073440B6E89AADD6"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki basculin"
+			exclude_from_claim_all: true
+			feedback_message: "Basculin"
+			id: "27DB5ECA3AE57A00"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki bastiodon"
+			exclude_from_claim_all: true
+			feedback_message: "Bastiodon"
+			id: "2602D723D6FF5CDE"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki baxcalibur"
+			exclude_from_claim_all: true
+			feedback_message: "Baxcalibur"
+			id: "7F456687E84928EC"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki bayleef"
+			exclude_from_claim_all: true
+			feedback_message: "Bayleef"
+			id: "1DAB252562A5B927"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki beartic"
+			exclude_from_claim_all: true
+			feedback_message: "Beartic"
+			id: "0ABE5407E732DC02"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki beautifly"
+			exclude_from_claim_all: true
+			feedback_message: "Beautifly"
+			id: "14596ED1F0C1E618"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki beedrill"
+			exclude_from_claim_all: true
+			feedback_message: "Beedrill"
+			id: "424303AA5F7CDA24"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki beheeyem"
+			exclude_from_claim_all: true
+			feedback_message: "Beheeyem"
+			id: "4A586A059FABC5ED"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki beldum"
+			exclude_from_claim_all: true
+			feedback_message: "Beldum"
+			id: "09BB1A80DA13BCA4"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki bellibolt"
+			exclude_from_claim_all: true
+			feedback_message: "Bellibolt"
+			id: "23C858406183385D"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki bellossom"
+			exclude_from_claim_all: true
+			feedback_message: "Bellossom"
+			id: "205D542DEEF7B331"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki bellsprout"
+			exclude_from_claim_all: true
+			feedback_message: "Bellsprout"
+			id: "17CE9818ACA442AE"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki bergmite"
+			exclude_from_claim_all: true
+			feedback_message: "Bergmite"
+			id: "2C3CDD028E380362"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki bewear"
+			exclude_from_claim_all: true
+			feedback_message: "Bewear"
+			id: "67C3D4BF114C7423"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki bibarel"
+			exclude_from_claim_all: true
+			feedback_message: "Bibarel"
+			id: "4CC42726FD8A0D29"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki bidoof"
+			exclude_from_claim_all: true
+			feedback_message: "Bidoof"
+			id: "2FD742084FA20E97"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			command: "/pwiki binacle"
+			exclude_from_claim_all: true
+			feedback_message: "Binacle"
+			id: "1343D15D5D4F9594"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki bisharp"
+			exclude_from_claim_all: true
+			feedback_message: "Bisharp"
+			id: "333C9C19E5C4EDCF"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki blacephalon"
+			exclude_from_claim_all: true
+			feedback_message: "Blacephalon"
+			id: "5A3466EE389A5058"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki blastoise"
+			exclude_from_claim_all: true
+			feedback_message: "Blastoise"
+			id: "3537400CC57385A3"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki blaziken"
+			exclude_from_claim_all: true
+			feedback_message: "Blaziken"
+			id: "7708782C75403F1E"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki blipbug"
+			exclude_from_claim_all: true
+			feedback_message: "Blipbug"
+			id: "40BE7CEDA7007927"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki blissey"
+			exclude_from_claim_all: true
+			feedback_message: "Blissey"
+			id: "7AE70D075606A5EE"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki blitzle"
+			exclude_from_claim_all: true
+			feedback_message: "Blitzle"
+			id: "7F45FAC482956490"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki boldore"
+			exclude_from_claim_all: true
+			feedback_message: "Boldore"
+			id: "199ADA91393FA5A7"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki boltund"
+			exclude_from_claim_all: true
+			feedback_message: "Boltund"
+			id: "1FB5D460EEA3501C"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki bombirdier"
+			exclude_from_claim_all: true
+			feedback_message: "Bombirdier"
+			id: "4349636CB942596A"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki bonsly"
+			exclude_from_claim_all: true
+			feedback_message: "Bonsly"
+			id: "4F5640EE8E5D5864"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki bouffalant"
+			exclude_from_claim_all: true
+			feedback_message: "Bouffalant"
+			id: "377ABAFF8DD4504A"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki bounsweet"
+			exclude_from_claim_all: true
+			feedback_message: "Bounsweet"
+			id: "1162CD4A63E6D091"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki braixen"
+			exclude_from_claim_all: true
+			feedback_message: "Braixen"
+			id: "28133C46C90E7C4A"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki brambleghast"
+			exclude_from_claim_all: true
+			feedback_message: "Brambleghast"
+			id: "462F21193110111A"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki bramblin"
+			exclude_from_claim_all: true
+			feedback_message: "Bramblin"
+			id: "676A081529894221"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki braviary"
+			exclude_from_claim_all: true
+			feedback_message: "Braiviary"
+			id: "7BB686396C0EA43A"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki breloom"
+			exclude_from_claim_all: true
+			feedback_message: "Breloom"
+			id: "7D466E9E4F34CCA8"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki brionne"
+			exclude_from_claim_all: true
+			feedback_message: "Brionne"
+			id: "3528C9BF1AA603C0"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki bronzong"
+			exclude_from_claim_all: true
+			feedback_message: "Bronzong"
+			id: "1EF6674026349D47"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki bronzor"
+			exclude_from_claim_all: true
+			feedback_message: "Bronzor"
+			id: "7B55A8D3E682365A"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki brutebonnet"
+			exclude_from_claim_all: true
+			feedback_message: "Brutebonnet"
+			id: "143D2C93C9E4237D"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki bruxish"
+			exclude_from_claim_all: true
+			feedback_message: "Bruxish"
+			id: "5A6AB91699624B31"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki budew"
+			exclude_from_claim_all: true
+			feedback_message: "Budew"
+			id: "03B5F56DC91E001D"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki buizel"
+			exclude_from_claim_all: true
+			feedback_message: "Buizel"
+			id: "3781A548AC176F60"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki bulbasaur"
+			exclude_from_claim_all: true
+			feedback_message: "Bulbasaur"
+			id: "0AD5B871199B828B"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki buneary"
+			exclude_from_claim_all: true
+			feedback_message: "Buneary"
+			id: "69216CEF9C830873"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki bunnelby"
+			exclude_from_claim_all: true
+			feedback_message: "Bunnelby"
+			id: "76E5AD958544C301"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki burmy"
+			exclude_from_claim_all: true
+			feedback_message: "Burmy"
+			id: "0146B92C3B1594B0"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki butterfree"
+			exclude_from_claim_all: true
+			feedback_message: "Butterfree"
+			id: "6A152E0D996C6D19"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki butterfree_gmax"
+			exclude_from_claim_all: true
+			feedback_message: "Butterfree Gmax"
+			id: "3279F84E4DC96F75"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/pwiki buzzwole"
+			exclude_from_claim_all: true
+			feedback_message: "Buzzwole"
+			id: "268FAF5900617A40"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+	]
+	use_title: true
+}

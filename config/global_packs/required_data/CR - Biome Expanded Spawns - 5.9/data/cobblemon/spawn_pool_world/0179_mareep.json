@@ -1,0 +1,93 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mareep-1",
+      "pokemon": "mareep",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "common",
+      "level": "3-28",
+      "weight": 9.0,
+      "weightMultipliers": [
+        {
+          "multiplier": 0.25,
+          "condition": {
+            "timeRange": "night"
+          }
+        },
+        {
+          "multiplier": 5.0,
+          "condition": {
+            "isThundering": true
+          }
+        }
+      ],
+      "condition": {
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "biomes": [
+          "#cobblemon:is_highlands",
+          "#cobblemon:is_plains"
+        ]
+      }
+    },
+    {
+      "id": "mareep-2",
+      "pokemon": "mareep",
+      "presets": [
+        "natural",
+        "wild"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "common",
+      "level": "10-30",
+      "weight": 6.4,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 15,
+        "biomes": [
+          "aether:skyroot_meadow",
+          "aether:skyroot_grove",
+          "aether:skyroot_woodland",
+          "aether:skyroot_forest"
+        ],
+        "dimensions": [
+          "aether:the_aether"
+        ]
+      }
+    },
+    {
+      "id": "mareep-2",
+      "pokemon": "mareep",
+      "presets": [
+        "natural",
+        "wild"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "10-30",
+      "weight": 6.4,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 15,
+        "biomes": [
+          "aether:skyroot_meadow",
+          "aether:skyroot_grove",
+          "aether:skyroot_woodland",
+          "aether:skyroot_forest"
+        ],
+        "dimensions": [
+          "aether:the_aether"
+        ]
+      }
+    }
+  ]
+}

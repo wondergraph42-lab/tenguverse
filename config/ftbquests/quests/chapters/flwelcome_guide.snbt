@@ -1,0 +1,541 @@
+{
+	autofocus_id: "567F802438C16BC4"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "flwelcome_guide"
+	group: ""
+	icon: {
+		id: "ftbquests:book"
+	}
+	id: "52E50A458A9E8D4C"
+	images: [
+		{
+			click: "https://our-story-network.gitbook.io/cobblemon-realms-wiki"
+			height: 2.0d
+			hover: ["WIKI"]
+			image: "cobblemonrealmss:textures/ftbquests/logos/crlogo.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			height: 3.0d
+			image: "cobblemonrealmss:textures/ftbquests/logos/nolevelcap.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/arrow_right.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 7.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/arrow_left.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			click: "https://www.curseforge.com/minecraft/modpacks/cobblemon-realms"
+			height: 1.5d
+			image: "cobblemonrealmss:textures/ftbquests/logos/curseforge.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -5.25d
+			y: 0.0d
+		}
+		{
+			click: "https://discord.gg/kb8NSTF45n"
+			height: 1.5d
+			image: "moonlight:textures/gui/sprites/media/discord.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 3.25d
+			y: 0.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "224A14C412DE7B50"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3251DF55DA79F4E4"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "1C6B623EAB8FCAB3"
+				item: { count: 1, id: "waystones:waystone" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			id: "310FDF97D1E0681F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1BEB96DCA2111F11"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "39ED5256E62E0989"
+				item: { count: 1, id: "naturescompass:naturescompass" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "567F802438C16BC4"
+			rewards: [
+				{
+					count: 2
+					id: "7026A340F84EDA1E"
+					item: {
+						count: 1
+						id: "cobblemon:potion"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "307B2174EA0FF293"
+					item: {
+						count: 1
+						id: "expandeddelight:chocolate_cookie"
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "1536FE7046DBC0FC"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["567F802438C16BC4"]
+			icon: {
+				id: "minecraft:compass"
+			}
+			id: "40B0460C2542627B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6BB151575C6D39B0"
+				table_id: 6890531465966342174L
+				type: "random"
+			}]
+			tasks: [{
+				id: "13EF912DAF4E6E8B"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["567F802438C16BC4"]
+			icon: {
+				id: "minecraft:torch"
+			}
+			id: "338E3B8AA2896C32"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4F0FCE4FC796419B"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6192CE7ECC4520FE"
+				item: { count: 1, id: "minecraft:torch" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbteams:textures/accept.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1864C6A6C75AC4C7"
+			rewards: [
+				{
+					id: "033335AFB682565F"
+					item: {
+						count: 1
+						id: "chipped:button_red_mushroom"
+					}
+					type: "item"
+				}
+				{
+					id: "6BB4C2A9AD900099"
+					item: {
+						count: 1
+						id: "chipped:wicked_brown_mushroom"
+					}
+					type: "item"
+				}
+				{
+					id: "347812DE12AD62D7"
+					item: {
+						count: 1
+						id: "chipped:red_mushroom_trio"
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "77539F83F7C54048"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1864C6A6C75AC4C7"]
+			icon: {
+				components: {
+					"ftbquests:icon": "ftblibrary:icons/player"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "15A01CC993137DCF"
+			rewards: [{
+				count: 3
+				id: "01721197B6C46782"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "3B53FE3A5BB74EAB"
+					type: "checkmark"
+				}
+				{
+					consume_items: true
+					id: "321933475679423E"
+					item: { count: 1, id: "chipped:button_red_mushroom" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["15A01CC993137DCF"]
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbteams:textures/teams.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3A700EE0221882C0"
+			tasks: [
+				{
+					id: "1A18ED8A3DF43986"
+					type: "checkmark"
+				}
+				{
+					consume_items: true
+					id: "5B09038DFB77FB95"
+					item: { count: 1, id: "chipped:wicked_brown_mushroom" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["3A700EE0221882C0"]
+			icon: {
+				id: "minecraft:chest"
+			}
+			id: "20E56946F53C2005"
+			tasks: [
+				{
+					id: "17549FBEDD9E4BFA"
+					type: "checkmark"
+				}
+				{
+					consume_items: true
+					id: "4948A49B2BA2AA03"
+					item: { count: 1, id: "chipped:red_mushroom_trio" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["20E56946F53C2005"]
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:textures/gui/sprites/icon/checkmark.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "30797188C37D1D48"
+			rewards: [{
+				id: "498001D4784D237E"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "4FD70711213F79BB"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:master_ball"
+			}
+			id: "67C409C0CA86CF1C"
+			rewards: [
+				{
+					id: "5CFA2979F0969114"
+					item: {
+						count: 1
+						id: "rctmod:trainer_card"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2E4A600F9747770F"
+					table_id: 82635963604109193L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					command: "/rctmod player set series cobblemonrealms_gym_world_tour @p"
+					id: "085D18D0F25CC06D"
+					permission_level: 2
+					team_reward: false
+					type: "command"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "74D200719188D0B2"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			icon: {
+				id: "minecraft:saddle"
+			}
+			id: "6DA4CAC4C91E0A81"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6F5BFE25DB510FBD"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "77AF0DE1D46A93FF"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "059D97100159C0F5"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/rctmod player set series freeroam @p"
+					id: "2A7CE1F084C7E968"
+					permission_level: 2
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/say Welcome, @p ! You've entered Freeroam Mode — enjoy complete freedom with no level cap as your Pokémon can reach Level 100! Explore, train, and catch without limits, while keeping the option to return to your adventure anytime. "
+					id: "73AAF7CB86E682A4"
+					permission_level: 2
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				id: "5158A0616B256366"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 7.5d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "rctmod:trainer_card"
+			}
+			id: "71E4307EF4DE42F1"
+			rewards: [{
+				auto: "enabled"
+				command: "/summon rctmod:trainer_association"
+				id: "247B4E60A083BB57"
+				permission_level: 2
+				type: "command"
+			}]
+			tasks: [
+				{
+					id: "091504D307D37CF2"
+					type: "checkmark"
+				}
+				{
+					consume_items: true
+					id: "27D80F5A1511850B"
+					item: { count: 1, id: "cobblemonrealms:realms_coin" }
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 8.5d
+		}
+		{
+			icon: {
+				components: {
+					"minecraft:instrument": {
+						range: 256.0f
+						sound_event: {
+							sound_id: "minecraft:item.goat_horn.sound.4"
+						}
+						use_duration: 140
+					}
+				}
+				id: "minecraft:goat_horn"
+			}
+			id: "242B13994FC3EC9B"
+			rewards: [
+				{
+					id: "7333F336E4578ADB"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "1F4213B316286148"
+					item: {
+						count: 1
+						id: "bhc:red_heart_canister"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "55162A9FC984CF29"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -2.25d
+		}
+		{
+			icon: {
+				id: "cobblemon:star_sweet"
+			}
+			id: "489439B6D183EA24"
+			rewards: [
+				{
+					id: "35315663A83BC228"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "0932A0A28CE23F8B"
+					item: {
+						count: 1
+						id: "bhc:red_heart_canister"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "6E9186B722EC3C41"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: -2.25d
+		}
+		{
+			icon: {
+				id: "minecraft:crafting_table"
+			}
+			id: "2AEA67F8C1A3A023"
+			rewards: [{
+				id: "5FDD820B991A3BB3"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "457EC8C6533FBA6C"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "rctmod:trainer_card"
+			}
+			id: "26945829BD98682E"
+			rewards: [{
+				auto: "enabled"
+				command: "/rctmod player set series cobblemonrealms_gym_world_tour @p"
+				id: "21DAC21F9285F62D"
+				permission_level: 2
+				team_reward: false
+				type: "command"
+			}]
+			size: 1.2d
+			tasks: [{
+				consume_items: true
+				id: "6A24B087368BCDFF"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(chipped:torch)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.2d
+			y: -3.5999999999999996d
+		}
+	]
+}

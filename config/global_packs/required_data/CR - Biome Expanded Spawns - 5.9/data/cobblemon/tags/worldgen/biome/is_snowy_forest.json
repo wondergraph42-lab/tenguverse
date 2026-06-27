@@ -1,0 +1,127 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:grove",
+    "minecraft:snowy_taiga",
+    {
+      "id": "regions_unexplored:cold_boreal_taiga",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:cold_deciduous_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:frozen_pine_taiga",
+      "required": false
+    },
+    {
+      "id": "terralith:alpha_islands_winter",
+      "required": false
+    },
+    {
+      "id": "terralith:alpine_grove",
+      "required": false
+    },
+    {
+      "id": "terralith:ice_marsh",
+      "required": false
+    },
+    {
+      "id": "terralith:siberian_grove",
+      "required": false
+    },
+    {
+      "id": "terralith:snowy_maple_forest",
+      "required": false
+    },
+    {
+      "id": "terralith:snowy_shield",
+      "required": false
+    },
+    {
+      "id": "terralith:wintry_forest",
+      "required": false
+    },
+    {
+      "id": "terralith:wintry_lowlands",
+      "required": false
+    },
+    {
+      "id": "wythers:deep_snowy_taiga",
+      "required": false
+    },
+    {
+      "id": "wythers:huangshan_highlands",
+      "required": false
+    },
+    {
+      "id": "wythers:jade_highlands",
+      "required": false
+    },
+    {
+      "id": "wythers:snowy_fen",
+      "required": false
+    },
+    {
+      "id": "wythers:snowy_thermal_taiga",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:cold_deciduous_forest",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:auroral_garden",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:muskeg",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:snowy_maple_woods",
+      "required": false
+    },
+    {
+      "id": "terralith:snowy_cherry_grove",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:frosted_taiga",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:frosted_coniferous_forest",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:howling_peaks",
+      "required": false
+    },
+    {
+      "id": "still_life:alpine_tundra",
+      "required": false
+    },
+    {
+      "id": "still_life:arctic_tundra",
+      "required": false
+    },
+    {
+      "id": "still_life:boreal_alpine_tundra",
+      "required": false
+    },
+    {
+      "id": "still_life:cold_taiga",
+      "required": false
+    },
+    {
+      "id": "still_life:snowy_boreal_alpine_tundra",
+      "required": false
+    },
+    {
+      "id": "still_life:snowy_tundra",
+      "required": false
+    }
+  ]
+}

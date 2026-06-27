@@ -1,0 +1,6 @@
+{
+  "keys": [ "world" ],
+  "type": "flag",
+  "isAspect": true,
+  "default": false
+}

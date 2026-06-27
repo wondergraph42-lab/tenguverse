@@ -1,0 +1,36 @@
+[13:45:53] [INIT] KubeJS 2101.7.2-build.368; MC 2101 NeoForge
+[13:45:53] [INIT] Loaded plugins:
+[13:45:53] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[13:45:53] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
+[13:45:53] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[13:45:53] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[13:45:53] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[13:45:53] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[13:45:53] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[13:45:53] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[13:45:53] [INFO] Loaded script server_scripts:events/10_entity_death.js in 0.001 s
+[13:45:53] [INFO] server_scripts:logs.js#1: Cobblemon Realms server scripts loaded
+[13:45:53] [INFO] Loaded script server_scripts:logs.js in 0.0 s
+[13:45:53] [INFO] Loaded script server_scripts:loot/10_loot_tables_common.js in 0.002 s
+[13:45:53] [INFO] Loaded script server_scripts:loot/20_loot_tables_rare.js in 0.001 s
+[13:45:53] [INFO] Loaded script server_scripts:loot/30_loot_tables_remove.js in 0.0 s
+[13:45:53] [INFO] Loaded script server_scripts:recipes/10_remove_recipes.js in 0.001 s
+[13:45:53] [INFO] Loaded script server_scripts:recipes/20_custom_recipes.js in 0.0 s
+[13:45:53] [INFO] Loaded script server_scripts:recipes/30_edit_recipes.js in 0.0 s
+[13:45:53] [INFO] Loaded script server_scripts:recipes/40_new_recipes.js in 0.001 s
+[13:45:53] [INFO] Loaded 9/9 KubeJS server scripts in 0.013 s with 0 errors and 0 warnings
+[13:45:56] [INFO] Processing recipes...
+[13:45:56] [INFO] Initializing recipe event...
+[13:45:56] [WARN] KubeRecipe.java#90: Failed to parse recipe 'cobblemon:balance_tablet[minecraft:smithing_transform]'! Falling back to vanilla: Failed to read required component 'result: item_stack' - java.lang.IllegalStateException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cobblemon:balance_tablet
+[13:45:56] [WARN] RecipeComponentValue.java#102: Failed to parse recipe 'storagedrawers:personal_key_cofh[minecraft:crafting_shapeless]' @ [ingredients][1]! Falling back to vanilla: Invalid component ingredients: ingredient[] - Component 'ingredient' is not allowed to be empty!
+[13:45:56] [WARN] KubeRecipe.java#90: Failed to parse recipe 'incendium:upgrade_elytra[minecraft:smithing_transform]'! Falling back to vanilla: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[13:45:56] [WARN] KubeRecipe.java#90: Failed to parse recipe 'cobblemon:fragmented_balance_stone[minecraft:crafting_shaped]'! Falling back to vanilla: Failed to read required component 'result: item_stack' - java.lang.IllegalStateException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cobblemon:fragmented_balance_stone
+[13:45:56] [WARN] RecipeComponentValue.java#102: Failed to parse recipe 'ironfurnaces:upgrades/upgrade_unobtainium[minecraft:crafting_shaped]'! Falling back to vanilla: Invalid component key: pattern<optional_ingredient> - Component 'pattern<optional_ingredient>' is not allowed to be empty!
+[13:45:56] [WARN] KubeRecipe.java#90: Failed to parse recipe 'cobblemon:mostly_unbalanced_stone[minecraft:crafting_shaped]'! Falling back to vanilla: Failed to read required component 'result: item_stack' - java.lang.IllegalStateException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cobblemon:mostly_unbalanced_stone
+[13:45:56] [WARN] KubeRecipe.java#90: Failed to parse recipe 'cobblemon:somewhat_balanced_tablet_from_mostly_unbalanced_stone_in_stonecutter[minecraft:stonecutting]'! Falling back to vanilla: Failed to read required component 'result: item_stack' - java.lang.IllegalStateException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cobblemon:somewhat_balanced_tablet
+[13:45:56] [WARN] RecipeComponentValue.java#102: Failed to parse recipe 'ironfurnaces:upgrades/upgrade_vibranium[minecraft:crafting_shaped]'! Falling back to vanilla: Invalid component key: pattern<optional_ingredient> - Component 'pattern<optional_ingredient>' is not allowed to be empty!
+[13:45:56] [INFO] Found 19,428 recipes (skipped 1,750) in 158.5 ms
+[13:45:56] [INFO] Posted recipe events in 214 ms
+[13:45:56] [INFO] KubeJS modifications to recipe manager finished in 2.510 ms
+[13:45:56] [INFO] Added 6 recipes, removed 58 recipes, modified 1 recipes, with 0 failed recipes taking 541 ms in total
+[13:46:09] [INFO] Server resource reload complete!

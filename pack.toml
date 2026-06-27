@@ -1,0 +1,13 @@
+name = "TenguVerse"
+author = "Wondy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c48832bfec163b5e27cb419802c6063a8c33531182f051578f23f2e5dba63a07"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"

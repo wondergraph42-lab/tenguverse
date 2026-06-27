@@ -1,0 +1,63 @@
+{
+  "enabled": "true",
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "irontreads-1",
+      "pokemon": "irontreads",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50-70",
+      "weight": 1.0,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_arid",
+          "#cobblemon:is_badlands",
+          "#cobblemon:is_mountain"
+        ]
+      }
+    },
+    {
+      "id": "irontreads-2",
+      "pokemon": "irontreads",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50-70",
+      "weight": 1.5,
+      "condition": {
+        "biomes": [
+          "#minecraft:is_end"
+        ]
+      }
+    },
+    {
+      "id": "aether_iron_threads_1",
+      "pokemon": "irontreads",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50-100",
+      "weight": 5.0,
+      "condition": {
+        "biomes": [
+          "aether:skyroot_meadow"
+        ],
+        "dimensions": [
+          "aether:the_aether"
+        ]
+      }
+    }
+  ]
+}

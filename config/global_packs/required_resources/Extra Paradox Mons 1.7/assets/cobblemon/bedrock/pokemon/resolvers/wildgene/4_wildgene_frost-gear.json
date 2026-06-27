@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:wildgene",
+  "order": 4,
+  "variations": [
+    {
+      "aspects": ["frost-gear"],
+      "poser": "cobblemon:wildgene",
+      "model": "cobblemon:wildgene_gear.geo",
+      "texture": "cobblemon:textures/pokemon/wildgene/wildgene_frost-gear.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/wildgene/wildgene_frost-gear_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    },
+    {
+      "aspects": ["shiny", "frost-gear"],
+      "texture": "cobblemon:textures/pokemon/wildgene/wildgene_frost-gear_shiny.png"
+    }
+  ]
+}

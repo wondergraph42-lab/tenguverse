@@ -1,0 +1,20 @@
+{
+  "type": "choice",
+  "keys": [
+    "exo_gear_type"
+  ],
+  "default": "base",
+  "choices": [
+    "base",
+    "flare-gear",
+    "frost-gear",
+    "zap-gear",
+    "wave-gear",
+    "flutter-gear",
+    "ghastly-gear",
+    "toxin-gear",
+    "fossil-gear"
+  ],
+  "isAspect": true,
+  "aspectFormat": "{{choice}}"
+}

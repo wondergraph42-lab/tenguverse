@@ -1,0 +1,22 @@
+{
+	icon: {
+		id: "cobblemon:master_ball"
+	}
+	id: "4034572CE19F9886"
+	loot_size: 1
+	order_index: 52
+	rewards: [
+		{
+			command: "/spawnpokemon mewtwo lvl=70"
+			id: "35DFAC2AAD344BC5"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon mew lvl=70"
+			id: "5044CEB5936ECCAA"
+			permission_level: 2
+			type: "command"
+		}
+	]
+}

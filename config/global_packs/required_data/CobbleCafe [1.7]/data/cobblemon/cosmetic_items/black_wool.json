@@ -1,0 +1,17 @@
+{
+    "pokemon": [
+
+        "vulpix",
+        "raichu",
+        "typhlosion",
+        "ninetales"
+    ],
+    "cosmeticItems": [
+        {
+            "consumedItem": "minecraft:black_wool",
+            "aspects": [
+                "cosmetic_item-black_wool"
+            ]
+        }
+    ]
+}

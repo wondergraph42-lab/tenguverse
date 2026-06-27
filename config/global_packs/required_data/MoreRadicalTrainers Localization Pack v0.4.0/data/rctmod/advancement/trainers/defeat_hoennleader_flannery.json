@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_hoennleader_wattson",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_hoennleader_flannery"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_hoennleader_flannery.description"
+    },
+    "icon": {
+      "id": "cobblemonpokemonbadges:heat_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "hoennleader_flannery"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

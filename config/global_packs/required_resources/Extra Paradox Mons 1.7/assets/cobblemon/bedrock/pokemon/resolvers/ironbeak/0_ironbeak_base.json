@@ -1,0 +1,30 @@
+{
+  "species": "cobblemon:ironbeak",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:ironbeak",
+      "model": "cobblemon:ironbeak.geo",
+      "texture": "cobblemon:textures/pokemon/ironbeak/ironbeak.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/ironbeak/ironbeak_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/ironbeak/ironbeak_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/ironbeak/ironbeak_shiny_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    }
+  ]
+}

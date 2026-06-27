@@ -1,0 +1,50 @@
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/pc
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/pc
+/gamemode creative
+/gamemode survival
+/pc
+/pokeedit 6
+/pokeedit 6 level=31
+/pc
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/forceload add ~ ~
+/gamemode creative
+/reload
+/gamemode survival
+/gamemode creative
+/time set day
+/gamemode creative
+/reload
+/time set day
+/reload
+/datapack list
+/datapack enable "file/tuff_compacting_datapack"
+/reload
+/datapack list
+/reload
+/datapack list

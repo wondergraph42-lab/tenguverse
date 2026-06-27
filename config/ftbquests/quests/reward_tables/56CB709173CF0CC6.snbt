@@ -1,0 +1,53 @@
+{
+	icon: {
+		id: "cobblemon:ancient_ultra_ball"
+	}
+	id: "56CB709173CF0CC6"
+	loot_size: 1
+	order_index: 17
+	rewards: [
+		{
+			count: 3
+			id: "2F8C64CDC28AE1E7"
+			item: {
+				count: 1
+				id: "cobblemon:revive"
+			}
+		}
+		{ id: "77F993AE731DAAE1", item: { count: 1, id: "cobblemon:rare_candy" } }
+		{ id: "12E14BE6234B32C1", item: { count: 1, id: "cobblemon:fire_stone" } }
+		{ id: "69DE943A058C35CB", item: { count: 1, id: "cobblemon:water_stone" } }
+		{ id: "272F1B33C623CE04", item: { count: 1, id: "cobblemon:thunder_stone" } }
+		{ id: "28555A2E25F805FA", item: { count: 1, id: "cobblemon:leaf_stone" } }
+		{ id: "79D57F70154D04F4", item: { count: 1, id: "cobblemon:moon_stone" } }
+		{ id: "481FD0098A4955F3", item: { count: 1, id: "cobblemon:sun_stone" } }
+		{ id: "2D43DA8D848A50D7", item: { count: 1, id: "cobblemon:shiny_stone" } }
+		{ id: "3A73A89B78FCFF77", item: { count: 1, id: "cobblemon:dusk_stone" } }
+		{ id: "2C01A883600344D7", item: { count: 1, id: "cobblemon:dawn_stone" } }
+		{ id: "4CA084910D37C5E1", item: { count: 1, id: "cobblemon:ice_stone" } }
+		{ id: "40BA071D611B0215", item: { count: 1, id: "cobblemon:oval_stone" } }
+		{ id: "601FDC9E420BFF83", item: { count: 1, id: "cobblemon:ability_capsule" } }
+		{ id: "411F93077787AC36", item: { count: 1, id: "cobblemon:ability_patch" } }
+		{ id: "679B7594B2B1DB5B", item: { count: 1, id: "cobblemon:ability_shield" } }
+		{ id: "70386F6365C6C1C6", item: { count: 1, id: "cobblemon:hyper_potion" } }
+		{ id: "3024EABF056BD742", item: { count: 1, id: "cobblemon:exp_candy_l" } }
+		{
+			count: 5
+			id: "4DBA2554C3F91058"
+			item: {
+				count: 1
+				id: "cobblemon:great_ball"
+			}
+		}
+		{
+			count: 5
+			id: "1F66031B801459B7"
+			item: {
+				count: 1
+				id: "cobblemon:timer_ball"
+			}
+		}
+		{ id: "077AF6321EA99BC7", item: { count: 1, id: "cobblemon:ultra_ball" } }
+	]
+	use_title: true
+}

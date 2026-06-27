@@ -1,0 +1,13 @@
+name = "Cobblemon XP Overhaul"
+filename = "cobblemon_xp_overhaul-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "459a5244f7c6eb636a513ca489acc492033add15"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8029938
+project-id = 1532174

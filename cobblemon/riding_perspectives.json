@@ -1,0 +1,8 @@
+{
+  "perspectives": {
+    "cobblemon:land/horse": "FIRST_PERSON",
+    "cobblemon:air/bird": "THIRD_PERSON_BACK",
+    "cobblemon:air/rocket": "THIRD_PERSON_BACK",
+    "cobblemon:air/hover": "FIRST_PERSON"
+  }
+}

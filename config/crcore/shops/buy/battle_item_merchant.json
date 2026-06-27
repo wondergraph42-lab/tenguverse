@@ -1,0 +1,787 @@
+{
+  "pages": [
+    {
+      "enabled": true,
+      "items": [
+        {
+          "item": "cobblemon:ability_shield",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:absorb_bulb",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:air_balloon",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:assault_vest",
+          "price": 45,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:big_root",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:binding_band",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:black_belt",
+          "price": 30,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:black_glasses",
+          "price": 30,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:black_sludge",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:blunder_policy",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:bright_powder",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:cell_battery",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:charcoal_stick",
+          "price": 30,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:choice_band",
+          "price": 50,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:choice_scarf",
+          "price": 50,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:choice_specs",
+          "price": 50,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:covert_cloak",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:damp_rock",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:deep_sea_scale",
+          "price": 40,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:deep_sea_tooth",
+          "price": 40,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:destiny_knot",
+          "price": 40,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:dragon_fang",
+          "price": 35,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:eject_button",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:eject_pack",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:eviolite",
+          "price": 45,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:expert_belt",
+          "price": 40,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:fairy_feather",
+          "price": 30,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "enabled": true,
+      "items": [
+        {
+          "item": "cobblemon:flame_orb",
+          "price": 40,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:float_stone",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:focus_band",
+          "price": 40,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:focus_sash",
+          "price": 45,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:grip_claw",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:hard_stone",
+          "price": 25,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:heat_rock",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:heavy_duty_boots",
+          "price": 40,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:icy_rock",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:iron_ball",
+          "price": 40,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:kings_rock",
+          "price": 40,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:lagging_tail",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:leftovers",
+          "price": 40,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:life_orb",
+          "price": 45,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:light_ball",
+          "price": 40,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:light_clay",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:loaded_dice",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:luminous_moss",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:magnet",
+          "price": 30,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:mental_herb",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:metal_coat",
+          "price": 40,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:metal_powder",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:metronome",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:miracle_seed",
+          "price": 30,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:mirror_herb",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:muscle_band",
+          "price": 40,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:mystic_water",
+          "price": 30,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "enabled": true,
+      "items": [
+        {
+          "item": "cobblemon:never_melt_ice",
+          "price": 30,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:poison_barb",
+          "price": 30,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:protective_pads",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:punching_glove",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:quick_claw",
+          "price": 40,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:quick_powder",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:razor_claw",
+          "price": 40,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:razor_fang",
+          "price": 40,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:red_card",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:ring_target",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:rocky_helmet",
+          "price": 40,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:room_service",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:safety_goggles",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:scope_lens",
+          "price": 35,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:sharp_beak",
+          "price": 30,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:shed_shell",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:shell_bell",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:silk_scarf",
+          "price": 25,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:silver_powder",
+          "price": 25,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:smooth_rock",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:soft_sand",
+          "price": 25,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:spell_tag",
+          "price": 30,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:sticky_barb",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:terrain_extender",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:throat_spray",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:toxic_orb",
+          "price": 40,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:twisted_spoon",
+          "price": 30,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "enabled": true,
+      "items": [
+        {
+          "item": "cobblemon:utility_umbrella",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:weakness_policy",
+          "price": 40,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:white_herb",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:wide_lens",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:wise_glasses",
+          "price": 40,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:zoom_lens",
+          "price": 30,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:bug_gem",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:dark_gem",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:dragon_gem",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:electric_gem",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:fairy_gem",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:fighting_gem",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:fire_gem",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:flying_gem",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:ghost_gem",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:grass_gem",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:ground_gem",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:ice_gem",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:normal_gem",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:poison_gem",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:psychic_gem",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:rock_gem",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:steel_gem",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:water_gem",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:electric_seed",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:grassy_seed",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:misty_seed",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:psychic_seed",
+          "price": 36,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

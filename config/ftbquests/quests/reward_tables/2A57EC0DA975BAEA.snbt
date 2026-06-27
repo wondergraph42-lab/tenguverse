@@ -1,0 +1,33 @@
+{
+	icon: {
+		id: "cobblemon:master_ball"
+	}
+	id: "2A57EC0DA975BAEA"
+	loot_size: 1
+	order_index: 26
+	rewards: [
+		{
+			auto: "disabled"
+			command: "/spawnpokemon kyogre lvl=70"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:dive_ball"
+			}
+			id: "5DBB33F126C51859"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon groudon lvl=70"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:fast_ball"
+			}
+			id: "5CC33F95CB36DB7B"
+			permission_level: 2
+			type: "command"
+		}
+	]
+	use_title: true
+}

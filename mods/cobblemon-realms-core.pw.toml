@@ -1,0 +1,13 @@
+name = "Cobblemon Realms Core"
+filename = "cobblemonrealms-core-neoforge-5.9.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd63a7d5fce257cd4c724acc8ea694a2dc5880b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8244202
+project-id = 1452664

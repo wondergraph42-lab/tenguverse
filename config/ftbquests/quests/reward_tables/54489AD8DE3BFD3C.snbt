@@ -1,0 +1,25 @@
+{
+	id: "54489AD8DE3BFD3C"
+	loot_size: 1
+	order_index: 22
+	rewards: [
+		{
+			count: 5
+			id: "2F6D3144B97DDC8E"
+			item: {
+				count: 1
+				id: "cobblemon:ultra_ball"
+			}
+			weight: 20.0f
+		}
+		{
+			count: 10
+			id: "7F11BADDFF936EB5"
+			item: {
+				count: 1
+				id: "cobblemon:great_ball"
+			}
+			weight: 26.0f
+		}
+	]
+}

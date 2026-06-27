@@ -1,0 +1,44 @@
+{
+    "species": "cobblemon:umbreon",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:umbreon",
+            "model": "cobblemon:cafe_umbreon.geo",
+            "texture": "cobblemon:textures/pokemon/umbreon/umbreon.png",
+            "layers": [
+                {
+                    "name": "emissive",
+                    "texture": "cobblemon:textures/pokemon/umbreon/umbreon_emissive.png",
+                    "emissive": true,
+                    "translucent_cull": true
+                }
+            ]
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/umbreon/umbreon_shiny.png",
+            "layers": [
+                {
+                    "name": "emissive",
+                    "texture": "cobblemon:textures/pokemon/umbreon/umbreon_shiny_emissive.png",
+                    "emissive": true,
+                    "translucent_cull": true
+                }
+            ]
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/umbreon/cafe_umbreon.png"
+                }
+            ]
+        }
+    ]
+}

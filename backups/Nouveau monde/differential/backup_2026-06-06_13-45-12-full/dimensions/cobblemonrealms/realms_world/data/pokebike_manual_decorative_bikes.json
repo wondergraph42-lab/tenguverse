@@ -1,0 +1,65 @@
+{
+  "format_version": 1,
+  "bikes": [
+    {
+      "id": "1308622e-138e-4718-ab7c-770359d7dd5d",
+      "bike_type": "pokebike:yellow_bike",
+      "dimension": "cobblemonrealms:realms_world",
+      "x": -23.5,
+      "y": 104.0,
+      "z": 13.5,
+      "yaw": -89.10007,
+      "pitch": 0.0
+    },
+    {
+      "id": "e374c826-ce9b-42d5-92f9-aa1ceef7036e",
+      "bike_type": "pokebike:red_bike",
+      "dimension": "cobblemonrealms:realms_world",
+      "x": -23.5,
+      "y": 104.0,
+      "z": 15.5,
+      "yaw": -89.10007,
+      "pitch": 0.0
+    },
+    {
+      "id": "fc81a51b-d823-4fb1-beba-30d4bed0259a",
+      "bike_type": "pokebike:green_bike",
+      "dimension": "cobblemonrealms:realms_world",
+      "x": -23.5,
+      "y": 104.0,
+      "z": 17.5,
+      "yaw": -88.95007,
+      "pitch": 0.0
+    },
+    {
+      "id": "896005ea-65ea-4830-86e8-d759b0033d93",
+      "bike_type": "pokebike:blue_bike",
+      "dimension": "cobblemonrealms:realms_world",
+      "x": -23.5,
+      "y": 104.0,
+      "z": 19.5,
+      "yaw": -89.55005,
+      "pitch": 0.0
+    },
+    {
+      "id": "a6857986-d232-4ac5-9757-51475cf5bd1f",
+      "bike_type": "pokebike:blue_bike",
+      "dimension": "cobblemonrealms:realms_world",
+      "x": -20.5,
+      "y": 108.0,
+      "z": 22.5,
+      "yaw": -91.20032,
+      "pitch": 0.0
+    },
+    {
+      "id": "9deae199-5a15-4533-a15b-9825303645b6",
+      "bike_type": "pokebike:red_bike",
+      "dimension": "cobblemonrealms:realms_world",
+      "x": -17.5,
+      "y": 108.0,
+      "z": 22.5,
+      "yaw": 92.24948,
+      "pitch": 0.0
+    }
+  ]
+}

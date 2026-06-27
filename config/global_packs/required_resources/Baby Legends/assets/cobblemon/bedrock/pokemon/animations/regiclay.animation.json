@@ -1,0 +1,56 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.regiclay.ground_idle": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"rotation": ["-math.sin(query.anim_time*90*1-80)*4", "math.sin(query.anim_time*90*0.5-80)*4", "math.sin(query.anim_time*90*0.5+40)*2"],
+					"position": ["0-math.sin(query.anim_time*90*0.5-0)*1", "0-math.sin(query.anim_time*90*1)*1", "0-math.sin(query.anim_time*90*0.5-80)*0.5"]
+				},
+				"left": {
+					"rotation": ["-20-math.sin(query.anim_time*90*1-80)*4", "math.sin(query.anim_time*90*0.5-80)*4", "math.sin(query.anim_time*90*0.5+40)*2"],
+					"position": ["0-math.sin(query.anim_time*90*0.5-0)*1", "0-math.sin(query.anim_time*90*1)*1", "0-math.sin(query.anim_time*90*0.5-80)*0.5"]
+				},
+				"right": {
+					"rotation": ["-math.sin(query.anim_time*90* 1)*2", "math.sin(query.anim_time*90*0.5-80)*4", "math.sin(query.anim_time*90*0.5+40)*2"],
+					"position": ["0-math.sin(query.anim_time*90*0.2-0)*1", "0-math.sin(query.anim_time*90*.5)*1", "0-math.sin(query.anim_time*90*0.5-80)*0.5"]
+				}
+			}
+		},
+		"animation.regiclay.ground_walk": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"rotation": ["22.4678+math.sin(query.anim_time*90*1-150)*3", 0, "-math.sin(query.anim_time*90*0.5+60)*2"],
+					"position": ["0-math.sin(query.anim_time*90*0.5-0)*1", "1-math.sin(query.anim_time*90*1)*2", "0-math.sin(query.anim_time*90*1 -0)*0.2"]
+				},
+				"left": {
+					"rotation": ["-math.sin(query.anim_time*90*0.50)*3", 0, 10],
+					"position": ["1-math.sin(query.anim_time*90*0.5-0)*1", "-math.sin(query.anim_time*90*1)*1", "0-math.sin(query.anim_time*90*1 -0)*0.2"]
+				},
+				"right": {
+					"rotation": ["0-math.sin(query.anim_time*90*0.5-0)*3", 0, 0],
+					"position": ["0-math.sin(query.anim_time*90*0.5-0)*1", "1-math.sin(query.anim_time*90*.1)*1", "0-math.sin(query.anim_time*90*1 -0)*0.2"]
+				}
+			}
+		},
+		"animation.regiclay.sleep": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"rotation": [90, 0, 0],
+					"position": [0, -8, -1]
+				},
+				"left": {
+					"rotation": [-97.85952, 17.34551, -2.35666],
+					"position": [2, 0, 3]
+				},
+				"right": {
+					"rotation": [-97.5, 0, 0],
+					"position": [0, -3, 3]
+				}
+			}
+		}
+	}
+}

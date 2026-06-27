@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "still_life:evergreen_taiga",
+      "required": false
+    },
+    {
+      "id": "still_life:larch_woodlands",
+      "required": false
+    },
+    {
+      "id": "still_life:lush_tundra",
+      "required": false
+    }
+  ]
+}

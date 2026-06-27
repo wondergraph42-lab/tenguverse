@@ -1,0 +1,25 @@
+{
+	icon: {
+		id: "cobblemon:poke_ball"
+	}
+	id: "6BDB9FD43EFD5300"
+	loot_size: 1
+	order_index: 58
+	rewards: [
+		{
+			command: "/spawnpokemon Snivy shiny lvl=10"
+			id: "761037A4DD1DDD13"
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon Tepig shiny lvl=10"
+			id: "28720D56D3E91F3F"
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon Oshawott shiny lvl=10"
+			id: "734E7A291CCF580D"
+			type: "command"
+		}
+	]
+}

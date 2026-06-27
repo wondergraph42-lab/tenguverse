@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:milotic",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:milotic",
+            "model": "cobblemon:cafe_milotic_male.geo",
+            "texture": "cobblemon:textures/pokemon/milotic/milotic.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/milotic/milotic_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/milotic/cafe_milotic.png"
+                }
+            ]
+        }
+    ]
+}

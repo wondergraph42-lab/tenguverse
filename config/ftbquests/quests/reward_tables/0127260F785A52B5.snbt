@@ -1,0 +1,44 @@
+{
+	icon: {
+		id: "cobblemon:roseate_ball"
+	}
+	id: "0127260F785A52B5"
+	loot_size: 1
+	order_index: 29
+	rewards: [
+		{
+			auto: "disabled"
+			command: "/spawnpokemon thundurus lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:heavy_ball"
+			}
+			id: "66D559943DC10557"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon tornadus lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:nest_ball"
+			}
+			id: "146EB044539949F4"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon landorus lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:fast_ball"
+			}
+			id: "4F19007078A1E915"
+			permission_level: 2
+			type: "command"
+		}
+	]
+	use_title: true
+}

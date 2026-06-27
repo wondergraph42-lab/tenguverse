@@ -1,0 +1,47 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "deeper-sandyshocks-1",
+      "pokemon": "sandyshocks",
+      "presets": [
+        "deep_dark"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "ultra-rare",
+      "level": "47-67",
+      "weight": 2.12,
+      "condition": {
+        "biomes": [
+          "deeperdarker:overcast_columns"
+        ],
+        "dimensions": [
+          "deeperdarker:otherside"
+        ]
+      }
+    },
+    {
+      "id": "aether_sandy_shocks_1",
+      "pokemon": "sandyshocks",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50-100",
+      "weight": 5.0,
+      "condition": {
+        "biomes": [
+          "aether:skyroot_meadow"
+        ],
+        "dimensions": [
+          "aether:the_aether"
+        ]
+      }
+    }
+  ]
+}

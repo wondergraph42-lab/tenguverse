@@ -1,0 +1,174 @@
+{
+  "mod": "cobblemon_leaderboards",
+  "generatedAt": "2026-06-06T11:44:51.228160900Z",
+  "dimension": "cobblemonrealms:realms_world",
+  "version": "5.8",
+  "count": 5,
+  "leaderboards": [
+    {
+      "key": "battlewon",
+      "type": "BATTLES_WON",
+      "mode": "BOARD",
+      "dimension": "cobblemonrealms:realms_world",
+      "facing": "north",
+      "mountedFacing": "north",
+      "width": 2,
+      "height": 3,
+      "hologramLineCount": 10,
+      "lastRefreshEpochMs": 1780746291203,
+      "min": {
+        "x": 71,
+        "y": 181,
+        "z": 59
+      },
+      "max": {
+        "x": 72,
+        "y": 183,
+        "z": 59
+      },
+      "boardStyle": {
+        "titleScale": 1.5,
+        "subtitleScale": 1.0,
+        "titleColor": 16777215,
+        "subtitleColor": 16777215,
+        "bodyColor": 16777215,
+        "footerColor": 11579568,
+        "firstPlaceColor": 16766720,
+        "secondPlaceColor": 12632256,
+        "thirdPlaceColor": 13467442
+      }
+    },
+    {
+      "key": "legencounters",
+      "type": "LEGENDARY_ENCOUNTERS",
+      "mode": "BOARD",
+      "dimension": "cobblemonrealms:realms_world",
+      "facing": "north",
+      "mountedFacing": "north",
+      "width": 2,
+      "height": 3,
+      "hologramLineCount": 10,
+      "lastRefreshEpochMs": 1780746291203,
+      "min": {
+        "x": 77,
+        "y": 181,
+        "z": 59
+      },
+      "max": {
+        "x": 78,
+        "y": 183,
+        "z": 59
+      },
+      "boardStyle": {
+        "titleScale": 1.5,
+        "subtitleScale": 1.0,
+        "titleColor": 16777215,
+        "subtitleColor": 16777215,
+        "bodyColor": 16777215,
+        "footerColor": 11579568,
+        "firstPlaceColor": 16766720,
+        "secondPlaceColor": 12632256,
+        "thirdPlaceColor": 13467442
+      }
+    },
+    {
+      "key": "Pokedex",
+      "type": "POKEDEX_COMPLETION",
+      "mode": "BOARD",
+      "dimension": "cobblemonrealms:realms_world",
+      "facing": "north",
+      "mountedFacing": "north",
+      "width": 2,
+      "height": 3,
+      "hologramLineCount": 10,
+      "lastRefreshEpochMs": 1780746291203,
+      "min": {
+        "x": 68,
+        "y": 181,
+        "z": 59
+      },
+      "max": {
+        "x": 69,
+        "y": 183,
+        "z": 59
+      },
+      "boardStyle": {
+        "titleScale": 1.5,
+        "subtitleScale": 1.0,
+        "titleColor": 16777215,
+        "subtitleColor": 16777215,
+        "bodyColor": 16777215,
+        "footerColor": 11579568,
+        "firstPlaceColor": 16766720,
+        "secondPlaceColor": 12632256,
+        "thirdPlaceColor": 13467442
+      }
+    },
+    {
+      "key": "shinycap",
+      "type": "SHINY_CAPTURED",
+      "mode": "BOARD",
+      "dimension": "cobblemonrealms:realms_world",
+      "facing": "north",
+      "mountedFacing": "north",
+      "width": 2,
+      "height": 3,
+      "hologramLineCount": 10,
+      "lastRefreshEpochMs": 1780746291203,
+      "min": {
+        "x": 74,
+        "y": 181,
+        "z": 59
+      },
+      "max": {
+        "x": 75,
+        "y": 183,
+        "z": 59
+      },
+      "boardStyle": {
+        "titleScale": 1.5,
+        "subtitleScale": 1.0,
+        "titleColor": 16777215,
+        "subtitleColor": 16777215,
+        "bodyColor": 16777215,
+        "footerColor": 11579568,
+        "firstPlaceColor": 16766720,
+        "secondPlaceColor": 12632256,
+        "thirdPlaceColor": 13467442
+      }
+    },
+    {
+      "key": "winstreak",
+      "type": "BEST_WIN_STREAK",
+      "mode": "BOARD",
+      "dimension": "cobblemonrealms:realms_world",
+      "facing": "north",
+      "mountedFacing": "north",
+      "width": 2,
+      "height": 3,
+      "hologramLineCount": 10,
+      "lastRefreshEpochMs": 1780746291203,
+      "min": {
+        "x": 80,
+        "y": 181,
+        "z": 59
+      },
+      "max": {
+        "x": 81,
+        "y": 183,
+        "z": 59
+      },
+      "boardStyle": {
+        "titleScale": 1.5,
+        "subtitleScale": 1.0,
+        "titleColor": 16777215,
+        "subtitleColor": 16777215,
+        "bodyColor": 16777215,
+        "footerColor": 11579568,
+        "firstPlaceColor": 16766720,
+        "secondPlaceColor": 12632256,
+        "thirdPlaceColor": 13467442
+      }
+    }
+  ]
+}

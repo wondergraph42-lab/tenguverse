@@ -1,0 +1,38 @@
+{
+  "species": "cobblemon:shivershrub",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:shivershrub",
+      "model": "cobblemon:shivershrub.geo",
+      "texture": "cobblemon:textures/pokemon/shivershrub/shivershrub.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/shivershrub/shivershrub_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/shivershrub/shivershrub_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/shivershrub/shivershrub_shiny_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    },
+    {
+      "aspects": ["cosmetic_fasthog"],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/shivershrub/shivershrub_fasthog.png"
+        }
+      ]
+    }
+  ]
+}

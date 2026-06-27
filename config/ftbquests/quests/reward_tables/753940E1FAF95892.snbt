@@ -1,0 +1,25 @@
+{
+	icon: {
+		id: "cobblemon:poke_ball"
+	}
+	id: "753940E1FAF95892"
+	loot_size: 1
+	order_index: 60
+	rewards: [
+		{
+			command: "/spawnpokemon Sobble shiny lvl=10"
+			id: "70C55F2495B6D346"
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon Scorbunny shiny lvl=10"
+			id: "30DC1A4250E90889"
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon Grookey shiny lvl=10"
+			id: "14247D5026A12F6C"
+			type: "command"
+		}
+	]
+}

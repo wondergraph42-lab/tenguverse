@@ -1,0 +1,9 @@
+{
+  "pokemon": ["ditto"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "cobblemon:pokedex_blue",
+      "aspects": ["cosmetic_item-ditto-trainer-blue"]
+    }
+  ]
+}

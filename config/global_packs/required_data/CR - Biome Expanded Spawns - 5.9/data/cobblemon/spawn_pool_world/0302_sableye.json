@@ -1,0 +1,109 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "sableye-1",
+      "pokemon": "sableye",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "common",
+      "level": "13-38",
+      "weight": 10.0,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 7,
+        "biomes": [
+          "#cobblemon:is_overworld"
+        ],
+        "neededNearbyBlocks": [
+          "#cobblemon:gemstones"
+        ]
+      }
+    },
+    {
+      "id": "sableye-1-aether",
+      "pokemon": "sableye",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "common",
+      "level": "13-38",
+      "weight": 10.0,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 7,
+        "biomes": [
+          "#aether:is_aether"
+        ],
+        "neededNearbyBlocks": [
+          "#cobblemon:gemstones"
+        ],
+        "dimensions": [
+          "aether:the_aether"
+        ]
+      }
+    },
+    {
+      "id": "sableye-2",
+      "pokemon": "sableye",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "rare",
+      "level": "13-38",
+      "weight": 10.0,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 7,
+        "biomes": [
+          "#cobblemon:is_deep_dark"
+        ]
+      }
+    },
+    {
+      "id": "sableye-3",
+      "pokemon": "sableye",
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "common",
+      "level": "13-38",
+      "weight": 2.0,
+      "condition": {
+        "biomes": [
+          "the_bumblezone:crystal_canyon",
+          "biomesoplenty:crystalline_chasm"
+        ],
+        "dimensions": [
+          "the_bumblezone:the_bumblezone"
+        ]
+      },
+      "anticondition": {
+        "structures": [
+          "#the_bumblezone:sempiternal_sanctums"
+        ]
+      }
+    },
+    {
+      "pokemon": "cobblemon:sableye",
+      "id": "sableye-skypillar",
+      "presets": [
+        "sky_pillar"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "common",
+      "level": "54-56",
+      "weight": 3,
+      "condition": {}
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+    "nationalPokedexNumber": 6763,
+    "name": "Articoo",
+    "primaryType": "ice",
+    "maleRatio": -1,
+    "height": 35,
+    "weight": 9500,
+    "pokedex": [
+        "cobblemon.species.articoo.desc"
+    ],
+    "labels": [
+        "gen1",
+        "legendary",
+        "restricted"
+    ],
+    "aspects": [
+        "standard"
+    ],
+    "abilities": [
+        "icebody"
+    ],
+    "eggGroups": [
+        "undiscovered"
+    ],
+    "baseStats": {
+    "hp": 45,
+    "attack": 43,
+    "defence": 50,
+    "special_attack": 45,
+    "special_defence": 75,
+    "speed": 45
+  },
+    "evYield": {
+        "attack": 3
+    },
+ "behaviour": {
+   "resting": {
+     "canSleep": true,
+     "willSleepOnBed": true,
+     "depth": "normal",
+     "light": "0-4"
+   }
+ },
+    "baseExperienceYield": 335,
+    "experienceGroup": "slow",
+    "catchRate": 3,
+    "eggCycles": 120,
+    "baseFriendship": 0,
+    "baseScale": 1,
+    "hitbox": {
+        "width": 1,
+        "height": 1,
+        "fixed": false
+    },
+    "drops": {
+        "amount": 1,
+        "entries": [
+            {
+                "item": "cobblemon:ice_gem"
+            }
+        ]
+    },
+    "moves": [
+    "1:charm",
+    "1:tackle",
+    "1:mist",
+    "5:gust",
+    "5:doubleteam",
+    "12:peck",
+    "16:icywind",
+    "20:haze",
+    "25:featherdance",
+    "30:agility",
+    "35:tailwind",
+    "40:freezedry",
+    "45:hail",
+    "48:roost",
+    "50:hurricane",
+    "57:mindreader",
+    "68:blizzard",
+    "100:chillyreception"
+  ],
+    "evolutions": [
+        {
+            "id": "articoo_level",
+            "variant": "item_interact",
+            "result": "articuno",
+            "consumeHeldItem": true,
+            "learnableMoves": [
+                "blizzard"
+            ],
+            "requirements": [
+                {
+                    "variant": "level",
+                    "minLevel": 50
+                }
+            ],
+            "requiredContext": "cobblemon:ice_stone"
+        }
+    ]
+}

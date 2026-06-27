@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_magma_admin_courtney",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_magma_admin_tabitha"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_magma_admin_tabitha.description"
+    },
+    "icon": {
+      "id": "cobblemon:fast_ball"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "magma_admin_tabitha"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

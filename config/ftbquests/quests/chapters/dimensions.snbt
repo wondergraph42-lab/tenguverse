@@ -1,0 +1,149 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "dimensions"
+	group: "3C1371271429A50A"
+	icon: {
+		id: "minecraft:nether_star"
+	}
+	id: "6DF80392F9A4DB20"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:grass_block"
+			}
+			id: "30090644644B4142"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5038702A9ED29CC3"
+					table_id: 970483167983125639L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7E183CD39AF6B3B9"
+					table_id: 4519668197113171430L
+					type: "random"
+				}
+			]
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "5E0523C0363A9370"
+				type: "dimension"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			icon: {
+				id: "minecraft:netherrack"
+			}
+			id: "161061D6B1ECEC71"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "159088CD9F8F07A8"
+					table_id: 970483167983125639L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2B41CC66476B4F9F"
+					table_id: 8884323664789706560L
+					type: "random"
+				}
+			]
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "7E9AB48F5BC18ED4"
+				type: "dimension"
+			}]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			icon: {
+				id: "minecraft:end_stone"
+			}
+			id: "7DC951E5F1621BCC"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "68D5E30C4B339703"
+					table_id: 970483167983125639L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "11CB33AD0A4B12ED"
+					table_id: 82635963604109193L
+					type: "random"
+				}
+			]
+			tasks: [{
+				dimension: "minecraft:the_end"
+				id: "4064138D3FF44970"
+				type: "dimension"
+			}]
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			id: "3CAF9F15954BDEC8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2E58540D3A7B5C78"
+					table_id: 970483167983125639L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "378F91188B8D5326"
+					table_id: 8884323664789706560L
+					type: "random"
+				}
+			]
+			tasks: [{
+				dimension: "aether:the_aether"
+				icon: {
+					id: "aether:aether_portal_frame"
+				}
+				id: "3A9A0A884911E631"
+				type: "dimension"
+			}]
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			id: "4739010042C73110"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "45948078CAA962FD"
+					table_id: 970483167983125639L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4717351276CA7AE0"
+					table_id: 82635963604109193L
+					type: "random"
+				}
+			]
+			tasks: [{
+				dimension: "deeperdarker:otherside"
+				icon: {
+					id: "deeperdarker:warden_helmet"
+				}
+				id: "14397FCE6DE0BF21"
+				type: "dimension"
+			}]
+			x: 4.5d
+			y: -2.0d
+		}
+	]
+}

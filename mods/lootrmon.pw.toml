@@ -1,0 +1,13 @@
+name = "Lootrmon: Lootr & Cobblemon Gilded Chest Compatibility"
+filename = "lootrmon-neoforge-1.21.1-0.0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d5b06c65bbba9fd2d4f62768a413965a51bb6f42"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7339627
+project-id = 1405644

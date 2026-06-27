@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:cutiefly",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:cutiefly",
+            "model": "cobblemon:cafe_cutiefly.geo",
+            "texture": "cobblemon:textures/pokemon/cutiefly/cutiefly.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/cutiefly/cutiefly_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/cutiefly/cafe_cutiefly.png"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+   "pokemon.ironwarp.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/ironwarp/ironwarp_cry", "volume": 0.8 } ]
+   },
+   "pokemon.ironwarp_perfected.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/ironwarp_perfected/ironwarp_perfected_cry", "volume": 0.8 } ]
+   },
+   "pokemon.ironvictory.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/ironvictory/ironvictory_cry", "volume": 0.8 } ]
+   },
+   "pokemon.irondrone.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/irondrone/irondrone_cry", "volume": 0.8 } ]
+   },
+   "pokemon.irondrill.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/irondrill/irondrill_cry", "volume": 0.8 } ]
+   },
+   "pokemon.irondrill_mega.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/irondrill_mega/irondrill_mega_cry", "volume": 0.8 } ]
+   },
+   "pokemon.ironvirus.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/ironvirus/ironvirus_cry", "volume": 0.8 } ]
+   },
+   "pokemon.ironcore.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/ironcore/ironcore_cry", "volume": 0.8 } ]
+   },
+   "pokemon.ironbeak.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/ironbeak/ironbeak_cry", "volume": 0.8 } ]
+   },
+   "pokemon.ironbell.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/ironbell/ironbell_cry", "volume": 0.8 } ]
+   },
+   "pokemon.ironsail.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/ironsail/ironsail_cry", "volume": 0.8 } ]
+   },
+   "pokemon.ironcocoon.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/ironcocoon/ironcocoon_cry", "volume": 0.8 } ]
+   },
+   "pokemon.ironjustice.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/ironjustice/ironjustice_cry", "volume": 0.8 } ]
+   },
+   "pokemon.ironflare.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/ironflare/ironflare_cry", "volume": 0.8 } ]
+   },
+   "pokemon.ironflux.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/ironflux/ironflux_cry", "volume": 0.8 } ]
+   },
+   "pokemon.toxicmelody.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/toxicmelody/toxicmelody_cry", "volume": 0.8 } ]
+   },
+   "pokemon.crimsonmaw.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/crimsonmaw/crimsonmaw_cry", "volume": 0.8 } ]
+   },
+   "pokemon.lumintail.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/lumintail/lumintail_cry", "volume": 0.8 } ]
+   },
+   "pokemon.feralwish.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/feralwish/feralwish_cry", "volume": 0.8 } ]
+   },
+   "pokemon.wildgene.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/wildgene/wildgene_cry", "volume": 0.8 } ]
+   },
+   "pokemon.ancientgale.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/ancientgale/ancientgale_cry", "volume": 0.8 } ]
+   },
+   "pokemon.tempestfang.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/tempestfang/tempestfang_cry", "volume": 0.8 } ]
+   },
+   "pokemon.saberjaw.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/saberjaw/saberjaw_cry", "volume": 0.8 } ]
+   },
+   "pokemon.primalshell.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/primalshell/primalshell_cry", "volume": 0.8 } ]
+   },
+   "pokemon.lunarveil.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/lunarveil/lunarveil_cry", "volume": 0.8 } ]
+   },
+   "pokemon.gloomshade.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/gloomshade/gloomshade_cry", "volume": 0.8 } ]
+   },
+   "pokemon.ironflare_mega.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/ironflare_mega/ironflare_mega_cry", "volume": 0.8 } ]
+   },
+   "pokemon.ironflux_mega.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/ironflux_mega/ironflux_mega_cry", "volume": 0.8 } ]
+   },
+   "pokemon.irongenesis.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/irongenesis/irongenesis_cry", "volume": 0.8 } ]
+   },
+   "pokemon.irongenesis_mega.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/irongenesis_mega/irongenesis_mega_cry", "volume": 0.8 } ]
+   },
+   "pokemon.irongene.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/irongene/irongene_cry", "volume": 0.8 } ]
+   },
+      "pokemon.shivershrub.cry": {
+       "sounds": [ {"name": "cobblemon:pokemon/shivershrub/shivershrub_cry", "volume": 0.8 } ]
+   }
+}

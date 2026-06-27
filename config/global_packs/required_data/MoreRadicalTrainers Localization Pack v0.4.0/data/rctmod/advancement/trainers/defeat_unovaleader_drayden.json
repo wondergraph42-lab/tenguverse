@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_unovaleader_brycen",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_unovaleader_drayden"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_unovaleader_drayden.description"
+    },
+    "icon": {
+      "id": "cobblemonpokemonbadges:legend_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "unovaleader_drayden"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

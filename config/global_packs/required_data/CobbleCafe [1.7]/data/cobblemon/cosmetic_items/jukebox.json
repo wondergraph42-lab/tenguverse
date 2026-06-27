@@ -1,0 +1,22 @@
+{
+    "pokemon": [
+
+        "eevee",
+        "sylveon",
+        "espeon",
+        "flareon",
+        "jolteon",
+        "umbreon",
+        "glaceon",
+        "leafeon",
+        "vaporeon"
+    ],
+    "cosmeticItems": [
+        {
+            "consumedItem": "minecraft:jukebox",
+            "aspects": [
+                "cosmetic_item-jukebox"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,332 @@
+{
+  "pages": [
+    {
+      "enabled": true,
+      "items": [
+        {
+          "item": "minecraft:iron_ingot",
+          "price": 2,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "minecraft:redstone",
+          "price": 2,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:andesite_alloy",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:zinc_ingot",
+          "price": 5,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:brass_ingot",
+          "price": 8,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:sand_paper",
+          "price": 3,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:crushed_raw_iron",
+          "price": 4,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:crushed_raw_copper",
+          "price": 4,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:crushed_raw_gold",
+          "price": 5,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:crushed_raw_zinc",
+          "price": 4,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:blaze_cake_base",
+          "price": 4,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:blaze_cake",
+          "price": 7,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:builders_tea",
+          "price": 3,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "enabled": true,
+      "items": [
+        {
+          "item": "create:andesite_casing",
+          "price": 4,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:brass_casing",
+          "price": 5,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:copper_casing",
+          "price": 5,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:railway_casing",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:andesite_funnel",
+          "price": 4,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:brass_funnel",
+          "price": 5,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:andesite_belt_funnel",
+          "price": 5,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:brass_belt_funnel",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "enabled": true,
+      "items": [
+        {
+          "item": "create:mechanical_bearing",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:windmill_bearing",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:clockwork_bearing",
+          "price": 12,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:sequenced_gearshift",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:rotation_speed_controller",
+          "price": 12,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:blaze_burner",
+          "price": 12,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:refined_radiance_casing",
+          "price": 16,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:shadow_steel_casing",
+          "price": 16,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:deployer",
+          "price": 12,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:copper_backtank",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:netherite_backtank",
+          "price": 14,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:analog_lever",
+          "price": 2,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "enabled": true,
+      "items": [
+        {
+          "item": "create:black_toolbox",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:black_postbox",
+          "price": 4,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:black_seat",
+          "price": 3,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:black_valve_handle",
+          "price": 2,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:andesite_door",
+          "price": 3,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:brass_door",
+          "price": 4,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:copper_door",
+          "price": 4,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:cardboard_package_10x8",
+          "price": 2,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:cardboard_package_10x12",
+          "price": 2,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:cardboard_package_12x10",
+          "price": 2,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "create:cardboard_package_12x12",
+          "price": 2,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

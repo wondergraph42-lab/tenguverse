@@ -1,0 +1,9 @@
+{
+	id: "3908E7FF178CA062"
+	loot_size: 1
+	order_index: 63
+	rewards: [
+		{ id: "5F5F27079757C050", item: { count: 1, id: "mega_showdown:sparkling_stone_light" } }
+		{ id: "682A554D3864D7FD", item: { count: 1, id: "mega_showdown:sparkling_stone_dark" } }
+	]
+}

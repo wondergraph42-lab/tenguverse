@@ -1,0 +1,30 @@
+{
+  "species": "cobblemon:lunarveil",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:lunarveil",
+      "model": "cobblemon:lunarveil.geo",
+      "texture": "cobblemon:textures/pokemon/lunarveil/lunarveil.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/lunarveil/lunarveil_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/lunarveil/lunarveil_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/lunarveil/lunarveil_shiny_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    }
+  ]
+}

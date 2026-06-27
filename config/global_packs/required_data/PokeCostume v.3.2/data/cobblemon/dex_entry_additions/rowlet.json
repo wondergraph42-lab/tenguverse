@@ -1,0 +1,15 @@
+{
+    "entryId": "cobblemon:rowlet",
+    "forms": [
+      {
+        "displayForm": "duo",
+        "unlockForms": ["duo"]
+      }
+    ],
+	"forms": [
+      {
+        "displayForm": "ash",
+        "unlockForms": ["ash"]
+      }
+    ]
+}

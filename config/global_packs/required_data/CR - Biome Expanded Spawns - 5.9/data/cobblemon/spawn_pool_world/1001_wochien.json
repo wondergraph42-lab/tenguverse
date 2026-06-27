@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "wochien-1",
+      "pokemon": "wochien",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "ultra-rare",
+      "level": "35-60",
+      "weight": 0.2,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_magical"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "implemented": true,
+  "name": "ancientgale",
+  "nationalPokedexNumber": 9912,
+  "primaryType": "flying",
+  "secondaryType": "dragon",
+  "abilities": [
+    "protosynthesis"
+  ],
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:feather",
+        "quantityRange": "10-15"
+      },
+      {
+        "item": "cobblemon:hondew_berry",
+        "percentage": 10
+      }
+    ]
+  },
+  "baseStats": {
+    "hp": 93,
+    "attack": 73,
+    "defence": 85,
+    "special_attack": 113,
+    "special_defence": 89,
+    "speed": 137
+  },
+"behaviour": {
+   "resting": {
+     "canSleep": true,
+     "willSleepOnBed": false,
+     "depth": "normal",
+     "light": "0-4"
+   },
+   "moving": {
+      "canLook": true,
+      "walk": {
+        "walkSpeed": 0.13
+      },
+      "fly": {
+        "canFly": true
+      }
+    },
+    "combat": {
+          "willDefendSelf": true,
+          "willDefendOwner": true,
+          "willFlee": false
+        },
+        "fireImmune": false
+  },
+  "catchRate": 10,
+  "maleRatio": -1,
+  "shoulderMountable": false,
+  "baseExperienceYield": 169,
+  "experienceGroup": "slow",
+  "eggCycles": 20,
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "moves": [
+    "1:agility",
+    "1:fly",
+    "1:tailwind",
+    "1:icywind",
+    "1:rockslide",
+    "1:dragonpulse",
+    "1:calmmind",
+    "1:nastyplot",
+    "21:lightscreen",
+    "26:teeterdance",
+    "31:airslash",
+    "36:reflect",
+    "43:leafstorm",
+    "44:featherdance",
+    "50:raindance",
+    "57:sunnyday",
+    "64:hail",
+    "71:hurricane",
+    "78:weatherball",
+    "85:bleakwindstorm",
+    "86:floraltwister",
+
+    "tm:defog",
+    "tm:fireblast",
+    "tm:bugbuzz",
+    "tm:sunnyday",
+    "tm:raindance",
+    "tm:solarblade",
+    "tm:sandstorm",
+    "tm:fly",
+    "tm:smackdown",
+    "tm:dragontail",
+    "tm:knockoff",
+    "tm:hurricane",
+    "tm:scald",
+    "tm:dragoncheer",
+    "tm:roost",
+    "tm:aurasphere",
+    "tm:dragonpulse",
+    "tm:endure",
+    "tm:energyball",
+    "tm:facade",
+    "tm:dragondance",
+    "tm:willowisp",
+    "tm:sludgewave",
+    "tm:focusblast",
+    "tm:aerialace",
+    "tm:airslash",
+    "tm:grassknot",
+    "tm:hurricane",
+    "tm:steelwing",
+    "tm:helpinghand",
+    "tm:thunderbolt",
+    "tm:icebeam",
+    "tm:flamethrower",
+    "tm:toxic",
+    "tm:triattack",
+    "tm:payback",
+    "tm:waterfall",
+    "tm:workup",
+    "tm:protect",
+    "tm:darkpulse",
+    "tm:gigadrain",
+    "tm:revenge",
+    "tm:drillrun",
+    "tm:rest",
+    "tm:irontail",
+    "tm:frustration",
+    "tm:blizzard",
+    "tm:frostbreath",
+    "tm:beatup",
+    "tm:seismictoss",
+    "tm:brutalswing",
+    "tm:sleeptalk",
+    "tm:acrobatics",
+    "tm:xscissor",
+    "tm:substitute",
+    "tm:aerialace",
+    "tm:terablast",
+    "tm:rockslide",
+    "tm:signalbeam",
+    "tm:uturn",
+    "tm:megadrain",
+    "tm:zenheadbutt"
+  ],
+  "labels": [
+    "gen9",
+    "paradox"
+  ],
+  "pokedex": [
+    "cobblemon.species.ancientgale.desc"
+  ],
+  "baseFriendship": 50,
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 1,
+    "special_defence": 0,
+    "speed": 2
+  },
+  "height": 4.5,
+  "weight": 1520,
+  "aspects": [],
+  "cannotDynamax": false,
+  "hitbox": {
+    "width": 3,
+    "height": 4.5,
+    "fixed": false
+  }
+}

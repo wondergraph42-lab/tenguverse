@@ -1,0 +1,9 @@
+{
+ "target": "cobblemon:shivershrub",
+ "baseScale": 0.62,
+ "hitbox": {
+   "width": 1,
+   "height": 1,
+   "fixed": false
+ }
+}

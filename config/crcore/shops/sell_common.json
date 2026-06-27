@@ -1,0 +1,69 @@
+{
+  "pages": [
+    {
+      "enabled": true,
+      "items": [
+        {
+          "item": "cobblemon:rare_candy",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 10
+        },
+        {
+          "item": "cobblemon:exp_candy_xl",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 5
+        },
+        {
+          "item": "cobblemon:ability_capsule",
+          "price": 4,
+          "currency": "REALMS",
+          "stock": 10
+        },
+        {
+          "item": "minecraft:diamond",
+          "price": 1,
+          "currency": "REALMS",
+          "stock": 32
+        },
+        {
+          "item": "minecraft:netherite_ingot",
+          "price": 3,
+          "currency": "REALMS",
+          "stock": 20
+        },
+        {
+          "item": "minecraft:ghast_tear",
+          "price": 3,
+          "currency": "REALMS",
+          "stock": 3
+        },
+        {
+          "item": "minecraft:shulker_shell",
+          "price": 4,
+          "currency": "REALMS",
+          "stock": 4
+        },
+        {
+          "item": "minecraft:totem_of_undying",
+          "price": 12,
+          "currency": "REALMS",
+          "stock": 1
+        },
+        {
+          "item": "minecraft:enchanted_golden_apple",
+          "price": 8,
+          "currency": "REALMS",
+          "stock": 3
+        },
+        {
+          "item": "minecraft:nether_star",
+          "price": 20,
+          "currency": "REALMS",
+          "stock": 1
+        }
+      ]
+    }
+  ]
+}

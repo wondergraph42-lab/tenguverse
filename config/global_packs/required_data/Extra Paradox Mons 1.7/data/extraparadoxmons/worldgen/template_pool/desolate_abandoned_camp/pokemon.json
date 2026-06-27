@@ -1,0 +1,79 @@
+{
+    "name":"extraparadoxmons:camps/desolate_abandoned_camp/pokemon",
+    "fallback":"minecraft:empty",
+    "elements": [{
+        "weight": 50,
+        "element": {
+            "location": "extraparadoxmons:camps/desolate_abandoned_camp/pokemon/krookodile1",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/desolate_abandoned_camp/pokemon/krookodile2",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/desolate_abandoned_camp/pokemon/krookodile3",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },{
+        "weight": 50,
+        "element": {
+            "location": "extraparadoxmons:camps/desolate_abandoned_camp/pokemon/scrafty1",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/desolate_abandoned_camp/pokemon/scrafty2",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/desolate_abandoned_camp/pokemon/scrafty3",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },{
+        "weight": 50,
+        "element": {
+            "location": "extraparadoxmons:camps/desolate_abandoned_camp/pokemon/cacturne1",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/desolate_abandoned_camp/pokemon/cacturne2",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/desolate_abandoned_camp/pokemon/cacturne3",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }]
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "mob": [
+      "minecraft:zombie_pigman",
+      "minecraft:evocation_illager",
+      "minecraft:vex",
+      "minecraft:illusion_illager",
+      "minecraft:slime",
+      "minecraft:ender_dragon",
+      "minecraft:vindication_illager",
+      "minecraft:blaze",
+      "minecraft:wither",
+      "minecraft:ghast",
+      "minecraft:guardian",
+      "minecraft:elder_guardian",
+      "minecraft:zombie_villager",
+      "minecraft:villager",
+      "minecraft:warden",
+      "minecraft:vindicator",
+      "minecraft:illusioner",
+      "minecraft:wither_skeleton",
+      "minecraft:ravager",
+      "minecraft:pillager",
+      "minecraft:piglin_brute",
+      "minecraft:slime",
+      "minecraft:evoker",
+      "minecraft:zombie_horse",
+      "minecraft:skeleton_horse",
+      "minecraft:magma_cube",
+      "minecraft:piglin",
+      "minecraft:hoglin",
+      "minecraft:iron_golem",
+      "minecraft:zombified_piglin",
+      "minecraft:enderman"
+    ],
+    "result": "default"
+  },
+  {
+    "passive": true,
+    "result": "default"
+  },
+  {
+    "spawner": true,
+    "result": "default"
+  },
+
+  {
+    "dimension": "minecraft:the_nether",
+    "mob": "minecraft:ghast",
+    "mincount": {
+      "amount": 3,
+      "mob": "minecraft:ghast",
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:enderman",
+    "mincount": {
+      "amount": 6,
+      "mob": "minecraft:enderman",
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:the_nether",
+    "mob": "minecraft:wither_skeleton",
+    "mincount": {
+      "amount": 5,
+      "mob": "minecraft:wither_skeleton",
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:the_nether",
+    "mob": "minecraft:hoglin",
+    "mincount": {
+      "amount": 3,
+      "mob": "minecraft:hoglin",
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:the_nether",
+    "mob": "minecraft:piglin",
+    "mincount": {
+      "amount": 6,
+      "mob": "minecraft:piglin",
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:the_nether",
+    "mob": "minecraft:blaze",
+    "mincount": {
+      "amount": 6,
+      "mob": "minecraft:blaze",
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+
+  {
+    "dimension": "minecraft:overworld",
+    "biometags": [
+      "c:is_cave",
+      "is_underground"
+    ],
+    "hostile": true,
+    "result": "allow"
+  },
+
+  {
+    "dimension": "minecraft:overworld",
+    "minheight": 60,
+    "hostile": true,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "maxheight": 60,
+    "result": "allow"
+  },
+
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:zombie",
+    "mincount": {
+      "amount": 15,
+      "mob": "minecraft:zombie",
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:skeleton",
+    "mincount": {
+      "amount": 15,
+      "mob": "minecraft:skeleton",
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:creeper",
+    "mincount": {
+      "amount": 15,
+      "mob": "minecraft:creeper",
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+
+  {
+    "result": "deny"
+  }
+]

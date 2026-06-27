@@ -1,0 +1,9 @@
+{
+  "hudAnchor": "BOTTOM_LEFT",
+  "hudOffsetX": 0,
+  "hudOffsetY": 0,
+  "hudEnabled": true,
+  "showOutOfCombat": true,
+  "hideUnencounteredInfo": true,
+  "debugLogging": false
+}

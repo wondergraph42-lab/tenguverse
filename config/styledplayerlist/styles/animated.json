@@ -1,0 +1,38 @@
+{
+  "style_name": "CRAnim3",
+  "update_tick_time": 6,
+  "list_header": [
+    "",
+    "           <rb:1:1:0><gr #ff4444 #4488ff><bold>✨ Cobblemon Realms ✨</bold></gr>           ",
+    "",
+    "<color #555555><strikethrough>             </strikethrough>[ </color><color #FF5555>%server:online%</color><color #666667>/</color><color #FFD700>%server:max_players%</color><color #555555> ]<strikethrough>             </strikethrough></color>",
+    ""
+  ],
+  "list_footer": {
+    "change_rate": 20,
+    "values": [
+      [
+        "",
+        "<color:#555555><strikethrough>                           </strikethrough></color>",
+        "",
+        "<gray>🪵 TPS: %server:tps_colored%  <dark_gray>|</dark_gray>  🧭 Ping: <color:#ffba26>%player:ping%</color>",
+        ""
+      ],
+      [
+        "",
+        "<color:#555555><strikethrough>                           </strikethrough></color>",
+        "",
+        "<gray>  ⏳ Total time played: <yellow>%player:playtime%</yellow>",
+        ""
+      ],
+      [
+        "",
+        "<color:#555555><strikethrough>                           </strikethrough></color>",
+        "",
+        "<gray>⏰ Time: <yellow>%world:time%</yellow>  <dark_gray>|</dark_gray>  🌍 World: <yellow>%world:name%</yellow>",
+        ""
+      ]
+    ]
+  },
+  "hidden_in_commands": false
+}

@@ -1,0 +1,13 @@
+name = "Enhanced Pokemon Boss Bars"
+filename = "Enhanced Cobblemon Boss Bars - 1.21.x.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c034709087856b3f351f43bc2a1458f00eb6d73c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6612003
+project-id = 1279713

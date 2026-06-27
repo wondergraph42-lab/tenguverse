@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:noibat",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:noibat",
+            "model": "cobblemon:cafe_noibat.geo",
+            "texture": "cobblemon:textures/pokemon/noibat/noibat.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/noibat/noibat_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/noibat/cafe_noibat.png"
+                }
+            ]
+        }
+    ]
+}

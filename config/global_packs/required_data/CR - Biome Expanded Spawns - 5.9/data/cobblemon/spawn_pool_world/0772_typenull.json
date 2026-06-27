@@ -1,0 +1,48 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "deeper-typenull-1",
+      "pokemon": "typenull",
+      "presets": [
+        "ancient_city"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "ultra-rare",
+      "level": "55-75",
+      "weight": 0.3,
+      "condition": {
+        "biomes": [
+          "deeperdarker:deeplands"
+        ],
+        "dimensions": [
+          "deeperdarker:otherside"
+        ]
+      }
+    },
+    {
+      "id": "aether_type_null_1",
+      "pokemon": "typenull",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "60-100",
+      "weight": 2.0,
+      "condition": {
+        "biomes": [
+          "aether:skyroot_meadow",
+          "aether:skyroot_woodland"
+        ],
+        "dimensions": [
+          "aether:the_aether"
+        ]
+      }
+    }
+  ]
+}

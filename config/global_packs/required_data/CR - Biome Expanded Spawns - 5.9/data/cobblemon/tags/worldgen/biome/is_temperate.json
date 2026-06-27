@@ -1,0 +1,47 @@
+{
+  "replace": false,
+  "values": [
+    "#cobblemon:is_forest",
+    "#cobblemon:is_plains",
+    {
+      "id": "still_life:temperate_beach",
+      "required": false
+    },
+    {
+      "id": "still_life:temperate_deep_ocean",
+      "required": false
+    },
+    {
+      "id": "still_life:temperate_forest",
+      "required": false
+    },
+    {
+      "id": "still_life:temperate_marsh",
+      "required": false
+    },
+    {
+      "id": "still_life:temperate_mixed_forest",
+      "required": false
+    },
+    {
+      "id": "still_life:temperate_river",
+      "required": false
+    },
+    {
+      "id": "still_life:temperate_shallow_ocean",
+      "required": false
+    },
+    {
+      "id": "still_life:temperate_swamp",
+      "required": false
+    },
+    {
+      "id": "still_life:temperate_deep_ocean",
+      "required": false
+    },
+    {
+      "id": "still_life:temperate_shallow_ocean",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+    "species": "cobblemon:cyndaquil",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [
+             
+            ],
+            "poser": "cobblemon:cyndaquil",
+            "model": "cobblemon:cafe_cyndaquil.geo",
+            "texture": "cobblemon:textures/pokemon/cyndaquil/cyndaquil.png",
+            "layers": [
+                {
+                    "name": "emissive",
+                    "texture": "cobblemon:textures/pokemon/cyndaquil/cyndaquil_emissive.png",
+                    "emissive": true,
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/cyndaquil/cyndaquil_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/cyndaquil/cafe_cyndaquil.png"
+                }
+            ]
+        }
+    ]
+}

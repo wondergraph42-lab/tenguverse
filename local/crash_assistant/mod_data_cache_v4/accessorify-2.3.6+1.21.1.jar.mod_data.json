@@ -1,0 +1,1 @@
+{"jarName":"accessorify-2.3.6+1.21.1.jar","modId":"accessorify","name":"Accessorify","version":"2.3.6","mixinConfigs":["accessorify.mixins.json"],"jarJarMods":[{"jarName":"mixinconstraints-1.1.0.jar","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}],"curseForgeHash":243818914,"modrinthHash":"f303961a0390f1ecf0d2a53cd81375261b6e1dfa"}

@@ -1,0 +1,43 @@
+{
+  // ============================================================
+  // CRCore Starter Kit
+  // This file is comment friendly (//). Comments are ignored by CRCore.
+  // How it works:
+  // - Items are given only once per player, on their first join.
+  // - If a target slot is already occupied, the item is added to inventory or dropped.
+  // - To give nothing, either remove the entry or set it to null.
+  // ============================================================
+
+  // ----------------------------
+  // ARMOR
+  // Valid keys: head, chest, legs, feet
+  // ----------------------------
+  "armor": {
+    "head": null,
+    "chest": null,
+    "legs": null,
+    "feet": { "id": "minecraft:leather_boots", "count": 1 }
+  },
+
+  "offhand": { "id": "minecraft:torch", "count": 16 },
+
+  // ----------------------------
+  // INVENTORY SLOTS
+  // Slots range: 0 to 35
+  // - 0..8  = hotbar
+  // - 9..35 = main inventory
+  // Only defined slots are used.
+  // ----------------------------
+  "slots": {
+    "8": { "id": "minecraft:bread", "count": 7 }
+  },
+
+  // ----------------------------
+  // EFFECTS
+  // duration_seconds is in seconds
+  // ----------------------------
+  "effects": [
+    { "id": "minecraft:regeneration", "duration_seconds": 60, "amplifier": 0 },
+    { "id": "minecraft:saturation", "duration_seconds": 60, "amplifier": 0 }
+  ]
+}

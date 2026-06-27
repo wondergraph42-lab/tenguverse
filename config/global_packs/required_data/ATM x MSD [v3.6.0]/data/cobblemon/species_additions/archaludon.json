@@ -1,0 +1,54 @@
+{
+  "target": "cobblemon:archaludon",
+  "implemented": true,
+  "baseScale": 1.0,
+  "hitbox": {
+    "width": 1.0,
+    "height": 1.7,
+    "fixed": false
+  },
+  "behaviour": {
+    "resting": {
+      "canSleep": true,
+      "depth": "normal",
+      "light": "0-4"
+    },
+    "moving": {
+      "canLook": false,
+      "walk": {
+  		"walkSpeed": 0.180,
+        "canWalk": true,
+        "avoidsLand": false
+      },
+      "swim": {
+        "swimSpeed": 0.1,
+        "canSwimInWater": false,
+        "canBreatheUnderwater": false
+      }
+    }
+  },
+    "riding": {
+    "behaviours": {
+      "LAND": {
+        "key": "cobblemon:land/horse",
+        "rideSounds": [],
+        "stats": {
+          "ACCELERATION": "20-40",
+          "JUMP": "10-30",
+          "SKILL": "35-55",
+          "SPEED": "20-40",
+          "STAMINA": "75-95"
+        }
+      }
+    },
+    "seats": [
+      {
+        "offset": {
+          "x": 0.0,
+          "y": 1.1,
+          "z": 0.0
+        }
+      }
+    ]
+  }
+}

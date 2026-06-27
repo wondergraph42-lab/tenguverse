@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:ironwarp",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["perfected"],
+      "poser": "cobblemon:ironwarp_perfected",
+      "model": "cobblemon:ironwarp_perfected.geo",
+      "texture": "cobblemon:textures/pokemon/ironwarp/ironwarp_perfected.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/ironwarp/ironwarp_perfected_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    },
+    {
+      "aspects": ["sleep", "perfected"],
+      "texture": "cobblemon:textures/pokemon/ironwarp/ironwarp_perfected_sleep.png"
+    },
+    {
+      "aspects": ["shiny", "perfected"],
+      "texture": "cobblemon:textures/pokemon/ironwarp/ironwarp_perfected_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/ironwarp/ironwarp_perfected_shiny_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    }
+  ]
+}

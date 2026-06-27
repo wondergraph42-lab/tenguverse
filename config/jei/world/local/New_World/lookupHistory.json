@@ -1,0 +1,20 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:amethyst_shard","components":{"minecraft:custom_data":{"recipeitemsync:virtual_id":"atmxmsd:binding_armor","recipesync:virtual_id":"atmxmsd:binding_armor"},"minecraft:custom_name":"\"Binding Armor (atmxmsd:binding_armor)\"","minecraft:lore":["{\"color\":\"dark_gray\",\"text\":\"atmxmsd:binding_armor\"}"],"minecraft:custom_model_data":260614}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:trial_key","components":{"minecraft:custom_model_data":260614,"mega_showdown:registry_type_component":"form_change_interact","mega_showdown:registry_location_component":"atmxmsd:binding_armor","minecraft:item_name":"{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\":\"Binding Armor\"}],\"italic\":false,\"text\":\"\"}","minecraft:lore":["\"Discovered from recipes\""]}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:fire_stone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:exp_candy_xl"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon_utility:mastercandy"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:master_ball"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:ultra_ball"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:ancient_poke_ball"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:ancient_citrine_ball"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:ancient_verdant_ball"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"immersive_aircraft:boiler"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"immersive_aircraft:propeller"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"immersive_aircraft:hull"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"immersiveengineering:potion_bucket","components":{"minecraft:potion_contents":{"potion":"minecraft:thick"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"immersiveengineering:fusilier_spawn_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"immersiveengineering:mold_packing_4"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"immersiveengineering:component_electronic"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

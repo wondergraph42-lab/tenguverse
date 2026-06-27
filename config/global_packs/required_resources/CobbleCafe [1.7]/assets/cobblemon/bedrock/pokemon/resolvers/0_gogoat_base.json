@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:gogoat",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:gogoat",
+            "model": "cobblemon:cafe_gogoat.geo",
+            "texture": "cobblemon:textures/pokemon/gogoat/gogoat.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/gogoat/gogoat_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/gogoat/cafe_gogoat.png"
+                }
+            ]
+        }
+    ]
+}

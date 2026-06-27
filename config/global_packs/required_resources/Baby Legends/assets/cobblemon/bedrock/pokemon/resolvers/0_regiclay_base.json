@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:regiclay",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:regiclay",
+      "model": "cobblemon:regiclay.geo",
+      "texture": "cobblemon:textures/pokemon/regiclay/regiclay.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/regiclay/regiclay_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+	icon: {
+		id: "cobblemon:master_ball"
+	}
+	id: "4D10708FE474545E"
+	loot_size: 1
+	order_index: 33
+	rewards: [
+		{
+			auto: "disabled"
+			command: "/spawnpokemon solgaleo lvl=70"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "5962E2543F254703"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon lunala lvl=70"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:slate_ball"
+			}
+			id: "2335E8866B73856C"
+			permission_level: 2
+			type: "command"
+		}
+	]
+	use_title: true
+}

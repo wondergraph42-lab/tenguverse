@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:zerpint",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:zerpint",
+      "model": "cobblemon:zerpint.geo",
+      "texture": "cobblemon:textures/pokemon/zerpint/zerpint.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/zerpint/zerpint_shiny.png"
+    }
+  ]
+}

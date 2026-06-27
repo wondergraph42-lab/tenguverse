@@ -1,0 +1,7 @@
+#6B9 terralith:cold_shrubland
+#2B7 biomeswevegone:crimson_tundra
+#010 minecraft:forest
+#3A0 minecraft:frozen_river
+#507 biomeswevegone:pumpkin_valley
+#5FF minecraft:river
+#495 minecraft:the_void

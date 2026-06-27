@@ -1,0 +1,168 @@
+{
+  "pages": [
+    {
+      "enabled": true,
+      "items": [
+        {
+          "item": "cobblemon:red_apricorn",
+          "price": 3,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:blue_apricorn",
+          "price": 3,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:yellow_apricorn",
+          "price": 3,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:green_apricorn",
+          "price": 3,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:black_apricorn",
+          "price": 3,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:white_apricorn",
+          "price": 3,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:pink_apricorn",
+          "price": 3,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:red_apricorn_seed",
+          "price": 2,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:blue_apricorn_seed",
+          "price": 2,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:yellow_apricorn_seed",
+          "price": 2,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:green_apricorn_seed",
+          "price": 2,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:black_apricorn_seed",
+          "price": 2,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:white_apricorn_seed",
+          "price": 2,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:pink_apricorn_seed",
+          "price": 2,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "enabled": true,
+      "items": [
+        {
+          "item": "cobblemon:apricorn_log",
+          "price": 1,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:apricorn_wood",
+          "price": 2,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:stripped_apricorn_log",
+          "price": 1,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:stripped_apricorn_wood",
+          "price": 2,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:apricorn_sign",
+          "price": 1,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:apricorn_hanging_sign",
+          "price": 2,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:apricorn_boat",
+          "price": 3,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:apricorn_chest_boat",
+          "price": 5,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

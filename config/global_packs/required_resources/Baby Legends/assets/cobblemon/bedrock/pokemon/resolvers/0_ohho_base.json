@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:ohho",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:ohho",
+            "model": "cobblemon:ohho.geo",
+            "texture": "cobblemon:textures/pokemon/ohho/ohho.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/ohho/ohho_shiny.png",
+            "layers": []
+        }
+    ]
+}

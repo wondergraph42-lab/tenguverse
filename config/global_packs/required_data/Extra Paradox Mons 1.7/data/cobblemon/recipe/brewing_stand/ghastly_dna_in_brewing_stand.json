@@ -1,0 +1,12 @@
+{
+  "type": "cobblemon:brewing_stand",
+  "input": {
+    "item": "cobblemon:reaper_cloth"
+  },
+  "bottle": {
+    "item": "minecraft:water_bottle"
+  },
+  "result": {
+    "id": "cobblemon:ghastly_dna"
+  }
+}

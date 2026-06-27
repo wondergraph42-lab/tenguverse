@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_kaloselitefour_drasna",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_kaloschampion_diantha"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_kaloschampion_diantha.description"
+    },
+    "icon": {
+      "id": "cobblemon:master_ball"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "kaloschampion_diantha"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

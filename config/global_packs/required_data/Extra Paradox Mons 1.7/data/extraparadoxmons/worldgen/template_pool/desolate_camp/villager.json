@@ -1,0 +1,13 @@
+{
+    "name":"extraparadoxmons:camps/desolate_camp/villager",
+    "fallback":"minecraft:empty",
+    "elements": [{
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/desolate_camp/villager/villager1",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }]
+}

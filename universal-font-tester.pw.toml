@@ -1,0 +1,13 @@
+name = "Universal Font Tester"
+filename = "UniversalFontTester v3 MC1.21.x.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "00458b74d749828e31f14d9db4ef7586a6e33a3b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7764793
+project-id = 1369907

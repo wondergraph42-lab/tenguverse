@@ -1,0 +1,329 @@
+{
+  "implemented": true,
+  "name": "ironflux",
+  "nationalPokedexNumber": 9922,
+  "primaryType": "psychic",
+  "secondaryType": "electric",
+  "abilities": [
+    "quarkdrive"
+  ],
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:lapis_lazuli",
+        "quantityRange": "1-5"
+      },
+      {
+        "item": "cobblemon:magost_berry",
+        "percentage": 10
+      }
+    ]
+  },
+  "baseStats": {
+    "hp": 76,
+    "attack": 90,
+    "defence": 94,
+    "special_attack": 112,
+    "special_defence": 92,
+    "speed": 126
+  },
+  "riding": {
+    "behaviours": {
+      "AIR": {
+        "speed": "Math.clamp(q.entity.velocity.horizontal_magnitude + 0.33, 0, 1)",
+        "key": "cobblemon:air/jet",
+        "rideSounds": [
+          {
+            "muffleEnabled": true,
+            "pitchExpr": "math.max(1.0 ,0.2 + math.pow(math.min(q.ride_velocity() / 1.5, 1.0),2))",
+            "playForNonPassengers": true,
+            "soundLocation": "cobblemon:ride.loop.wind",
+            "volumeExpr": "math.pow(math.min(q.ride_velocity() / 1.5, 1.0),2)"
+          }
+        ],
+        "gravity": "q.gravity * (0.1 + (q.passenger_count - 1) * 0.1)",
+        "jumpVector": [
+          0,
+          "0.3*q.jump_strength/50",
+          0
+        ],
+        "stats": {
+          "ACCELERATION": "70-105",
+          "JUMP": "85-100",
+          "SKILL": "70-95",
+          "SPEED": "55-60",
+          "STAMINA": "95-120"
+        }
+      },
+      "LAND": {
+        "key": "cobblemon:land/horse",
+        "rideSounds": [],
+        "canJump": false,
+        "canSprint": false,
+        "stats": {
+          "ACCELERATION": "10-40",
+          "JUMP": "10-40",
+          "SKILL": "80-100",
+          "SPEED": "10-40",
+          "STAMINA": "10-40"
+        }
+      }
+    },
+    "seats": [
+      {
+        "offset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    ]
+  },
+"behaviour": {
+   "resting": {
+     "canSleep": true,
+     "willSleepOnBed": false,
+     "depth": "normal",
+     "light": "0-4"
+   },
+        "moving": {
+          "swim": {
+            "avoidsWater": true
+          }
+        },
+        "combat": {
+          "willDefendSelf": true,
+          "willDefendOwner": true,
+          "willFlee": false
+        },
+        "fireImmune": false
+  },
+  "catchRate": 10,
+  "maleRatio": -1,
+  "shoulderMountable": false,
+  "baseExperienceYield": 169,
+  "experienceGroup": "slow",
+  "eggCycles": 20,
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "moves": [
+    "1:lightscreen",
+    "1:electroball",
+    "1:irondefense",
+    "1:airslash",
+    "1:moonblast",
+    "21:electricterrain",
+    "26:storedpower",
+    "31:psychic",
+    "33:discharge",
+    "36:raindance",
+    "43:hurricane",
+    "50:lusterpurge",
+    "57:drillrun",
+    "64:playrough",
+    "71:zapcannon",
+    "78:tailwind",
+    "85:boostervolt",
+
+    "tm:playrough",
+    "tm:dracometeor",
+    "tm:magnetbomb",
+    "tm:dragontail",
+    "tm:stealbeam",
+    "tm:dazzlinggleam",
+    "tm:thief",
+    "tm:smackdown",
+    "tm:heavyslam",
+    "tm:knockoff",
+    "tm:powerswap",
+    "tm:guardswap",
+    "tm:speedswap",
+    "tm:calmmind",
+    "tm:aurasphere",
+    "tm:thunderbolt",
+    "tm:endure",
+    "tm:facade",
+    "tm:ironhead",
+    "tm:thunder",
+    "tm:focusblast",
+    "tm:fling",
+    "tm:magicroom",
+    "tm:payback",
+    "tm:overheat",
+    "tm:rockslide",
+    "tm:irontail",
+    "tm:thunderbolt",
+    "tm:falseswipe",
+    "tm:toxic",
+    "tm:triattack",
+    "tm:payback",
+    "tm:workup",
+    "tm:protect",
+    "tm:powergem",
+    "tm:electricterrain",
+    "tm:hyperbeam",
+    "tm:earthpower",
+    "tm:rest",
+    "tm:gigaimpact",
+    "tm:smartstrike",
+    "tm:flashcannon",
+    "tm:dazzlinggleam",
+    "tm:throatchop",
+    "tm:seismictoss",
+    "tm:takedown",
+    "tm:sleeptalk",
+    "tm:wonderroom",
+    "tm:psychocut",
+    "tm:doubleedge",
+    "tm:doubleteam",
+    "tm:substitute",
+    "tm:moonblast",
+    "tm:terablast",
+    "tm:signalbeam",
+    "tm:chargebeam",
+    "tm:uturn",
+    "tm:voltswitch",
+    "tm:zenheadbutt" ],
+  "labels": [
+    "gen9",
+    "paradox"
+  ],
+  "pokedex": [
+    "cobblemon.species.ironflux.desc"
+  ],
+  "baseFriendship": 50,
+  "evYield": {
+    "hp": 0,
+    "attack": 1,
+    "defence": 0,
+    "special_attack": 2,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "height": 2.5,
+  "weight": 1200,
+  "aspects": [],
+  "cannotDynamax": false,
+  "baseScale": 0.8,
+  "hitbox": {
+    "width": 2.5,
+    "height": 2.5,
+    "fixed": false
+  },
+  "evolutions": [],
+  "forms": [
+    {
+      "name": "Mega",
+      "primaryType": "psychic",
+      "secondaryType": "electric",
+      "maleRatio": -1,
+      "height": 3,
+      "weight": 1600,
+      "pokedex": [
+        "cobblemon.species.ironflux-mega.desc"
+      ],
+      "labels": [
+        "gen9",
+        "mega",
+        "paradox"
+      ],
+      "aspects": [
+        "mega"
+      ],
+      "abilities": [
+        "quarkdrive"
+      ],
+      "baseScale": 0.9,
+      "hitbox": {
+      "width": 2.5,
+      "height": 2.6,
+      "fixed": false
+      },
+      "riding": {
+    "behaviours": {
+      "AIR": {
+        "speed": "Math.clamp(q.entity.velocity.horizontal_magnitude + 0.33, 0, 1)",
+        "key": "cobblemon:air/jet",
+        "rideSounds": [
+          {
+            "muffleEnabled": true,
+            "pitchExpr": "math.max(1.0 ,0.2 + math.pow(math.min(q.ride_velocity() / 1.5, 1.0),2))",
+            "playForNonPassengers": true,
+            "soundLocation": "cobblemon:ride.loop.wind",
+            "volumeExpr": "math.pow(math.min(q.ride_velocity() / 1.5, 1.0),2)"
+          }
+        ],
+        "gravity": "q.gravity * (0.1 + (q.passenger_count - 1) * 0.1)",
+        "jumpVector": [
+          0,
+          "0.3*q.jump_strength/50",
+          0
+        ],
+        "stats": {
+          "ACCELERATION": "70-105",
+          "JUMP": "85-100",
+          "SKILL": "70-95",
+          "SPEED": "70-75",
+          "STAMINA": "110-150"
+        }
+      },
+      "LAND": {
+        "key": "cobblemon:land/horse",
+        "rideSounds": [],
+        "canJump": false,
+        "canSprint": false,
+        "stats": {
+          "ACCELERATION": "10-40",
+          "JUMP": "10-40",
+          "SKILL": "80-100",
+          "SPEED": "10-40",
+          "STAMINA": "10-40"
+        }
+      }
+    },
+    "seats": [
+      {
+        "offset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    ]
+  },
+      "behaviour": {
+   "resting": {
+     "canSleep": true,
+     "willSleepOnBed": false,
+     "depth": "normal",
+     "light": "0-4"
+   },
+        "moving": {
+          "swim": {
+            "avoidsWater": true
+          }
+        },
+        "combat": {
+          "willDefendSelf": true,
+          "willDefendOwner": true,
+          "willFlee": false
+        },
+        "fireImmune": false
+      },
+      "baseStats": {
+       "hp": 76,
+       "attack": 118,
+       "defence": 116,
+       "special_attack": 122,
+       "special_defence": 114,
+       "speed": 144
+      },
+      "baseExperienceYield": 169,
+      "evolutions": [],
+      "battleOnly": true,
+      "dynamaxBlocked": true
+     }
+   ]
+  }

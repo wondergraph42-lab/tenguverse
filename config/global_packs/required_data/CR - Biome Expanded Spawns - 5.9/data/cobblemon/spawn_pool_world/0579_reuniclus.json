@@ -1,0 +1,85 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "reuniclus-1",
+      "pokemon": "reuniclus",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "uncommon",
+      "level": "41-49",
+      "weight": 0.032,
+      "condition": {
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "biomes": [
+          "#cobblemon:is_overworld"
+        ]
+      }
+    },
+    {
+      "id": "reuniclus-2",
+      "pokemon": "reuniclus",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "uncommon",
+      "level": "41-49",
+      "weight": 0.032,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_end"
+        ]
+      }
+    },
+    {
+      "id": "deeper-reuniclus-1",
+      "pokemon": "reuniclus",
+      "presets": [
+        "deep_dark"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "rare",
+      "level": "40-64",
+      "weight": 2.4,
+      "condition": {
+        "biomes": [
+          "deeperdarker:echoing_forest",
+          "deeperdarker:blooming_caverns"
+        ],
+        "dimensions": [
+          "deeperdarker:otherside"
+        ]
+      }
+    },
+    {
+      "id": "deeper-reuniclus-2",
+      "pokemon": "reuniclus",
+      "presets": [
+        "deep_dark"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "ultra-rare",
+      "level": "40-64",
+      "weight": 0.8,
+      "condition": {
+        "biomes": [
+          "deeperdarker:echoing_forest",
+          "deeperdarker:blooming_caverns"
+        ],
+        "dimensions": [
+          "deeperdarker:otherside"
+        ]
+      }
+    }
+  ]
+}

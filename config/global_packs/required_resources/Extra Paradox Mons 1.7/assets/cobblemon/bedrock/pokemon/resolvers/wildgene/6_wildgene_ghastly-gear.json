@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:wildgene",
+  "order": 6,
+  "variations": [
+    {
+      "aspects": ["ghastly-gear"],
+      "poser": "cobblemon:wildgene",
+      "model": "cobblemon:wildgene_gear.geo",
+      "texture": "cobblemon:textures/pokemon/wildgene/wildgene_ghastly-gear.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/wildgene/wildgene_ghastly-gear_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    },
+    {
+      "aspects": ["shiny", "ghastly-gear"],
+      "texture": "cobblemon:textures/pokemon/wildgene/wildgene_ghastly-gear_shiny.png"
+    }
+  ]
+}

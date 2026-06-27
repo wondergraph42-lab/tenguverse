@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:eevee",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:eevee",
+            "model": "cobblemon:cafe_eevee_male.geo",
+            "texture": "cobblemon:textures/pokemon/eevee/eevee.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/eevee/eevee_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-gold_nugget"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/eevee/cafe_eevee.png"
+                }
+            ]
+        }
+    ]
+}

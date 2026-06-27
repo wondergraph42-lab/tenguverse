@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:warm_ocean",
+    "#cobblemon:is_kelp",
+    {
+      "id": "byg:lush_stacks",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:lush_stacks",
+      "required": false
+    },
+    {
+      "id": "still_life:tropical_deep_ocean",
+      "required": false
+    },
+    {
+      "id": "still_life:tropical_shallow_ocean",
+      "required": false
+    }
+  ]
+}

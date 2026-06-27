@@ -1,0 +1,16 @@
+{
+	id: "05C47B7A86BFA2CB"
+	loot_size: 1
+	order_index: 41
+	rewards: [
+		{ id: "372DCC6CE9D90859", item: { count: 1, id: "mega_showdown:charizardite_x" } }
+		{ id: "2EFED8FB6E2A3802", item: { count: 1, id: "mega_showdown:charizardite_y" } }
+		{ id: "5AA5304DF34CCABD", item: { count: 1, id: "mega_showdown:blastoisinite" } }
+		{ id: "6B701D9C8FDD66B6", item: { count: 1, id: "mega_showdown:venusaurite" } }
+		{ id: "1306CD31CFE1BF00", item: { count: 1, id: "mega_showdown:blazikenite" } }
+		{ id: "74264EE211AE9E62", item: { count: 1, id: "mega_showdown:swampertite" } }
+		{ id: "4BC286918D0ADC33", item: { count: 1, id: "mega_showdown:sceptilite" } }
+		{ id: "526C54FC180CAE57", item: { count: 1, id: "mega_showdown:lucarionite" } }
+	]
+	use_title: true
+}

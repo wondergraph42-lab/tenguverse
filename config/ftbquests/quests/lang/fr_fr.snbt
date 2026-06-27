@@ -1,0 +1,1518 @@
+{
+	chapter.0B4345A4E765C492.title: "&fLes débuts"
+	chapter.0D50D729CD170633.title: "&fSophisticated Storage"
+	chapter.10A725AB9ABE33A4.title: "&fRealms Store"
+	chapter.148B39E0B733DE81.title: "&fMaîtriser les métaux mythiques"
+	chapter.17CB82E798D55FCC.title: "&fLes débuts"
+	chapter.17DC1ED9A3960D3C.title: "&fLuggage"
+	chapter.1920C821DF58EB39.title: "&fPaldea &r&f&o(Gen9)"
+	chapter.1B3A7E96426C43E2.title: "&fLe voyage d’un dresseur"
+	chapter.221E8A7CBBF28059.title: "&fGalar &r&f&o(Gen8)"
+	chapter.2E9A5AA241AA0379.title: "&fCollection d'objets Pokémon"
+	chapter.30B9525A12EFB0F4.title: "&fTom's Simple Storage"
+	chapter.32ED49B518D05A84.title: "&fJohto &r&f&o(Gen2)"
+	chapter.3A848A714C075E2E.title: "&fKanto &r&f&o(Gen1)"
+	chapter.3C32821AEFA3F20A.title: "&fPokeAgriculture"
+	chapter.3F6EDC78F18CD04B.title: "Plus de quêtes bientôt !"
+	chapter.4E7B29E9DE569876.title: "&fKalos &r&f&o(Gen6)"
+	chapter.506884F40A4A50F9.title: "&fAlola &r&f&o(Gen7)"
+	chapter.516D845234C8DD13.title: "&fAventures dans le Nether"
+	chapter.51EAFC676CAD4D1F.title: "&fCollection de Gems"
+	chapter.52E50A458A9E8D4C.title: "&f&lGuide de bienvenue"
+	chapter.56E455999A7C9C4D.title: "&fHoenn &r&f&o(Gen3)"
+	chapter.5A56B41619E1FAA7.title: "&fCollection de MégaGems"
+	chapter.5C4132F17ACD44F4.title: "&fUnys &r&f&o(Gen5)"
+	chapter.5CD29C53E589AD7F.chapter_subtitle: ["Rotational madness"]
+	chapter.5CD29C53E589AD7F.title: "&fCreate"
+	chapter.5E2BAEB873CB4FE7.title: "&fSinnoh et Hisui &r&f&o(Gen4)"
+	chapter.603EDE1FAA1E414B.title: "&fSophisticated Backpacks"
+	chapter.68081719733F7E9D.title: "&fAgriculture et richesse"
+	chapter.6CAD3D564D5EDF3E.title: "&fPam's Life"
+	chapter.6DF80392F9A4DB20.title: "&fDimensions"
+	chapter.6E0BD1AD4F4A8C86.title: "&fChasseurs de fossiles anciens"
+	chapter.72371DD64A24BC1C.title: "&fMinage et ressources"
+	chapter_group.18636A549DDC3D4D.title: "&l&cAventure Interrégionale"
+	chapter_group.3C1371271429A50A.title: "&l&aSurvie et Bases"
+	chapter_group.4BF5F6D2733D3A8E.title: "&b&lCobblemon"
+	file.0000000000000001.title: "&l&fCobblemon Realms"
+	item.pokebadges.fog_johto_badge: "Fog Badge"
+	item.pokebadges.glacier_johto_badge: "Glacier Badge"
+	item.pokebadges.hive_johto_badge: "Hive Badge"
+	item.pokebadges.mineral_johto_badge: "Mineral Badge"
+	item.pokebadges.plain_johto_badge: "Plain Badge"
+	item.pokebadges.rising_johto_badge: "Rising Badge"
+	item.pokebadges.storm_johto_badge: "Storm Badge"
+	item.pokebadges.zephyr_johto_badge: "Zephyr Badge"
+	quest.00000000000002D6.quest_desc: ["Tuer des animaux, c'est cruel. Une cruauté délicieuse et juteuse."]
+	quest.00000000000002D6.title: "De la nourriture pour des jours"
+	quest.00000000000002E0.quest_desc: ["Le Nether est rempli de monstres dangereux. Détruis-les avant qu'ils ne te détruisent."]
+	quest.00000000000002E0.title: "Dangers du Nether"
+	quest.00000000000002E8.quest_desc: ["La nuit est sombre et effrayante. Les monstres sortent la nuit. Brandis ton épée, vise bien et élimine tes ennemis."]
+	quest.00000000000002E8.title: "Mortel"
+	quest.00000000000002F6.quest_desc: ["Voyage jusqu'à l'End et abats le dragon de l'End."]
+	quest.00000000000002F6.title: "Ici, il y a des dragons"
+	quest.00000000000002FB.quest_desc: ["Place un cristal de l'End au centre de chaque côté de la fontaine de l'End pour faire réapparaître le dragon. Tue-le à nouveau pour obtenir un autre œuf."]
+	quest.00000000000002FB.title: "Renaissance"
+	quest.000000000000A001.quest_subtitle: "Commence ton réseau de stockage"
+	quest.000000000000A001.title: "Connexion Initiale"
+	quest.000000000000A002.quest_subtitle: "Relie tes coffres ensemble"
+	quest.000000000000A002.title: "Pose du Câble"
+	quest.000000000000A003.quest_subtitle: "Utilise les connecteurs"
+	quest.000000000000A003.title: "Connecte Tout"
+	quest.000000000000A004.quest_subtitle: "Étends la portée avec des trims"
+	quest.000000000000A004.title: "Structure de Soutien"
+	quest.000000000000A005.quest_subtitle: "Utilise un proxy pour les zones éloignées"
+	quest.000000000000A005.title: "Connexion à Distance"
+	quest.000000000000A006.quest_subtitle: "Accède à ton inventaire"
+	quest.000000000000A006.title: "Interface Basique"
+	quest.000000000000A007.quest_subtitle: "Crafte directement depuis le stockage"
+	quest.000000000000A007.title: "Intégration de Craft"
+	quest.000000000000A008.quest_subtitle: "Commence à organiser tes objets"
+	quest.000000000000A008.title: "Filtrage d'Objets"
+	quest.000000000000A009.quest_subtitle: "Utilise des filtres polymorphes"
+	quest.000000000000A009.title: "Filtrage Intelligent"
+	quest.000000000000A010.quest_subtitle: "Active une alerte en cas de surplus"
+	quest.000000000000A010.title: "Alerte de Stockage"
+	quest.000000000000A011.quest_subtitle: "Aspire les objets automatiquement"
+	quest.000000000000A011.title: "Automatisation Simple"
+	quest.000000000000A012.quest_subtitle: "Éjecte les objets vers le monde"
+	quest.000000000000A012.title: "Lâche les Objets"
+	quest.000000000000A013.quest_subtitle: "Accède à distance au stockage"
+	quest.000000000000A013.title: "Sans Fil"
+	quest.000000000000A014.quest_subtitle: "Tout faire à distance, même crafter"
+	quest.000000000000A014.title: "Liberté Totale"
+	quest.0099109221597E5C.quest_desc: ["Maintenant que tu as un fossile, il est temps de l'identifier ! Chaque fossile correspond à un Pokémon ancien spécifique."]
+	quest.0099109221597E5C.quest_subtitle: "Quel type de fossile as-tu trouvé ?"
+	quest.0099109221597E5C.title: "Identifier les Reliques"
+	quest.00ED2312654B5691.title: "Park Ball 2013 9"
+	quest.018E4ADAB1B600D2.title: "&fUn &dMeloetta &fsauvage est apparu !"
+	quest.028F66396220D251.quest_desc: ["Anis est une romancière qui puise son inspiration auprès de ses Pokémon de type Spectre et des dresseurs qu’elle affronte. Chaque combat est une nouvelle histoire — et votre affrontement pourrait bien être le point culminant de son prochain chapitre."]
+	quest.028F66396220D251.quest_subtitle: "&bRecommandé : ~Niv 85"
+	quest.028F66396220D251.title: "Anis"
+	quest.02BF0F1EF4DB18C0.title: "Maître de Paldea"
+	quest.02D78E9B77615E84.quest_desc: ["&fDrayden, champion Dragon de Opelucid City, fait partie des combats officiels du Gym World Tour de Unova. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.02D78E9B77615E84.quest_subtitle: "&bLevel Cap débloqué : Nv 88"
+	quest.02D78E9B77615E84.title: "Drayden"
+	quest.02E36DE0C873C865.quest_subtitle: "&bRecommandé : ~Niv 70"
+	quest.02E36DE0C873C865.title: "Sandy"
+	quest.033F781F6F23E540.title: "Prouver ta force"
+	quest.037B161CB3CA2FEE.title: "&fUn &bKeldeo &fsauvage est apparu !"
+	quest.0385D43877A450D8.quest_subtitle: "&bRecommandé : ~Niv 78"
+	quest.0385D43877A450D8.title: "Blaise"
+	quest.038AC1B12091786A.quest_subtitle: "Es-tu prêt ? Tu n’as qu’une seule chance."
+	quest.038AC1B12091786A.title: "Attraper tout le trio des Lames de la Justice"
+	quest.0402B47B270970BC.title: "&fUn &dDeoxys &fsauvage est apparu !"
+	quest.045CCA77E72F6C2C.quest_subtitle: "&bRecommandé : ~Niv 80"
+	quest.045CCA77E72F6C2C.title: "Ambre"
+	quest.04669E3C2CD1BAB1.title: "&fUn &dMarshadow &fsauvage est apparu !"
+	quest.04EF9E3428733BE9.quest_desc: ["Faites évoluer six de vos Pokémon pour débloquer leur potentiel caché et renforcer la puissance de votre équipe. Embrassez le pouvoir transformateur de l'évolution et découvrez de nouvelles capacités et statistiques qui amélioreront votre stratégie de combat."]
+	quest.04EF9E3428733BE9.quest_subtitle: "Améliorez votre équipe"
+	quest.04EF9E3428733BE9.title: "6 Evolutions Challenge"
+	quest.04F3D8843DD27D60.quest_subtitle: "Es-tu prêt ? Tu n’as qu’une seule chance."
+	quest.04F3D8843DD27D60.title: "Attraper tout le trio des émotions"
+	quest.051AFA8601725A68.quest_subtitle: "Le Professeur Chen t’a confié un Pokédex. Utilise-le pour garder une trace des Pokémon que tu rencontres !"
+	quest.0550B8A20CF48E44.title: "&fUn &dXerneas &fsauvage est apparu !"
+	quest.0559A63D89E105D9.quest_desc: ["&fWinona, champion Vol de Fortree City, fait partie des combats officiels du Gym World Tour de Hoenn. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.0559A63D89E105D9.quest_subtitle: "&bLevel Cap débloqué : Nv 58"
+	quest.0559A63D89E105D9.title: "Winona"
+	quest.0597B3991541AC3A.title: "Capturer le légendaire &5Chien-Pao"
+	quest.059D97100159C0F5.quest_desc: [
+		"&fMettez votre série actuelle en pause et entrez en &dMode Freeroam&f.  "
+		"Dans ce mode, &avos Pokémon peuvent librement atteindre le Niveau 100&f, sans aucune restriction de limite de niveau.  "
+		""
+		"&cImportant :&f Le Freeroam suspend temporairement la progression de votre série actuelle. En Freeroam, vous n’avancerez dans aucun scénario et ne débloquerez pas de nouveaux objectifs.  "
+		""
+		"Vous pouvez revenir à votre série précédente à tout moment en :  "
+		"&8• &fCliquant sur le bouton dédié dans le menu FTB Quests de chaque région."
+		"&8• &fOu en faisant apparaître un PNJ de l’Association des Dresseurs pour &esélectionner une autre série&f et reprendre là où vous vous étiez arrêté.  "
+		""
+		"Cette option est parfaite pour les joueurs qui souhaitent explorer, s’entraîner et capturer des Pokémon sans être limités par les caps de niveau, tout en gardant la possibilité de revenir à une progression structurée."
+	]
+	quest.059D97100159C0F5.quest_subtitle: "&bSans limite de niveau"
+	quest.059D97100159C0F5.title: "&dMode Freeroam"
+	quest.05DC38569A3E793F.quest_desc: ["&fBrawly, champion Combat de Dewford Town, fait partie des combats officiels du Gym World Tour de Hoenn. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.05DC38569A3E793F.quest_subtitle: "&bLevel Cap débloqué : Nv 50"
+	quest.05DC38569A3E793F.title: "Brawly"
+	quest.067C7B4DA011E68B.quest_desc: ["Ton fossile est maintenant entièrement analysé, et tu es à un pas de ramener un Pokémon préhistorique à la vie ! Le Réservoir de Restauration est l’étape finale de ce processus incroyable."]
+	quest.067C7B4DA011E68B.quest_subtitle: "Ramener les Pokémon anciens à la vie !"
+	quest.067C7B4DA011E68B.title: "Le Processus de Restauration"
+	quest.06DF3E265439C6A2.title: "Capturer le légendaire &6Regirock"
+	quest.076878D76D6617A5.quest_desc: ["&fJuan, champion Eau de Sootopolis City, fait partie des combats officiels du Gym World Tour de Hoenn. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.076878D76D6617A5.quest_subtitle: "&bLevel Cap débloqué : Nv 62"
+	quest.076878D76D6617A5.title: "Juan"
+	quest.07CE1040136BCFA8.title: "&fUn &dKoraidon &fsauvage est apparu !"
+	quest.08A319A1BEE4F036.quest_desc: [
+		"&fRamène ton &bPokémon du slot 1&f à la taille &cNormale (1.0)&f, le standard par défaut de Cobblemon.  "
+		"&c⚠ Rappel : Cela affecte uniquement le premier Pokémon de ton équipe (slot 1). Vérifie bien avant d’utiliser !  "
+		""
+		"&f💰 Coût : &e20 Realms Coin"
+	]
+	quest.08A319A1BEE4F036.quest_subtitle: "&eRemets ton Pokémon à la taille par défaut"
+	quest.08A319A1BEE4F036.title: "&6Taille Normale"
+	quest.08BE9FD500231291.quest_desc: ["Percila, experte des Pokémon de type Combat, est une artiste martiale dédiée et ancienne élève de Bardane. Sa force repose sur la discipline et la puissance physique, croyant que les combats Pokémon reflètent l'entraînement du corps et de l'esprit."]
+	quest.08BE9FD500231291.quest_subtitle: "&bRecommandé : ~Niv 85"
+	quest.08BE9FD500231291.title: "Percila"
+	quest.08C535D38E761D21.quest_desc: ["🌍 Sage et expérimentée, Terry mise sur la force intérieure et la patience — ses Pokémon reflètent la puissance calme de la terre."]
+	quest.08C535D38E761D21.quest_subtitle: "&bRecommandé : ~Niv 59"
+	quest.090C801EEFF5807D.quest_desc: ["Alola a révélé des formes d’évolution inédites. Ces changements, comme les formes d'Alola, sont le résultat direct des conditions locales, un mélange de cultures et d’écosystèmes. En capturant 60 Pokémon, tu pourras observer ce phénomène fascinant et peut-être même en apprendre davantage sur le processus évolutif unique à cette région."]
+	quest.090C801EEFF5807D.title: "Obtenir 60 Pokémon différents issus du Pokédex de la génération 7"
+	quest.09207E07B62161E8.title: "Capturer le légendaire &eTerrakium"
+	quest.0938789D3870FED2.quest_desc: ["As-tu entendu parler de Kyogre, Groudon et Rayquaza ? Ces entités incarnent les forces fondamentales du monde : la mer, la terre et le ciel. Même si tu ne croises pas leur chemin, de nombreux Pokémon de Hoenn portent encore les traces de leur influence. Lorsque tu atteindras les 100 espèces capturées, tu seras au plus près de l’essence mythologique de cette région."]
+	quest.0938789D3870FED2.title: "Obtenir 100 Pokémon différents issus du Pokédex de la génération 3"
+	quest.0939C255CD8D6F52.quest_desc: [
+		"&fChampion Ténèbres de Spikemuth, Piers combat avec cran et stratégie."
+		"&fBats Piers pour récupérer le Dark Badge."
+	]
+	quest.0939C255CD8D6F52.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.0939C255CD8D6F52.title: "Piers"
+	quest.096707FE505F1ED5.title: "Maître de Galar"
+	quest.09DD54EE83E83325.quest_desc: [
+		"&fVous souhaitez devenir une véritable partie du monde de &bCobblemon Realms&f ?"
+		"&fAvec le tier Patreon &dStorykeeper&f, vous pouvez créer votre propre &fdresseur personnalisé&r, ajouté définitivement au modpack."
+		""
+		"&fVotre dresseur :"
+		"&b• &fApparaîtra dans le monde comme un challenger unique"
+		"&b• &fPossédera une équipe Pokémon entièrement personnalisée"
+		"&b• &fUtilisera votre propre skin Minecraft"
+		"&b• &fAura une page dédiée dans le Quest Book"
+		"&b• &fOffrira une récompense unique une fois vaincu"
+		""
+		"&fCe n'est pas un simple bonus cosmétique."
+		"&fVotre dresseur devient une véritable partie de l'aventure."
+		""
+		"&e&lComment le débloquer"
+		"&fSoutenez le projet sur Patreon et débloquez le tier &dStorykeeper&f."
+		""
+		"&fUne fois débloqué, vous serez contacté afin d'envoyer :"
+		"&b• &fNom du dresseur"
+		"&b• &fSkin Minecraft"
+		"&b• &fÉquipe Pokémon"
+		"&b• &fDescription RP optionnelle"
+		"&b• &fRécompense de combat"
+		""
+		"&fPlus d'informations ci-dessous :"
+		"{\"text\":\"Cliquez ici\",\"italic\":true,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.patreon.com/c/ourstorycollection/membership\"}}"
+	]
+	quest.09DD54EE83E83325.title: "&e&lCrée ton propre Dresseur personnalisé"
+	quest.09DFEDF05A1F9109.quest_desc: ["Star de cinéma et Maîtresse de Kalos, Dianthéa allie parfaitement beauté et force. Bien qu’admirée à l’écran, ses vrais fans savent que sa passion réside dans les combats Pokémon — en particulier avec sa fidèle Gardevoir."]
+	quest.09DFEDF05A1F9109.quest_subtitle: "&bRecommandé : ~Niv 100"
+	quest.09DFEDF05A1F9109.title: "Dianthéa"
+	quest.0A1D152E33182545.quest_subtitle: "&bRecommandé : ~Niv 93"
+	quest.0A1D152E33182545.title: "Aragon"
+	quest.0A317CDB453CDC15.quest_desc: [
+		"&fChampionne Normal de Goldenrod City, Whitney cache une force redoutable derrière son sourire."
+		"&fBats Whitney pour récupérer le Plain Badge."
+	]
+	quest.0A317CDB453CDC15.quest_subtitle: "&bLevel Cap débloqué : Nv 35"
+	quest.0A317CDB453CDC15.title: "Whitney"
+	quest.0B60DD31E8E2B6E7.title: "&fUn &bManaphy &fsauvage est apparu !"
+	quest.0B8785A83BA2C3CF.title: "&fUn &aShaymin &fsauvage est apparu !"
+	quest.0BB3409343A6D592.quest_desc: ["Cattleya, connue pour sa puissance psychique immense, est apparue autrefois au Château de Combat de Sinnoh. Aujourd’hui membre calme et royale du Conseil 4, son allure paisible cache une force écrasante d’énergie psychique."]
+	quest.0BB3409343A6D592.quest_subtitle: "&bRecommandé : ~Niv 85"
+	quest.0BB3409343A6D592.title: "Cattleya"
+	quest.0BD6AEABA59BD4B7.quest_desc: ["Unys est une région cosmopolite, peuplée de Pokémon venant de divers biomes et porteurs de philosophies variées. Étudie cette diversité et découvre ce que signifie véritablement l’unité dans la différence."]
+	quest.0BD6AEABA59BD4B7.title: "Obtenir 80 Pokémon différents issus du Pokédex de la génération 5"
+	quest.0BEDD61CABE9D486.title: "Capturer le légendaire &cEntei"
+	quest.0C9EE590FEBA97A1.quest_desc: [
+		"&fChampionne Acier de Olivine City, Jasmine reste calme, douce et incassable."
+		"&fBats Jasmine pour récupérer le Mineral Badge."
+	]
+	quest.0C9EE590FEBA97A1.quest_subtitle: "&bLevel Cap débloqué : Nv 41"
+	quest.0C9EE590FEBA97A1.title: "Jasmine"
+	quest.0CB72CA26B2AC085.quest_desc: [
+		"&6&l🏆 Progression des Dresseurs de Kanto — Radical Red"
+		""
+		"&fSuivez la ligne de combats personnalisée des Dresseurs Radicaux pour affronter les Champions et rivaux emblématiques de Kanto !"
+		""
+		"&b⏩ &nCliquez ici pour voir le chemin complet des dresseurs :&r &7"
+		"{\"text\":\"Lien du Graph Radical Red\",\"italic\":true,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.plantuml.com/plantuml/svg/~1U06TMKs[...]\"}}"
+		""
+		"&c⚠ Avertissement sur le système de badges :&r"
+		"&7Le système de badges n’est pas encore totalement implémenté. Si vous avez déjà battu un Champion, pas d’inquiétude — vous pourrez réclamer votre badge plus tard. Ce message sera supprimé une fois le système en place !"
+		""
+		"&9🔄 Vous voulez passer à la progression Radical Red ?"
+		"&rVous pouvez réinitialiser votre progression actuelle en échangeant une &6Relique&r à tout moment !"
+		""
+		"&6Bonne chance, Dresseur. Que votre voyage à travers Kanto soit légendaire !"
+	]
+	quest.0CB72CA26B2AC085.title: "&6Progression Kanto — Dresseurs"
+	quest.0D48C943F1D83131.title: "Safari Ball 2013 5"
+	quest.0D5FF2192D107956.quest_desc: [
+		"&fChampion Dragon de Hammerlocke, Raihan maîtrise météo et pression."
+		"&fBats Raihan pour récupérer le Dragon Badge."
+	]
+	quest.0D5FF2192D107956.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.0D5FF2192D107956.title: "Raihan"
+	quest.0D63035082D098AC.quest_desc: [
+		"&6&l🏆 Progression des Dresseurs de Hoenn — Défi des Arènes"
+		""
+		"&fSuivez le parcours officiel des Arènes de la région de Hoenn et affrontez ses Champions emblématiques un à un !"
+		""
+		"&b⏩ &nCliquez ici pour voir le chemin complet :&r &7"
+		"{\"text\":\"Lien du Graph des Dresseurs de Hoenn\",\"italic\":true,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.plantuml.com/plantuml/svg/~1U05jLC[...]\"}}"
+		""
+		"&9🔄 Vous voulez passer à la série des Arènes de Hoenn ?"
+		"&rVous pouvez réinitialiser votre série actuelle en échangeant une &6Relique&r à tout moment !"
+		""
+		"&6Bonne chance pour ta conquête des Arènes de Hoenn !"
+	]
+	quest.0D63035082D098AC.title: "&6Défi des Arènes de Hoenn"
+	quest.0DA3EA93427F17A8.quest_subtitle: "Réanime le prédateur ancestral du ciel !"
+	quest.0DA3EA93427F17A8.title: "La Légende Ailée"
+	quest.0DEBC61F8E0B71C2.quest_desc: [
+		"Pour partager tes quêtes avec tes amis, tu dois créer une équipe."
+		""
+		"Pour cela, tape la commande : \"/ftbteams party create\" ou utilise le menu en haut à gauche."
+		""
+		"À partir de là, tu peux cliquer sur Paramètres pour configurer ton équipe (nom, couleur, description, etc.)."
+		""
+		"Tu peux maintenant ajouter tes amis depuis la même interface et commencer votre aventure en coopération."
+	]
+	quest.0DEBC61F8E0B71C2.quest_subtitle: "Lis ma description !"
+	quest.0DEBC61F8E0B71C2.title: "&eFTB Teams"
+	quest.0E30AF17F98585EE.quest_desc: ["Vêtu d’une armure chevaleresque, Wikstrom rêve de vaillance et de noblesse. Expert du type Acier, il apporte de l’honneur à ses combats et encourage toujours les dresseurs à se battre avec dignité et respect."]
+	quest.0E30AF17F98585EE.quest_subtitle: "&bRecommandé : ~Niv 100"
+	quest.0E30AF17F98585EE.title: "Wikstrom"
+	quest.0E47DBC64E3305D3.title: "Capturer le légendaire &aCalyrex"
+	quest.0E501338CD6306A1.quest_desc: ["&fSkyla, champion Vol de Mistralton City, fait partie des combats officiels du Gym World Tour de Unova. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.0E501338CD6306A1.quest_subtitle: "&bLevel Cap débloqué : Nv 87"
+	quest.0E501338CD6306A1.title: "Skyla"
+	quest.0E8C2DAFF6E93BEA.title: "Maître d'Unys"
+	quest.0EC6ADB264C82954.title: "Heavy Ball 2013 9"
+	quest.0EC7AC28BC6700F2.quest_desc: ["&fValerie, champion Fée de Laverre City, fait partie des combats officiels du Gym World Tour de Kalos. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.0EC7AC28BC6700F2.quest_subtitle: "&bLevel Cap débloqué : Nv 96"
+	quest.0EC7AC28BC6700F2.title: "Valerie"
+	quest.0ED784ADF48804A2.quest_desc: ["Plus tu progresses, plus tu te rends compte que ces Pokémon ont su s’adapter à une grande variété d’environnements. Les espèces de Kanto sont robustes et emblématiques. Avec 40 captures, tu poseras une base solide pour comprendre leurs différences biologiques."]
+	quest.0ED784ADF48804A2.title: "Obtenir 40 Pokémon différents issus du Pokédex de la génération 1"
+	quest.102E66D73862EC60.title: "Capturer le légendaire &eKoko"
+	quest.103DD799D79A3D47.quest_desc: ["Alola est bien plus qu’une simple région : c’est un lieu où les énergies naturelles se rencontrent. En capturant tous les Pokémon d’Alola, tu pénètres au cœur de cet univers enchanteur, où l’écosystème s’équilibre parfaitement. Félicitations, tu fais désormais partie de l’histoire de cette région fascinante."]
+	quest.103DD799D79A3D47.title: "Obtenir les 88 Pokémon différents issus du Pokédex de la génération 7"
+	quest.10A1016053015870.quest_desc: ["&fViola, champion Insecte de Santalune City, fait partie des combats officiels du Gym World Tour de Kalos. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.10A1016053015870.quest_subtitle: "&bLevel Cap débloqué : Nv 91"
+	quest.10A1016053015870.title: "Viola"
+	quest.10C2252468961C2F.quest_desc: [
+		"&fChampion Glace de Glaseado, Grusha est calme, précis et brutalement froid."
+		"&fBats Grusha pour récupérer le Ice Badge."
+	]
+	quest.10C2252468961C2F.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.10C2252468961C2F.title: "Grusha"
+	quest.10F2F596C66BA041.quest_desc: [
+		"&bTom's Simple Storage&r est une alternative &esimple&r à &bAE2&r pour gérer vos objets."
+		""
+		"Il est conçu pour être plus facile à mettre en place tout en offrant une solution de stockage puissante."
+		""
+		"Un des éléments principaux de &bTom's Simple Storage&r est le &eStorage Terminal&r."
+		"Il permet d'accéder et de gérer les objets stockés dans votre &bréseau&r."
+		""
+		"Astuce : Il fonctionne très bien avec le mod &bSophisticated Storage&r."
+	]
+	quest.11886FEE23FB1FA0.quest_subtitle: "Construis 1 PC supplémentaire pour aider d'autres dresseurs ou pour ta propre collection."
+	quest.12D0D3A50BBDCE1F.quest_desc: ["&fMelony, champion Glace de Circhester, fait partie des combats officiels du Gym World Tour de Galar. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.12D0D3A50BBDCE1F.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.12D0D3A50BBDCE1F.title: "Melony"
+	quest.13E1483EE3CD5675.quest_desc: ["&fNessa, champion Eau de Hulbury, fait partie des combats officiels du Gym World Tour de Galar. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.13E1483EE3CD5675.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.13E1483EE3CD5675.title: "Nessa"
+	quest.14234A407DF24445.quest_desc: ["Engagez-vous et remportez 50 batailles Pokémon ! Que ce soit contre des Pokémon sauvages ou des Dresseurs, chaque victoire vous rapproche un peu plus du titre de maître Dresseur. Testez votre stratégie, affinez votre équipe et laissez vos compétences briller sur le champ de bataille."]
+	quest.14234A407DF24445.quest_subtitle: "Prouvez votre maîtrise du combat"
+	quest.14234A407DF24445.title: "50 Combats Pokémon"
+	quest.142F92D3B83B8F73.title: "&fUn &bLatios &fsauvage est apparu !"
+	quest.14A9DB8454589823.quest_desc: [
+		"Le &eInventory Cable Connector&r permet de relier différents stockages."
+		""
+		"Il permet de connecter deux inventaires au sein du même &bréseau&r."
+	]
+	quest.15A01CC993137DCF.quest_desc: [
+		"L'icône en haut à gauche de l'écran est le menu &aFTB Teams&r. Il te permet d'ajouter d'autres joueurs à ton équipe."
+		""
+		"À droite de l'icône &aFTB Teams&r, se trouve l'icône du &6Livre de Quêtes&r, qui te permet d'y accéder à tout moment."
+		""
+		"Les quêtes sont là pour enrichir ton aventure et te guider à travers le modpack tout en te faisant gagner des récompenses."
+	]
+	quest.15A01CC993137DCF.quest_subtitle: "Lis ma description !"
+	quest.15B31B2B8B90F805.quest_desc: [
+		"&fChampion Spectre silencieux, caché derrière son masque."
+		"&fBats Allister pour récupérer le Ghost Badge."
+	]
+	quest.15B31B2B8B90F805.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.15B31B2B8B90F805.title: "Allister"
+	quest.15C37CDC1FB0258F.title: "&fUn &eZekrom &fsauvage est apparu !"
+	quest.160837029AE0BB52.title: "Capturer le légendaire &5Créhelf"
+	quest.161061D6B1ECEC71.quest_desc: ["Le Nether est une dimension dangereuse, remplie de lave, où la survie est une véritable épreuve de compétence. Traverse des forêts carmin, des deltas de basalte et des vallées de sable des âmes tout en affrontant des ennemis puissants et en recherchant des ressources rares. Fais attention, le danger est partout."]
+	quest.161061D6B1ECEC71.quest_subtitle: "Le Nether : Un Enfer de Feu"
+	quest.161061D6B1ECEC71.title: "Visite le Nether"
+	quest.16E5F30F12932F5C.quest_desc: ["Une version en bloc complet du &eCable Connector&r."]
+	quest.17156E54E3070B88.quest_desc: [
+		"&fXxend a quitté la ligne temporelle avec un seul objectif :"
+		"&ftrouver un adversaire digne de l'affronter."
+		""
+		"&fCe &bStorykeeper Trainer&r peut apparaître &eà tout moment&r dans le monde."
+		"&fPartez à sa recherche, défiez-le et prouvez que vous méritez d'affronter le futur."
+		""
+		"&f&lRécompense de combat&r : &dSparkling Stone"
+	]
+	quest.17156E54E3070B88.quest_subtitle: "Un voyageur temporel en quête du frisson du combat."
+	quest.17156E54E3070B88.title: "&b&lXxEnd, le voyageur du temps"
+	quest.173D2B8A8694F17A.quest_subtitle: "&bRecommandé : ~Niv 81"
+	quest.17EDCBE58ADB7DE7.title: "&fUn &dSolgaleo &fsauvage est apparu !"
+	quest.17EE02A867A34A4C.quest_desc: ["&fLe vétéran Électrik de Carmin sur Mer transforme chaque combat en test de tension. Prépare une stratégie solide avant la surcharge."]
+	quest.17EE02A867A34A4C.quest_subtitle: "&bLevel Cap débloqué : Nv 25"
+	quest.17EE02A867A34A4C.title: "Lt. Surge"
+	quest.1864C6A6C75AC4C7.quest_desc: [
+		"Ce tutoriel va t’expliquer quelques fonctionnalités de base. Ne t’inquiète pas, ça ne prendra pas trop de temps !"
+		""
+		"Pour commencer, clique sur la coche en dessous du mot \"Tâches\", puis réclame ta récompense de quête. De nouvelles quêtes apparaîtront !"
+		""
+		"Si aucune nouvelle quête n’apparaît, essaie de relancer ton monde. Ne jette pas les champignons avant d’avoir terminé le tutoriel."
+	]
+	quest.1864C6A6C75AC4C7.quest_subtitle: "Pour commencer le tutoriel, clique sur cette quête et lis la description."
+	quest.18B4EAD49DE50658.quest_subtitle: "&bRecommandé : ~Niv 74"
+	quest.18B4EAD49DE50658.title: "Manta"
+	quest.18FE3366B4BEEEB8.quest_desc: ["Johto a vu naître de nombreuses évolutions inédites : des formes nouvelles provenant de Pokémon d’autres régions. Ces métamorphoses sont fascinantes à étudier. En capturant 80 espèces, tu auras de quoi analyser l’impact des conditions environnementales sur leur développement."]
+	quest.18FE3366B4BEEEB8.title: "Obtenir 80 Pokémon différents issus du Pokédex de la génération 2"
+	quest.19FDF486AFC1C995.quest_subtitle: "&bRecommandé : ~Niv 85"
+	quest.19FDF486AFC1C995.title: "Max"
+	quest.1A2E1E124AFB663D.title: "Love Ball 2013 9"
+	quest.1A45DDBDFC0EE3CC.quest_desc: [
+		"Le &eAdvanced Wireless Terminal&r permet d'accéder à votre stockage à distance, jusqu'à 64 blocs."
+		""
+		"Si un &eBeacon&r est placé dans un rayon de 8 blocs autour du terminal, la portée peut être augmentée selon son niveau :"
+		""
+		"Niveau 1 : accès partout dans la même dimension."
+		"Niveau 4 : accès partout dans toutes les dimensions."
+		""
+		"Important : le &eTerminal&r et le &eBeacon&r doivent rester chargés pour accéder au réseau."
+	]
+	quest.1A50C9B613D17BE3.quest_subtitle: "&bRecommandé : ~Niv 80"
+	quest.1A50C9B613D17BE3.title: "Tabitha"
+	quest.1A84E6A8E3F5DFFA.quest_subtitle: "&bRecommandé : ~Niv 80"
+	quest.1A84E6A8E3F5DFFA.title: "Courtney"
+	quest.1A880DE1FF836830.quest_desc: [
+		"Le &eLevel Emitter&r envoie un signal de redstone lorsqu'un objet atteint une certaine quantité dans votre &bréseau&r."
+		""
+		"Par exemple, s'il est réglé sur 500 cobblestone, il émettra un signal lorsque votre réseau en contiendra plus de 500."
+	]
+	quest.1AA1807AEB8FC0FF.quest_subtitle: "&bRecommandé : ~Niv 69"
+	quest.1AA1807AEB8FC0FF.title: "Ray"
+	quest.1AFCC8C4B48933C9.quest_desc: [
+		"Cobblemon est autant une question d’&dexploration&r que de Pokémon. Que tu cherches des Pokémon rares, découvres des villages ou récoltes des ressources, il y a toujours quelque chose de nouveau à trouver."
+		"\\n\\nTu rencontreras divers sites de fouilles, donjons, temples et autres structures fascinantes à travers toutes les dimensions !"
+		"\\n- Surveille les quêtes pour une checklist d'exploration &7(bientôt disponible)&r"
+		"\\n\\n&e&lAstuce :&r &rNe néglige pas les arbres à Noigrumes – ils sont essentiels pour fabriquer des Poké Balls !"
+	]
+	quest.1AFCC8C4B48933C9.quest_subtitle: "Découvre de nouveaux biomes et ressources"
+	quest.1AFCC8C4B48933C9.title: "Exploration et Aventure"
+	quest.1B5F85BF8AA75893.quest_desc: ["🐛 Aaron est jeune, loyal et passionné par les Pokémon Insecte. Il a jadis manqué de confiance en lui mais s’est transformé en véritable membre du Conseil 4."]
+	quest.1B5F85BF8AA75893.quest_subtitle: "&bRecommandé : ~Niv 57"
+	quest.1B93842B9AD3B422.quest_desc: ["Le mystérieux dernier Champion d’Arène n’est autre que le chef de la Team Rocket. La maîtrise du type Sol de Giovanni reflète son ambition de contrôler depuis l’ombre."]
+	quest.1B93842B9AD3B422.quest_subtitle: "&bRecommandé : ~Niv 80"
+	quest.1B93842B9AD3B422.title: "Giovanni"
+	quest.1C0FF46184784148.quest_desc: ["Bien que peu nombreux, les Pokémon de Kalos sont désormais tous inscrits dans ton encyclopédie. Tu es digne de détenir le savoir ancien de cette région."]
+	quest.1C0FF46184784148.title: "Obtenir les 73 Pokémon différents issus du Pokédex de la génération 6"
+	quest.1C6BDFF8FE947B4B.title: "Capturer le légendaire &cHo-Oh"
+	quest.1C7C22A12D409120.quest_desc: ["🧠 Maître de la tactique et de la littérature, Lucio lit aussi bien les livres que dans les pensées. Il est le cerveau du Conseil 4."]
+	quest.1C7C22A12D409120.quest_subtitle: "&bRecommandé : ~Niv 63"
+	quest.1D372D62EC32A485.quest_desc: [
+		"Le &eInventory Cable&r permet de connecter différents blocs de stockage comme des coffres."
+		""
+		"Avec d'autres composants, ces inventaires peuvent être intégrés à votre &bréseau&r."
+	]
+	quest.1E4CAAC510D62A5F.quest_desc: ["Le &eFilter&r permet aux objets d'entrer dans un inventaire uniquement si cet objet est déjà présent à l'intérieur."]
+	quest.1F0411235971D6F7.quest_desc: ["Hoenn est réputée pour sa faune variée et contrastée. Certains Pokémon préfèrent les marais humides, d’autres habitent les flancs des montagnes ou les cavernes profondes. En capturant 40 spécimens, tu commenceras à percevoir cette richesse. Sois attentif : ici, les Pokémon sont souvent le fruit de leurs environnements extrêmes."]
+	quest.1F0411235971D6F7.title: "Obtenir 40 Pokémon différents issus du Pokédex de la génération 3"
+	quest.1F3AF58B2297B52E.quest_desc: ["&fCandice, champion Glace de Snowpoint City, fait partie des combats officiels du Gym World Tour de Sinnoh. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.1F3AF58B2297B52E.quest_subtitle: "&bLevel Cap débloqué : Nv 77"
+	quest.1F3AF58B2297B52E.title: "Candice"
+	quest.20153E139D596C8C.quest_desc: ["Fonctionne comme une interface similaire à celles utilisées dans &bAE2&r."]
+	quest.20976935DD7F2CC2.quest_subtitle: "Restaure l’ancêtre de tous les oiseaux !"
+	quest.20976935DD7F2CC2.title: "Les Ailes de la Préhistoire"
+	quest.209941E5B135982B.quest_desc: ["Tu as exploré tout ce que Sinnoh avait à offrir : sa rigueur, sa mystique et ses racines profondes. Grâce à toi, la connaissance renaît. Tu portes désormais en toi l’écho de cette région."]
+	quest.209941E5B135982B.title: "Obtenir les 107 Pokémon différents issus du Pokédex de la génération 4"
+	quest.20E56946F53C2005.quest_desc: [
+		"En bas de l’inventaire, tu as peut-être remarqué une barre de recherche."
+		""
+		"C’est la barre de recherche de &dJust Enough Items&r, ou &dJEI&r."
+		""
+		"Si tu tapes \"Bois\", par exemple, la liste d’objets &dJEI &rà droite de l’écran affichera tous les objets contenant \"Bois\" dans leur nom."
+		""
+		"En ajoutant un @ au début de ta recherche, tu peux filtrer les objets d’un mod spécifique, par exemple @Chipped."
+	]
+	quest.20E56946F53C2005.quest_subtitle: "Lis ma description !"
+	quest.21979702BF28B521.quest_subtitle: "&bRecommandé : ~Niv 85"
+	quest.224A14C412DE7B50.quest_desc: [
+		"La Pierre de Voyage est un outil puissant pour se déplacer rapidement dans le monde. En activant des Pierres de Voyage, tu pourras te téléporter entre elles pour une exploration plus rapide."
+		"\\n\\nPour utiliser une Pierre de Voyage :"
+		"\\n1. Trouve ou fabrique une Pierre de Voyage (tu auras besoin de quelques ressources)."
+		"\\n2. Fais un clic droit dessus pour l’activer."
+		"\\n3. Une fois activée, tu pourras te téléporter à partir de n’importe quelle autre Pierre de Voyage débloquée."
+		"\\n4. Pour te téléporter, ouvre le menu des Pierres de Voyage et sélectionne ta destination."
+		"\\n\\nNote : Tu ne peux te téléporter qu’aux Pierres de Voyage que tu as déjà activées. Bon voyage !"
+	]
+	quest.224A14C412DE7B50.quest_subtitle: "&eExplication des Pierres de Voyage"
+	quest.2259C8B3F283D4FD.quest_subtitle: "&bRecommandé : ~Niv 75"
+	quest.2269ABF6B576AF24.quest_desc: [
+		"&fChampion Plante de Artazon, Brassius transforme le combat en œuvre vivante."
+		"&fBats Brassius pour récupérer le Grass Badge."
+	]
+	quest.2269ABF6B576AF24.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.2269ABF6B576AF24.title: "Brassius"
+	quest.23AF41B039B8C705.quest_subtitle: "&bRecommandé : ~Niv 85"
+	quest.249EA3CDB4AD7243.quest_subtitle: "Es-tu prêt ? Tu n’as qu’une seule chance."
+	quest.249EA3CDB4AD7243.title: "Capturer le trio légendaire des oiseaux"
+	quest.24F71DDFE01F3D0F.quest_subtitle: "Gloire au Nautile !"
+	quest.24F71DDFE01F3D0F.title: "Le Secret de la Spirale"
+	quest.251F8B7F42827A2D.title: "Capturer le légendaire &bFini"
+	quest.2541EB890D364B99.quest_subtitle: "&bRecommandé : ~Niv 29"
+	quest.2573B61CDE9D1479.title: "Maître de Johto"
+	quest.263C0F225E13717A.quest_desc: ["Johto abrite des Pokémon dotés d’une essence mystique. Certains ne se révèlent qu’à ceux dont le cœur est pur. Parmi les 90 que tu t’apprêtes à rencontrer, tu ressentiras peut-être ce lien profond entre l’humain, le Pokémon… et le sacré. Sois respectueux dans ta quête."]
+	quest.263C0F225E13717A.title: "Obtenir 90 Pokémon différents issus du Pokédex de la génération 2"
+	quest.268351B03079CCBB.title: "&6Progression du Dresseur de Sinnoh"
+	quest.269A3318AFDED628.quest_subtitle: "&bRecommandé : ~Niv 31"
+	quest.26C4E9AE00308502.quest_desc: [
+		"Votre voyage en tant que Dresseur de Pokémon repose sur l'équilibre et la diversité. Pour prouver votre maîtrise des éléments, vous devez capturer ou faire évoluer un Pokémon représentant chacun de ces trois types fondamentaux :"
+		""
+		"Type Plante : Trouvez un Pokémon qui incarne la nature, la croissance et la résilience."
+		""
+		"Type Feu : Trouvez un Pokémon qui rayonne de passion et de puissance."
+		""
+		"Type Eau : Capturez un Pokémon qui fluide avec agilité et calme force."
+		""
+		"Terminer cette quête prouvera que vous êtes polyvalent et prêt à affronter n'importe quel défi que la nature sauvage vous réserve. Bonne chance, Dresseur !"
+	]
+	quest.26C4E9AE00308502.quest_subtitle: "Capturez un Pokémon de chaque type : Plante, Feu et Eau."
+	quest.26C4E9AE00308502.title: "Le Trio Élémentaire"
+	quest.26CC5A82C2F3365D.title: "Capturer le légendaire &aBulu"
+	quest.273A2D047C98D58F.quest_desc: [
+		"&fChampionne Dragon de Blackthorn City, Clair est fière, exigeante et redoutable."
+		"&fBats Clair pour récupérer le Rising Badge."
+	]
+	quest.273A2D047C98D58F.quest_subtitle: "&bLevel Cap débloqué : Nv 45"
+	quest.273A2D047C98D58F.title: "Clair"
+	quest.2740232C6B1B018E.title: "&fUn &dZacian &fsauvage est apparu !"
+	quest.2789661B22C98366.quest_desc: ["Tu as relevé le défi ultime, en réanimant tous les Pokémon anciens disponibles ! Ta connaissance des fossiles est inégalée—peut-être découvriras-tu encore d’autres secrets à l’avenir…"]
+	quest.2789661B22C98366.quest_subtitle: "Un véritable maître des Pokémon préhistoriques !"
+	quest.2789661B22C98366.title: "Maîtrise des Fossiles"
+	quest.27B3F4E4C6C34510.title: "Capturer le légendaire &cVolcanion"
+	quest.27EAABF8E021A364.quest_desc: ["&fBurgh, champion Insecte de Castelia City, fait partie des combats officiels du Gym World Tour de Unova. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.27EAABF8E021A364.quest_subtitle: "&bLevel Cap débloqué : Nv 84"
+	quest.27EAABF8E021A364.title: "Burgh"
+	quest.280BC148D9DAD250.quest_desc: ["Tu as catalogué tous les Pokémon de Paldea. Leur diversité, leur étrangeté, leur vitalité… Tout cela fait de cette région un jalon essentiel dans ton encyclopédie. Tu viens d’ouvrir une fenêtre sur le futur."]
+	quest.280BC148D9DAD250.title: "Obtenir les 120 Pokémon différents issus du Pokédex de la génération 9"
+	quest.289010CE545DB1E6.quest_desc: ["Permet de peindre et personnaliser les câbles et blocs encadrés."]
+	quest.28EDBA72C5D4F4FE.quest_desc: [
+		"&fChampionne Spectre de Montenevera, Ryme mélange rythme, esprits et pression."
+		"&fBats Ryme pour récupérer le Ghost Badge."
+	]
+	quest.28EDBA72C5D4F4FE.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.28EDBA72C5D4F4FE.title: "Ryme"
+	quest.28F2C99C138FAC6F.quest_desc: ["Les îles d'Alola sont protégées par des Pokémon puissants, les Gardiens des îles. Mais même sans croiser ces entités divines, tu ressentiras leur influence dans la faune locale. À 70 captures, tu deviendras un véritable expert des légendes d'Alola, tout en observant les comportements d’espèces rares et impressionnantes."]
+	quest.28F2C99C138FAC6F.title: "Obtenir 70 Pokémon différents issus du Pokédex de la génération 7"
+	quest.2981BA6FC0E8510A.quest_desc: ["&fMaylene, champion Combat de Veilstone City, fait partie des combats officiels du Gym World Tour de Sinnoh. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.2981BA6FC0E8510A.quest_subtitle: "&bLevel Cap débloqué : Nv 71"
+	quest.2981BA6FC0E8510A.title: "Maylene"
+	quest.298EBEB0D5346BDD.quest_desc: ["Maintenant que tu as un fossile, il est temps de l’analyser ! Le Moniteur t’aidera à identifier l’espèce cachée dans ces vestiges anciens."]
+	quest.298EBEB0D5346BDD.quest_subtitle: "Quels secrets renferme ce fossile ?"
+	quest.298EBEB0D5346BDD.title: "Analyse du Fossile"
+	quest.2AA9784F0526D00D.quest_desc: ["Le Wither est un ennemi féroce. Invoque-le et vaincs-le pour obtenir le puissant noyau d’étoile du Nether qui anime les crânes et le sable."]
+	quest.2AA9784F0526D00D.title: "Les Hauteurs du Flétrissement"
+	quest.2AB27C463CE0C9F0.quest_desc: ["&fGordie, champion Roche de Circhester, fait partie des combats officiels du Gym World Tour de Galar. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.2AB27C463CE0C9F0.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.2AB27C463CE0C9F0.title: "Gordie"
+	quest.2AB2FB362B403460.title: "Sombre Ball 2013 9"
+	quest.2AC137852DA4C38E.quest_subtitle: "&bRecommandé : ~Niv 55"
+	quest.2AEA67F8C1A3A023.quest_desc: [
+		"&bJEI&r (&dJust Enough Items&r) est l’un des &eoutils les plus importants&r de ce modpack."
+		""
+		"De nombreuses quêtes vous demanderont de &erechercher des recettes&r, comprendre des &bchaînes de fabrication&r ou découvrir comment un objet est utilisé."
+		""
+		"&6Comment utiliser JEI :&r"
+		""
+		"• &eClic gauche&r sur un objet pour voir sa &arecette de fabrication&r  "
+		"• &eClic droit&r sur un objet pour voir &bà quoi il sert&r  "
+		"• Utilisez la &abarre de recherche&r pour trouver rapidement des objets ou des machines"
+		""
+		"&l&aAstuce :&r  "
+		"Si une quête vous demande de fabriquer quelque chose et que vous ne savez pas comment faire, vérifiez toujours dans &eJEI&r en premier."
+		""
+		"La plupart des &bréponses&r concernant le crafting et la progression se trouvent dedans."
+		""
+		"{@pagebreak}"
+		"&cImportant :&r  "
+		"Certaines recettes peuvent être modifiées par la progression du modpack, pensez donc toujours à les vérifier dans &dJEI&r."
+		""
+		"Si vous avez encore besoin d’aide, vous pouvez demander sur le &9Discord&r ou chercher &een ligne&r."
+		""
+		"&7Ne vous inquiétez pas si tout semble compliqué au début. Avec &eJEI&r, vous comprendrez rapidement comment tout fonctionne."
+	]
+	quest.2AEA67F8C1A3A023.quest_subtitle: "&bVotre outil le plus puissant pour progresser"
+	quest.2AEA67F8C1A3A023.title: "&eJEI Guide"
+	quest.2B04C39F8061A391.quest_desc: [
+		"Bienvenue dans Our Story."
+		""
+		"Aimes-tu explorer et découvrir de nouvelles contrées ? Aimes-tu aussi automatiser des machines pour obtenir des ressources illimitées ? Alors, ce modpack est fait pour toi."
+		""
+		"Grâce aux futures quêtes qui seront mises en place, tu pourras écrire ton histoire à travers l’exploration, la technologie, la magie et bien d’autres mods."
+		""
+		"Nous te souhaitons un excellent jeu !"
+	]
+	quest.2B04C39F8061A391.title: "Bienvenue"
+	quest.2B9037536F9B9CA0.quest_desc: ["🔥 La fougue de Malcolm et son style flamboyant insufflent de l’énergie au Conseil 4. Il est ami d’enfance avec le Maître de la Ligue : Tanguy !"]
+	quest.2B9037536F9B9CA0.quest_subtitle: "&bRecommandé : ~Niv 61"
+	quest.2BDBD4D89FCDDF52.title: "&fUn &dÉthernatos &fsauvage est apparu !"
+	quest.2BF9EDF75BFFAB84.title: "Rêve Ball 2013 9"
+	quest.2C0AFACD14F7ED1C.quest_desc: ["Certains Pokémon de Galar présentent des formes locales distinctes. Même en dehors de leur région d’origine, ces traits génétiques persistent. En capturant 50 d’entre eux, tu pourras étudier cette continuité fascinante."]
+	quest.2C0AFACD14F7ED1C.title: "Obtenir 50 Pokémon différents issus du Pokédex de la génération 8"
+	quest.2C2A6B2C351DBE24.quest_subtitle: "&bRecommandé : ~Niv 70"
+	quest.2C2A6B2C351DBE24.title: "Tcheren"
+	quest.2C8DC970C9A96B94.title: "&fUn &5Genesect &fsauvage est apparu !"
+	quest.2CAC4F7593B6F49E.title: "&fUn &bPhione &fsauvage est apparu !"
+	quest.2CDFB51DDFAFEFA0.title: "Capture le légendaire &5Hoopa"
+	quest.2D03D5F5B823323A.title: "Filet Ball 2013 9"
+	quest.2D87505812794E74.quest_desc: ["Les &eFilters&r permettent de choisir quels objets sont autorisés à entrer dans un inventaire."]
+	quest.2DEADACEBE389031.quest_desc: ["Tu as capturé toute l’essence d’Unys. Ce n’est pas juste une région moderne : c’est une mosaïque complexe, qui reflète l’évolution de notre société tout autant que celle de ses Pokémon."]
+	quest.2DEADACEBE389031.title: "Obtenir les 156 Pokémon différents issus du Pokédex de la génération 5"
+	quest.2E07C595CCE93B79.quest_desc: ["Les Pokémon originaires de Sinnoh possèdent souvent une aura ancestrale. Même les plus communs semblent liés à une époque révolue. Commence ton observation avec 20 d’entre eux. Analyse leurs comportements, leurs formes… Tu pourrais découvrir une sagesse silencieuse."]
+	quest.2E07C595CCE93B79.title: "Obtenir 20 Pokémon différents issus du Pokédex de la génération 4"
+	quest.2E6D783CB515DC00.title: "&fUn &eFulguris &fsauvage est apparu !"
+	quest.2E82B8B267E28E1B.quest_desc: [
+		"&fRéduis ton &bPokémon du slot 1&f à une apparence miniature avec la taille &cMini (0.3)&f.  "
+		"&c⚠ Rappel : Cela affecte uniquement le premier Pokémon de ton équipe (slot 1). Vérifie bien avant d’utiliser !  "
+		""
+		"&f💰 Coût : &e25 Realms Coin"
+	]
+	quest.2E82B8B267E28E1B.quest_subtitle: "&eRéduis ton Pokémon à la plus petite taille"
+	quest.2E82B8B267E28E1B.title: "&6Taille Mini"
+	quest.2EB779BBD6F1BECF.quest_desc: ["&fLa championne Plante de Céladopole cache un contrôle dangereux derrière son calme. Coupe les racines avant que le combat ne s’installe."]
+	quest.2EB779BBD6F1BECF.quest_subtitle: "&bLevel Cap débloqué : Nv 25"
+	quest.2EB779BBD6F1BECF.title: "Erika"
+	quest.2EF042A8083928B4.title: "Lune Ball 2013 9"
+	quest.30090644644B4142.quest_desc: ["L'Overworld est une terre vaste et diversifiée, où chaque biome cache de nouvelles surprises. Des forêts luxuriantes aux montagnes imposantes, en passant par les océans sans fin, c'est ici que commence ton aventure. Explore, capture des Pokémon, collecte des ressources et découvre les secrets cachés de ce monde vivant et vibrant."]
+	quest.30090644644B4142.quest_subtitle: "L'Overworld : Au cœur de l'aventure"
+	quest.30090644644B4142.title: "Visite l'Overworld"
+	quest.301F1696722B5175.quest_desc: ["&fLe ninja Poison de Parmanie mise sur les pièges, la pression et le tempo sale. Reste stable ou ses tactiques useront ton équipe."]
+	quest.301F1696722B5175.quest_subtitle: "&bLevel Cap débloqué : Nv 25"
+	quest.301F1696722B5175.title: "Koga"
+	quest.3044817E237CB362.quest_desc: ["Les légendes de Johto racontent des récits de Pokémon liés à la renaissance, au cycle de la vie. Ho-Oh, Suicune et bien d’autres… Mais même sans croiser ces figures mythiques, tu peux ressentir leur influence. Poursuis tes recherches avec 60 captures. Ce savoir te guidera sur des sentiers plus anciens que la mémoire."]
+	quest.3044817E237CB362.title: "Obtenir 60 Pokémon différents issus du Pokédex de la génération 2"
+	quest.3054F81E485394B8.quest_desc: ["Certains Pokémon de Paldea défient toute logique biologique connue. Ce sont des anomalies fascinantes. Leur présence dans ce monde reste un mystère… et un véritable trésor scientifique."]
+	quest.3054F81E485394B8.title: "Obtenir 100 Pokémon différents issus du Pokédex de la génération 9"
+	quest.30797188C37D1D48.quest_desc: [
+		"Le tutoriel est maintenant &aterminé&r !"
+		""
+		"De nouvelles quêtes apparaîtront dans le menu de gauche, triées par catégorie. Certaines resteront secrètes *chut*."
+		""
+		"N'hésite pas à rejoindre notre &bDiscord&r pour toute question : https://discord.gg/kb8NSTF45n"
+	]
+	quest.30797188C37D1D48.quest_subtitle: "Lis ma description !"
+	quest.30C269E0695A704D.quest_desc: ["&fLe dernier champion de Kanto impose une puissance Sol froide et autoritaire. Le vaincre marque la fin de ton premier grand arc régional."]
+	quest.30C269E0695A704D.quest_subtitle: "&bLevel Cap débloqué : Nv 28"
+	quest.30C269E0695A704D.title: "Giovanni"
+	quest.310FDF97D1E0681F.quest_desc: ["La Boussole Naturelle est un outil essentiel pour explorer et trouver des biomes spécifiques dans le monde. Elle te permet de localiser facilement le biome de ton choix et de t’y diriger.\\n\\nComment utiliser la Boussole Naturelle :\\n1. Fabrique ou trouve une Boussole Naturelle.\\n2. Fais un clic droit pour ouvrir son interface.\\n3. Sélectionne le biome que tu veux trouver.\\n4. La boussole pointera dans la bonne direction.\\n\\nNote : La boussole ne fonctionne que si tu as déjà découvert le biome au moins une fois. Bonne exploration !"]
+	quest.310FDF97D1E0681F.quest_subtitle: "&eExplication de la Boussole Naturelle"
+	quest.3120A1970CA00E14.quest_subtitle: "Es-tu prêt ? Tu n'as qu'une seule chance."
+	quest.3120A1970CA00E14.title: "Attrape les 3 légendaires"
+	quest.318320E94E7DCD64.quest_subtitle: "&bRecommandé : ~Niv 69"
+	quest.318320E94E7DCD64.title: "Octo"
+	quest.31E318411D2C06D5.title: "&fUn &9Kyogre &fsauvage est apparu !"
+	quest.32035F371C7A066F.quest_desc: ["Derrière l’esthétique raffinée de Kalos se cache une lignée complexe. Chaque espèce a une histoire riche, parfois noble."]
+	quest.32035F371C7A066F.title: "Obtenir 50 Pokémon différents issus du Pokédex de la génération 6"
+	quest.320C3ECD5EEDCEF2.title: "&fUn &cSulfura de Galar &fsauvage est apparu !"
+	quest.320FD873A45EB92F.quest_desc: ["Rachid est un Connaisseur Pokémon qui pense que les combats sont comme des plats raffinés — un équilibre entre saveur et stratégie. En tant que l’un des triplés de Ogoesse, il teste votre compréhension des types et des goûts."]
+	quest.320FD873A45EB92F.quest_subtitle: "&bRecommandé : ~Niv 25"
+	quest.320FD873A45EB92F.title: "Rachid"
+	quest.322DD3E3032D83FA.quest_desc: [
+		"&6&l🏆 Progression Kalos — Défi de la Ligue"
+		""
+		"&fAffrontez le prestigieux Conseil 4 de Kalos et la Maîtresse Dianthéa dans cet arc de la Ligue à enjeux élevés !"
+		""
+		"&b⏩ &nCliquez ci-dessous pour voir le parcours complet des dresseurs :&r &7"
+		"{\"text\":\"Lien du Graphique de la Ligue Kalos\",\"italic\":true,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.plantuml.com/plantuml/svg/~1U06Lb45Fwp0GXE_-5Kiv8oX7L5b8S0C92JWYeKszZKqSRx0tLF34VtzEOsX5YnIEzep7twoZN2R1A7thrP5OQWcygwtK4T-LEF44inlqdE2MiEu9hYnwJw6ccRBE42IXI2pl7QLnewMsefXKQbpeC6AR0mCD1k0ebdS4hbveAV1FOOoylcBF4OuZcN7zQDso2PGIdAiAbqqTkG-ck3QGbU_ffxHOS2UE0tgjuPWZPjHzZw4LeP0PFDk-dpjidceA9hFjNRssJaYjE4XXgNocssmyk0-2-Lnzgd9Sk0DFAr6BIjzk4XUdbLPvcOzSZ5SFBJJSqsllSdV8XgnfA9QnWOQxqkgd_asluRgK-hAeN63aK6NIiumnFpiR69v2CpphqcBRvN4z6uT1BCu04nnKViyWdmUouZu-9qSLUxCDsPEcf9Y8AUoGR4D6PKh6sZL98hU7KBwqAJaj-hU3A1j17PmKdFWJFGvnY_vN_pVaz2lATAOVAC-bBlE7ady0_m4D7dZp\"}}"
+		""
+		"&9🔄 Vous voulez passer à la progression de la Ligue Kalos ?"
+		"&rVous pouvez réinitialiser votre série actuelle en échangeant une &6Relic Coin&r à tout moment !"
+		""
+		"&6Entrez dans le Panthéon — la Ligue Kalos vous attend !"
+	]
+	quest.322DD3E3032D83FA.title: "&6Progression Kalos — Ligue"
+	quest.3269DBDB2904B394.quest_desc: [
+		"Utiliser le livre de quêtes est très simple. Le côté gauche de l'écran affiche les onglets. Chaque onglet contient des arbres de quêtes."
+		"Cliquer et faire glisser en dehors d'une quête permet de déplacer la page. Cliquer sur une quête l'ouvrira. Les tâches de la quête sont affichées à gauche et sont détectées automatiquement en fonction de ton inventaire ou de tes interactions avec le monde."
+		"Les récompenses pour avoir complété une quête sont affichées à droite et se débloquent une fois toutes les tâches accomplies."
+		"La flèche gauche en haut d'une quête montre les prérequis nécessaires pour la débloquer. La flèche droite montre quelles quêtes seront débloquées après l’avoir terminée."
+		"Tu peux zoomer ou dézoomer sur l'interface avec la molette de la souris."
+		"Enfin, les lignes de quêtes et les quêtes individuelles restent cachées jusqu'à ce que tu aies débloqué la quête précédente. Elles se débloqueront et apparaîtront au fur et à mesure de ta progression."
+	]
+	quest.32703CF33AD93C2F.quest_desc: ["&fIono, champion Électrik de Levincia, fait partie des combats officiels du Gym World Tour de Paldea. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.32703CF33AD93C2F.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.32703CF33AD93C2F.title: "Iono"
+	quest.32B00B671E8CFC02.quest_subtitle: "&bRecommandé : ~Niv 73"
+	quest.338E3B8AA2896C32.quest_desc: [
+		"&dFTBChunks &rpermet de revendiquer des chunks pour sécuriser tes constructions et objets de valeur. Une fois revendiqués, ces chunks seront protégés des dégâts causés par d'autres joueurs et créatures hostiles."
+		""
+		"&e&lComment revendiquer un chunk :&r&r\\n1. Ouvre ta carte (par défaut : &6J&r).\\n2. Assure-toi que l'overlay FTBChunks à gauche est activé.\\n3. Fais un clic gauche sur un chunk pour le revendiquer.\\n4. Shift + Clic gauche pour le charger en permanence.\\n5. Clic droit pour annuler la revendication."
+	]
+	quest.338E3B8AA2896C32.quest_subtitle: "Protège ta base avec FTBChunks"
+	quest.338E3B8AA2896C32.title: "&l&5FTB Chunks"
+	quest.33E3942F8D058647.title: "Maître de Kalos"
+	quest.350E9CDB93694CFD.title: "Capture le légendaire &eÉlecthor"
+	quest.357C4265DC11FF7A.title: "Capture le légendaire &5Créhelf"
+	quest.35A2A387FBB960F9.quest_subtitle: "&bRecommandé : ~Niv 26"
+	quest.35A2A387FBB960F9.title: "Tcheren"
+	quest.35DF00F1E81A6B18.quest_subtitle: "&bRecommandé : ~Niv 46"
+	quest.360505F6E85575B3.quest_desc: ["Maîtresse du type Spectre, Agatha méprise les jeunes Dresseurs comme le Professeur Chen, qu’elle accuse d’avoir oublié le vrai sens du combat. Sa rancune alimente sa puissance."]
+	quest.360505F6E85575B3.quest_subtitle: "&bRecommandé : ~Niv 85"
+	quest.360505F6E85575B3.title: "Agatha"
+	quest.366705735F06E60E.quest_desc: [
+		"En bas de l'inventaire, tu as peut-être remarqué une barre de recherche."
+		""
+		"C'est la barre de recherche de &dJust Enough Items&r, ou &dJEI&r."
+		""
+		"Si tu tapes \"Bois\", par exemple, la liste des objets à droite affichera tous ceux qui contiennent \"Bois\" dans leur nom."
+		""
+		"En ajoutant un @ au début de la recherche, tu peux afficher uniquement les objets d’un mod spécifique, par exemple @Chipped."
+	]
+	quest.366705735F06E60E.quest_subtitle: "Lis ma description !"
+	quest.36B56BA1DC105ADB.quest_desc: ["&fRoxanne, champion Roche de Rustboro City, fait partie des combats officiels du Gym World Tour de Hoenn. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.36B56BA1DC105ADB.quest_subtitle: "&bLevel Cap débloqué : Nv 48"
+	quest.36B56BA1DC105ADB.title: "Roxanne"
+	quest.36D23AA7ADD23E72.quest_subtitle: "&bRecommandé : ~Niv 16"
+	quest.370D01CBEF430D10.title: "Capturez le légendaire &aCelebi"
+	quest.3758134D86B48139.quest_desc: ["Les Pokémon de Kanto sont parmi les premiers à avoir été documentés par les scientifiques. Leur comportement, leurs caractéristiques, tout en eux témoigne de l’histoire de notre monde. Pour commencer, capture 20 d’entre eux. Même dans un monde nouveau comme celui-ci, ils demeurent fidèles à leurs origines."]
+	quest.3758134D86B48139.title: "Obtenir 20 Pokémon différents issus du Pokédex de la génération 1"
+	quest.37BB883174427950.quest_desc: ["Le &eInventory Configurator&r permet de modifier les priorités des stockages et configurer des filtres."]
+	quest.37DC494519537142.quest_desc: ["Certains Pokémon de Galar semblent liés à d’anciens récits ou figures légendaires. Même ici, loin de leurs origines, on perçoit une certaine noblesse dans leur allure. Tu es proche de compléter ton étude."]
+	quest.37DC494519537142.title: "Obtenir 80 Pokémon différents issus du Pokédex de la génération 8"
+	quest.390F000779135BC0.quest_subtitle: "Faites revivre un ancien Pokémon plante !"
+	quest.390F000779135BC0.title: "Les Racines du Passé"
+	quest.39346245919E7CC5.quest_desc: [
+		"Fabriquez le &bCobblemon Smartphone&r et débloquez ses puissantes fonctionnalités ! Avec cet appareil essentiel, vous pouvez :"
+		""
+		"Utiliser &aPokeHeal&r toutes les 15 minutes pour garder votre équipe en parfaite condition."
+		""
+		"Accéder à votre &bPC&r toutes les 5 secondes pour gérer rapidement vos Pokémon."
+		""
+		"À vos outils, et améliorez vos performances !"
+	]
+	quest.39346245919E7CC5.quest_subtitle: "Fabriquez votre smartphone pour améliorer la gestion de vos Pokémon !"
+	quest.39346245919E7CC5.title: "Obtenez votre Poké-Smartphone !"
+	quest.3A700EE0221882C0.quest_desc: [
+		"Pour partager vos quêtes avec vos amis, vous devez créer une équipe."
+		""
+		"Pour ce faire, tapez la commande : \"/ftbteams party create\" ou utilisez le menu en haut à gauche."
+		""
+		"À partir de là, vous pouvez cliquer sur Paramètres pour configurer votre équipe (nom, couleur, description, etc.)."
+		""
+		"Vous pouvez maintenant ajouter vos amis depuis la même interface et commencer votre aventure ensemble."
+	]
+	quest.3A700EE0221882C0.quest_subtitle: "Lisez ma description !"
+	quest.3A846B47FEA4A691.quest_desc: ["Grimsley, un joueur rusé et spécialiste du type Ténèbres, considère les combats comme des jeux de hasard. Grâce à une stratégie affûtée et un sens aigu de la mise en scène, il laisse ses adversaires se demander si ses victoires relèvent de la chance... ou du destin."]
+	quest.3A846B47FEA4A691.quest_subtitle: "&bRecommandé : ~Niv 85"
+	quest.3A846B47FEA4A691.title: "Grimsley"
+	quest.3B80211FD37355FC.quest_subtitle: "&bRecommandé : ~Niv 40"
+	quest.3C7CB29A9C64364E.quest_subtitle: "&bRecommandé : ~Niv 39"
+	quest.3CA6F2785FE34492.quest_desc: ["Le Waystone est un outil puissant pour voyager rapidement à travers le monde. En activant les Waystones, vous pouvez vous téléporter entre eux pour explorer et vous déplacer plus rapidement.\\n\\nPour utiliser un Waystone :\\n1. Trouvez ou fabriquez un Waystone (vous aurez besoin de quelques ressources).\\n2. Faites un clic droit sur le Waystone pour l’activer.\\n3. Une fois activé, vous pouvez vous y téléporter depuis n’importe quel autre Waystone débloqué.\\n4. Pour vous téléporter, ouvrez simplement le menu du Waystone et sélectionnez votre destination.\\n\\nRemarque : Vous ne pouvez vous téléporter qu’aux Waystones que vous avez déjà activés. Bon voyage !"]
+	quest.3CA6F2785FE34492.quest_subtitle: "&eExplication du Waystone"
+	quest.3CAF9F15954BDEC8.quest_desc: ["L'Aether est un royaume majestueux d’îles flottantes suspendues au-dessus des nuages. Des paysages luxuriants, des créatures mystiques et des ruines anciennes éveillent un sentiment d’émerveillement et d’aventure. Mais attention—ce paradis n’est pas sans dangers."]
+	quest.3CAF9F15954BDEC8.quest_subtitle: "L'Aether : Un Paradis Céleste"
+	quest.3CAF9F15954BDEC8.title: "Visite l'Aether"
+	quest.3CB9E3EB1314CD98.quest_desc: [
+		"&fChampionne Poison de Virbank City et rockeuse explosive."
+		"&fBats Roxie pour récupérer le Toxic Badge."
+	]
+	quest.3CB9E3EB1314CD98.quest_subtitle: "&bLevel Cap débloqué : Nv 83"
+	quest.3CB9E3EB1314CD98.title: "Roxie"
+	quest.3CD4614F6001F8D9.title: "&fUn &aZygarde &fsauvage est apparu !"
+	quest.3D2CD94D18B01173.title: "&fUn &dLunala &fsauvage est apparu !"
+	quest.3D5841B8216C4182.quest_desc: [
+		"Pour partager vos quêtes avec vos amis, vous devez créer une équipe."
+		""
+		"Pour ce faire, tapez la commande :"
+		"/ftbteams party create."
+		""
+		"Ensuite, allez dans votre menu d’inventaire et cliquez sur le bouton en haut à gauche \"Mon Équipe\"."
+		"À partir de là, vous pouvez cliquer sur Paramètres pour configurer votre équipe (nom, couleur, description, etc.)."
+		""
+		"Il ne vous reste plus qu'à inviter vos amis avec la commande :"
+		"/ftbteams party invite NOM"
+		""
+		"Vos amis doivent accepter, et vous ferez maintenant partie d'une équipe."
+		""
+		"Si vous souhaitez rejoindre une équipe déjà existante, tapez simplement la commande :"
+		"/ftbteams party join NOM ÉQUIPE"
+	]
+	quest.3DA9A5792741B9C3.title: "&fUn &5Darkrai &fsauvage est apparu !"
+	quest.3DFFA89FE17F9D28.title: "&fUn &bVictini &fsauvage est apparu !"
+	quest.3ECF2010A8E66F22.quest_subtitle: "Ramenez un prédateur préhistorique !"
+	quest.3ECF2010A8E66F22.title: "La Griffe Reliquaire"
+	quest.3F3BB89A991FE51D.title: "&6Progression du Dresseur de Kalos"
+	quest.3F47DD10970A6D82.title: "Mémoire Ball 2013 15"
+	quest.3F76551CB015E728.quest_desc: ["Kalos est également le berceau de la Méga-Évolution. Bien que ce pouvoir soit rare, certains Pokémon ici semblent porteurs de cette énergie. Poursuis tes recherches."]
+	quest.3F76551CB015E728.title: "Obtenir 40 Pokémon différents issus du Pokédex de la génération 6"
+	quest.3F83AD208596996B.quest_desc: ["&fLe champion Feu de Cramois’Île apporte chaleur, expérience et offense explosive. Traverse les flammes pour conclure l’épreuve de Kanto."]
+	quest.3F83AD208596996B.quest_subtitle: "&bLevel Cap débloqué : Nv 26"
+	quest.3F83AD208596996B.title: "Blaine"
+	quest.3FB784230C7DB37C.title: "Super Ball 2013 5"
+	quest.3FC98137542D6E3D.quest_desc: ["Les Pokémon de Hoenn sont nés dans une région façonnée par les éléments : volcans, forêts denses, récifs sous-marins. Même ici, leur héritage se fait ressentir. Commence par en capturer dix, pour t’imprégner de leur diversité. Certains arborent des couleurs chatoyantes ou des formes étonnamment adaptées à leur biotope."]
+	quest.3FC98137542D6E3D.title: "Obtenir 20 Pokémon différents issus du Pokédex de la génération 3"
+	quest.3FE88975B165AFD7.quest_desc: ["Ici, les Pokémon présentent souvent des formes ou motifs évolutifs uniques. Certains changent en fonction de la météo, de leur humeur ou de l’environnement. Observe bien et commence à percer leurs mystères."]
+	quest.3FE88975B165AFD7.title: "Obtenir 30 Pokémon différents issus du Pokédex de la génération 6"
+	quest.404969058AC4D285.quest_desc: [
+		"Comme dans &bAE2&r, il permet d'accéder à votre inventaire à distance."
+		""
+		"Cette version fonctionne dans un rayon de 16 blocs autour du &eTerminal&r."
+	]
+	quest.40977DC365696DBE.title: "&fUn &eDémétéros &fsauvage est apparu !"
+	quest.40B0460C2542627B.quest_desc: ["Cobblemon est autant axé sur l’&dexploration&r que sur les Pokémon. Que vous recherchiez des Pokémon rares, découvriez des villages ou récoltiez des ressources, il y a toujours quelque chose de nouveau à trouver.\\n\\nVous rencontrerez divers sites d’excavation, donjons, temples et autres structures passionnantes dans toutes les dimensions !\\n- Gardez un œil sur les quêtes pour une liste d’exploration &7(bientôt disponible)&r \\n\\n&e&lAstuce :&r &rNe négligez pas les arbres à Noigrumes—ils sont essentiels pour fabriquer des Poké Balls !"]
+	quest.40B0460C2542627B.quest_subtitle: "Découvrez de nouveaux biomes et ressources"
+	quest.40B0460C2542627B.title: "&a&lExploration"
+	quest.4120AB56E16B718C.quest_desc: [
+		"L’icône en haut à gauche de l’écran est le menu &aFTB Teams &r. Il vous permet d’ajouter d’autres joueurs à votre équipe."
+		""
+		"À droite de l’icône &aFTB Teams &r se trouve l’icône du &6Livre de Quêtes &r, qui vous permet d’accéder au &6Livre de Quêtes &r à tout moment."
+		""
+		"Les quêtes sont là pour stimuler votre aventure et vous guider à travers le modpack, tout en vous faisant gagner des récompenses."
+	]
+	quest.4120AB56E16B718C.quest_subtitle: "Lisez ma description !"
+	quest.4120AB56E16B718C.title: "&aInventaire"
+	quest.41BE7F043058A5DF.title: "&fUn &dJirachi &fsauvage est apparu !"
+	quest.42253CC776286D67.title: "Niveau Ball 2013 9"
+	quest.4261C3EC2B3E471B.quest_subtitle: "Texture non créée pour le moment"
+	quest.4261C3EC2B3E471B.title: "&fUn &CHeatran &fsauvage est apparu !"
+	quest.427F71E81E55CAD4.quest_subtitle: "&bRecommandé : ~Niv 80"
+	quest.427F71E81E55CAD4.title: "Sidney"
+	quest.42FAF2C1C1551130.quest_subtitle: "&bRecommandé : ~Niv 44"
+	quest.42FAF2C1C1551130.title: "Bianca"
+	quest.4307B624251F5024.title: "&fUn &dMewtwo &fsauvage est apparu !"
+	quest.431C1794B3E50F8D.quest_desc: ["&fGrant, champion Roche de Cyllage City, fait partie des combats officiels du Gym World Tour de Kalos. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.431C1794B3E50F8D.quest_subtitle: "&bLevel Cap débloqué : Nv 92"
+	quest.431C1794B3E50F8D.title: "Grant"
+	quest.43577F5781B8C662.quest_desc: ["Aldo, le sage errant d’Unys, est devenu Maître après avoir subi une grande perte. Il enseigne que la véritable force naît des liens entre Pokémon et Dresseur, et non de la puissance brute."]
+	quest.43577F5781B8C662.quest_subtitle: "&bRecommandé : ~Niv 90"
+	quest.43577F5781B8C662.title: "Aldo"
+	quest.43658622BCC515DF.quest_subtitle: "Êtes-vous prêt ? Une seule tentative."
+	quest.43658622BCC515DF.title: "Capturez le trio des golems"
+	quest.44657056937D017E.quest_desc: ["&fRamos, champion Plante de Coumarine City, fait partie des combats officiels du Gym World Tour de Kalos. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.44657056937D017E.quest_subtitle: "&bLevel Cap débloqué : Nv 94"
+	quest.44657056937D017E.title: "Ramos"
+	quest.44806F92DA7180E9.quest_desc: ["&fTulip, champion Psy de Alfornada, fait partie des combats officiels du Gym World Tour de Paldea. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.44806F92DA7180E9.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.44806F92DA7180E9.title: "Tulip"
+	quest.454854B0D1C1304E.quest_subtitle: "&bRecommandé : ~Niv 100"
+	quest.454854B0D1C1304E.title: "Steven"
+	quest.45798EAFD68B5146.title: "&fUn &eRegigigas &fsauvage est apparu !"
+	quest.4589A549DA946A35.quest_subtitle: "&bRecommandé : ~Niv 56"
+	quest.45A92374C27B6868.quest_desc: ["🐉 Cynthia est l’une des Maîtresses les plus iconiques. Calme, intelligente et redoutable, elle parcourt le monde pour étudier l’histoire et les légendes des Pokémon."]
+	quest.45A92374C27B6868.quest_subtitle: "&bRecommandé : ~Niv 66"
+	quest.45F88A511ACADA1B.title: "&fUn &5Giratina &fsauvage est apparu !"
+	quest.46228E98CD6368C2.title: "Capturez le légendaire &dDiancie"
+	quest.4630FC3C599C2B19.quest_desc: ["&fWulfric, champion Glace de Snowbelle City, fait partie des combats officiels du Gym World Tour de Kalos. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.4630FC3C599C2B19.quest_subtitle: "&bLevel Cap débloqué : Nv 98"
+	quest.4630FC3C599C2B19.title: "Wulfric"
+	quest.46B2C3383974EF7B.quest_desc: ["Fonctionne comme un &eInventory Cable Connector&r mais son apparence peut être modifiée avec le &ePaint Kit&r."]
+	quest.46E1410D4AA11E87.quest_subtitle: "Êtes-vous prêt ? Une seule tentative."
+	quest.46E1410D4AA11E87.title: "Capturez les 4 Gardiens des Îles"
+	quest.470F5BBA9C042E6F.quest_desc: ["&fLarry, champion Normal de Medali, fait partie des combats officiels du Gym World Tour de Paldea. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.470F5BBA9C042E6F.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.470F5BBA9C042E6F.title: "Larry"
+	quest.4739010042C73110.quest_desc: ["L’Autre Côté est une dimension sombre et oppressante cachée sous les profondeurs. Des biomes étranges et tordus ainsi que des créatures inquiétantes venues d’ailleurs attendent ceux qui s’aventurent trop loin. Son atmosphère dense et son silence troublant rendent la survie difficile."]
+	quest.4739010042C73110.quest_subtitle: "L'Autre Côté : Un Abysse Obscur"
+	quest.4739010042C73110.title: "Visite l'otherside"
+	quest.4757628811012016.quest_desc: ["&fKorrina, champion Combat de Shalour City, fait partie des combats officiels du Gym World Tour de Kalos. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.4757628811012016.quest_subtitle: "&bLevel Cap débloqué : Nv 93"
+	quest.4757628811012016.title: "Korrina"
+	quest.4764A3913D8E4BE9.quest_subtitle: "&bRecommandé : ~Niv 43"
+	quest.47E1CA67D58E20BF.quest_subtitle: "&bRecommandé : ~Niv 37"
+	quest.48866AD1EEF52D49.quest_desc: ["&fLa prodige Eau d’Azuria combat avec vitesse, confiance et tempo agressif. Garde ton sang-froid et prouve que tu peux tenir la marée."]
+	quest.48866AD1EEF52D49.quest_subtitle: "&bLevel Cap débloqué : Nv 25"
+	quest.48866AD1EEF52D49.title: "Misty"
+	quest.490ED8A09AD6A0CE.quest_desc: ["&fOlympia, champion Psy de Anistar City, fait partie des combats officiels du Gym World Tour de Kalos. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.490ED8A09AD6A0CE.quest_subtitle: "&bLevel Cap débloqué : Nv 97"
+	quest.490ED8A09AD6A0CE.title: "Olympia"
+	quest.4953D5A976011FC0.quest_desc: ["Le membre fougueux des triplés de Ogoesse, Chams apporte un style passionné et imprévisible au combat. Il est impulsif, mais se soucie sincèrement de ses combats — et de sa cuisine !"]
+	quest.4953D5A976011FC0.quest_subtitle: "&bRecommandé : ~Niv 25"
+	quest.4953D5A976011FC0.title: "Chams"
+	quest.49672EF001BD989D.quest_desc: ["L'&eOpen Crate&r laisse tomber au sol tout objet qui y est inséré."]
+	quest.496EF0137A09C2E0.quest_desc: [
+		"&fTransforme ton &bPokémon du slot 1&f en un géant imposant avec la taille &cÉnorme (2.0)&f.  "
+		"&c⚠ Rappel : Cela affecte uniquement le premier Pokémon de ton équipe (slot 1). Vérifie bien avant d’utiliser !  "
+		""
+		"&f💰 Coût : &e40 Realms Coin"
+	]
+	quest.496EF0137A09C2E0.quest_subtitle: "&eAmène ton Pokémon à l’échelle maximale"
+	quest.496EF0137A09C2E0.title: "&6Taille Énorme"
+	quest.49856FE3FDCA8020.title: "Maître de Hoenn"
+	quest.49C85191D2CB7853.quest_subtitle: "&bRecommandé : ~Niv 65"
+	quest.49C85191D2CB7853.title: "Jellie"
+	quest.49D23A0468112B2D.quest_desc: [
+		"&e&lVotre premier défi d'Arène :&r"
+		"- Brock est le tout premier Champion d'Arène du &6Cobblemon Realms World Tour&r."
+		"- Il est spécialisé dans les &fPokémon Roche&r et sert d'introduction au système de progression des Arènes."
+		"- Avant de l'affronter, assurez-vous que votre équipe est prête et ne dépasse pas le level cap actuel."
+		"{@pagebreak}"
+		""
+		"&e&lOù trouver Brock :&r"
+		"- Vous pouvez explorer naturellement votre monde pour trouver une &fArène Pokémon&r."
+		"- Si vous ne souhaitez pas chercher, vous pouvez également vous rendre directement sur la &fSpawn Island&r."
+		"- À côté du &fPokéCenter&r, vous trouverez un grand &6Bâtiment d'Arène&r contenant le premier défi."
+		"- Entrez dans l'arène pour commencer votre aventure dans le Cobblemon Realms World Tour."
+		"{@pagebreak}"
+		""
+		"&e&lConseils contre Brock :&r"
+		"- Les Pokémon Roche sont faibles contre les attaques &fEau&r, &fPlante&r, &fSol&r, &fAcier&r et &fCombat&r."
+		"- Évitez de compter uniquement sur des Pokémon Feu, Vol ou Normal en début d'aventure."
+		"- Capturer un Pokémon Eau ou Plante avant votre premier combat d'Arène est fortement recommandé."
+	]
+	quest.49D23A0468112B2D.title: "&bTon premier combat d'arène !"
+	quest.4A4E4AD82FF86BF5.quest_desc: ["Avec votre fossile identifié, il est temps d’y jeter un coup d'œil plus approfondi ! L’Analyseur de Fossiles vous fournira plus de détails sur son origine et sa possible restauration."]
+	quest.4A4E4AD82FF86BF5.quest_subtitle: "Un regard plus profond sur les vestiges anciens !"
+	quest.4A5394CDF4920501.quest_desc: [
+		""
+		"Ce guide est là pour vous introduire aux bases de nos mods principaux et vous proposer quelques défis à relever."
+		""
+		"Cliquez sur les coches pour récupérer vos récompenses."
+		""
+		"Passez votre souris sur le côté gauche de l'écran pour accéder aux éléments du menu."
+		""
+		""
+		"&e&lConseils de Dresseur :&r&r\\n- Appuyez sur \"&eG&r\" pour ouvrir le résumé de votre équipe et choisir un starter ! \\n- Certains Pokémon apparaissent uniquement dans des biomes spécifiques ou à certaines heures.\\n- Utilisez le nouveau &cpokedex&r pour en apprendre plus sur les apparitions de Pokémon.\\n- Explorez d'autres quêtes Cobblemon à travers les chapitres à gauche !"
+		"{@pagebreak}"
+	]
+	quest.4A5394CDF4920501.quest_subtitle: "Bienvenue dans les Royaumes de Cobblemon"
+	quest.4B508504C6C8B4CA.quest_subtitle: "&bRecommandé : ~Niv 85"
+	quest.4B508504C6C8B4CA.title: "Spectra"
+	quest.4B7BEAA7727A9985.title: "Étoile montante de Kanto"
+	quest.4C43A8015A7E31E1.quest_desc: ["Les Pokémon de Galar se distinguent par leur diversité : parfois rustiques, parfois raffinés. Un subtil mélange de traditions et d’évolutions. Leur variété de types et leurs comportements reflètent une complexité fascinante. Continue ta collecte et explore cette richesse."]
+	quest.4C43A8015A7E31E1.title: "Obtenir 60 Pokémon différents issus du Pokédex de la génération 8"
+	quest.4CB8E96CECC63D64.quest_desc: ["À mesure que tu progresses, tu t’approches de la mythologie de Sinnoh. Les Pokémon ici semblent être façonnés par la cosmologie elle-même. Poursuis ta quête, car le savoir que tu amasses est d'une valeur inestimable."]
+	quest.4CB8E96CECC63D64.title: "Obtenir 80 Pokémon différents issus du Pokédex de la génération 4"
+	quest.4DAB8C40EDBFB070.quest_desc: ["Zekrom, Reshiram, Kyurem… Le Yin, le Yang, et le Vide. Ce n'est pas simplement une légende. Leur influence façonne toute la région et ses créatures."]
+	quest.4DAB8C40EDBFB070.title: "Obtenir 100 Pokémon différents issus du Pokédex de la génération 5"
+	quest.4E1B2444D61438D6.title: "&fUn &dZeraora &fsauvage est apparu !"
+	quest.4F33E4856D85753B.quest_desc: ["Le &eCrafting Terminal&r fonctionne comme un terminal classique mais permet de fabriquer des objets directement avec les ressources présentes dans votre &bréseau&r."]
+	quest.4F4579030B990452.quest_desc: ["Chef passionné et spécialiste du type Eau, Narcisse voit les combats comme une forme d’art. Pour lui, concocter un plat et former une équipe requièrent la même élégance et précision."]
+	quest.4F4579030B990452.quest_subtitle: "&bRecommandé : ~Niv 100"
+	quest.4F4579030B990452.title: "Narcisse"
+	quest.4F8CA40C986EA27E.quest_desc: ["&fVolkner, champion Électrik de Sunyshore City, fait partie des combats officiels du Gym World Tour de Sinnoh. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.4F8CA40C986EA27E.quest_subtitle: "&bLevel Cap débloqué : Nv 79"
+	quest.4F8CA40C986EA27E.title: "Volkner"
+	quest.4F9A314184767DA1.quest_subtitle: "&bRecommandé : ~Niv 69"
+	quest.4F9A314184767DA1.title: "Ignio"
+	quest.4FB43D8DE2D6FC32.quest_desc: ["Sinnoh est réputée pour ses formes évolutives issues d'autres régions. De nombreux Pokémon s'y transforment de manière inédite. En capturant 40 espèces, tu commenceras à comprendre comment l'environnement de Sinnoh façonne l'évolution."]
+	quest.4FB43D8DE2D6FC32.title: "Obtenir 40 Pokémon différents issus du Pokédex de la génération 4"
+	quest.5000CF36055EC89D.quest_subtitle: "&bRecommandé : ~Niv 37"
+	quest.50072918BCA03E89.title: "Maître d'Alola"
+	quest.50A27C2F51A711E2.quest_desc: ["&fGardenia, champion Plante de Eterna City, fait partie des combats officiels du Gym World Tour de Sinnoh. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.50A27C2F51A711E2.quest_subtitle: "&bLevel Cap débloqué : Nv 67"
+	quest.50A27C2F51A711E2.title: "Gardenia"
+	quest.50D00A495DEBD89C.title: "Capturez le légendaire &aViridium"
+	quest.51AEA3639258E4F4.title: "Capturez le légendaire &eCobaltium"
+	quest.5206DA39EF40267E.quest_desc: ["&fRoark, champion Roche de Oreburgh City, fait partie des combats officiels du Gym World Tour de Sinnoh. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.5206DA39EF40267E.quest_subtitle: "&bLevel Cap débloqué : Nv 65"
+	quest.5206DA39EF40267E.title: "Roark"
+	quest.5271B269DAFB24B0.quest_desc: ["&fLa maîtresse Psy de Safrania frappe avec précision et puissance mentale. Ici, la discipline compte autant que la force brute."]
+	quest.5271B269DAFB24B0.quest_subtitle: "&bLevel Cap débloqué : Nv 25"
+	quest.5271B269DAFB24B0.title: "Sabrina"
+	quest.52A99591B9E9ACA7.quest_desc: [
+		"&6&l🏆 Progression du Dresseur de Paldea"
+		""
+		"&fLe parcours de combat de Paldea n’est pas encore disponible dans Cobblemon Realms, mais arrivera dans une prochaine mise à jour !"
+		""
+		"&c⚠ Aucune série de Dresseurs disponible pour le moment :&r  "
+		"&7Actuellement, aucun Champion ou série de Dresseurs n’a été implémenté pour Paldea. Restez à l’écoute pour les prochaines mises à jour !"
+		""
+		"&9🎯 En attendant :&r  "
+		"&rNous vous recommandons de choisir une série de Dresseurs d’une autre région ou génération. Vous pouvez changer à tout moment en échangeant une &6Relic Coin&r."
+		""
+		"&6Merci pour votre patience, Dresseur. De grandes aventures vous attendent à Paldea !"
+	]
+	quest.52A99591B9E9ACA7.title: "&6Progression du Dresseur de Paldea"
+	quest.52AA41F4FED839AE.quest_subtitle: "Faites revivre un Pokémon perdu dans les vagues !"
+	quest.52AA41F4FED839AE.title: "Le Gardien des Profondeurs"
+	quest.5327F70208711449.title: "Capturez le légendaire &eRegieleki"
+	quest.539C37CE348F0F8B.quest_desc: [
+		"Ce filtre fonctionne avec des &etags&r au lieu d'objets spécifiques."
+		""
+		"Astuce : Appuyez sur F3 + H pour activer les tooltips avancés. Ensuite maintenez Ctrl sur un objet pour voir ses tags."
+	]
+	quest.53F1B9A4EC8BCE11.title: "Capturez le légendaire &5Créhelf"
+	quest.53FAD016D5140970.quest_desc: [
+		"&fAgrandis ton &bPokémon du slot 1&f à la taille &cGrande (1.3)&f pour une présence renforcée en combat et en vitrine.  "
+		"&c⚠ Rappel : Cela affecte uniquement le premier Pokémon de ton équipe (slot 1). Vérifie bien avant d’utiliser !  "
+		""
+		"&f💰 Coût : &e30 Realms Coin"
+	]
+	quest.53FAD016D5140970.quest_subtitle: "&eFais grandir ton Pokémon au-dessus de la moyenne"
+	quest.53FAD016D5140970.title: "&6Taille Grande"
+	quest.53FC041C91EC9CBA.title: "Capturez le légendaire &bLugia"
+	quest.53FDA90CFFB281A7.quest_subtitle: "&bRecommandé : ~Niv 89"
+	quest.53FDA90CFFB281A7.title: "Glacia"
+	quest.54490F414CAEA76A.title: "&fUn &bKyurem &fsauvage est apparu !"
+	quest.54600BAD1C7BC846.quest_desc: ["Les Pokémon de Johto sont discrets mais riches en histoire. Certains sont liés à des traditions anciennes, tandis que d'autres représentent des formes évolutives apparues pour la première fois ici. Commence par capturer 20 d'entre eux. Bien que vivant dans ce monde modifié, leur nature paisible et équilibrée demeure intacte."]
+	quest.54600BAD1C7BC846.title: "Obtenir 20 Pokémon différents issus du Pokédex de la génération 2"
+	quest.551D23A6865FBEEB.quest_desc: ["Les Pokémon d'Alola sont uniques, souvent influencés par le climat tropical et la biodiversité qui y règne. Même en dehors de cette région, leurs formes et comportements te plongeront dans l’âme de cet archipel. Commence par capturer 20 Pokémon d’Alola et observe comment leur environnement particulier influe sur leur évolution."]
+	quest.551D23A6865FBEEB.title: "Obtenir 20 Pokémon différents issus du Pokédex de la génération 7"
+	quest.554C4A283B1537CB.quest_subtitle: "&bRecommandé : ~Niv 21"
+	quest.55544A30100D89BD.quest_subtitle: "&bRecommandé : ~Niv 21"
+	quest.56322F3B37130EE7.quest_desc: ["&fCheren, champion Normal de Aspertia City, fait partie des combats officiels du Gym World Tour de Unova. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.56322F3B37130EE7.quest_subtitle: "&bLevel Cap débloqué : Nv 82"
+	quest.56322F3B37130EE7.title: "Cheren"
+	quest.567F802438C16BC4.quest_desc: [
+		"Ce guide est là pour vous introduire aux bases de nos mods principaux et vous proposer quelques défis à relever."
+		""
+		"Cliquez sur les coches pour récupérer vos récompenses."
+		""
+		"Passez votre souris sur le côté gauche de l'écran pour accéder aux éléments du menu."
+		""
+		""
+		"&e&lConseils de Dresseur :&r&r\\n- Appuyez sur \"&eG&r\" pour ouvrir le résumé de votre équipe et choisir un starter ! \\n- Certains Pokémon apparaissent uniquement dans des biomes spécifiques ou à certaines heures.\\n- Utilisez le nouveau &cpokedex&r pour en apprendre plus sur les apparitions de Pokémon.\\n- Explorez d'autres quêtes Cobblemon à travers les chapitres à gauche !"
+	]
+	quest.567F802438C16BC4.quest_subtitle: "Bienvenue dans les Royaumes de Cobblemon"
+	quest.56CAB01FD02AD6C9.quest_desc: ["Calme et réfléchi, Ama balance l’énergie de ses frères Chams et Rachid. Sa stratégie basée sur les Pokémon Eau s’écoule lentement mais sûrement, démontrant que même le plus doux ruisseau peut user la pierre la plus dure."]
+	quest.56CAB01FD02AD6C9.quest_subtitle: "&bRecommandé : ~Niv 25"
+	quest.56CAB01FD02AD6C9.title: "Ama"
+	quest.573A00C9E8AE14F2.quest_desc: [
+		"&6&l🏴 Progression du Dresseur de Hoenn — Team Magma"
+		""
+		"&fPlongez dans le scénario de la Team Magma et affrontez leurs commandants en découvrant leurs ambitions brûlantes !"
+		""
+		"&b⏩ &nCliquez ici pour voir l’arborescence complète de la Team Magma :&r &7"
+		"{\"text\":\"Lien vers le graphique de la Team Magma\",\"italic\":true,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.plantuml.com/plantuml/svg/...\"}}"
+		""
+		"&9🔄 Vous voulez changer pour la série Team Magma ?"
+		"&rVous pouvez réinitialiser votre progression actuelle en échangeant une &6Relic Coin&r à tout moment !"
+		""
+		"&6Affrontez leur chaleur et réécrivez le destin de Hoenn !"
+	]
+	quest.573A00C9E8AE14F2.title: "&cTeam Magma"
+	quest.5764756A85C07AF3.quest_desc: [
+		"&6&l🏆 Progression du Dresseur d’Unys — Champions et Rivaux"
+		""
+		"&fCommencez votre aventure à Unys en affrontant les puissants Champions d’Arène et les rivaux inoubliables comme Bianca, Tcheren et Komor !"
+		""
+		"&b⏩ &nCliquez ci-dessous pour voir l’arborescence complète :&r &7"
+		"{\"text\":\"Lien vers le graphique des Dresseurs d’Unys\",\"italic\":true,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.plantuml.com/plantuml/svg/...\"}}"
+		""
+		"&9🔄 Vous souhaitez passer au parcours d’Unys ?"
+		"&rVous pouvez réinitialiser votre progression actuelle en échangeant une &6Relic Coin&r à tout moment !"
+		""
+		"&6Entraînez-vous dur et prouvez que vous êtes digne de l’héritage d’Unys !"
+	]
+	quest.5764756A85C07AF3.title: "&6Progression du Dresseur d’Unys"
+	quest.57B7DA6546C6396B.quest_subtitle: "&bRecommandé : ~Niv 55"
+	quest.583A417D2E097B78.quest_desc: ["Les Pokémon de Sinnoh vivent dans des conditions extrêmes. Pour atteindre 60 captures, tu devras explorer des zones glacées, rocheuses ou profondément enfouies."]
+	quest.583A417D2E097B78.title: "Obtenir 60 Pokémon différents issus du Pokédex de la génération 4"
+	quest.585EF42E4624E2FA.title: "Master Ball 2013 100"
+	quest.589F4CB34129FA97.quest_subtitle: "&bRecommandé : ~Niv 26"
+	quest.589F4CB34129FA97.title: "Komor"
+	quest.58A05E9960629A37.quest_desc: ["Maître des Dragons du Plateau Indigo, Peter parcourt les régions pour protéger les Pokémon. Sa cape rouge iconique est aussi légendaire que son Dracolosse."]
+	quest.58A05E9960629A37.quest_subtitle: "&bRecommandé : ~Niv 85"
+	quest.58A05E9960629A37.title: "Peter"
+	quest.591316BFBA990E50.title: "&fUn &eReshiram &fsauvage est apparu !"
+	quest.5923FFED41A88020.quest_desc: ["&fKaty, champion Insecte de Cortondo, fait partie des combats officiels du Gym World Tour de Paldea. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.5923FFED41A88020.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.5923FFED41A88020.title: "Katy"
+	quest.595674619F5B5499.quest_desc: ["Ces Pokémon viennent d’une région à l’histoire industrielle riche, mais ici, ils se sont adaptés à leur nouvel environnement. Commence ton étude avec 25 d’entre eux, et observe comment, même dans ce monde transformé, leur prestance demeure intacte."]
+	quest.595674619F5B5499.title: "Obtenir 25 Pokémon différents issus du Pokédex de la génération 8"
+	quest.599BA61151622261.quest_desc: ["Ici, les Pokémon de Paldea interagissent avec leur environnement de manière inédite. Même en dehors de leur région d’origine, ils conservent des comportements uniques. Tu t’aventures dans un domaine d’étude très moderne."]
+	quest.599BA61151622261.title: "Obtenir 80 Pokémon différents issus du Pokédex de la génération 9"
+	quest.5A24F6E8B7ADCB84.quest_desc: ["Tu as atteint le sommet de cette étude. Les 100 Pokémon originaires de Johto sont désormais recensés, compris et respectés. Tu as saisi la profondeur de cette région à travers leur essence. Même dans ce monde réinventé, leur mémoire vit grâce à toi. Continue de transmettre cet héritage."]
+	quest.5A24F6E8B7ADCB84.title: "Obtenir les 100 Pokémon différents issus du Pokédex de la génération 2"
+	quest.5A983410CE314652.quest_subtitle: "Êtes-vous prêt ? Vous n’avez qu’une seule chance."
+	quest.5A983410CE314652.title: "Attrapez le trio légendaire des félins"
+	quest.5ADB6B70E40F1994.title: "Soin Ball 2013 9"
+	quest.5AF9A466501FF923.quest_subtitle: "&bRecommandé : ~Niv 66"
+	quest.5AF9A466501FF923.title: "Tcheren"
+	quest.5B1E1D0A9429482A.title: "&fUn &dCresselia &fsauvage est apparu !"
+	quest.5B4135D9ECC778AA.quest_desc: [
+		"Le &eInventory Connector&r relie vos différents stockages."
+		""
+		"Les inventaires connectés deviennent accessibles via le &eStorage Terminal&r."
+	]
+	quest.5B6A510004D90693.quest_desc: ["&fNorman, champion Normal de Petalburg City, fait partie des combats officiels du Gym World Tour de Hoenn. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.5B6A510004D90693.quest_subtitle: "&bLevel Cap débloqué : Nv 56"
+	quest.5B6A510004D90693.title: "Norman"
+	quest.5B743C166E62289C.quest_subtitle: "&bRecommandé : ~Niv 53"
+	quest.5B743C166E62289C.title: "N"
+	quest.5B9B13DB0FBFC45C.title: "&fUn &5Yveltal &fsauvage est apparu !"
+	quest.5BBF89A95474E8AC.quest_desc: [
+		"&6⚠ *Cette boutique est actuellement en bêta. Les prix et la valeur des objets peuvent être ajustés dans les futures mises à jour en fonction des retours des joueurs et des tests en jeu."
+		""
+		"&r&f🛠 Cette boutique sert d’extension de confort — tous les objets (à l’exception de quelques-uns jugés trop puissants) peuvent toujours être fabriqués ou trouvés dans des villages ou donjons."
+		""
+		"💰 Vous pouvez obtenir des Relic Coins via de nombreuses quêtes ou en battant des Pokémon comme Gimmighoul et Gromago à travers le monde."
+	]
+	quest.5BBF89A95474E8AC.title: "*Boutique Bêta"
+	quest.5BD787B35E6F4D92.quest_subtitle: "&bRecommandé : ~Niv 75"
+	quest.5BD787B35E6F4D92.title: "Lithio"
+	quest.5BFCDE258C810A82.title: "Capturez le légendaire &cSulfura"
+	quest.5CD7917FA2A57B85.title: "Capturez le légendaire &5Spectreval"
+	quest.5CE0BFE0D1AA9D2B.quest_desc: ["Les fossiles sont les restes anciens de Pokémon enfouis profondément dans le monde. Utilisez un pinceau sur du Sable Suspect ou du Gravier Suspect dans les structures de fossiles pour les découvrir !"]
+	quest.5CE0BFE0D1AA9D2B.quest_subtitle: "Découvrez le passé caché dans le sable et le gravier !"
+	quest.5CE0BFE0D1AA9D2B.title: "Secrets Enfouis"
+	quest.5D14EE24B68A0B02.title: "&fUn &bDialga &fsauvage est apparu !"
+	quest.5D163FA97D88AC77.quest_desc: ["La Boussole Naturelle est un outil essentiel pour explorer et trouver des biomes spécifiques dans le monde. Elle vous permet de localiser n'importe quel biome souhaité et de vous y guider facilement.\\n\\nComment utiliser la Boussole Naturelle :\\n1. Fabriquez ou trouvez une Boussole Naturelle.\\n2. Faites un clic droit pour ouvrir son interface.\\n3. Sélectionnez le biome que vous souhaitez trouver dans la liste.\\n4. La boussole pointera vers le biome sélectionné et vous guidera dans la bonne direction.\\n\\nNote : La boussole ne fonctionne que si vous avez déjà découvert le biome au moins une fois. Bonne exploration !"]
+	quest.5D163FA97D88AC77.quest_subtitle: "&eExplication de la Boussole Naturelle"
+	quest.5DA5BDBEF3085B4B.quest_desc: ["Les îles d'Alola sont célèbres pour leurs espèces endémiques, des formes différentes d’espèces que l'on retrouve ailleurs. Certains Pokémon ont même développé des capacités spéciales en réponse à l'écosystème unique des îles. En capturant 30 Pokémon, tu pourras mieux comprendre ces adaptations fascinantes."]
+	quest.5DA5BDBEF3085B4B.title: "Obtenir 30 Pokémon différents issus du Pokédex de la génération 7"
+	quest.5DABA1DA693D4222.quest_subtitle: "&bRecommandé : ~Niv 75"
+	quest.5DABA1DA693D4222.title: "Inky"
+	quest.5DE6BAC0314B40DB.title: "Capturez le légendaire &6Shifours"
+	quest.5E491777A8F21417.title: "Capturez le légendaire &5Chongjian"
+	quest.5E77F9BB5DB28086.title: "Capturez le légendaire &5Dinglu"
+	quest.5E9CE2534C4886CA.title: "&fUn &bArtikodin de Galar &fsauvage est apparu !"
+	quest.5EDE08B527D6FAD9.title: "&fUn &cLatias &fsauvage est apparu !"
+	quest.5F1C85E1E1A57DF9.quest_subtitle: "&bRecommandé : ~Niv 13"
+	quest.5F1C85E1E1A57DF9.title: "Bianca"
+	quest.5F3C22D846BA566C.quest_desc: ["Peut stocker différents objets non empilables tant qu'ils appartiennent à la même catégorie."]
+	quest.5FB0DE42C30B6088.quest_desc: ["Fonctionne comme un &eInventory Cable&r mais son apparence peut être modifiée avec le &ePaint Kit&r."]
+	quest.60080CCE5A743510.quest_desc: ["&fMarlon, champion Eau de Humilau City, fait partie des combats officiels du Gym World Tour de Unova. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.60080CCE5A743510.quest_subtitle: "&bLevel Cap débloqué : Nv 89"
+	quest.60080CCE5A743510.title: "Marlon"
+	quest.60229AA46322C9C7.quest_desc: ["Les Pokémon d’Alola sont profondément liés à leur environnement. Beaucoup affichent des comportements plus pacifiques, en harmonie avec la nature. Au fur et à mesure de tes captures, tu découvriras des habitudes uniques liées à leurs milieux naturels comme les plages ou les forêts luxuriantes."]
+	quest.60229AA46322C9C7.title: "Obtenir 45 Pokémon différents issus du Pokédex de la génération 7"
+	quest.60308EA5FAA85DD8.quest_desc: ["&fFlannery, champion Feu de Lavaridge Town, fait partie des combats officiels du Gym World Tour de Hoenn. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.60308EA5FAA85DD8.quest_subtitle: "&bLevel Cap débloqué : Nv 54"
+	quest.60308EA5FAA85DD8.title: "Flannery"
+	quest.605D662596B4B8EE.quest_desc: ["La région d’Hoenn possède l’un des taux de biodiversité les plus élevés. À mesure que tu atteins 80 captures, n’hésite pas à explorer des milieux extrêmes : cavernes volcaniques, plages reculées, canopées épaisses… Chaque capture est une pièce supplémentaire du puzzle écologique."]
+	quest.605D662596B4B8EE.title: "Obtenir 80 Pokémon différents issus du Pokédex de la génération 3"
+	quest.61D00728EEBE8C4B.quest_desc: ["&fCrasher Wake, champion Eau de Pastoria City, fait partie des combats officiels du Gym World Tour de Sinnoh. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.61D00728EEBE8C4B.quest_subtitle: "&bLevel Cap débloqué : Nv 73"
+	quest.61D00728EEBE8C4B.title: "Crasher Wake"
+	quest.621DF8A2FC95F514.quest_desc: ["&fTate & Liza, champion Psy de Mossdeep City, fait partie des combats officiels du Gym World Tour de Hoenn. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.621DF8A2FC95F514.quest_subtitle: "&bLevel Cap débloqué : Nv 60"
+	quest.621DF8A2FC95F514.title: "Tate & Liza"
+	quest.6288DEA14270A6E6.title: "Capturez le légendaire &dTokopiyon"
+	quest.62973A2788EDA099.quest_desc: ["&fFantina, champion Spectre de Hearthome City, fait partie des combats officiels du Gym World Tour de Sinnoh. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.62973A2788EDA099.quest_subtitle: "&bLevel Cap débloqué : Nv 69"
+	quest.62973A2788EDA099.title: "Fantina"
+	quest.62EED6D43EC440B7.title: "&fUn &dNecrozma &fsauvage est apparu !"
+	quest.6312D49477A0F541.title: "Beast Ball 2013 9"
+	quest.632CA1B55975E237.quest_desc: ["&fClay, champion Sol de Driftveil City, fait partie des combats officiels du Gym World Tour de Unova. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.632CA1B55975E237.quest_subtitle: "&bLevel Cap débloqué : Nv 86"
+	quest.632CA1B55975E237.title: "Clay"
+	quest.638B0950F77F7A1D.title: "&fUn &dMiraidon &fsauvage est apparu !"
+	quest.638B5048DBFFA74F.quest_desc: ["Kalos est le foyer de Pokémon élégants, gracieux… mais parfois redoutables. Commence par capturer 20 d’entre eux pour t’imprégner de leur présence raffinée."]
+	quest.638B5048DBFFA74F.title: "Obtenir 20 Pokémon différents issus du Pokédex de la génération 6"
+	quest.63F56D8D867D7191.quest_desc: ["Il y a 3 000 ans, Kalos fut dévastée par la guerre. Les Pokémon de cette région portent encore les cicatrices de ce passé. En étudiant 60 espèces, tu pourras plonger dans cette mémoire collective."]
+	quest.63F56D8D867D7191.title: "Obtenir 60 Pokémon différents issus du Pokédex de la génération 6"
+	quest.6411E684C43F90A8.title: "Capturez le légendaire &9Regidrago"
+	quest.6428BDA5C68E2E7E.title: "&fUn &cGroudon &fsauvage est apparu !"
+	quest.649732FA0F7D0AE0.quest_desc: ["Née dans les glaciales îles Sevii, Olga est calme et stratégique, tout comme ses Pokémon Glace. Son Lokhlass est à la fois élégant et impitoyable."]
+	quest.649732FA0F7D0AE0.quest_subtitle: "&bRecommandé : ~Niv 85"
+	quest.649732FA0F7D0AE0.title: "Olga"
+	quest.649C5AB7A215FAB8.quest_subtitle: "Restaurez un ancien protecteur !"
+	quest.649C5AB7A215FAB8.title: "Le Bouclier du Temps"
+	quest.65518F088B7C12B2.quest_desc: ["Ancienne membre de la Team Flare devenue présentatrice incendiaire, Malva enflamme autant les arènes que les plateaux télé. Sa passion pour les Pokémon Feu est aussi ardente que sa langue acérée."]
+	quest.65518F088B7C12B2.quest_subtitle: "&bRecommandé : ~Niv 100"
+	quest.65518F088B7C12B2.title: "Malva"
+	quest.656978FE412F4544.quest_subtitle: "&bRecommandé : ~Niv 65"
+	quest.656978FE412F4544.title: "Ember"
+	quest.659323A5ED89A080.title: "Nest Ball 2013 9"
+	quest.659E0394672AD8E9.quest_desc: [
+		"&6&l🏆 Défi de la Ligue d’Unys — Conseil 4 et Champion"
+		""
+		"&fAffrontez la prestigieuse Ligue Pokémon d’Unys en défiant le Conseil 4 et en affrontant Alder, le sage et puissant Champion !"
+		""
+		"&b⏩ &nCliquez ci-dessous pour voir l’intégralité du parcours des dresseurs :&r &7"
+		"{\"text\":\"Lien du Graphe de la Ligue d’Unys\",\"italic\":true,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.plantuml.com/plantuml/svg/~1U06DKy5gup0GlUihPjDpsRPGs5s2ABJ7Gc6xUok4iJsnrCYILnflIKl-lUDOIKpZWu-Qz-RflMVvBZ56xXgdlh6XXi3Psd0TSQlOiYDO_FNXFy8ZOTqHt1jqZdnD2sLiHP2O8WNUjfI6GKDDGJ6fjB6-nOYD27hg2H0Ycp02Gl5A9SE7mXZ3strm8S95f6eu_p6st7XA2MvKWUMcZg7pLMRjJHQkew_GSXbQji6ZqnekGaInUiwfQ4t8LFMSKzxTo9kZcdmbtiwkVZEMIQs3v-obSE9kFtYsxmJNrsgdyZg75XojMIqB_RXNN7ulj9AZhFmQhkvJQFXD_pehsK48Wcd8b261XgUSwYj-TA_X8OSwK9G467oetFH2RFoywYsy-Ax_ggN1ffMsLkWgYWl011FpyVgFsz4wEQbY7RguAb7UYlKdXJDeXaWTRPCSRQTK3jWCcMImyunkIkQ0pP1fC0fxKYL3Qg8hk7INUYZnLC7nrhaBnxHp5tB_inqT4jp96v5__nFl-7bs\"}}"
+		""
+		"&9🔄 Vous souhaitez passer au parcours de la Ligue d’Unys ?  "
+		"&rVous pouvez réinitialiser votre série actuelle en échangeant une &6Relic Coin&r à tout moment !"
+		""
+		"&6Bonne chance, futur Champion — votre légende commence maintenant !"
+	]
+	quest.65C1E972BB6B1428.title: "Collectionneur de Kanto"
+	quest.65D310D1FDDB9E49.quest_desc: ["De nombreux Pokémon viennent de milieux urbains, industriels ou montagneux. Pourtant, leur capacité à s’adapter à notre monde est remarquable. Observe cette aptitude au fil des 70 espèces capturées."]
+	quest.65D310D1FDDB9E49.title: "Obtenir 70 Pokémon différents issus du Pokédex de la génération 8"
+	quest.66B6F883577AF478.quest_desc: ["C’est en Hoenn que de nouveaux concepts évolutifs ont vu le jour : des doubles types poussés, des capacités liées à la météo, et même la Méga-Évolution. Ces Pokémon ont redéfini notre compréhension du vivant. En capturant 60 d’entre eux, tu t’aventures dans l’étude de l’évolution moderne."]
+	quest.66B6F883577AF478.title: "Obtenir 60 Pokémon différents issus du Pokédex de la génération 3"
+	quest.66D2B7B3B86FB808.title: "Capturez le légendaire &bRegice"
+	quest.67A8514A8247C359.quest_subtitle: "Vos Pokémon méritent les meilleurs soins. Fabriquez un Soigneur pour être toujours prêt !"
+	quest.67C409C0CA86CF1C.quest_desc: [
+		"&e&lLimite de niveau des Pokémon :&r"
+		"- Vos Pokémon ne peuvent pas dépasser la limite de niveau actuelle affichée sur votre &fCarte d'Entraîneur&r."
+		"- Une fois qu'un Pokémon atteint cette limite, il cessera de gagner de l'expérience jusqu'à ce que vous progressiez davantage."
+		"- Les entraîneurs refuseront de combattre si un Pokémon dans votre équipe dépasse la limite de niveau."
+		"- Pour augmenter votre limite de niveau, vainquez les &6Entraîneurs Clés&r listés sur votre Carte d'Entraîneur."
+		"- Suivez votre progression à travers les &favancées&r du jeu et votre Carte d'Entraîneur."
+		"{@pagebreak}"
+		""
+		"&e&lTrouver les Entraîneurs Clés :&r"
+		"- Les Entraîneurs Clés apparaissent dans des biomes spécifiques ; consultez votre Carte d'Entraîneur pour leurs emplacements."
+		"- Avoir un Pokémon à la limite de niveau dans votre équipe augmente le taux de spawn des Entraîneurs Clés."
+		"- Vaincre de nouveaux entraîneurs réduit la probabilité que ceux déjà vaincus réapparaissent."
+		"- Votre Carte d'Entraîneur brillera et affichera une flèche de suivi lorsque qu'un Entraîneur Clé est à proximité."
+		"{@pagebreak}"
+		""
+		"&e&lDéverrouiller les Leaders d'Arène :&r"
+		"- Pour déverrouiller les Leaders d'Arène, vous devez vaincre un certain nombre d'entraîneurs."
+		"- L'onglet des avancées du mod fournit des indices et des conseils pour progresser vers leur déverrouillage."
+		"{@pagebreak}"
+		""
+		"&e&lAssociation des Entraîneurs :&r"
+		"- Occasionnellement, un villageois connu sous le nom d'&fAssociation des Entraîneurs&r peut apparaître."
+		"- Cet NPC vous propose de choisir entre différentes séries de combats :"
+		"  - &bBrilliant Diamond / Shining Pearl&r (Difficulté : 2.5/5)"
+		"  - &cRadical Red&r (Difficulté : 4.5/5)"
+		"- Votre Carte d'Entraîneur affichera une flèche au-dessus lorsque l'NPC de l'Association des Entraîneurs sera à proximité, vous permettant de le localiser facilement."
+		"{@pagebreak}"
+		""
+		"&e&lConseils :&r"
+		"- Entraînez plusieurs Pokémon pour éviter d'atteindre la limite de niveau trop rapidement."
+		"- Engagez des combats avec des entraîneurs tôt pour maintenir une progression régulière et éviter d'être bloqué par la limite de niveau plus tard."
+		"- Vérifiez régulièrement l'onglet des avancées dans le jeu pour des indices sur votre prochain objectif."
+		"{@pagebreak}"
+		""
+		"&e&lPlus d'Informations :&r"
+		"Pour plus de détails, consultez la documentation officielle des &fRadical Cobblemon Trainers&r :"
+		""
+		"{\"text\":\"WIKI ! Cliquez ici !\",\"color\":\"blue\",\"underlined\":true,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://srcmc.gitlab.io/rct/docs/0.13/\"}}"
+	]
+	quest.67C409C0CA86CF1C.quest_subtitle: "IMPORTANT !"
+	quest.67C409C0CA86CF1C.title: "&eLimite de niveau des Pokémon et Entraîneurs"
+	quest.67DE89D4243C2F29.quest_desc: ["&fByron, champion Acier de Canalave City, fait partie des combats officiels du Gym World Tour de Sinnoh. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.67DE89D4243C2F29.quest_subtitle: "&bLevel Cap débloqué : Nv 75"
+	quest.67DE89D4243C2F29.title: "Byron"
+	quest.68B9F20F1D560F81.title: "Capturez le légendaire &5Chi-Yu"
+	quest.68CBF7464655509E.quest_desc: ["&fLe spécialiste Roche d’Argenta avance derrière une défense brute et une pression patiente. Brise son mur de pierre et récupère le Badge Roche."]
+	quest.68CBF7464655509E.quest_subtitle: "&bLevel Cap débloqué : Nv 25"
+	quest.68CBF7464655509E.title: "Brock"
+	quest.69124AEEB537FDBD.quest_desc: [
+		"Le tutoriel est maintenant &afini&r !"
+		""
+		"De nouvelles quêtes apparaîtront dans le menu à gauche, triées par catégorie. Certaines apparaîtront uniquement en secret *chut*."
+		""
+		"N'hésitez pas à rejoindre notre &bDiscord &rpour toute autre question : https://discord.gg/kb8NSTF45n"
+	]
+	quest.69124AEEB537FDBD.quest_subtitle: "Lisez ma description !"
+	quest.69D3B8D8521E0A49.title: "Repeat Ball 2013 9"
+	quest.6A1892270B9E5460.quest_subtitle: "&bRecommandé : ~Niv 75"
+	quest.6A1892270B9E5460.title: "Cole"
+	quest.6A910038D72D23A2.quest_subtitle: "&bRecommandé : ~Niv 48"
+	quest.6AAF190A12B07A63.quest_subtitle: "Êtes-vous prêt ? Vous n'avez qu'une seule chance."
+	quest.6AAF190A12B07A63.title: "Attrapez les 4 Pokémon Bêtes Cataclysmiques"
+	quest.6ABADC0797CB1D5A.quest_desc: ["Avec l'ensemble des Pokémon de Galar capturés, tu détiens désormais une vue d'ensemble sur leur diversité, même au-delà de leur région d’origine."]
+	quest.6ABADC0797CB1D5A.title: "Obtenir les 96 Pokémon différents issus du Pokédex de la génération 8"
+	quest.6B31810E63FC32DA.quest_subtitle: "&bRecommandé : ~Niv 80"
+	quest.6B31810E63FC32DA.title: "Ondine"
+	quest.6B65C952F02FD3F8.quest_subtitle: "&bRecommandé : ~Niv 20"
+	quest.6BB31018B08C3E10.quest_desc: [
+		"&6&l🌊 Progression du Dresseur de Hoenn — Team Aqua"
+		""
+		"&fPlongez dans les rangs de la Team Aqua et affrontez leurs agents à travers les mers et côtes de Hoenn !"
+		""
+		"&b⏩ &nCliquez ici pour voir le chemin complet de la Team Aqua :&r &7"
+		"{\"text\":\"Lien vers le graphique de la Team Aqua\",\"italic\":true,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.plantuml.com/plantuml/svg/...\"}}"
+		""
+		"&9🔄 Vous souhaitez passer à la série Team Aqua ?"
+		"&rVous pouvez réinitialiser votre série actuelle en échangeant une &6Relic Coin&r à tout moment !"
+		""
+		"&6Maîtrisez les flots et défendez l’équilibre naturel !"
+	]
+	quest.6BB31018B08C3E10.title: "&bTeam Aqua"
+	quest.6BEE4DBCB2833430.quest_desc: ["Les Pokémon d’Unys sont un parfait exemple de l’adaptation à la modernité. Capteurs, formes futuristes, comportements imprévisibles… Débute ton étude avec 20 espèces."]
+	quest.6BEE4DBCB2833430.title: "Obtenir 20 Pokémon différents issus du Pokédex de la génération 5"
+	quest.6BF964553A3A4C0A.quest_desc: ["Ancien acteur mystérieux devenu Dresseur de type Glace, Brycen recherche la solitude et la paix intérieure. Derrière son calme glacial se cache une volonté brûlante de discipline."]
+	quest.6BF964553A3A4C0A.quest_subtitle: "&bRecommandé : ~Niv 68"
+	quest.6BF964553A3A4C0A.title: "Brycen"
+	quest.6C15530A051EB51D.title: "&fUn &dMagearna sauvage &fest apparu !"
+	quest.6C3EDFE263697304.quest_subtitle: "Il est temps de mettre vos Poké Balls à l'œuvre ! Attrapez votre premier Pokémon et élargissez votre équipe."
+	quest.6C57112FFA939FA3.title: "&fUn &aTornadus sauvage &fest apparu !"
+	quest.6CDA73F7FC7AD616.quest_subtitle: "&bRecommandé : ~Niv 79"
+	quest.6CDC72CAF2B4586B.quest_desc: ["Certains Pokémon de Paldea semblent issus d'époques lointaines, voire futures. Ces traits génétiques mystérieux persistent dans notre monde. Continue tes observations."]
+	quest.6CDC72CAF2B4586B.title: "Obtenir 60 Pokémon différents issus du Pokédex de la génération 9"
+	quest.6D4C8B29071D24E1.title: "Lure Ball 2013 9"
+	quest.6D51FCC7D5B07C5F.title: "Capturez le légendaire &eRaikou"
+	quest.6D6B8AD9A80E5C2C.quest_subtitle: "Chaque grande aventure commence par un choix. Sélectionnez votre Pokémon de départ et commencez votre voyage !"
+	quest.6D6B8AD9A80E5C2C.title: "Le début de votre voyage"
+	quest.6D7DABA472D49341.quest_desc: ["&fBea, champion Combat de Stow-on-Side, fait partie des combats officiels du Gym World Tour de Galar. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.6D7DABA472D49341.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.6D7DABA472D49341.title: "Bea"
+	quest.6DA4CAC4C91E0A81.quest_desc: [
+		"&fVous avez attrapé des Pokémon puissants, mais saviez-vous que certains peuvent être montés ? Avec &bCobblemon : Ride On!&r, vous pouvez monter vos Pokémon et voyager à travers le monde plus vite que jamais ! Apprenez à monter, descendre et contrôler vos Pokémon comme un pro !"
+		"\\n\\n&6🏇 Comment monter un Pokémon :&r"
+		"&7- Faites un clic droit sur un &apokémon montable &7pour le monter."
+		"&7Utilisez &eZQSD &7pour vous déplacer et &eEspace &7pour sauter (si votre Pokémon peut)."
+		"&9Pokémons volants : &7Maintenez &eEspace &7pour monter et &eMaj &7pour descendre."
+		"&3Pokémons aquatiques : &7Glissez tranquillement sur l'eau comme un véritable maître aquatique !"
+		"\\n\\n&c❗ Comment descendre :&r"
+		"&7- Appuyez sur &eShift gauche + R &7pour descendre en toute sécurité de votre Pokémon."
+		"&4⚠ Attention ! &7Assurez-vous de ne pas être en l'air lorsque vous descendez !"
+		"\\n\\n🏆 &aIl est temps de seller et d'explorer le monde comme jamais auparavant !"
+	]
+	quest.6DA4CAC4C91E0A81.quest_subtitle: "Maîtrisez l'art de monter un Pokémon !"
+	quest.6DA4CAC4C91E0A81.title: "Montez comme un champion !"
+	quest.6DB08B23006A0422.quest_desc: ["De nombreuses espèces de Johto évoluent dans des environnements paisibles : forêts, lacs, grottes isolées. Ces Pokémon vivent souvent en harmonie avec la nature. En capturant 40 d’entre eux, tu commenceras à saisir cette relation profonde. Observe leur comportement : leur quête n'est pas celle du conflit, mais de l'équilibre."]
+	quest.6DB08B23006A0422.title: "Obtenir 40 Pokémon différents issus du Pokédex de la génération 2"
+	quest.6E26C0C88222A027.quest_desc: ["La diversité culturelle et géographique d’Unys a donné naissance à une grande variété d’espèces, inspirées tant par la tradition que par l’avenir."]
+	quest.6E26C0C88222A027.title: "Obtenir 60 Pokémon différents issus du Pokédex de la génération 5"
+	quest.6E998DFE4F660271.quest_desc: ["Prodige silencieux ayant atteint le sommet très jeune, Red a disparu pour s’entraîner en secret, devenant le Dresseur le plus mystérieux et respecté de l’histoire."]
+	quest.6E998DFE4F660271.title: "Red"
+	quest.6ED8183EFF1CE84D.quest_desc: ["&fClemont, champion Électrik de Lumiose City, fait partie des combats officiels du Gym World Tour de Kalos. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.6ED8183EFF1CE84D.quest_subtitle: "&bLevel Cap débloqué : Nv 95"
+	quest.6ED8183EFF1CE84D.title: "Clemont"
+	quest.6F238E67BA665314.title: "Capturez le légendaire &fRegisteel"
+	quest.6F4327DE4650AD25.quest_desc: ["Lenora est la conservatrice du musée de Maillard et Championne d’Arène. Derrière sa nature érudite se cache une grande force. Elle allie savoir et combat, prouvant que l’intelligence et la puissance font bon ménage."]
+	quest.6F4327DE4650AD25.quest_subtitle: "&bRecommandé : ~Niv 30"
+	quest.6F4327DE4650AD25.title: "Aloe"
+	quest.6F8DF8B8DE05E92A.quest_desc: [
+		"&fChampion Spectre de Ecruteak City, Morty avance entre légendes, esprits et ombres."
+		"&fBats Morty pour récupérer le Fog Badge."
+	]
+	quest.6F8DF8B8DE05E92A.quest_subtitle: "&bLevel Cap débloqué : Nv 37"
+	quest.6F8DF8B8DE05E92A.title: "Morty"
+	quest.6FA1B995AFE6AD43.title: "Friend Ball 2013 9"
+	quest.6FA60108865A31CB.quest_subtitle: "&bRecommandé : ~Niv 41"
+	quest.6FB60AD375045547.quest_subtitle: "Êtes-vous prêt ? Vous n'avez qu'une seule chance."
+	quest.6FB60AD375045547.title: "Attrapez tous les Légendaires"
+	quest.7013CA16A51D7052.quest_desc: ["Ces Pokémon viennent d'une région récemment explorée, mais leur singularité est déjà évidente. Même ici, leur originalité se manifeste. Capture 10 spécimens pour mieux comprendre leurs comportements."]
+	quest.7013CA16A51D7052.title: "Obtenir 20 Pokémon différents issus du Pokédex de la génération 9"
+	quest.70301F1186B71B93.quest_subtitle: "&bRecommandé : ~Niv 75"
+	quest.70301F1186B71B93.title: "Angie"
+	quest.703DF3EB9543851F.quest_subtitle: "&bRecommandé : ~Niv 63"
+	quest.704233C0B47BCF5E.title: "&fUn &dPalkia sauvage &fest apparu !"
+	quest.7045F981D9A189E9.quest_desc: ["Paldea est une région où l’évolution semble s’accélérer. Des lignées entières émergent avec des caractéristiques inédites. Même dans ce monde en constante évolution, ces traits uniques se préservent."]
+	quest.7045F981D9A189E9.title: "Obtenir 40 Pokémon différents issus du Pokédex de la génération 9"
+	quest.70476C63C90B6D05.quest_desc: [
+		"Ce tutoriel vous guidera à travers certaines fonctionnalités de base. Ne vous inquiétez pas, cela ne prendra pas longtemps !"
+		""
+		"Pour commencer, cliquez sur la coche en dessous du mot \"Tâches\", puis réclamez votre récompense de quête. De nouvelles quêtes commenceront à apparaître !"
+		""
+		"Si de nouvelles quêtes n'apparaissent pas, essayez de relancer votre monde. Ne vous débarrassez pas des champignons avant la fin du tutoriel."
+		"{@pagebreak}"
+	]
+	quest.70476C63C90B6D05.quest_subtitle: "Pour commencer le tutoriel, cliquez sur cette quête et lisez la description."
+	quest.706B59CE8A3526AF.quest_desc: [
+		"&fChampion Vol de Violet City, Falkner impose une pression aérienne précise."
+		"&fBats Falkner pour récupérer le Zephyr Badge."
+	]
+	quest.706B59CE8A3526AF.quest_subtitle: "&bLevel Cap débloqué : Nv 31"
+	quest.706B59CE8A3526AF.title: "Falkner"
+	quest.70E3BFDC9A0269E2.quest_desc: [
+		"&fRéduis légèrement ton &bPokémon du slot 1&f à la taille &cPetite (0.6)&f pour un look plus compact.  "
+		"&c⚠ Rappel : Cela affecte uniquement le premier Pokémon de ton équipe (slot 1). Vérifie bien avant d’utiliser !  "
+		""
+		"&f💰 Coût : &e25 Realms Coin"
+	]
+	quest.70E3BFDC9A0269E2.quest_subtitle: "&eRends ton Pokémon légèrement plus petit"
+	quest.70E3BFDC9A0269E2.title: "&6Taille Petite"
+	quest.70E3DB241F464498.quest_desc: ["&fKabu, champion Feu de Motostoke, fait partie des combats officiels du Gym World Tour de Galar. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.70E3DB241F464498.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.70E3DB241F464498.title: "Kabu"
+	quest.70E4D3C5FAFDA9E4.title: "Maître de Sinnoh"
+	quest.7155AFA32B681779.title: "&f1x Pokéball"
+	quest.715D56C037749EFF.quest_desc: ["Spécialiste du type Dragon au tempérament doux, Dracéna croit en la gentillesse et les émotions. Issue d’une longue lignée de dompteurs de dragons, elle parle souvent de son héritage avec fierté."]
+	quest.715D56C037749EFF.quest_subtitle: "&bRecommandé : ~Niv 100"
+	quest.715D56C037749EFF.title: "Dracéna"
+	quest.72E311DE47A5FE53.quest_desc: ["Les légendes racontent que le monde a vu le jour en Sinnoh. Arceus, Dialga, Palkia… Leurs empreintes se retrouvent dans les espèces de cette région. Étudie-les attentivement : tu es sur les traces des créateurs."]
+	quest.72E311DE47A5FE53.title: "Obtenir 90 Pokémon différents issus du Pokédex de la génération 4"
+	quest.730EEC1D01BF419C.quest_desc: [
+		"&fChampion Eau de Cascarrafa, Kofu apporte énergie du marché et vagues puissantes."
+		"&fBats Kofu pour récupérer le Water Badge."
+	]
+	quest.730EEC1D01BF419C.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.730EEC1D01BF419C.title: "Kofu"
+	quest.7362B3047C23C865.quest_desc: ["&fOpal, champion Fée de Ballonlea, fait partie des combats officiels du Gym World Tour de Galar. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.7362B3047C23C865.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.7362B3047C23C865.title: "Opal"
+	quest.7389E76B43F13400.quest_subtitle: "Maîtrisez l'art de la fabrication de Poké Balls. Créez un exemplaire de chaque type de PokéBall de base disponible dans la table de craft."
+	quest.738CA63FC60EECEB.quest_desc: ["Rival d’enfance devenu Maître grâce à son talent et sa confiance, Blue a perdu son titre presque aussitôt… prouvant que la puissance seule ne suffit pas."]
+	quest.738CA63FC60EECEB.quest_subtitle: "&bRecommandé : ~Niv 85"
+	quest.738CA63FC60EECEB.title: "Blue"
+	quest.739A6FFEA2C94C41.quest_desc: [
+		"&fChampion Combat de Cianwood City, Chuck mise sur la force brute et l'impact permanent."
+		"&fBats Chuck pour récupérer le Storm Badge."
+	]
+	quest.739A6FFEA2C94C41.quest_subtitle: "&bLevel Cap débloqué : Nv 39"
+	quest.739A6FFEA2C94C41.title: "Chuck"
+	quest.739F21EBF52DE8F9.quest_desc: ["Extrait les objets des inventaires connectés, similaire au &eImport Bus&r de &bAE2&r."]
+	quest.73BA9B5BD210B6F2.quest_subtitle: "&bRecommandé : ~Niv 21"
+	quest.73FAEF16AE66F443.quest_desc: ["Les Pokémon de Hoenn nous enseignent que la nature fonctionne en équilibre. En répertoriant ces créatures, tu n’as pas seulement compilé des données : tu as retracé l’histoire d’un monde où l’eau, le feu et le vent s’entrelacent. Bravo, chercheur, tu viens d’inscrire ton nom parmi les pionniers de la connaissance."]
+	quest.73FAEF16AE66F443.title: "Obtenir les 135 Pokémon différents issus du Pokédex de la génération 3"
+	quest.742F17A1EAF5CDC8.title: "Fast Ball 2013 9"
+	quest.7468A2EAD45920F6.quest_desc: ["&fMilo, champion Plante de Turffield, fait partie des combats officiels du Gym World Tour de Galar. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.7468A2EAD45920F6.quest_subtitle: "&bLevel Cap débloqué : Nv 99"
+	quest.7468A2EAD45920F6.title: "Milo"
+	quest.7551C152AB482170.title: "Maître de Kanto"
+	quest.759729F59C6D08C6.title: "Explorateur de Kanto"
+	quest.75D8AE63C389ED7B.quest_subtitle: "&bRecommandé : ~Niv 29"
+	quest.75D8AE63C389ED7B.title: "Bianca"
+	quest.75E5E2E602F540A8.quest_desc: [
+		"&fChampion Glace vétéran de Mahogany Town, Pryce gèle les challengers trop confiants."
+		"&fBats Pryce pour récupérer le Glacier Badge."
+	]
+	quest.75E5E2E602F540A8.quest_subtitle: "&bLevel Cap débloqué : Nv 43"
+	quest.75E5E2E602F540A8.title: "Pryce"
+	quest.76C3E10A4ED5A9CC.quest_subtitle: "Ramenez un guerrier ancien !"
+	quest.76C3E10A4ED5A9CC.title: "Le Dôme Mystérieux"
+	quest.773DD3685CEC3C45.quest_subtitle: "&bRecommandé : ~Niv 55"
+	quest.7749B63BFF6F3CDF.quest_desc: ["Les Fantômes apparaissent quand vous n'avez pas dormi pendant quelques jours. Ils peuvent être gênants. Tuez-les avant qu'ils ne vous tuent."]
+	quest.7749B63BFF6F3CDF.title: "Terreurs nocturnes"
+	quest.774DDA4A8E004B49.quest_desc: [
+		"&dFTBChunks &rvous permet de revendiquer des morceaux de terrain pour sécuriser vos constructions et vos objets précieux. Une fois réclamés, ces morceaux seront protégés des dégâts causés par d'autres joueurs et par les mobs."
+		""
+		"&e&lComment revendiquer des morceaux de terrain :&r&r\\n1. Ouvrez votre carte (par défaut : &6J&r).\\n2. Assurez-vous que le bouton de superposition FTBChunks à gauche est activé.\\n3. Faites un clic gauche sur un morceau de terrain pour le revendiquer.\\n4. Faites un clic gauche tout en maintenant Shift pour le charger et le garder actif.\\n5. Faites un clic droit pour annuler la réclamation du morceau."
+	]
+	quest.774DDA4A8E004B49.quest_subtitle: "Protégez votre base avec FTBChunks"
+	quest.774DDA4A8E004B49.title: "Revendiquer Votre Territoire"
+	quest.7781A00AA1885BC8.quest_subtitle: "&bRecommandé : ~Niv 64"
+	quest.7781A00AA1885BC8.title: "Hugh"
+	quest.78669061880F533A.title: "Capturez le légendaire &bSuicune"
+	quest.789755635A528D17.title: "Ultra Ball 2013 8"
+	quest.79435E0DAB9E7172.quest_desc: ["&fElesa, champion Électrik de Nimbasa City, fait partie des combats officiels du Gym World Tour de Unova. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.79435E0DAB9E7172.quest_subtitle: "&bLevel Cap débloqué : Nv 85"
+	quest.79435E0DAB9E7172.title: "Elesa"
+	quest.796323D3DAD726E2.title: "&fUn &dZamazenta sauvage &fest apparu !"
+	quest.798BB432C99BFC26.quest_desc: ["Dans Unys, la nature et la technologie coexistent harmonieusement. Étudie cette symbiose à travers 40 Pokémon et tu commenceras à voir l’avenir de notre monde."]
+	quest.798BB432C99BFC26.title: "Obtenir 40 Pokémon différents issus du Pokédex de la génération 5"
+	quest.79A1C8E58F3FFBC6.title: "Capturez le légendaire &bGlastrier"
+	quest.79B94278AAEFD498.quest_subtitle: "&bRecommandé : ~Niv 79"
+	quest.79B94278AAEFD498.title: "Matt"
+	quest.79FEE36F850C8569.quest_desc: [
+		"&fExpert Insecte de Azalea Town, Bugsy analyse chaque faiblesse avant de frapper."
+		"&fBats Bugsy pour récupérer le Hive Badge."
+	]
+	quest.79FEE36F850C8569.quest_subtitle: "&bLevel Cap débloqué : Nv 33"
+	quest.79FEE36F850C8569.title: "Bugsy"
+	quest.7AD566406E91D4AF.quest_desc: ["&fWattson, champion Électrik de Mauville City, fait partie des combats officiels du Gym World Tour de Hoenn. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.7AD566406E91D4AF.quest_subtitle: "&bLevel Cap débloqué : Nv 52"
+	quest.7AD566406E91D4AF.title: "Wattson"
+	quest.7B0E89505B01D03F.title: "&fUn &dMew sauvage &fest apparu !"
+	quest.7B7E824D7BD29739.quest_subtitle: "&bRecommandé : ~Niv 79"
+	quest.7D749426D624AF7F.title: "Capturez le légendaire &bArticuno"
+	quest.7DC951E5F1621BCC.quest_desc: ["La Fin est une dimension vaste et étrange suspendue dans le vide. De gigantesques piliers d'obsidienne et le puissant Dragon de l'Ender gardent les secrets de ce royaume. Au-delà de l'île centrale, des forêts de chœurs sans fin et des villes mystérieuses attendent ceux qui sont assez courageux pour explorer."]
+	quest.7DC951E5F1621BCC.quest_subtitle: "La Fin : Un Vide Mystérieux"
+	quest.7DC951E5F1621BCC.title: "Visite l'End"
+	quest.7DC9EBCB81EB56D3.quest_subtitle: "Ramenez une puissance préhistorique !"
+	quest.7DC9EBCB81EB56D3.title: "Le Crâne de la Puissance"
+	quest.7DFE370FAD123FF1.quest_desc: [
+		"&6&l🏆 Progression du Dresseur d'Alola"
+		""
+		"&fLe chemin de combat d’Alola n’est pas encore disponible dans Cobblemon Realms, mais il arrivera dans une prochaine mise à jour !"
+		""
+		"&c⚠ Aucune série de Dresseurs disponible pour le moment :&r"
+		"&7Actuellement, aucun Champion ou série de Dresseurs n’a été implémenté pour Alola. Restez à l’écoute pour les prochaines mises à jour !"
+		""
+		"&9🎯 En attendant :&r"
+		"&rNous vous recommandons de choisir une autre région ou génération. Vous pouvez changer à tout moment en échangeant une &6Relic Coin&r."
+		""
+		"&6Merci pour votre patience, Dresseur. De grandes choses vous attendent à Alola !"
+	]
+	quest.7DFE370FAD123FF1.title: "&6Progression d'Alola"
+	quest.7E534F446000B120.title: "&fUn &dRayquaza sauvage &fest apparu !"
+	quest.7E642ED0C20AA617.quest_desc: [
+		"&6&l🏆 Progression du Dresseur de Galar"
+		""
+		"&fLe chemin de combat de Galar n’est pas encore disponible dans Cobblemon Realms, mais il arrivera dans une prochaine mise à jour !"
+		""
+		"&c⚠ Aucune série de Dresseurs disponible pour le moment :&r"
+		"&7Actuellement, aucun Champion ou série de Dresseurs n’a été implémenté pour Galar. Restez à l’écoute pour les prochaines mises à jour !"
+		""
+		"&9🎯 En attendant :&r"
+		"&rNous vous recommandons de choisir une autre région ou génération. Vous pouvez changer à tout moment en échangeant une &6Relic Coin&r."
+		""
+		"&6Merci pour votre patience, Dresseur. De grandes choses vous attendent à Galar !"
+	]
+	quest.7E642ED0C20AA617.title: "&6Progression de Galar"
+	quest.7EBAF1D56B1151D8.quest_subtitle: "&bRecommandé : ~Niv 82"
+	quest.7EDFD0989EF15A47.title: "&fUn &eZapdos de Galar sauvage &fest apparu !"
+	quest.7FA96E35BF3EBECB.title: "Capturez le légendaire &6Kubfu"
+	quest.7FE28D790C05A013.quest_desc: [
+		"Comme je l'ai dit, ce modpack ne vous oblige pas à jouer avec les quêtes."
+		""
+		"C'est votre choix de les suivre ou non."
+		""
+		"Soyez cependant conscient que certaines quêtes vous donnent des explications, par exemple comment entrer dans la Forêt du Crépuscule."
+	]
+	quest.95AB07FFE24DC580.quest_desc: ["&fPryce, champion Glace de Mahogany Town, fait partie des combats officiels du Gym World Tour de Johto. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.95AB07FFE24DC580.quest_subtitle: "&bLevel Cap débloqué : Nv 43"
+	quest.95AB07FFE24DC580.title: "Pryce"
+	quest.96578936BB9918B7.quest_desc: ["&fGrusha, champion Glace de Glaseado Mountain, fait partie des combats officiels du Gym World Tour de Paldea. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.96578936BB9918B7.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.96578936BB9918B7.title: "Grusha"
+	quest.9EC8F33F2A65BFE9.quest_desc: ["&fRoxie, champion Poison de Virbank City, fait partie des combats officiels du Gym World Tour de Unova. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.9EC8F33F2A65BFE9.quest_subtitle: "&bLevel Cap débloqué : Nv 83"
+	quest.9EC8F33F2A65BFE9.title: "Roxie"
+	quest.BE268CB531A811CA.quest_desc: ["&fMorty, champion Spectre de Ecruteak City, fait partie des combats officiels du Gym World Tour de Johto. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.BE268CB531A811CA.quest_subtitle: "&bLevel Cap débloqué : Nv 37"
+	quest.BE268CB531A811CA.title: "Morty"
+	quest.BE995CE6C0013CFF.quest_desc: ["&fAllister, champion Spectre de Stow-on-Side, fait partie des combats officiels du Gym World Tour de Galar. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.BE995CE6C0013CFF.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.BE995CE6C0013CFF.title: "Allister"
+	quest.C31616ED7EC0EC8C.quest_desc: ["&fBrassius, champion Plante de Artazon, fait partie des combats officiels du Gym World Tour de Paldea. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.C31616ED7EC0EC8C.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.C31616ED7EC0EC8C.title: "Brassius"
+	quest.C46BC9E67E7F735F.quest_desc: ["&fRaihan, champion Dragon de Hammerlocke, fait partie des combats officiels du Gym World Tour de Galar. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.C46BC9E67E7F735F.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.C46BC9E67E7F735F.title: "Raihan"
+	quest.C86A853048D08A64.quest_desc: ["&fKofu, champion Eau de Cascarrafa, fait partie des combats officiels du Gym World Tour de Paldea. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.C86A853048D08A64.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.C86A853048D08A64.title: "Kofu"
+	quest.CC55ADB1A1565EF0.quest_desc: ["&fRyme, champion Spectre de Montenevera, fait partie des combats officiels du Gym World Tour de Paldea. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.CC55ADB1A1565EF0.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.CC55ADB1A1565EF0.title: "Ryme"
+	quest.D6C8F425C58503C7.quest_desc: ["&fBugsy, champion Insecte de Azalea Town, fait partie des combats officiels du Gym World Tour de Johto. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.D6C8F425C58503C7.quest_subtitle: "&bLevel Cap débloqué : Nv 33"
+	quest.D6C8F425C58503C7.title: "Bugsy"
+	quest.DBD8767006F36FB5.quest_desc: ["&fClair, champion Dragon de Blackthorn City, fait partie des combats officiels du Gym World Tour de Johto. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.DBD8767006F36FB5.quest_subtitle: "&bLevel Cap débloqué : Nv 45"
+	quest.DBD8767006F36FB5.title: "Clair"
+	quest.EC2132442934EDAD.quest_desc: ["&fPiers, champion Ténèbres de Spikemuth, fait partie des combats officiels du Gym World Tour de Galar. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.EC2132442934EDAD.quest_subtitle: "&bLevel Cap débloqué : Nv 100"
+	quest.EC2132442934EDAD.title: "Piers"
+	quest.F6C26361D970FC5F.quest_desc: ["&fFalkner, champion Vol de Violet City, fait partie des combats officiels du Gym World Tour de Johto. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.F6C26361D970FC5F.quest_subtitle: "&bLevel Cap débloqué : Nv 31"
+	quest.F6C26361D970FC5F.title: "Falkner"
+	quest.FA2375E855B6C412.quest_desc: ["&fChuck, champion Combat de Cianwood City, fait partie des combats officiels du Gym World Tour de Johto. Bats ce champion, récupère le badge correspondant et poursuis ta progression régionale."]
+	quest.FA2375E855B6C412.quest_subtitle: "&bLevel Cap débloqué : Nv 39"
+	quest.FA2375E855B6C412.title: "Chuck"
+	reward_table.012594F8984B8789.title: "Argent de Niveau 3"
+	reward_table.047B160C4A805FF1.title: "Shiny Starter Hoenn"
+	reward_table.0B1BA1070064A9C5.title: "Faites apparaître 1 des 3 Oiseaux Légendaires"
+	reward_table.0B4A2C572C0C5C8E.title: "Pokéballs de Niveau 3"
+	reward_table.0C5BCBDA3D0E49D6.title: "Shiny Starter Paldea"
+	reward_table.0D77D94CA8214487.title: "XP"
+	reward_table.0FD054AA4C315B46.title: "Faites apparaître 1 des 2 Légendaires de Johto"
+	reward_table.1046E3CEBFFD6D29.title: "Pierres d’évolution"
+	reward_table.14C2BF6571BEB942.title: "Shiny Starter Sinnoh"
+	reward_table.280499CCB73ECC50.title: "Shiny Starter Kanto"
+	reward_table.286D13B5220E177A.title: "Pokédex"
+	reward_table.2A57EC0DA975BAEA.title: "Faites apparaître 1 des 2 Légendaires de Hoenn"
+	reward_table.3EB916476F8F8DE6.title: "Argent de Niveau 1"
+	reward_table.4034572CE19F9886.title: "Faites apparaître 1 des 2 Légendaires de Kanto"
+	reward_table.46F241BB599C2753.title: "Faites apparaître 1 des 2 Légendaires de Sinnoh"
+	reward_table.4D10708FE474545E.title: "Faites apparaître 1 des 2 Légendaires d'Alola"
+	reward_table.50FAD384EA542B83.title: "Faites apparaître 1 des 2 Légendaires de Paldea"
+	reward_table.52EDC1971274A395.title: "Pokéballs de Niveau 1"
+	reward_table.54A1465044372F7E.title: "Shiny Starter Alola"
+	reward_table.5FA015DC5693501E.title: "Poképommes"
+	reward_table.624D6E86880960F4.title: "Faites apparaître 1 des 2 Légendaires de Unova"
+	reward_table.6309AFBE2743FA82.title: "Faites apparaître 1 des 2 Légendaires de Kalos"
+	reward_table.63A47D91C7508B67.title: "Faites apparaître 1 des 2 Légendaires de Galar"
+	reward_table.69BA9D3F7FC83DA1.title: "Faites apparaître 1 des 3 Félins Légendaires"
+	reward_table.6BDB9FD43EFD5300.title: "Shiny Starter Unova"
+	reward_table.6E6E909CE5940A9D.title: "Shiny Starter Johto"
+	reward_table.753940E1FAF95892.title: "Shiny Starter Galar"
+	reward_table.7B4B754D4D631740.title: "Argent de Niveau 2"
+	task.051F8531B1083995.title: "Tout #minecraft:logs"
+	task.1024280FE3F73ED7.title: "Tout #c:ores/iron"
+	task.10BA70F3C1FC2214.title: "Tout #c:ores/iron"
+	task.14B057AD3CEE2CAE.title: "Quêtes"
+	task.1C3530677F608536.title: "BIIIIENTÔT..."
+	task.2C4447006C7C653A.title: "J'ai besoin d'un Livre de Quêtes !"
+	task.338300DAB251CE86.title: "Royaumes Cobblemon"
+	task.343357A4194E822B.title: "Tout #c:glass"
+	task.3A9BEFC1E2BB53C9.title: "ÉQUIPE FTB"
+	task.3EEA80793EA1D52F.title: "Tout #minecraft:planks"
+	task.44A96814D27869F8.title: "Dresseurs de Kanto"
+	task.5212713E9C86B0AF.title: "Cliquez ici quand vous êtes prêt"
+	task.58DB493E4BDBAD6B.title: "Tout #minecraft:logs"
+	task.5D656969A3DFBE4E.title: "Interface du Livre de Quêtes"
+	task.5F5914D6515C6D2B.title: "Cliquez sur moi !"
+	task.622FD64551CF56BF.title: "Tout #cobblemon:fossils"
+	task.65612D31EEAAF4F7.title: "&6Inventaire"
+	task.6EACD66C96C6FB85.title: "Attrapez les 3 Oiseaux Légendaires"
+	task.70F29AEFFF750D8F.title: "&3Tutoriel Terminé !"
+	task.7A076D8E6102FB88.title: "Tout #minecraft:logs"
+	task.7B7E1FE7C434B1BC.title: "Any #minecraft:logs"
+}

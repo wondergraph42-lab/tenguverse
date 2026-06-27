@@ -1,0 +1,9 @@
+{
+    "entryId": "cobblemon:magneton",
+    "forms": [
+      {
+        "displayForm": "iono",
+        "unlockForms": ["iono"]
+      }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+	icon: {
+		id: "minecraft:diamond"
+	}
+	id: "1D5274AA453087D0"
+	loot_size: 1
+	order_index: 23
+	rewards: [
+		{
+			count: 3
+			id: "35B4C8E12D7CCB0D"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mythicmetals:steel_ingot"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 2
+			id: "7514820047823DD0"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+		}
+		{ id: "64DDA783FFE4E2F8", item: { count: 1, id: "minecraft:netherite_ingot" } }
+	]
+	use_title: true
+}

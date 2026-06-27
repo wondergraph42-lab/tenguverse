@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:netherite_pickaxe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ironchest:iron_chest"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

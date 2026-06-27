@@ -1,0 +1,29 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "zerpint-1",
+      "pokemon": "zerpint",
+      "presets": [
+        "natural",
+        "wild"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "ultra-rare",
+      "level": "40-45",
+      "weight": 0.5,
+      "weightMultiplier": {
+        "multiplier": 0.25,
+        "condition": {}
+      },
+      "condition": {
+        "biomes": [
+          "minecraft:lush_caves"
+        ]
+      }
+    }
+  ]
+}

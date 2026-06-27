@@ -1,0 +1,9 @@
+{
+ "target": "cobblemon:crimsonmaw",
+ "baseScale": 0.8,
+ "hitbox": {
+   "width": 1,
+   "height": 5,
+   "fixed": false
+ }
+}

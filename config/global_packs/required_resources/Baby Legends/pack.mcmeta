@@ -1,0 +1,4 @@
+{
+  "pack": {
+    "pack_format": 48,
+	"supported_formats": {"min_inclusive":34,"max_inclusive": 48}, "description": "Adds pre-evolutions to popular legendarys! Version 2.0"}}

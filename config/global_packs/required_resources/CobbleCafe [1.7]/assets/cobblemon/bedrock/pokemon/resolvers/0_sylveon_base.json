@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:sylveon",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:sylveon",
+            "model": "cobblemon:cafe_sylveon.geo",
+            "texture": "cobblemon:textures/pokemon/sylveon/sylveon.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/sylveon/sylveon_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/sylveon/cafe_sylveon.png"
+                }
+            ]
+        }
+    ]
+}

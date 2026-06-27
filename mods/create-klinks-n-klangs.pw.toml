@@ -1,0 +1,13 @@
+name = "Create: Klinks n' Klangs (for Cobblemon)"
+filename = "create_klinks_n_klangs-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "725e1e3d60021c2344a6bc07017ab91f1c06ee03"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6827555
+project-id = 1022166

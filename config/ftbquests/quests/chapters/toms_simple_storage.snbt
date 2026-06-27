@@ -1,0 +1,367 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "toms_simple_storage"
+	group: "3C1371271429A50A"
+	icon: {
+		id: "toms_storage:storage_terminal"
+	}
+	id: "30B9525A12EFB0F4"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			id: "10F2F596C66BA041"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "336EB46DE0E70A4C"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4C60B3F32742E8B0"
+				item: { count: 1, id: "toms_storage:storage_terminal" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["10F2F596C66BA041"]
+			id: "4F33E4856D85753B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "53B0779E29E922A7"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3D8C88465A6BE689"
+				item: { count: 1, id: "toms_storage:crafting_terminal" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["10F2F596C66BA041"]
+			id: "5B4135D9ECC778AA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "352FE5EDA52F314E"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "40B36E1FEF43B02F"
+				item: { count: 1, id: "toms_storage:inventory_connector" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5B4135D9ECC778AA"]
+			id: "1D372D62EC32A485"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6B0382568BC6484B"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				count: 6L
+				id: "4749AF22632657A6"
+				item: { count: 1, id: "toms_storage:inventory_cable" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5B4135D9ECC778AA"]
+			id: "16E5F30F12932F5C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2BC32401A512F4FC"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "566FDA32A2D01C7F"
+				item: { count: 1, id: "toms_storage:trim" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1D372D62EC32A485"]
+			hide_dependency_lines: false
+			id: "2D87505812794E74"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6619F4F2639D06D3"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5C9124861280D00E"
+				item: { count: 1, id: "toms_storage:item_filter" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2D87505812794E74"]
+			id: "539C37CE348F0F8B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "588654A15526CFCF"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2496C6F14BCAE518"
+				item: { count: 1, id: "toms_storage:tag_item_filter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2D87505812794E74"]
+			id: "1E4CAAC510D62A5F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3D93D733A16B1A5B"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "082F892EE102952D"
+				item: { count: 1, id: "toms_storage:polymorphic_item_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1D372D62EC32A485"]
+			id: "14A9DB8454589823"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "43A446C6C92654B0"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2621A89FCC62C868"
+				item: { count: 1, id: "toms_storage:inventory_cable_connector" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1D372D62EC32A485"]
+			id: "739F21EBF52DE8F9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "70FC8CA2130867CA"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "62709BA08D72FC22"
+				item: { count: 1, id: "toms_storage:basic_inventory_hopper" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1D372D62EC32A485"]
+			id: "5FB0DE42C30B6088"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6785D22CEA8FC429"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5A0F31787F23B27D"
+				item: { count: 1, id: "toms_storage:inventory_cable_framed" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["14A9DB8454589823"]
+			id: "46B2C3383974EF7B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "790748A84C754029"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6CBF2E63219A9508"
+				item: { count: 1, id: "toms_storage:inventory_cable_connector_framed" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5B4135D9ECC778AA"]
+			id: "20153E139D596C8C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5E57CC105255BDDA"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4CF8771C6B9C3BB9"
+				item: { count: 1, id: "toms_storage:inventory_interface" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["10F2F596C66BA041"]
+			hide_dependency_lines: true
+			id: "5F3C22D846BA566C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "53313D0669688C96"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "22E5F9BAA1B69200"
+				item: { count: 1, id: "toms_storage:filing_cabinet" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["10F2F596C66BA041"]
+			hide_dependency_lines: true
+			id: "49672EF001BD989D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "57E51AF57A67DBCD"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2D20FD198B3DD1FC"
+				item: { count: 1, id: "toms_storage:open_crate" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"10F2F596C66BA041"
+				"2D87505812794E74"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "37BB883174427950"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "70BCDFFD71F681E9"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "05FA01E812A9F04B"
+				item: { count: 1, id: "toms_storage:inventory_configurator" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"5FB0DE42C30B6088"
+				"46B2C3383974EF7B"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "289010CE545DB1E6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "628834C288CF09F4"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "52B67E5612A14C3D"
+				item: { count: 1, id: "toms_storage:paint_kit" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1D372D62EC32A485"]
+			id: "1A880DE1FF836830"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6A2C9D2B9CD2D15D"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3058288CC42FF0E8"
+				item: { count: 1, id: "toms_storage:level_emitter" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["10F2F596C66BA041"]
+			id: "404969058AC4D285"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "06F1626BADF3E667"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0877A72D7703FA41"
+				item: { count: 1, id: "toms_storage:wireless_terminal" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["404969058AC4D285"]
+			id: "1A45DDBDFC0EE3CC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "72DEA8ED6FE62A29"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6D08674BBDDA9565"
+				item: { count: 1, id: "toms_storage:adv_wireless_terminal" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 0.0d
+		}
+	]
+}

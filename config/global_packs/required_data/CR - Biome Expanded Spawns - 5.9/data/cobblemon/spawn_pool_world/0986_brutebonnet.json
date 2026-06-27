@@ -1,0 +1,47 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "deeper-brutebonnet-1",
+      "pokemon": "brutebonnet",
+      "presets": [
+        "deep_dark"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "rare",
+      "level": "47-67",
+      "weight": 4.18,
+      "condition": {
+        "biomes": [
+          "deeperdarker:blooming_caverns"
+        ],
+        "dimensions": [
+          "deeperdarker:otherside"
+        ]
+      }
+    },
+    {
+      "id": "aether_brute_bonnet_1",
+      "pokemon": "brutebonnet",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "50-100",
+      "weight": 5.0,
+      "condition": {
+        "biomes": [
+          "aether:skyroot_woodland"
+        ],
+        "dimensions": [
+          "aether:the_aether"
+        ]
+      }
+    }
+  ]
+}

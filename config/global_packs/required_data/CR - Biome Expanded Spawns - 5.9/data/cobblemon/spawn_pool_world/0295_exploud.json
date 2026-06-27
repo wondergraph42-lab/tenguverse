@@ -1,0 +1,72 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "exploud-1",
+      "pokemon": "exploud",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "uncommon",
+      "level": "40-49",
+      "weight": 0.16,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 7,
+        "biomes": [
+          "#cobblemon:is_deep_dark"
+        ]
+      }
+    },
+    {
+      "id": "exploud-2",
+      "pokemon": "exploud",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "common",
+      "level": "40-49",
+      "weight": 0.02,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 7,
+        "biomes": [
+          "#cobblemon:is_overworld"
+        ],
+        "maxY": 0
+      },
+      "anticondition": {
+        "biomes": [
+          "#cobblemon:is_deep_dark"
+        ]
+      }
+    },
+    {
+      "id": "deeper-exploud-1",
+      "pokemon": "exploud",
+      "presets": [
+        "deep_dark"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "uncommon",
+      "level": "40-49",
+      "weight": 0.6,
+      "condition": {
+        "biomes": [
+          "deeperdarker:deeplands",
+          "deeperdarker:echoing_forest"
+        ],
+        "dimensions": [
+          "deeperdarker:otherside"
+        ]
+      }
+    }
+  ]
+}

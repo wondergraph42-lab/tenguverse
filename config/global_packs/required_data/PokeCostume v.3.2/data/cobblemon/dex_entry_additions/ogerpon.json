@@ -1,0 +1,9 @@
+{
+    "entryId": "cobblemon:ogerpon",
+    "forms": [
+      {
+        "displayForm": "aniversary",
+        "unlockForms": ["aniversary"]
+      }
+    ]
+}

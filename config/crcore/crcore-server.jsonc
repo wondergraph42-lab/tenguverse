@@ -1,0 +1,17 @@
+{
+  "starter_kit_enabled": true,
+  "first_join_message_enabled": true,
+  "join_message_enabled": true,
+  "server_broadcast_message_enabled": true,
+
+  "npc_roam_enabled": false,
+  "npc_roam_radius": 5,
+  "npc_roam_max_radius": 10,
+  "npc_nametag_visible": true,
+
+  "shop_sell_reset_hours": 8,
+
+  "realms_world_replace_existing_island": true,
+  "realms_world_allow_crop_harvest": false,
+  "realms_world_overworld_exit_slow_falling": true
+}

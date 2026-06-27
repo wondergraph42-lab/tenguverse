@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_kalosleader_viola",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_kalosleader_grant"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_kalosleader_grant.description"
+    },
+    "icon": {
+      "id": "cobblemonpokemonbadges:cliff_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "kalosleader_grant"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

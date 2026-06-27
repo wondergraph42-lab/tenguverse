@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_sinnohleader_byron",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_sinnohleader_candice"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_sinnohleader_candice.description"
+    },
+    "icon": {
+      "id": "cobblemonpokemonbadges:icicle_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "sinnohleader_candice"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:irongenesis",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:irongenesis",
+      "model": "cobblemon:irongenesis.geo",
+      "texture": "cobblemon:textures/pokemon/irongenesis/irongenesis.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/irongenesis/irongenesis_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    },
+    {
+      "aspects": ["sleep"],
+      "texture": "cobblemon:textures/pokemon/irongenesis/irongenesis_sleep.png"
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/irongenesis/irongenesis_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/irongenesis/irongenesis_shiny_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    }
+  ]
+}

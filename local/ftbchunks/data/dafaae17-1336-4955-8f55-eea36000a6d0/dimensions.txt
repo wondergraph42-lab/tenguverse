@@ -1,0 +1,2 @@
+cobblemonrealms:realms_world
+minecraft:overworld

@@ -1,0 +1,38 @@
+{
+  "species": "cobblemon:crimsonmaw",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:crimsonmaw",
+      "model": "cobblemon:crimsonmaw.geo",
+      "texture": "cobblemon:textures/pokemon/crimsonmaw/crimsonmaw.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/crimsonmaw/crimsonmaw_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/crimsonmaw/crimsonmaw_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/crimsonmaw/crimsonmaw_shiny_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    },
+    {
+      "aspects": ["cosmetic_party"],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/crimsonmaw/crimsonmaw_party.png"
+        }
+      ]
+    }
+  ]
+}

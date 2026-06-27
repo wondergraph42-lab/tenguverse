@@ -1,0 +1,3092 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "crpokeagri"
+	group: "3C1371271429A50A"
+	id: "3C32821AEFA3F20A"
+	images: [
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/persim_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/cheri_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/figy_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 10.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 10.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 10.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/figy_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/razz_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/touga_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/touga_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/colbur_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/spelon_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/touga_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/occa_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/tamato_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/spelon_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/spelon_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/tamato_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/chople_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/lansat_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/salac_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/persim_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/chesto_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/wiki_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/wiki_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/bluk_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/cornn_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/cornn_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/cornn_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 10.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/passho_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/pamtre_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/rindo_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/kelpsy_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/pamtre_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/pamtre_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/kelpsy_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/kebia_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/micle_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/liechi_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 16.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 16.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 16.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 16.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 16.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 16.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/persim_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/pecha_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/mago_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/mago_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/nanab_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/magost_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/magost_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/magost_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/watmel_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/watmel_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/tanga_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/watmel_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/roseli_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/qualot_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/chilan_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/custap_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/qualot_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/ganlon_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 4.0d
+			y: 8.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 4.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/persim_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/rawst_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/aguav_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/aguav_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/wepear_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/rabuta_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/rabuta_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/rabuta_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/babiri_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/durin_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/shuca_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/hondew_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/durin_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/durin_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 8.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/hondew_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 8.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/charti_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/jaboca_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/petaya_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 8.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 8.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 10.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 10.0d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 10.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 10.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 10.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 10.0d
+			y: 8.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/persim_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/aspear_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/iapapa_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/iapapa_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/pinap_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/nomel_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/nomel_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/nomel_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/payapa_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/yache_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/belue_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/belue_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 8.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/belue_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/grepa_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/grepa_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 8.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/coba_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/rowap_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/apicot_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: 8.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/oran_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/cheri_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/chesto_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/pecha_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/rawst_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/aspear_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: -5.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/lum_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/oran_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: -5.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/razz_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/bluk_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/nanab_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/wepear_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/pinap_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/leppa_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/lum_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: -5.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/figy_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/wiki_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/mago_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/aguav_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/iapapa_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/sitrus_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/lum_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/leppa_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: -15.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/hopo_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/hopo_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -21.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -20.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/occa_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -19.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/passho_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/wacan_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/rindo_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/yache_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -19.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/chople_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/kebia_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/shuca_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/coba_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/payapa_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/tanga_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/charti_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/kasib_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -19.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/haban_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/colbur_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/babiri_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/chilan_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/roseli_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: -13.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/enigma_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/enigma_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/enigma_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/enigma_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/wacan_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: -15.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: -15.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: -15.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/kasib_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/maranga_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/kee_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/haban_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/pomeg_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/sitrus_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.5d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: -15.5d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/haban_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/berries/pomeg_berry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 4.0d
+			y: -3.0d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:diamond_hoe"
+			}
+			id: "4512CDF9C0BF98AC"
+			size: 2.0d
+			tasks: [{
+				id: "21FDE278F0C8F454"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			id: "3C95142614B1343F"
+			tasks: [{
+				id: "7BD48BCFD6555C3D"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: -3.0d
+		}
+		{
+			id: "58A2F67632A81F21"
+			tasks: [{
+				id: "2E45B2680769AE40"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 0.5d
+		}
+		{
+			id: "418946D2E007854C"
+			tasks: [{
+				id: "4107171DB8483583"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 4.0d
+		}
+		{
+			id: "46827C4C1B415B0A"
+			tasks: [{
+				id: "73CF6F7C6E01A38C"
+				type: "checkmark"
+			}]
+			x: -16.5d
+			y: -3.5d
+		}
+		{
+			id: "41DFD502557D7C84"
+			tasks: [{
+				id: "1B9D5D4BBCE22993"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: -5.0d
+		}
+		{
+			id: "494A71C4E6FD1C8D"
+			rewards: [
+				{
+					id: "0BBCB40FFC522608"
+					item: {
+						count: 1
+						id: "cobblemon:oran_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "06EEE4019180199F"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "1B8F8741EE244824"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "526293EE68D5F268"
+				item: { count: 1, id: "cobblemon:oran_berry" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -9.5d
+		}
+		{
+			id: "352CF58BB9AEEF6B"
+			rewards: [
+				{
+					id: "3F79589A23206B13"
+					item: {
+						count: 1
+						id: "cobblemon:cheri_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7DDF2D580847597F"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "05288CB18D8EBE27"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "539E415CE897C5F2"
+				item: { count: 1, id: "cobblemon:cheri_berry" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -8.5d
+		}
+		{
+			id: "398BF6D17522496A"
+			rewards: [
+				{
+					id: "3E281B3AB1AE2518"
+					item: {
+						count: 1
+						id: "cobblemon:chesto_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "049BD8E36AE312C7"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "616B900DF62091FC"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "585CDD19710DCB22"
+				item: { count: 1, id: "cobblemon:chesto_berry" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -7.5d
+		}
+		{
+			id: "703B1FDFDDED0036"
+			rewards: [
+				{
+					id: "77C8DEAEBCAF364C"
+					item: {
+						count: 1
+						id: "cobblemon:rawst_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "44594B99353F0A3A"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "6D60D609D81BE707"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "1BEDD6A0A965CFE0"
+				item: { count: 1, id: "cobblemon:rawst_berry" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -9.5d
+		}
+		{
+			id: "5A0187C7D97C2BCE"
+			rewards: [
+				{
+					id: "7FBFEB79C99051B5"
+					item: {
+						count: 1
+						id: "cobblemon:aspear_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "3EE60BBEC010E86B"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "678865BF6B4278E5"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "1A5941AE85C78ABF"
+				item: { count: 1, id: "cobblemon:aspear_berry" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -8.5d
+		}
+		{
+			id: "66581C6C3777B672"
+			rewards: [
+				{
+					id: "4B07FE7FE00DFA6A"
+					item: {
+						count: 1
+						id: "cobblemon:persim_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "77117A0B0182EAF2"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "0C16907A89029041"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "0423D6FF0648DC29"
+				item: { count: 1, id: "cobblemon:persim_berry" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -7.5d
+		}
+		{
+			id: "56B74C3AE19DBF54"
+			rewards: [
+				{
+					id: "067E71AB91D1928B"
+					item: {
+						count: 1
+						id: "cobblemon:razz_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2A89569495AF7826"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "6A1A5D2611111DEF"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "160C3E1AD4C610A0"
+				item: { count: 1, id: "cobblemon:razz_berry" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -6.5d
+		}
+		{
+			id: "753557788CD60544"
+			rewards: [
+				{
+					id: "16F18297E373C39F"
+					item: {
+						count: 1
+						id: "cobblemon:wepear_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "62FA0C94D6FC4093"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "04B89A108F0E4BCD"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "4D4CCC871056B613"
+				item: { count: 1, id: "cobblemon:wepear_berry" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -7.5d
+		}
+		{
+			id: "52892E940E0A6BDC"
+			rewards: [
+				{
+					id: "0B42BEF2B05CB68B"
+					item: {
+						count: 1
+						id: "cobblemon:pinap_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1123F8A594DF7EF0"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "77031F929A0F7065"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "20752CF9B344A740"
+				item: { count: 1, id: "cobblemon:pinap_berry" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -6.5d
+		}
+		{
+			id: "603F1D71DAAA35F9"
+			rewards: [
+				{
+					id: "7999FD4CEFC382C1"
+					item: {
+						count: 1
+						id: "cobblemon:pecha_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "54EE3F246C8623B8"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "166A7A8A6E03A146"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "363E8946084447C8"
+				item: { count: 1, id: "cobblemon:pecha_berry" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -6.5d
+		}
+		{
+			id: "4ED84FC47E4FEFFB"
+			rewards: [
+				{
+					id: "5AEFF459A95A740F"
+					item: {
+						count: 1
+						id: "cobblemon:bluk_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7DE6B160D2CDFA2D"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "7559ED8919457299"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "5352785AC53D8CDF"
+				item: { count: 1, id: "cobblemon:bluk_berry" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -9.5d
+		}
+		{
+			id: "22FE3BB6CCC777BE"
+			rewards: [
+				{
+					id: "30630B71B726A3CD"
+					item: {
+						count: 1
+						id: "cobblemon:nanab_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7CCE60604F59A694"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "654B7B8197FB14D4"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "7054C3055717A8C5"
+				item: { count: 1, id: "cobblemon:nanab_berry" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -8.5d
+		}
+		{
+			id: "38D953A534128DDE"
+			rewards: [
+				{
+					id: "30B18D87051184AF"
+					item: {
+						count: 1
+						id: "cobblemon:occa_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "59D622A1F86E956E"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "3DD4C4035135BF62"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "7B01B04D649621BB"
+				item: { count: 1, id: "cobblemon:occa_berry" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -9.5d
+		}
+		{
+			id: "6163D3F52CF4FCAC"
+			rewards: [
+				{
+					id: "0A59F2DFBE1BE0F8"
+					item: {
+						count: 1
+						id: "cobblemon:passho_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5A5FCEA92522F541"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "6DFDBFA70A6277CB"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "44DD82DEE882D027"
+				item: { count: 1, id: "cobblemon:passho_berry" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -8.5d
+		}
+		{
+			id: "3232BA2D5E7F23C0"
+			rewards: [
+				{
+					id: "56941E2A02CD1DE2"
+					item: {
+						count: 1
+						id: "cobblemon:wacan_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5FB913AD6B97389D"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "228005814B3C811F"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "682B3737EB0F252A"
+				item: { count: 1, id: "cobblemon:wacan_berry" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -7.5d
+		}
+		{
+			id: "5FBDFE01BAFC4141"
+			rewards: [
+				{
+					id: "06D1C793FF308C2F"
+					item: {
+						count: 1
+						id: "cobblemon:rindo_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "58426D9433394A7A"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "5848EEBEEB1FABC5"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "1974799ACAFC1BBE"
+				item: { count: 1, id: "cobblemon:rindo_berry" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -6.5d
+		}
+		{
+			id: "64D873205A1C2321"
+			rewards: [
+				{
+					id: "6A7C948B9B69687C"
+					item: {
+						count: 1
+						id: "cobblemon:yache_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0BBFB4AEDDA2706A"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "42485D6915116795"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "12B75A6AEC3E39F9"
+				item: { count: 1, id: "cobblemon:yache_berry" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -9.5d
+		}
+		{
+			id: "49BA1FDE738506AB"
+			rewards: [
+				{
+					id: "2E0A3E155A4F342A"
+					item: {
+						count: 1
+						id: "cobblemon:chople_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2921850AFD4116D7"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "123DE6E00D112602"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "1B6D3099E8B4B5CE"
+				item: { count: 1, id: "cobblemon:chople_berry" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -8.5d
+		}
+		{
+			id: "31170C0F6A7AA37D"
+			rewards: [
+				{
+					id: "57CE00996B862F87"
+					item: {
+						count: 1
+						id: "cobblemon:kebia_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1EFDF5CC026D47BB"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "0B634DC1BF359C03"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "0E38B0C8708D4FF3"
+				item: { count: 1, id: "cobblemon:kebia_berry" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -7.5d
+		}
+		{
+			id: "00EBDE8B17E1EB99"
+			rewards: [
+				{
+					id: "1C0038E8963DAEC5"
+					item: {
+						count: 1
+						id: "cobblemon:shuca_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1106696A4B9ACEC4"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "126B290F612120DA"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "7617BB873DF7D798"
+				item: { count: 1, id: "cobblemon:shuca_berry" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -6.5d
+		}
+		{
+			id: "6FD7D6BED48B308C"
+			rewards: [
+				{
+					id: "3C8A47E0AFDE0AF8"
+					item: {
+						count: 1
+						id: "cobblemon:coba_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "04747380EA79A4A7"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "3B89053F30CB404F"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "40235FBD7ADEFA28"
+				item: { count: 1, id: "cobblemon:coba_berry" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -9.5d
+		}
+		{
+			id: "5EC07AF7256E43AD"
+			rewards: [
+				{
+					id: "730034209A79667F"
+					item: {
+						count: 1
+						id: "cobblemon:payapa_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "43EBEF20F32814D2"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "63BAEE3143B76F12"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "72826F6C869C2B0F"
+				item: { count: 1, id: "cobblemon:payapa_berry" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -8.5d
+		}
+		{
+			id: "08447363A8A4C202"
+			rewards: [
+				{
+					id: "42099550CBC1EFF9"
+					item: {
+						count: 1
+						id: "cobblemon:tanga_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "20DA84325A9835EE"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "5A114F85D1BA97DB"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "137BC79D8F905298"
+				item: { count: 1, id: "cobblemon:tanga_berry" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -7.5d
+		}
+		{
+			id: "76BFA895891ABF82"
+			rewards: [
+				{
+					id: "706DCE17CC5EE178"
+					item: {
+						count: 1
+						id: "cobblemon:charti_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6FDAF60F87E08DB4"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "5D11DDFDDE096186"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "4ABF5C2999DDBF59"
+				item: { count: 1, id: "cobblemon:charti_berry" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			id: "1221B21BEBCFBF0C"
+			rewards: [
+				{
+					id: "5CF43053EFC8D941"
+					item: {
+						count: 1
+						id: "cobblemon:kasib_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "368BC0B0D06DCA94"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "4C3A54DDF09E6F06"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "32579AA1844D0F39"
+				item: { count: 1, id: "cobblemon:kasib_berry" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -9.5d
+		}
+		{
+			id: "2291E0D4BD84B464"
+			rewards: [
+				{
+					id: "7D5E7D67072FB10D"
+					item: {
+						count: 1
+						id: "cobblemon:haban_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "788DC5A900C6FB3E"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "579FC0B5268E2DF3"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "50A7438B61A09879"
+				item: { count: 1, id: "cobblemon:haban_berry" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -8.5d
+		}
+		{
+			id: "32EADB907CE20E2B"
+			rewards: [
+				{
+					id: "689C28FAD842E167"
+					item: {
+						count: 1
+						id: "cobblemon:colbur_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "53863B3482E04354"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "511898B10A259BC8"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "558C0031386E5C9B"
+				item: { count: 1, id: "cobblemon:colbur_berry" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -7.5d
+		}
+		{
+			id: "39E04E696A7D8F0F"
+			rewards: [
+				{
+					id: "55F4BD91EA2BAECD"
+					item: {
+						count: 1
+						id: "cobblemon:babiri_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0FACF7573430B3BB"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "0676350B8BFBB028"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "7FA51A53138DB6B1"
+				item: { count: 1, id: "cobblemon:babiri_berry" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -6.5d
+		}
+		{
+			id: "3D7B5ED7DBBD6B06"
+			rewards: [
+				{
+					id: "719CBF6B3FA320CF"
+					item: {
+						count: 1
+						id: "cobblemon:chilan_berry"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "3AA09CCC380A635B"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "3C7DEC7CEB5F5528"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "2C2772D730BEB5EB"
+				item: { count: 1, id: "cobblemon:chilan_berry" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -10.5d
+		}
+		{
+			id: "4E609BA887E082A1"
+			rewards: [
+				{
+					count: 3
+					id: "3BA1A86E46FCDDC7"
+					item: {
+						count: 1
+						id: "cobblemon:mulch_base"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "47752AED3FA8701B"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "147C1CAAB08EB130"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "109E59E8CBDFD1B1"
+				item: { count: 1, id: "cobblemon:mulch_base" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			id: "6E34EA35B2345540"
+			rewards: [
+				{
+					count: 2
+					id: "5937D658891D4759"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "0BC387665145285A"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "046308DF537192C4"
+				item: { count: 1, id: "cobblemon:growth_mulch" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			id: "2DB16E3FA1CA6062"
+			rewards: [
+				{
+					count: 2
+					id: "6A60C909001C1B93"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "62DC68239A27D5AB"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "29B33D0286AFE277"
+				item: { count: 1, id: "cobblemon:rich_mulch" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			id: "62701AA8050C475E"
+			rewards: [
+				{
+					count: 2
+					id: "503B730DB2653E51"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "6C7129B1BB55BB04"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "2B4E25B932C0C011"
+				item: { count: 1, id: "cobblemon:surprise_mulch" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			id: "5D1BA4DC2B47A924"
+			rewards: [
+				{
+					count: 2
+					id: "00F2A842D6928A82"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "3423F90B061DC315"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "03A89F3F742792AF"
+				item: { count: 1, id: "cobblemon:loamy_mulch" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 3.0d
+		}
+		{
+			id: "05CBA98839D0D1B9"
+			rewards: [
+				{
+					count: 2
+					id: "53C712D2B08EC38A"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "63C7B12638EF513B"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "5D26B96865E7AAC3"
+				item: { count: 1, id: "cobblemon:coarse_mulch" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "147EABFC7C5BB8FF"
+			rewards: [
+				{
+					count: 2
+					id: "2D8F773006CB50B8"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "40523BF0C473BFC3"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "3BE3EFC466D805D7"
+				item: { count: 1, id: "cobblemon:peat_mulch" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			id: "0BB92CBE08A783C6"
+			rewards: [
+				{
+					count: 2
+					id: "0999FE33A6AA744B"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "7A083D645E8F4C28"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "39EFA596F9E97585"
+				item: { count: 1, id: "cobblemon:humid_mulch" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			id: "3EDCE472AFDF6BCF"
+			rewards: [
+				{
+					count: 2
+					id: "2FA24DF7E6BAE004"
+					item: {
+						count: 1
+						id: "cobblemonrealms:realms_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "247F57C710850C8F"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "189F4681AED34520"
+				item: { count: 1, id: "cobblemon:sandy_mulch" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.tangrowth_professor.overlay": {
+			"loop": true,
+			"bones": {
+				"tm": {
+					"rotation": [-11, 0, 0],
+					"scale": 0.5
+				},
+				"wand": {
+					"scale": 0.6
+				},
+				"glasses": {
+					"scale": 0.8
+				}
+			}
+		}
+	}
+}

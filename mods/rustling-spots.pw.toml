@@ -1,0 +1,13 @@
+name = "Cobblemon Rustling Spots"
+filename = "rustlingspots-neoforge-3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c85fbbd31e7620c2b69727cd362aec5e7272fe0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8116352
+project-id = 1392106

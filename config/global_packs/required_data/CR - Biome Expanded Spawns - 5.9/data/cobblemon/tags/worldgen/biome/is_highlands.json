@@ -1,0 +1,110 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:meadow",
+    {
+      "id": "terralith:alpine_highlands",
+      "required": false
+    },
+    {
+      "id": "terralith:arid_highlands",
+      "required": false
+    },
+    {
+      "id": "terralith:blooming_plateau",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:highland",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:highland_moor",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:jade_cliffs",
+      "required": false
+    },
+    {
+      "id": "terralith:highlands",
+      "required": false
+    },
+    {
+      "id": "wythers:bamboo_jungle_highlands",
+      "required": false
+    },
+    {
+      "id": "wythers:eucalyptus_deanei_forest",
+      "required": false
+    },
+    {
+      "id": "wythers:forested_highlands",
+      "required": false
+    },
+    {
+      "id": "wythers:highlands",
+      "required": false
+    },
+    {
+      "id": "wythers:huangshan_highlands",
+      "required": false
+    },
+    {
+      "id": "wythers:highland_tropical_rainforest",
+      "required": false
+    },
+    {
+      "id": "wythers:jade_highlands",
+      "required": false
+    },
+    {
+      "id": "wythers:wistman_woods",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:highland_fields",
+      "required": false
+    },
+    {
+      "id": "still_life:arid_highlands",
+      "required": false
+    },
+    {
+      "id": "still_life:barren_mediterranean_highlands",
+      "required": false
+    },
+    {
+      "id": "still_life:cold_barren_highlands",
+      "required": false
+    },
+    {
+      "id": "still_life:dry_tropical_highlands",
+      "required": false
+    },
+    {
+      "id": "still_life:mediterranean_highlands",
+      "required": false
+    },
+    {
+      "id": "still_life:mediterranean_wooded_highlands",
+      "required": false
+    },
+    {
+      "id": "still_life:savanna_highlands",
+      "required": false
+    },
+    {
+      "id": "still_life:taiga_highlands",
+      "required": false
+    },
+    {
+      "id": "still_life:tropical_highlands",
+      "required": false
+    },
+    {
+      "id": "still_life:wooded_highlands",
+      "required": false
+    }
+  ]
+}

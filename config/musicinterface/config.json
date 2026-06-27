@@ -1,0 +1,23 @@
+{
+  "vanillaMusicEnabled": false,
+  "allowMenuMusic": false,
+  "customMusicEnabled": true,
+  "strictExclusiveMusic": false,
+  "hideDisabledTracks": true,
+  "playerListMode": false,
+  "playerHomeSortMode": "default",
+  "playerFavoritesSortMode": "recent",
+  "customWeight": 75,
+  "delayMinSeconds": 5,
+  "delayMaxSeconds": 15,
+  "worldJoinSilenceSeconds": 10,
+  "crossfadeSeconds": 4,
+  "historySize": 10,
+  "toastEnabled": true,
+  "toastShowAuthor": true,
+  "toastShowAlbum": true,
+  "toastAnimation": "SLIDE",
+  "toastPosition": "TOP_RIGHT",
+  "toastAnimInMs": 250,
+  "toastAnimOutMs": 250
+}

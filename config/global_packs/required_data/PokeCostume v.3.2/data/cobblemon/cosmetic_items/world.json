@@ -1,0 +1,14 @@
+{
+  "pokemon": [
+    "pikachu"
+  ],
+  "cosmeticItems": [
+    {
+      "consumedItem": "cobblemon:star_sweet",
+      "aspects": [
+        "world"
+      ]
+    }
+  ]
+}
+

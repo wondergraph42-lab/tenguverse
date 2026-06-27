@@ -1,0 +1,1 @@
+{"jarName":"deathbackup-1.21.1-3.6.jar","modId":"deathbackup","name":"Death Backup","version":"3.6","mixinConfigs":["deathbackup_fabric.mixins.json","deathbackup_neoforge.mixins.json","deathbackup_forge.mixins.json"],"jarJarMods":[],"curseForgeHash":1389844280,"modrinthHash":"035c3d857f4f2d46ce9940f4d5baf3db1c2029c0"}

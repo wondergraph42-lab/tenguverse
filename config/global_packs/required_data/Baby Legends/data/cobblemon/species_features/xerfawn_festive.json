@@ -1,0 +1,11 @@
+{
+  "type": "choice",
+  "keys": ["xerfawn_costume"],
+  "default": "none",
+  "choices": [
+    "none",
+    "gold_nugget"
+  ],
+  "isAspect": true,
+  "aspectFormat": "xerfawn-costume-{{choice}}"
+}

@@ -1,0 +1,47 @@
+{
+	id: "2371F675DF28B9D3"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			count: 3
+			id: "03EAAEC465DB7C14"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+		}
+		{
+			count: 2
+			id: "69E893FB3224B119"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+		}
+		{
+			id: "6B28CA2C1063C00C"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			weight: 0.030000012f
+		}
+		{
+			id: "0020DCFC3D1A9149"
+			item: {
+				count: 1
+				id: "minecraft:netherite_ingot"
+			}
+			weight: 0.010000002f
+		}
+		{
+			count: 4
+			id: "637916BC1D79C846"
+			item: {
+				count: 1
+				id: "minecraft:copper_ingot"
+			}
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "cobblemon:brewing_stand",
+  "input": {
+    "item": "cobblemon:light_ball"
+  },
+  "bottle": {
+    "item": "minecraft:water_bottle"
+  },
+  "result": {
+    "id": "cobblemon:zap_dna"
+  }
+}

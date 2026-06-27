@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:pikachu",
+  "order": 51,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-peakychu","female"],
+      "model": "cobblemon:pikachu_peakychu_female.geo"
+    }
+  ]
+}

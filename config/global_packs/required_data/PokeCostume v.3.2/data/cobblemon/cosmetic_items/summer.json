@@ -1,0 +1,13 @@
+{
+  "pokemon": [
+    "glaceon"
+  ],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:white_dye",
+      "aspects": [
+        "summer"
+      ]
+    }
+  ]
+}

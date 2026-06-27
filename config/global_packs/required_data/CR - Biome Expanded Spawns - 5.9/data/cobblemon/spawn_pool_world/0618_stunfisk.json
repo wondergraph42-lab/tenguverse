@@ -1,0 +1,63 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "stunfisk-1",
+      "pokemon": "stunfisk",
+      "presets": [
+        "natural",
+        "water"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "seafloor",
+      "bucket": "common",
+      "level": "22-47",
+      "weight": 3.0,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#cobblemon:is_swamp",
+          "#cobblemon:is_jungle",
+          "#cobblemon:is_arid"
+        ]
+      }
+    },
+    {
+      "id": "stunfisk-galarian-1",
+      "pokemon": "stunfisk galarian",
+      "presets": [
+        "water"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "submerged",
+      "bucket": "uncommon",
+      "level": "20-35",
+      "weight": 1.8,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_swamp"
+        ]
+      }
+    },
+    {
+      "id": "stunfisk-galarian-2",
+      "pokemon": "stunfisk galarian",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "uncommon",
+      "level": "26-47",
+      "weight": 2.5,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#minecraft:is_taiga"
+        ]
+      }
+    }
+  ]
+}

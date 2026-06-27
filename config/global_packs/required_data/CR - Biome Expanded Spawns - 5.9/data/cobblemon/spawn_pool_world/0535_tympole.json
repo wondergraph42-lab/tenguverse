@@ -1,0 +1,48 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "deeper-tympole-1",
+      "pokemon": "tympole",
+      "presets": [
+        "water"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "submerged",
+      "bucket": "common",
+      "level": "12-28",
+      "weight": 11.7,
+      "condition": {
+        "biomes": [
+          "deeperdarker:blooming_caverns",
+          "deeperdarker:deeplands",
+          "deeperdarker:echoing_forest"
+        ],
+        "dimensions": [
+          "deeperdarker:otherside"
+        ]
+      }
+    },
+    {
+      "id": "deeper-tympole-2",
+      "pokemon": "tympole",
+      "type": "pokemon",
+      "spawnablePositionType": "fishing",
+      "bucket": "common",
+      "level": "12-28",
+      "weight": 3.5,
+      "condition": {
+        "biomes": [
+          "deeperdarker:blooming_caverns",
+          "deeperdarker:deeplands",
+          "deeperdarker:echoing_forest"
+        ],
+        "dimensions": [
+          "deeperdarker:otherside"
+        ]
+      }
+    }
+  ]
+}

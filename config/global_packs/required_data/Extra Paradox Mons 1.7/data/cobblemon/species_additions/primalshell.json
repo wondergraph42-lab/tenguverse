@@ -1,0 +1,9 @@
+{
+ "target": "cobblemon:primalshell",
+ "baseScale": 0.8,
+ "hitbox": {
+   "width": 2,
+   "height": 3.2,
+   "fixed": false
+ }
+}

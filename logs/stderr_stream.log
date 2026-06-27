@@ -1,0 +1,9 @@
+-----------------------------------------------------------------------------------
+DateTime: 27.06.2026 08:37:14:138 +02:00; PID: 13260
+This file contains the stderr stream of the Minecraft process logged to a file.
+It does not include stdout or log (log4j) messages to avoid performance impact.
+-----------------------------------------------------------------------------------
+[08:37:36:051] [STDERR]: Jun 27, 2026 8:37:36 AM winterwolfsv.cobblemon_quests.logger.CobblemonQuestsLogger info
+[08:37:36:051] [STDERR]: INFO: Mega Showdown compatibility loaded!
+[08:37:36:060] [STDERR]: Jun 27, 2026 8:37:36 AM winterwolfsv.cobblemon_quests.logger.CobblemonQuestsLogger info
+[08:37:36:060] [STDERR]: INFO: Loaded 7 trainer IDs from config.

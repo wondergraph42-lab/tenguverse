@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:deep_lukewarm_ocean",
+    "minecraft:lukewarm_ocean",
+	{
+      "id": "biomesoplenty:marsh",
+      "required": false
+    },
+	{
+      "id": "biomesoplenty:mediterranean_forest",
+      "required": false
+    },
+	{
+      "id": "biomesoplenty:floodplain",
+      "required": false
+    }
+  ]
+}

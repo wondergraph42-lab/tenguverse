@@ -1,0 +1,94 @@
+{
+  "player": {
+    "capture": {
+      "enabled": true,
+      "baseXp": 4,
+      "levelMultiplier": 0.2,
+      "globalMultiplier": 1.0,
+      "luckyEggMultiplier": 1.5,
+      "minimumLevelForRewards": {
+        "enabled": false,
+        "level": 20
+      },
+      "bonuses": {
+        "firstSpeciesBonusEnabled": true,
+        "firstSpeciesMultiplier": 1.5,
+        "repeatedSpeciesModifierEnabled": true,
+        "repeatedSpeciesMultiplier": 0.75,
+        "repeatedSpeciesThreshold": 1,
+        "shinyMultiplier": 1.0,
+        "alphaMultiplier": 1.0,
+        "legendaryMultiplier": 1.2,
+        "mythicalMultiplier": 1.2,
+        "ultraBeastMultiplier": 1.2,
+        "specialFormMultiplier": 1.0
+      }
+    },
+    "battle": {
+      "luckyEggMultiplier": 1.5,
+      "skipWildCaptureVictories": true,
+      "minimumLevelForRewards": {
+        "enabled": false,
+        "level": 20
+      },
+      "wild": {
+        "enabled": true,
+        "baseXp": 4,
+        "levelMultiplier": 0.17,
+        "globalMultiplier": 1.0
+      },
+      "trainer": {
+        "enabled": true,
+        "baseXp": 5,
+        "levelMultiplier": 0.19,
+        "globalMultiplier": 1.0
+      },
+      "pvp": {
+        "enabled": true,
+        "baseXp": 6,
+        "levelMultiplier": 0.21,
+        "globalMultiplier": 1.0
+      }
+    }
+  },
+  "pokemon": {
+    "capture": {
+      "enabled": true,
+      "baseXp": 24,
+      "levelMultiplier": 1.25,
+      "globalMultiplier": 1.0,
+      "participantMultiplier": 1.0,
+      "expShareMultiplier": 0.5,
+      "expAllMultiplier": 0.35,
+      "expAllEnabled": false,
+      "allowCapturedPokemonWithExpAll": true,
+      "luckyEggMultiplier": 1.5,
+      "bonuses": {
+        "firstSpeciesBonusEnabled": true,
+        "firstSpeciesMultiplier": 1.5,
+        "repeatedSpeciesModifierEnabled": true,
+        "repeatedSpeciesMultiplier": 0.75,
+        "repeatedSpeciesThreshold": 1,
+        "shinyMultiplier": 1.0,
+        "alphaMultiplier": 1.0,
+        "legendaryMultiplier": 1.2,
+        "mythicalMultiplier": 1.2,
+        "ultraBeastMultiplier": 1.2,
+        "specialFormMultiplier": 1.0
+      }
+    }
+  },
+  "luckyEgg": {
+    "enabled": true,
+    "checkPlayerInventory": true,
+    "checkPartyHeldItemsForPlayerXp": true,
+    "checkPokemonHeldItems": true
+  },
+  "trainerXpCore": {
+    "enabled": true,
+    "coreCaptureRatio": 0.25,
+    "transferMultiplier": 40.0,
+    "transferEfficiency": 0.9,
+    "showTrainerXpCoreMessages": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:ditto",
+  "order": 50,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-ditto-trainer-yellow"],
+      "poser": "cobblemon:ditto_trainer",
+      "model": "cobblemon:ditto_trainer_yellow.geo",
+      "texture": "cobblemon:textures/pokemon/cosmetic/pokopia/ditto_trainer_yellow.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny","cosmetic_item-ditto-trainer-yellow"],
+      "texture": "cobblemon:textures/pokemon/cosmetic/pokopia/ditto_trainer_yellow_shiny.png"
+    }
+  ]
+}

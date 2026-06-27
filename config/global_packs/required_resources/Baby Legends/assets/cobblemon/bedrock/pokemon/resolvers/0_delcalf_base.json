@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:delcalf",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:delcalf",
+            "model": "cobblemon:delcalf.geo",
+            "texture": "cobblemon:textures/pokemon/delcalf/delcalf.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/delcalf/delcalf_shiny.png",
+            "layers": []
+        }
+    ]
+}

@@ -1,0 +1,507 @@
+{
+  "pages": [
+    {
+      "enabled": true,
+      "items": [
+        {
+          "item": "cobblemon:oran_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:cheri_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:chesto_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:pecha_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:rawst_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:aspear_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:persim_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:razz_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:bluk_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:nanab_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:wepear_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:pinap_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:occa_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:passho_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:wacan_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "enabled": true,
+      "items": [
+        {
+          "item": "cobblemon:rindo_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:yache_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:chople_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:kebia_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:shuca_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:coba_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:payapa_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:tanga_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:charti_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:kasib_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:haban_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:colbur_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:babiri_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:chilan_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:roseli_berry",
+          "price": 6,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "enabled": true,
+      "items": [
+        {
+          "item": "cobblemon:aguav_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:apicot_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:belue_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:cornn_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:custap_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:durin_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:enigma_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:figy_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:ganlon_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:grepa_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:hondew_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:hopo_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:iapapa_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:jaboca_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:kee_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:kelpsy_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:lansat_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:leppa_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:liechi_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:lum_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "enabled": true,
+      "items": [
+        {
+          "item": "cobblemon:mago_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:magost_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:maranga_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:micle_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:nomel_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:pamtre_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:petaya_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:pomeg_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:qualot_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:rabuta_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:rowap_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:salac_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:sitrus_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:spelon_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:starf_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:tamato_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:touga_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:watmel_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblemon:wiki_berry",
+          "price": 10,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

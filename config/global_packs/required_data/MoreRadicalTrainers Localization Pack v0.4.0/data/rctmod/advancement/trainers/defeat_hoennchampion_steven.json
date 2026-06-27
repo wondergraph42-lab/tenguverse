@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_hoennelitefour_drake",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_hoennchampion_steven"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_hoennchampion_steven.description"
+    },
+    "icon": {
+      "id": "cobblemon:master_ball"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "hoennchampion_steven"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

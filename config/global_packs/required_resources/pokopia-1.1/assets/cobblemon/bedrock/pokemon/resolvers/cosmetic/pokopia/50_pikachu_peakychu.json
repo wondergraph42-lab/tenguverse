@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:pikachu",
+    "order": 50,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-peakychu"
+            ],
+            "poser": "cobblemon:pikachu_peakychu",
+            "model": "cobblemon:pikachu_peakychu_male.geo",
+            "texture": "cobblemon:textures/pokemon/cosmetic/pokopia/pikachu_peakychu.png",
+            "layers": [
+				{
+                    "name": "emissive",
+                    "texture": "cobblemon:textures/pokemon/cosmetic/pokopia/pikachu_peakychu_emissive.png",
+                    "emissive": true,
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "aspects": [
+                "shiny",
+                "cosmetic_item-peakychu"
+            ],
+            "texture": "cobblemon:textures/pokemon/cosmetic/pokopia/pikachu_peakychu.png"
+        }
+    ]
+}

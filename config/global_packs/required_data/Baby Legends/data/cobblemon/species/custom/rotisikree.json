@@ -1,0 +1,101 @@
+{
+    "nationalPokedexNumber": 6757,
+    "name": "Rotisikree",
+    "primaryType": "fire",
+    "maleRatio": -1,
+    "height": 35,
+    "weight": 9500,
+    "pokedex": [
+        "cobblemon.species.rotisikree.desc"
+    ],
+    "labels": [
+        "gen1",
+        "legendary",
+        "restricted"
+    ],
+    "aspects": [
+        "standard"
+    ],
+    "abilities": [
+        "flamebody"
+    ],
+    "eggGroups": [
+        "undiscovered"
+    ],
+    "baseStats": {
+    "hp": 45,
+    "attack": 50,
+    "defence": 45,
+    "special_attack": 75,
+    "special_defence": 50,
+    "speed": 48
+   },
+    "evYield": {
+        "attack": 3
+    },
+"behaviour": {
+   "resting": {
+     "canSleep": true,
+     "willSleepOnBed": true,
+     "depth": "normal",
+     "light": "0-4"
+   }
+ },
+    "baseExperienceYield": 335,
+    "experienceGroup": "slow",
+    "catchRate": 3,
+    "eggCycles": 120,
+    "baseFriendship": 0,
+    "baseScale": 1,
+    "hitbox": {
+        "width": 1,
+        "height": 1,
+        "fixed": false
+    },
+    "drops": {
+        "amount": 1,
+        "entries": [
+            {
+                "item": "cobblemon:fire_gem"
+            }
+        ]
+    },
+    "moves": [ 
+    "1:charm",
+    "1:tackle",
+    "1:sandattack",
+    "5:ember",
+    "5:doubleteam",
+    "12:wingattack",
+    "16:flamecharge",
+    "20:aerialace",
+    "25:willowis[",
+    "30:airslash",
+    "35:uturn",
+    "40:flamethrower",
+    "45:hurricane",
+    "48:solarbeam",
+    "50:weatherball",
+    "57:sunnyday",
+    "68:overheat",
+    "100:mysticalfire"
+  ],
+    "evolutions": [
+        {
+            "id": "rotisikree_level",
+            "variant": "item_interact",
+            "result": "moltres",
+            "consumeHeldItem": true,
+            "learnableMoves": [
+                "fireblast"
+            ],
+            "requirements": [
+                {
+                    "variant": "level",
+                    "minLevel": 50
+                }
+            ],
+            "requiredContext": "cobblemon:fire_stone"
+        }
+    ]
+}

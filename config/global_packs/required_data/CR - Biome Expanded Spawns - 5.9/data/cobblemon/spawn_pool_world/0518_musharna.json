@@ -1,0 +1,139 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "musharna-1",
+      "pokemon": "musharna",
+      "presets": [
+        "natural",
+        "urban"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "common",
+      "level": "24-49",
+      "weight": 0.5,
+      "condition": {
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "biomes": [
+          "#cobblemon:is_overworld"
+        ],
+        "timeRange": "night"
+      }
+    },
+    {
+      "id": "musharna-2",
+      "pokemon": "musharna",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "common",
+      "level": "24-49",
+      "weight": 0.5,
+      "condition": {
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "biomes": [
+          "#cobblemon:is_overworld"
+        ],
+        "timeRange": "night",
+        "structures": [
+          "#minecraft:village"
+        ]
+      }
+    },
+    {
+      "id": "musharna-1",
+      "pokemon": "musharna",
+      "presets": [],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "rare",
+      "level": "20-45",
+      "weight": 3.2,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_overworld"
+        ],
+        "neededNearbyBlocks": [
+          "minecraft:white_bed",
+          "minecraft:orange_bed",
+          "minecraft:magenta_bed",
+          "minecraft:light_blue_bed",
+          "minecraft:yellow_bed",
+          "minecraft:lime_bed",
+          "minecraft:pink_bed",
+          "minecraft:gray_bed",
+          "minecraft:light_gray_bed",
+          "minecraft:cyan_bed",
+          "minecraft:purple_bed",
+          "minecraft:blue_bed",
+          "minecraft:brown_bed",
+          "minecraft:green_bed",
+          "minecraft:red_bed",
+          "minecraft:black_bed"
+        ]
+      }
+    },
+    {
+      "id": "musharna-2",
+      "pokemon": "musharna",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "uncommon",
+      "level": "10-25",
+      "weight": 5.8,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_end"
+        ],
+        "neededNearbyBlocks": [
+          "minecraft:white_bed",
+          "minecraft:orange_bed",
+          "minecraft:magenta_bed",
+          "minecraft:light_blue_bed",
+          "minecraft:yellow_bed",
+          "minecraft:lime_bed",
+          "minecraft:pink_bed",
+          "minecraft:gray_bed",
+          "minecraft:light_gray_bed",
+          "minecraft:cyan_bed",
+          "minecraft:purple_bed",
+          "minecraft:blue_bed",
+          "minecraft:brown_bed",
+          "minecraft:green_bed",
+          "minecraft:red_bed",
+          "minecraft:black_bed"
+        ]
+      }
+    },
+    {
+      "id": "aether_musharna_1",
+      "pokemon": "musharna",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "40-80",
+      "weight": 10.0,
+      "condition": {
+        "biomes": [
+          "aether:skyroot_forest"
+        ],
+        "dimensions": [
+          "aether:the_aether"
+        ]
+      }
+    }
+  ]
+}

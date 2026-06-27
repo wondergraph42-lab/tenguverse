@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:wildgene",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["wave-gear"],
+      "poser": "cobblemon:wildgene",
+      "model": "cobblemon:wildgene_gear.geo",
+      "texture": "cobblemon:textures/pokemon/wildgene/wildgene_wave-gear.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/wildgene/wildgene_wave-gear_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    },
+    {
+      "aspects": ["shiny", "wave-gear"],
+      "texture": "cobblemon:textures/pokemon/wildgene/wildgene_wave-gear_shiny.png"
+    }
+  ]
+}

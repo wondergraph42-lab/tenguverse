@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:trapinch",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:trapinch",
+            "model": "cobblemon:cafe_trapinch.geo",
+            "texture": "cobblemon:textures/pokemon/trapinch/trapinch.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/trapinch/trapinch_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/trapinch/cafe_trapinch.png"
+                }
+            ]
+        }
+    ]
+}

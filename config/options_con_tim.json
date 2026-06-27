@@ -1,0 +1,18 @@
+{
+  "outOfBattleCaptures": {
+    "value": true,
+    "overrides": {}
+  },
+  "outOfBattleCaptureBallBypass": {
+    "value": [
+      "cobblemon:safari_ball",
+      "cobblemon:master_ball"
+    ],
+    "overrides": {}
+  },
+  "onlyDropInBattle": {
+    "value": false,
+    "overrides": {}
+  },
+  "debug": false
+}

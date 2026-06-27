@@ -1,0 +1,27 @@
+[pokemon_capsules]
+	#Minimum level for Pokémon spawned by standard Pokémon Capsules.
+	# Default: 1
+	# Range: 1 ~ 100
+	pokemon_capsule_min_level = 1
+	#Maximum level for Pokémon spawned by standard Pokémon Capsules.
+	# Default: 100
+	# Range: 1 ~ 100
+	pokemon_capsule_max_level = 100
+	#Minimum level for Pokémon spawned by Shiny Pokémon Capsules.
+	# Default: 1
+	# Range: 1 ~ 100
+	pokemon_capsule_shiny_min_level = 1
+	#Maximum level for Pokémon spawned by Shiny Pokémon Capsules.
+	# Default: 100
+	# Range: 1 ~ 100
+	pokemon_capsule_shiny_max_level = 100
+
+[stack_limits]
+	#Maximum stack size for all capsule items.
+	# Default: 16
+	# Range: 1 ~ 64
+	capsule_stack_size = 16
+	#Maximum stack size for all core items.
+	# Default: 16
+	# Range: 1 ~ 64
+	core_stack_size = 16

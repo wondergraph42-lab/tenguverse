@@ -1,0 +1,12 @@
+{
+  "type": "cobblemon:brewing_stand",
+  "input": {
+    "item": "cobblemon:flame_orb"
+  },
+  "bottle": {
+    "item": "minecraft:water_bottle"
+  },
+  "result": {
+    "id": "cobblemon:flare_dna"
+  }
+}

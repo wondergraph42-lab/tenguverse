@@ -1,0 +1,85 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "luggage"
+	group: "3C1371271429A50A"
+	icon: {
+		id: "luggage:luggage"
+	}
+	id: "17DC1ED9A3960D3C"
+	order_index: 8
+	quest_links: [ ]
+	quests: [
+		{
+			id: "54E7FD23A9C12D0B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "60F88C8BD8C7E7BE"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "62D287DD40C9F3C7"
+				item: { count: 1, id: "luggage:luggage" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["54E7FD23A9C12D0B"]
+			id: "2970318EB5F706BF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3B41791DA2FC5237"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "7BF934140E3F578B"
+				item: { count: 1, id: "luggage:ender_luggage" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "jei:textures/jei/atlas/gui/icons/info.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2729C781A3E7D2AF"
+			tasks: [{
+				id: "71456FF242F3EF27"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"2970318EB5F706BF"
+				"54E7FD23A9C12D0B"
+			]
+			id: "2673D1F1B00B60B0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "59F9D4CEDEB5B6B2"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "29A4C37547E4F025"
+				item: { components: { "luggage:extended": { } }, count: 1, id: "luggage:luggage" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+	]
+}

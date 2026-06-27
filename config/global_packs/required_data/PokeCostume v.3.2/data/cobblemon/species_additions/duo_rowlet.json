@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:rowlet",
+  "shoulderMountable": true,
+  "forms": [
+    {
+      "name": "duo",
+      "aspects": ["duo"],
+      "pokedex": ["cobblemon.species.rowlet-duo.desc"],
+	  "maleRatio": 1.0
+    }
+  ]
+}

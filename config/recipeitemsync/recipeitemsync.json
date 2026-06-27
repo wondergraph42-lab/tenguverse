@@ -1,0 +1,21 @@
+{
+  "namespaces": [
+    "atmxmsd"
+  ],
+  "manualVirtualItems": [
+    {
+      "virtualId": "atmxmsd:ancient_light_ball",
+      "hostItem": "minecraft:trial_key",
+      "customModelData": 260617,
+      "displayName": "Ancient Light Ball",
+      "tooltip": ["atmxmsd:ancient_light_ball"]
+    },
+    {
+      "virtualId": "atmxmsd:binding_armor",
+      "hostItem": "minecraft:amethyst_shard",
+      "customModelData": 260614,
+      "displayName": "Binding Armor",
+      "tooltip": ["atmxmsd:binding_armor", "Focuses and restrains Mewtwo's Powers"]
+    }
+  ]
+}

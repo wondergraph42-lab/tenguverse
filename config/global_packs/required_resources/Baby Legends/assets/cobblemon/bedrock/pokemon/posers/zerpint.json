@@ -1,0 +1,31 @@
+{
+  "head": "head",
+  "portraitScale": 2,
+  "portraitTranslation": [-1, -1, 0],
+  "profileScale": 0.7,
+  "profileTranslation": [0, 0.4, 0],
+  "animations": {},
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": [
+        "q.bedrock('zerpint', 'ground_idle')"
+      ]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+        "q.bedrock('zerpint', 'ground_idle')"
+      ]
+      
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.bedrock('zerpint', 'ground_walk')"
+      ]
+    }
+  }
+}

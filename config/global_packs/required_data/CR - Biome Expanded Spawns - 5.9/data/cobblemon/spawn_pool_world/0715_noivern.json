@@ -1,0 +1,116 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "noivern-1",
+      "pokemon": "noivern",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "uncommon",
+      "level": "48-54",
+      "weight": 1.6,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 7,
+        "biomes": [
+          "#cobblemon:is_deep_dark"
+        ]
+      }
+    },
+    {
+      "id": "noivern-1-aether",
+      "pokemon": "noivern",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "uncommon",
+      "level": "48-54",
+      "weight": 1.6,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 7,
+        "biomes": [
+          "#aether:is_aether"
+        ],
+        "dimensions": [
+          "aether:the_aether"
+        ]
+      }
+    },
+    {
+      "id": "noivern-2",
+      "pokemon": "noivern",
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "rare",
+      "level": "48-54",
+      "weight": 2.5,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 7,
+        "biomes": [
+          "#cobblemon:is_overworld"
+        ],
+        "maxY": 0
+      },
+      "anticondition": {
+        "biomes": [
+          "#cobblemon:is_deep_dark"
+        ]
+      }
+    },
+    {
+      "id": "deeper-noivern-1",
+      "pokemon": "noivern",
+      "presets": [
+        "deep_dark"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "rare",
+      "level": "48-68",
+      "weight": 5.5,
+      "condition": {
+        "biomes": [
+          "deeperdarker:blooming_caverns",
+          "deeperdarker:deeplands",
+          "deeperdarker:echoing_forest",
+          "deeperdarker:overcast_columns"
+        ],
+        "dimensions": [
+          "deeperdarker:otherside"
+        ]
+      }
+    },
+    {
+      "id": "deeper-noivern-2",
+      "pokemon": "noivern",
+      "presets": [
+        "deep_dark"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "ultra-rare",
+      "level": "48-68",
+      "weight": 0.75,
+      "condition": {
+        "biomes": [
+          "deeperdarker:blooming_caverns",
+          "deeperdarker:deeplands",
+          "deeperdarker:echoing_forest",
+          "deeperdarker:overcast_columns"
+        ],
+        "dimensions": [
+          "deeperdarker:otherside"
+        ]
+      }
+    }
+  ]
+}

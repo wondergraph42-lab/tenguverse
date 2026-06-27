@@ -1,0 +1,13 @@
+{
+  "pokemon": [
+    "hooh"
+  ],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:paper",
+      "aspects": [
+        "art"
+      ]
+    }
+  ]
+}

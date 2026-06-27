@@ -1,0 +1,51 @@
+{
+  "replace": false,
+  "values": [
+    "#cobblemon:is_sandy",
+    "#cobblemon:is_savanna",
+    {
+      "id": "still_life:arid_desert",
+      "required": false
+    },
+    {
+      "id": "still_life:arid_highlands",
+      "required": false
+    },
+    {
+      "id": "still_life:arid_beach",
+      "required": false
+    },
+    {
+      "id": "still_life:barren_arctic_desert",
+      "required": false
+    },
+    {
+      "id": "still_life:barren_caves",
+      "required": false
+    },
+    {
+      "id": "still_life:barren_mediterranean_highlands",
+      "required": false
+    },
+    {
+      "id": "still_life:barren_peaks",
+      "required": false
+    },
+    {
+      "id": "still_life:barren_tundra",
+      "required": false
+    },
+    {
+      "id": "still_life:cold_barren_highlands",
+      "required": false
+    },
+    {
+      "id": "still_life:semiarid_desert",
+      "required": false
+    },
+    {
+      "id": "still_life:wooded_semiarid_desert",
+      "required": false
+    }
+  ]
+}

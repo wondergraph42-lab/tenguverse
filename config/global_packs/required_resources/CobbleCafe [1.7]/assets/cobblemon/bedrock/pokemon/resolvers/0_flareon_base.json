@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:flareon",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:flareon",
+            "model": "cobblemon:popstar_flareon.geo",
+            "texture": "cobblemon:textures/pokemon/flareon/flareon.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/flareon/flareon_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-jukebox"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/flareon/popstar_flareon.png"
+                }
+            ]
+        }
+    ]
+}

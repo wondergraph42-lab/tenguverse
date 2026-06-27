@@ -1,0 +1,11 @@
+{
+	id: "293CAD6EB0812FC5"
+	loot_size: 1
+	order_index: 40
+	rewards: [
+		{ id: "071AD3957F4CF77D", item: { count: 1, id: "cobblenav:pokenav_item_red" } }
+		{ id: "1A9D7139268647EB", item: { count: 1, id: "cobblenav:pokenav_item_green" } }
+		{ id: "1DA3395FE3DC2701", item: { count: 1, id: "cobblenav:pokenav_item_blue" } }
+	]
+	use_title: true
+}

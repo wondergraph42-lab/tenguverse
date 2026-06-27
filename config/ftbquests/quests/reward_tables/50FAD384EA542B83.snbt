@@ -1,0 +1,33 @@
+{
+	icon: {
+		id: "cobblemon:master_ball"
+	}
+	id: "50FAD384EA542B83"
+	loot_size: 1
+	order_index: 38
+	rewards: [
+		{
+			auto: "disabled"
+			command: "/spawnpokemon koraidon lvl=70"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "6616DEE1E12093D2"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon miraidon lvl=70"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:azure_ball"
+			}
+			id: "0CAFD30F0627496F"
+			permission_level: 2
+			type: "command"
+		}
+	]
+	use_title: true
+}

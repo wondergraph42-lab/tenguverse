@@ -1,0 +1,879 @@
+{
+	autofocus_id: "7D10898F4947456E"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mega"
+	group: "4BF5F6D2733D3A8E"
+	icon: {
+		id: "mega_showdown:mega_stone"
+	}
+	id: "5A56B41619E1FAA7"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7D10898F4947456E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "300D710490EBC99B"
+				table_id: 82635963604109193L
+				type: "random"
+			}]
+			shape: "diamond"
+			size: 3.0d
+			tasks: [{
+				id: "74C073C2F8A457F4"
+				item: { count: 1, id: "mega_showdown:mega_stone" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "2D6295CBFB4A44C6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5314C3A2C4D0E395"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "390FDB11FA880FF8"
+				item: { count: 1, id: "mega_showdown:aggronite" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "755ED89B028475BC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "797155DBB55C05EC"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "3563DA26F4863434"
+				item: { count: 1, id: "mega_showdown:alakazite" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "7E23CA4C04DA6589"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2119B3DA993E1202"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "308944B14CDE82AD"
+				item: { count: 1, id: "mega_showdown:altarianite" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "3639C03DE46A77FA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7A44043810256492"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "1D8DD61AD9FFA2DE"
+				item: { count: 1, id: "mega_showdown:ampharosite" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "33D8A6E40F381632"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4C7D780D8085B069"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "52AA2CA6BCC24025"
+				item: { count: 1, id: "mega_showdown:audinite" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "19E0E8C62C0AAF8D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "53F772FCFE8FB410"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "23A68FEA4D4D7F96"
+				item: { count: 1, id: "mega_showdown:banettite" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "6447CA0AB4D23CA5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6F8DC2A0B203BA5C"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "66E0D3B401F01AFF"
+				item: { count: 1, id: "mega_showdown:beedrillite" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "00336D83BD68E6F0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "789E86D43118FDB1"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "684D5412C3E15CB8"
+				item: { count: 1, id: "mega_showdown:blastoisinite" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "424B22E368B1C624"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7F6D05A3D9E14F31"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "6381CC6A93F31561"
+				item: { count: 1, id: "mega_showdown:blazikenite" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "79CABCF87EEFC124"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "70C74B8E3C0E23B7"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "27F98E9748DF6D9A"
+				item: { count: 1, id: "mega_showdown:kangaskhanite" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "6F398CDA52ACB865"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "018D0E5ABC008C70"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "2BF3E6777A2DD4A7"
+				item: { count: 1, id: "mega_showdown:latiasite" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "71A3E439EE536010"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "589575B8A03A3478"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "220AA3E3A601CBEF"
+				item: { count: 1, id: "mega_showdown:latiosite" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "36EAEE18F636351F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "55E53E7EAC18DBE2"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "414FA05EA258AE8F"
+				item: { count: 1, id: "mega_showdown:lopunnite" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "6F34B4B1A64E3A70"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4A1F5B89C1F6C400"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "3E9DB48B0663B6DB"
+				item: { count: 1, id: "mega_showdown:lucarionite" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "78CBB6B501ADA579"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "57C5FCFB3A3D1036"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "11C39846F51646E7"
+				item: { count: 1, id: "mega_showdown:manectite" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "5EA546D8598D8C6D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "09D349D73FD62D65"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "123C1B8330B374B1"
+				item: { count: 1, id: "mega_showdown:mawilite" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "018BA30BF0771A62"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "294EDD84EC592855"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "0154D16B689047D2"
+				item: { count: 1, id: "mega_showdown:medichamite" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "318211B56068809D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "32316E91A992EEB8"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "4C13DB7C71262E69"
+				item: { count: 1, id: "mega_showdown:metagrossite" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "3361FC304C738E06"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5C2FDA750952317C"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "097FD458CCD9CE93"
+				item: { count: 1, id: "mega_showdown:mewtwonite_y" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "62B69E8AD1A15FA6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "721600653D30F3B3"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "5E857CA8D16E3BE6"
+				item: { count: 1, id: "mega_showdown:mewtwonite_x" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "37772433FF4D77B0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "13D86B75F4026FBA"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "7DC48CE117011F02"
+				item: { count: 1, id: "mega_showdown:pidgeotite" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "3D21F7FEC6B761E8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "538D06A49AB0B463"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "3776BB5CA7317E3A"
+				item: { count: 1, id: "mega_showdown:houndoominite" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "08197898B9557721"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7718E86A5782C93A"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "2782F05E9957D610"
+				item: { count: 1, id: "mega_showdown:heracronite" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "12731F1111BF6F34"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "07A73B703C42EFA5"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "43EA64CB1DE9173B"
+				item: { count: 1, id: "mega_showdown:gyaradosite" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "6F24D42710ABF00C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "01253219B20996D0"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "7CBF70A83A5FF97A"
+				item: { count: 1, id: "mega_showdown:glalitite" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "60C077D5A872C355"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "316BFD715D3E7EC4"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "5FEF8F8FE56BC54A"
+				item: { count: 1, id: "mega_showdown:gengarite" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "0302981B74CF8A8D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "13050CF54675AFBC"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "417CBD20F8FFBD1A"
+				item: { count: 1, id: "mega_showdown:gardevoirite" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "188BA6539A3EAE86"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7CE2091391BDEF3B"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "458A9D9A7CA656AB"
+				item: { count: 1, id: "mega_showdown:garchompite" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "3500ABBBFE33A2EC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2C474F121FA09964"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "58F10478261522FD"
+				item: { count: 1, id: "mega_showdown:galladite" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "69AE5686320F86A3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "47E0E2EC580378EC"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "6147FA8B0F3D8944"
+				item: { count: 1, id: "mega_showdown:diancite" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "47E27EB84DBCB8C4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0E54958B588881BD"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "0B872AA37C6454AE"
+				item: { count: 1, id: "mega_showdown:charizardite_y" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "68D94455945394C4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7D269D6DEBF50AAF"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "0E86FF847BAFBD6E"
+				item: { count: 1, id: "mega_showdown:charizardite_x" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "52E30C6D4EEF2960"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "179D28702EC7DFDF"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "33007539301BB681"
+				item: { count: 1, id: "mega_showdown:cameruptite" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "3E29BB3171EFEAB5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4018F4AAC6D13CC9"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "6CA30D277BE13160"
+				item: { count: 1, id: "mega_showdown:abomasite" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "2FC18CEAC71D6555"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "295FDBF2ADB1C67C"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "6D3C7C53EA1D5129"
+				item: { count: 1, id: "mega_showdown:absolite" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "67A69178A57DDC23"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "260BB5BC2CFAA0F2"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "4FF71DCAE4BFDE09"
+				item: { count: 1, id: "mega_showdown:aerodactylite" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "6A7C65D5127C3D12"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "16BE5635C3DEFD9A"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "7952DC3E1731B69D"
+				item: { count: 1, id: "mega_showdown:salamencite" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "71D684EFA10F63F8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "183FBB414C4AA7F1"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "075FE8361C5F1D86"
+				item: { count: 1, id: "mega_showdown:scizorite" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "1650F387A8B83487"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "213DCDDC0E1833D9"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "7984CA8E40167019"
+				item: { count: 1, id: "mega_showdown:sharpedonite" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "0708F9CB2A215B67"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "366106DDC2953E40"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "0058A121EDB2878B"
+				item: { count: 1, id: "mega_showdown:sceptilite" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "379763B5EBE65393"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2685F6886468173C"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "39BF940F2DCF5899"
+				item: { count: 1, id: "mega_showdown:slowbronite" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "61EC6FD41BBA9A18"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "59398CFCCDA4590E"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "63AF0AA5E2B29905"
+				item: { count: 1, id: "mega_showdown:steelixite" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "2D57436B1C5DAA46"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "32DF46E6F96D5149"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "47E4F87CAF7536F1"
+				item: { count: 1, id: "mega_showdown:swampertite" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "482CB5E3BF0851A7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "34266CFA4D4C6FC3"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "59B8BDD636ABAA98"
+				item: { count: 1, id: "mega_showdown:tyranitarite" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "2AD5F6BF766D661E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "30E3B3A8524D407C"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "0EF0C2E2380D1DB1"
+				item: { count: 1, id: "mega_showdown:venusaurite" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "67EAF62F786C637F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5D4669556B6606E1"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "48E8700CB148BC6B"
+				item: { count: 1, id: "mega_showdown:pinsirite" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["7D10898F4947456E"]
+			id: "4F7AFCF2DE8D6E44"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3D3BC9781D6E20AE"
+				table_id: 8884323664789706560L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "4332FF384BE0C5FE"
+				item: { count: 1, id: "mega_showdown:sablenite" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -4.5d
+		}
+	]
+}

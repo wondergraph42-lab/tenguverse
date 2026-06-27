@@ -1,0 +1,113 @@
+{
+  "head": "head",
+  "portraitScale": 2.3,
+  "portraitTranslation": [-0.1, -0.7, 0],
+  "profileScale": 0.9,
+  "profileTranslation": [0, 0.4, 0],
+  "animations": {},
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('yivpip', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('yivpip', 'blink')"
+      ]
+    },
+    "battle-flying": {
+      "poseTypes": ["HOVER"],
+      "isBattle": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('yivpip', 'air_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('yivpip', 'blink')"
+      ]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('yivpip', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('yivpip', 'blink')"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.bedrock('yivpip', 'ground_walk')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('yivpip', 'blink')"
+      ]
+    },
+    "hover": {
+      "poseTypes": ["HOVER"],
+      "isBattle": false,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('yivpip', 'air_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('yivpip', 'blink')"
+      ]
+    },
+    "fly": {
+      "poseTypes": ["FLY"],
+      "isBattle": false,
+      "animations": [
+        "q.bedrock('yivpip', 'air_fly')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('yivpip', 'blink')"
+      ]
+    },
+    "leftshoulder": {
+      "poseName": "hat",
+      "transformTicks": 10,
+      "poseTypes": ["SHOULDER_LEFT"],
+      "animations": [
+        "bedrock(yivpip,hat)",
+        "q.look('head')"
+      ],
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": [
+            "bedrock(yivpip, blink)"
+          ]
+        }
+      ]
+    },
+    "rightshoulder": {
+      "poseName": "hat",
+      "transformTicks": 10,
+      "poseTypes": ["SHOULDER_RIGHT"],
+      "animations": [
+        "bedrock(yivpip,hat)",
+        "q.look('head')"
+      ],
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": [
+            "bedrock(yivpip, blink)"
+          ]
+        }
+      ]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "condition": "!q.is_standing_on_blocks(2, 'minecraft:sand', 'minecraft:red_sand')",
+      "namedAnimations": {},
+      "animations": ["q.bedrock('yivpip', 'sleep')"]
+    }
+  }
+}

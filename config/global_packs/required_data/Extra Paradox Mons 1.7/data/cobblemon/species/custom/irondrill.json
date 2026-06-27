@@ -1,0 +1,230 @@
+{
+  "implemented": true,
+  "name": "irondrill",
+  "nationalPokedexNumber": 9919,
+  "primaryType": "fairy",
+  "secondaryType": "steel",
+  "abilities": [
+    "quarkdrive"
+  ],
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:diamond",
+        "quantityRange": "1-5"
+      },
+      {
+        "item": "cobblemon:mago_berry",
+        "percentage": 10
+      }
+    ]
+  },
+  "baseStats": {
+    "hp": 56,
+    "attack": 120,
+    "defence": 114,
+    "special_attack": 122,
+    "special_defence": 118,
+    "speed": 60
+  },
+"behaviour": {
+   "resting": {
+     "canSleep": true,
+     "willSleepOnBed": false,
+     "depth": "normal",
+     "light": "0-4"
+   },
+        "moving": {
+          "swim": {
+            "avoidsWater": true
+          }
+        },
+        "combat": {
+          "willDefendSelf": true,
+          "willDefendOwner": true,
+          "willFlee": false
+        },
+        "fireImmune": false
+  },
+  "catchRate": 10,
+  "maleRatio": -1,
+  "shoulderMountable": false,
+  "baseExperienceYield": 169,
+  "experienceGroup": "slow",
+  "eggCycles": 20,
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "moves": [
+    "1:lightscreen",
+    "1:rockpolish",
+    "1:irondefense",
+    "1:amnesia",
+    "1:rapidspin",
+    "1:moonblast",
+    "21:electricterrain",
+    "26:storedpower",
+    "31:psychic",
+    "33:stealthrock",
+    "36:earthquake",
+    "43:spinout",
+    "50:psychocut",
+    "57:drillrun",
+    "64:playrough",
+    "71:discharge",
+    "78:diamondstorm",
+    "85:drillpeck",
+    "86:diamonddrill",
+
+    "tm:playrough",
+    "tm:dig",
+    "tm:magnetbomb",
+    "tm:earthquake",
+    "tm:stealbeam",
+    "tm:irondefense",
+    "tm:thief",
+    "tm:nastyplot",
+    "tm:smackdown",
+    "tm:heavyslam",
+    "tm:knockoff",
+    "tm:powerswap",
+    "tm:guardswap",
+    "tm:speedswap",
+    "tm:irondefense",
+    "tm:aurasphere",
+    "tm:rollout",
+    "tm:endure",
+    "tm:energyball",
+    "tm:facade",
+    "tm:ironhead",
+    "tm:thunder",
+    "tm:focusblast",
+    "tm:fling",
+    "tm:magicroom",
+    "tm:payback",
+    "tm:overheat",
+    "tm:rockslide",
+    "tm:irontail",
+    "tm:thunderbolt",
+    "tm:icebeam",
+    "tm:falseswipe",
+    "tm:toxic",
+    "tm:triattack",
+    "tm:payback",
+    "tm:workup",
+    "tm:protect",
+    "tm:powergem",
+    "tm:electricterrain",
+    "tm:hyperbeam",
+    "tm:earthpower",
+    "tm:rest",
+    "tm:gigaimpact",
+    "tm:smartstrike",
+    "tm:flashcannon",
+    "tm:dazzlinggleam",
+    "tm:throatchop",
+    "tm:seismictoss",
+    "tm:takedown",
+    "tm:sleeptalk",
+    "tm:wonderroom",
+    "tm:psychocut",
+    "tm:doubleedge",
+    "tm:doubleteam",
+    "tm:substitute",
+    "tm:moonblast",
+    "tm:terablast",
+    "tm:signalbeam",
+    "tm:chargebeam",
+    "tm:uturn",
+    "tm:voltswitch",
+    "tm:zenheadbutt" ],
+  "labels": [
+    "gen9",
+    "paradox"
+  ],
+  "pokedex": [
+    "cobblemon.species.irondrill.desc"
+  ],
+  "baseFriendship": 50,
+  "evYield": {
+    "hp": 0,
+    "attack": 1,
+    "defence": 0,
+    "special_attack": 2,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "height": 2.5,
+  "weight": 692,
+  "aspects": [],
+  "cannotDynamax": false,
+  "baseScale": 0.6,
+  "hitbox": {
+    "width": 1.4,
+    "height": 2.5,
+    "fixed": false
+  },
+  "evolutions": [],
+  "forms": [
+    {
+      "name": "Mega",
+      "primaryType": "fairy",
+      "secondaryType": "steel",
+      "maleRatio": -1,
+      "height": 3,
+      "weight": 1490,
+      "pokedex": [
+        "cobblemon.species.irondrill-mega.desc"
+      ],
+      "labels": [
+        "gen9",
+        "mega",
+        "paradox"
+      ],
+      "aspects": [
+        "mega"
+      ],
+      "abilities": [
+        "quarkdrive"
+      ],
+      "baseScale": 0.8,
+      "hitbox": {
+      "width": 1,
+      "height": 1.9,
+      "fixed": false
+      },  
+      "behaviour": {
+   "resting": {
+     "canSleep": true,
+     "willSleepOnBed": false,
+     "depth": "normal",
+     "light": "0-4"
+   },
+        "moving": {
+          "swim": {
+            "avoidsWater": true
+          }
+        },
+        "combat": {
+          "willDefendSelf": true,
+          "willDefendOwner": true,
+          "willFlee": false
+        },
+        "fireImmune": false
+  },
+      "baseStats": {
+        "hp": 56,
+        "attack": 148,
+        "defence": 130,
+        "special_attack": 146,
+        "special_defence": 126,
+        "speed": 84
+      },
+      "baseExperienceYield": 169,
+      "evolutions": [],
+      "battleOnly": true,
+      "dynamaxBlocked": true
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cobblemon:ironflare",
+  "speciesId": "cobblemon:ironflare",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "normal",
+      "unlockForms": [
+        "normal"
+      ]
+    },
+    {
+      "displayForm": "mega",
+      "unlockForms": [
+        "mega"
+      ]
+    }
+  ],
+  "variations": []
+}

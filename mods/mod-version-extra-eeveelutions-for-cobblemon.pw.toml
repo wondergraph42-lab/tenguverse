@@ -1,0 +1,13 @@
+name = "[Simple Version] Extra Eeveelutions for Cobblemon"
+filename = "extra-eeveelutions-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d422086e0123870c7b1cfab42ff5cdac89ce118a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7296662
+project-id = 1328101

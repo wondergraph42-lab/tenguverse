@@ -1,0 +1,149 @@
+{
+    "implemented": true,
+    "nationalPokedexNumber": 6758,
+    "name": "Regiclay",
+    "primaryType": "normal",
+    "maleRatio": -1,
+    "height": 17,
+    "weight": 2300,
+    "pokedex": [
+        "cobblemon.species.regiclay.desc"
+    ],
+    "labels": [
+        "gen3",
+        "legendary"
+    ],
+    "aspects": [],
+    "abilities": [
+        "clearbody",
+        "h:sturdy"
+    ],
+    "eggGroups": [
+        "undiscovered"
+    ],
+    "baseStats": {
+        "hp": 40,
+        "attack": 50,
+        "defence": 100,
+        "special_attack": 25,
+        "special_defence": 50,
+        "speed": 25
+    },
+    "evYield": {
+        "defence": 3
+    },
+"behaviour": {
+   "resting": {
+     "canSleep": true,
+     "willSleepOnBed": true,
+     "depth": "normal",
+     "light": "0-4"
+   }
+ },
+    "baseExperienceYield": 290,
+    "experienceGroup": "slow",
+    "catchRate": 3,
+    "eggCycles": 80,
+    "baseFriendship": 35,
+    "baseScale": 1,
+    "hitbox": {
+        "width": 1,
+        "height": 1,
+        "fixed": false
+    },
+    "drops": {
+        "amount": 1,
+        "entries": [
+            {
+                "item": "cobblemon:hard_stone"
+            }
+        ]
+    },
+    "moves": [
+        "1:explosion",
+        "1:sandattack",
+        "6:mudslap",
+        "12:ancientpower",
+        "18:stomp",
+        "24:rockthrow",
+        "30:curse",
+        "36:irondefense",
+        "42:hammerarm",
+        "48:stoneedge",
+        "54:superpower",
+        "60:lockon",
+        "66:zapcannon",
+        "72:hyperbeam",
+        "78:explosion",
+        "100:skillswap"
+    ],
+    "evolutions": [
+        {
+            "id": "regiclay-registeel-trade",
+            "variant": "trade",
+            "result": "registeel",
+            "consumeHeldItem": true,
+            "learnableMoves": [
+                "irondefense"
+            ],
+            "requirements": [
+                {
+                    "variant": "held_item",
+                    "weather": "thundering",
+                    "itemCondition": "cobblemon:metal_coat"
+                }
+            ],
+            "requiredContext": ""
+        },
+        {
+            "id": "regiclay-regirock-trade",
+            "variant": "trade",
+            "result": "regirock",
+            "consumeHeldItem": true,
+            "learnableMoves": [
+                "rockslide"
+            ],
+            "requirements": [
+                {
+                    "variant": "held_item",
+                    "weather": "clear",
+                    "itemCondition": "cobblemon:smooth_rock"
+                }
+            ],
+            "requiredContext": ""
+        },
+        {
+            "id": "regiclay-regice-trade",
+            "variant": "trade",
+            "result": "regice",
+            "consumeHeldItem": true,
+            "learnableMoves": [
+                "icebeam"
+            ],
+            "requirements": [
+                {
+                    "variant": "held_item",
+                    "minLevel": 50,
+                    "itemCondition": "cobblemon:never_melt_ice"
+                }
+            ],
+            "requiredContext": ""
+        },
+        {
+            "id": "regiclay-regigigas-level_up",
+            "variant": "level_up",
+            "result": "regigigas",
+            "consumeHeldItem": false,
+            "learnableMoves": [
+                "crushclaw"
+            ],
+            "requirements": [
+                {
+                    "variant": "level",
+                    "minLevel": 100
+                }
+            ],
+            "requiredContext": ""
+        }
+    ]
+}

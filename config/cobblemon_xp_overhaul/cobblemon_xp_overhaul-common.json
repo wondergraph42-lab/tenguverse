@@ -1,0 +1,15 @@
+{
+  "messages": {
+    "actionBar": {
+      "showPlayerCapture": true,
+      "showPlayerBattle": true,
+      "showPokemonCapture": true,
+      "showCategoryLabels": false
+    }
+  },
+  "debug": {
+    "enabled": false,
+    "logToConsole": true,
+    "sendToPlayer": false
+  }
+}

@@ -1,0 +1,11 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"pokebadges:boulder_kanto_badge"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pokebadges:hive_johto_badge"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mythsandlegends:scroll_of_water"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":"urshifu_rapidstrikegmax","type":"com.cobbledex.jei.PokemonIngredient","bookmarkType":"INGREDIENT"},
+  {"ingredient":"urshifu","type":"com.cobbledex.jei.PokemonIngredient","bookmarkType":"INGREDIENT"},
+  {"ingredient":"urshifu_gmax","type":"com.cobbledex.jei.PokemonIngredient","bookmarkType":"INGREDIENT"},
+  {"ingredient":"kubfu","type":"com.cobbledex.jei.PokemonIngredient","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:torch"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

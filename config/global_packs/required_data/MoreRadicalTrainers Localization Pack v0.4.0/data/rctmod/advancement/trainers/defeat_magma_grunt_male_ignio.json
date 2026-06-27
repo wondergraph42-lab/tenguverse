@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_any",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_magma_grunt_male_ignio"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_magma_grunt_male_ignio.description"
+    },
+    "icon": {
+      "id": "cobblemon:fast_ball"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "magma_grunt_male_ignio"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

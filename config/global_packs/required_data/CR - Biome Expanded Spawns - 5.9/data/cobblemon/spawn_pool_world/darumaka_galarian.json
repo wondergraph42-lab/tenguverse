@@ -1,0 +1,25 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "darumaka-1",
+            "pokemon": "darumaka galarian",
+            "presets": [
+                "wild",
+                "natural"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "uncommon",
+            "level": "10-25",
+            "weight": 10,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_glacial"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+  "head": "head",
+  "portraitScale": 3,
+  "portraitTranslation": [-0.2, -0.7, 0],
+  "profileScale": 1,
+  "profileTranslation": [0, 0.4, 0],
+  "animations": {},
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": [
+        "q.bedrock('rotisikree', 'battle_idle')",
+        "q.bedrock_quirk('rotisikree', 'blink')"
+      ],
+      "quirks": [
+        {
+          "name": "battle_fire",
+          "loopTimes": 1,
+          "minSecondsBetweenOccurrences": 0,
+          "maxSecondsBetweenOccurrences": 0,
+          "animations": ["bedrock(rotisikree,idle_fire)"]
+        }
+      ]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+        "q.bedrock('rotisikree', 'ground_idle')",
+        "q.bedrock_quirk('rotisikree', 'blink')"
+      ],
+      "quirks": [
+        {
+          "name": "idle_fire",
+          "loopTimes": 1,
+          "minSecondsBetweenOccurrences": 0,
+          "maxSecondsBetweenOccurrences": 0,
+          "animations": ["bedrock(rotisikree,idle_fire)"]
+        }
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.bedrock('rotisikree', 'ground_walk')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('rotisikree', 'blink')",
+        {
+          "name": "idle_fire",
+          "loopTimes": 1,
+          "minSecondsBetweenOccurrences": 0,
+          "maxSecondsBetweenOccurrences": 0,
+          "animations": ["bedrock(rotisikree,idle_fire)"]
+        }
+      ]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "condition": "!q.is_standing_on_blocks(2, 'minecraft:sand', 'minecraft:red_sand')",
+      "namedAnimations": {},
+      "animations": ["q.bedrock('rotisikree', 'sleep')"]
+    }
+  }
+}

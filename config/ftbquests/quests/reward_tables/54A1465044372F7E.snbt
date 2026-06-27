@@ -1,0 +1,25 @@
+{
+	icon: {
+		id: "cobblemon:poke_ball"
+	}
+	id: "54A1465044372F7E"
+	loot_size: 1
+	order_index: 59
+	rewards: [
+		{
+			command: "/spawnpokemon Popplio shiny lvl=10"
+			id: "65A269EDCF8ADF3F"
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon Litten shiny lvl=10"
+			id: "127A83D8D287F4E3"
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon Rowlet shiny lvl=10"
+			id: "0BF67E7741F2D7DE"
+			type: "command"
+		}
+	]
+}

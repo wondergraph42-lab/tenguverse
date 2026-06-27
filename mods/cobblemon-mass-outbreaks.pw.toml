@@ -1,0 +1,13 @@
+name = "Cobblemon Mass Outbreaks"
+filename = "cobblemonoutbreaks-neoforge-1.0.1-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e9182e2fe9eac12490db12f1442ceda0ad10e74"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6720761
+project-id = 864569

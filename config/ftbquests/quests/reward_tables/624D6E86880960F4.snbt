@@ -1,0 +1,33 @@
+{
+	icon: {
+		id: "cobblemon:master_ball"
+	}
+	id: "624D6E86880960F4"
+	loot_size: 1
+	order_index: 30
+	rewards: [
+		{
+			auto: "disabled"
+			command: "/spawnpokemon reshiram lvl=70"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:timer_ball"
+			}
+			id: "34340DAD817A5C06"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon zekrom lvl=70"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:heavy_ball"
+			}
+			id: "130CC75CE281AC46"
+			permission_level: 2
+			type: "command"
+		}
+	]
+	use_title: true
+}

@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:ironflare",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:ironflare",
+      "model": "cobblemon:ironflare.geo",
+      "texture": "cobblemon:textures/pokemon/ironflare/ironflare.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/ironflare/ironflare_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    },
+    {
+      "aspects": ["sleep"],
+      "texture": "cobblemon:textures/pokemon/ironflare/ironflare_sleep.png"
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/ironflare/ironflare_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/ironflare/ironflare_shiny_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    }
+  ]
+}

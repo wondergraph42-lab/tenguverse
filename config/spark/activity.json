@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "LevelsCraft7",
+      "uniqueId": "c23f6006-3d51-4643-88b0-fcd136659cbc"
+    },
+    "time": 1779639027966,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/EG8aGGQOGU"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "LevelsCraft7",
+      "uniqueId": "c23f6006-3d51-4643-88b0-fcd136659cbc"
+    },
+    "time": 1777593395833,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/m7sk19bRmP"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "LevelsCraft7",
+      "uniqueId": "c23f6006-3d51-4643-88b0-fcd136659cbc"
+    },
+    "time": 1755996861917,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\salig\\curseforge\\minecraft\\Instances\\Cobblemon Realms\\config\\spark\\profile-2025-08-24_02.54.21.sparkprofile"
+    }
+  }
+]

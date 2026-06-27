@@ -1,0 +1,51 @@
+{
+  "head": "head",
+  "portraitScale": 2.3,
+  "portraitTranslation":  [-0.5, -1.5, 0],
+  "profileScale": 0.9,
+  "profileTranslation": [0, 0.4, 0],
+  "animations": {},
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('haidon', 'battle_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('haidon', 'blink')",
+        "q.bedrock_quirk('haidon', 'blebble')"
+
+      ]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('haidon', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('haidon', 'blink')",
+        "q.bedrock_quirk('haidon', 'blebble')"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.bedrock('haidon', 'ground_walk')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('haidon', 'blink')",
+        "q.bedrock_quirk('haidon', 'blebble')"
+      ]
+    },
+    "sleep": {
+     "poseTypes": ["SLEEP"],
+     "condition": "!q.is_standing_on_blocks(2, 'minecraft:sand', 'minecraft:red_sand')",
+     "namedAnimations": {},
+     "animations": ["q.bedrock('haidon', 'sleep')"]
+   }
+  }
+}

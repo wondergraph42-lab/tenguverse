@@ -1,0 +1,13 @@
+name = "Cobblemon Leaderboards"
+filename = "cobblemon-leaderboards-neoforge-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fa0d22a2afb93412ff9db7ea171234d74f023604"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8116294
+project-id = 1483147

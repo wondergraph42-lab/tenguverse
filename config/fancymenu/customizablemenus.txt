@@ -1,0 +1,14 @@
+type = customizablemenus
+
+net.minecraft.client.gui.screens.inventory.InventoryScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+net.minecraft.client.gui.screens.inventory.ContainerScreen {
+}
+
+net.minecraft.client.gui.screens.TitleScreen {
+}
+

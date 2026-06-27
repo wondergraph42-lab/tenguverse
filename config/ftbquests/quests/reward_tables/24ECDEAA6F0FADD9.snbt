@@ -1,0 +1,57 @@
+{
+	icon: {
+		id: "cobblemon:cherish_ball"
+	}
+	id: "24ECDEAA6F0FADD9"
+	loot_size: 1
+	order_index: 13
+	rewards: [
+		{ id: "1874EACC6730E904", item: { count: 1, id: "cobblemon:power_anklet" } }
+		{ id: "6738F9CDD4747A75", item: { count: 1, id: "cobblemon:power_band" } }
+		{ id: "15A2B4E2C001942C", item: { count: 1, id: "cobblemon:power_belt" } }
+		{ id: "2088F0A2851D3120", item: { count: 1, id: "cobblemon:power_bracer" } }
+		{ id: "70C91C938DE00A73", item: { count: 1, id: "cobblemon:power_weight" } }
+		{ id: "16EC1D69709F208F", item: { count: 1, id: "cobblemon:exp_share" } }
+		{ id: "173EEEE98966B539", item: { count: 1, id: "cobblemon:link_cable" } }
+		{ id: "5C0ABADDF1176D95", item: { count: 1, id: "cobblemon:exp_candy_xl" } }
+		{ id: "44C5352396ACDB93", item: { count: 1, id: "cobblemon:max_potion" } }
+		{ id: "4322CD1B41B56CCE", item: { count: 1, id: "cobblemon:full_restore" } }
+		{ id: "7B31696AF9C20869", item: { count: 1, id: "cobblemon:max_revive" } }
+		{ id: "087E2465A624D0FC", item: { count: 1, id: "cobblemon:power_lens" } }
+		{ id: "041C149C6E2CB62E", item: { count: 1, id: "cobblemon:air_balloon" } }
+		{ id: "71FD15CF6B44CB5B", item: { count: 1, id: "cobblemon:shell_bell" } }
+		{ id: "285B27348AF85926", item: { count: 1, id: "cobblemon:focus_band" } }
+		{ id: "49EDFEEC52163EC7", item: { count: 1, id: "cobblemon:focus_sash" } }
+		{ id: "0B766605AD9A59CD", item: { count: 1, id: "cobblemon:metronome" } }
+		{ id: "29AF1BF5B0A2E8FA", item: { count: 1, id: "cobblemon:muscle_band" } }
+		{ id: "78D7160380C4A629", item: { count: 1, id: "cobblemon:choice_scarf" } }
+		{ id: "2D4F9F7A1E9CD756", item: { count: 1, id: "cobblemon:choice_band" } }
+		{ id: "31D2736EA2FBB8B7", item: { count: 1, id: "cobblemon:leftovers" } }
+		{ id: "01DC99EC1A1B9D75", item: { count: 1, id: "cobblemon:soothe_bell" } }
+		{
+			id: "2CE54E829A1FAA2F"
+			item: {
+				count: 1
+				id: "cobblemon:master_ball"
+			}
+			weight: 0.4f
+		}
+		{
+			count: 5
+			id: "3E63F9647732A65B"
+			item: {
+				count: 1
+				id: "cobblemon:ultra_ball"
+			}
+		}
+		{
+			count: 5
+			id: "5F2399D1F4CDA22A"
+			item: {
+				count: 1
+				id: "cobblemon:quick_ball"
+			}
+		}
+	]
+	use_title: true
+}

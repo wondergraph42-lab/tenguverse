@@ -1,0 +1,78 @@
+{
+	icon: {
+		id: "cobblemon:ancient_poke_ball"
+	}
+	id: "2DA6899F2C91B782"
+	loot_size: 1
+	order_index: 21
+	rewards: [
+		{
+			count: 3
+			id: "7CD57FF6EA55CE34"
+			item: {
+				count: 1
+				id: "cobblemon:medicinal_leek"
+			}
+		}
+		{
+			count: 3
+			id: "54B07AE196770033"
+			item: {
+				count: 1
+				id: "cobblemon:growth_mulch"
+			}
+		}
+		{
+			count: 3
+			id: "153538ED1C010874"
+			item: {
+				count: 1
+				id: "cobblemon:potion"
+			}
+		}
+		{
+			count: 3
+			id: "3AFD59546F454B0E"
+			item: {
+				count: 1
+				id: "cobblemon:exp_candy_xs"
+			}
+		}
+		{
+			count: 2
+			id: "6814A6ACF7840445"
+			item: {
+				count: 1
+				id: "cobblemon:exp_candy_s"
+			}
+		}
+		{
+			count: 5
+			id: "481DC257F16B46A3"
+			item: {
+				count: 1
+				id: "cobblemon:poke_ball"
+			}
+		}
+		{
+			count: 3
+			id: "2C2455127E801365"
+			item: {
+				count: 1
+				id: "cobblemon:premier_ball"
+			}
+		}
+		{ id: "2EE576A602F6442C", item: { count: 1, id: "cobblemon:revive" } }
+		{ id: "7472F709B77F7C94", item: { count: 1, id: "cobblemon:super_potion" } }
+		{ id: "33CB34EAD47B9E7B", item: { count: 1, id: "cobblemon:great_ball" } }
+		{
+			count: 3
+			id: "546C5A8E9F0FD8F9"
+			item: {
+				count: 1
+				id: "cobblemon:heal_powder"
+			}
+		}
+	]
+	use_title: true
+}

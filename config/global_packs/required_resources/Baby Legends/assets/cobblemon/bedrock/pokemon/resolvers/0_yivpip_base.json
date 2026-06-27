@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:yivpip",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:yivpip",
+            "model": "cobblemon:yivpip.geo",
+            "texture": "cobblemon:textures/pokemon/yivpip/yivpip.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/yivpip/yivpip_shiny.png",
+            "layers": []
+        }
+    ]
+}

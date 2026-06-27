@@ -1,0 +1,15 @@
+{
+  "id": "cobblemon:gloomshade",
+  "speciesId": "cobblemon:gloomshade",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "normal",
+      "unlockForms": [
+        "normal"
+      ]
+    }
+  ],
+  "variations": []
+}

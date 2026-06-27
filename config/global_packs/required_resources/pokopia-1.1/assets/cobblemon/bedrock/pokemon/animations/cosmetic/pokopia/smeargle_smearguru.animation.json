@@ -1,0 +1,13 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.smeargle_smearguru.scale": {
+			"loop": true,
+			"bones": {
+				"tail_end": {
+					"scale": 1.5
+				}
+			}
+		}
+	}
+}

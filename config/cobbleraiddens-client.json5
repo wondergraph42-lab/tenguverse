@@ -1,0 +1,16 @@
+{
+	// Show Beacon Beam for Tier One Raids
+	"show_beam_tier_one": true,
+	// Show Beacon Beam for Tier Two Raids
+	"show_beam_tier_two": true,
+	// Show Beacon Beam for Tier Three Raids
+	"show_beam_tier_three": true,
+	// Show Beacon Beam for Tier Four Raids
+	"show_beam_tier_four": true,
+	// Show Beacon Beam for Tier Five Raids
+	"show_beam_tier_five": true,
+	// Show Beacon Beam for Tier Six Raids
+	"show_beam_tier_six": true,
+	// Show Beacon Beam for Tier Seven Raids
+	"show_beam_tier_seven": true
+}

@@ -1,0 +1,9 @@
+{
+ "target": "cobblemon:ironsail",
+ "baseScale": 0.7,
+ "hitbox": {
+   "width": 1,
+   "height": 3,
+   "fixed": false
+ }
+}

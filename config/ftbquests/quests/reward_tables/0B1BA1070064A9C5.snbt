@@ -1,0 +1,48 @@
+{
+	hide_tooltip: true
+	icon: {
+		id: "cobblemon:poke_ball"
+	}
+	id: "0B1BA1070064A9C5"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{
+			auto: "disabled"
+			command: "/spawnpokemon moltres lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:item/poke_balls/poke_ball"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "44EE6BAB43497171"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon articuno lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:azure_ball"
+			}
+			id: "6008AB5F3834BA47"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon zapdos lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "02BF9FBA4EEF9685"
+			permission_level: 2
+			type: "command"
+		}
+	]
+	use_title: true
+}

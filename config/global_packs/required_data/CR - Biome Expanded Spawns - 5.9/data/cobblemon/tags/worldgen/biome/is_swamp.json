@@ -1,0 +1,115 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:mangrove_swamp",
+    "minecraft:swamp",
+    {
+      "id": "#byg:is_swamp",
+      "required": false
+    },
+    {
+      "id": "terralith:ice_marsh",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:wetland",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:marsh",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:bog",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:bayou",
+      "required": false
+    },
+    {
+      "id": "terralith:orchid_swamp",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:bayou",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:fen",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:marsh",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:muddy_river",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:old_growth_bayou",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:floodplain",
+      "required": false
+    },
+    {
+      "id": "wythers:billabong",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:swamp",
+      "required": false
+    },
+    {
+      "id": "still_life:mediterranean_swamp",
+      "required": false
+    },
+    {
+      "id": "still_life:temperate_swamp",
+      "required": false
+    },
+    {
+      "id": "still_life:bog",
+      "required": false
+    },
+    {
+      "id": "still_life:arctic_wetlands",
+      "required": false
+    },
+    {
+      "id": "still_life:desert_wetlands",
+      "required": false
+    },
+    {
+      "id": "still_life:fen",
+      "required": false
+    },
+    {
+      "id": "still_life:flooded_grasslands",
+      "required": false
+    },
+    {
+      "id": "still_life:flooded_savanna",
+      "required": false
+    },
+    {
+      "id": "still_life:mediterranean_marsh",
+      "required": false
+    },
+    {
+      "id": "still_life:mire",
+      "required": false
+    },
+    {
+      "id": "still_life:temperate_marsh",
+      "required": false
+    },
+    {
+      "id": "still_life:tropical_wetlands",
+      "required": false
+    }
+  ]
+}

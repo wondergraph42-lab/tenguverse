@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:giragrub",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:giragrub",
+      "model": "cobblemon:giragrub.geo",
+      "texture": "cobblemon:textures/pokemon/giragrub/giragrub.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/giragrub/giragrub_shiny.png"
+    }
+  ]
+}

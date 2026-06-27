@@ -1,0 +1,13 @@
+{
+    "species": "cobblemon:eevee",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "female"
+            ],
+            "poser": "cobblemon:eevee",
+            "model": "cobblemon:cafe_eevee_female.geo"
+        }
+    ]
+}

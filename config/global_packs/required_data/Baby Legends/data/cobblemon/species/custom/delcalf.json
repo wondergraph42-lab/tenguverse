@@ -1,0 +1,124 @@
+{
+    "implemented": true,
+    "name": "delcalf",
+    "nationalPokedexNumber": 6761,
+    "primaryType": "water",
+    "abilities": [
+        "torrent"
+    ],
+    "baseStats": {
+        "hp": 68,
+        "attack": 58,
+        "defence": 50,
+        "special_attack": 59,
+        "special_defence": 59,
+        "speed": 48
+    },
+    "behaviour": {
+        "resting": {
+            "canSleep": true,
+            "depth": "normal",
+            "light": "0-4",
+            "willSleepOnBed": false,
+            "times": "night"
+        },
+        "moving": {
+            "canLook": true,
+            "walk": {
+                "canWalk": true,
+                "avoidsLand": true
+            },
+            "swim": {
+                "swimSpeed": 0.1,
+                "canSwimInWater": true,
+                "canBreatheUnderwater": true
+            },
+            "fly": {
+                "canFly": false,
+                "flySpeedHorizontal": 0.3
+            },
+            "wanderChance": 1
+        }
+    },
+    "catchRate": 6,
+    "maleRatio": -1,
+    "shoulderMountable": false,
+    "baseExperienceYield": 100,
+    "experienceGroup": "medium_slow",
+    "eggCycles": 118,
+    "eggGroups": [
+        "undiscovered"
+    ],
+    "drops": {
+        "amount": 1,
+        "entries": []
+    },
+    "moves": [
+        "1:pound",
+        "1:bubble",
+        "5:mist",
+        "9:doubleteam",
+        "13:watergun",
+        "18:protect",
+        "18:thunderwave",
+        "25:rest",
+        "29:bubblebeam",
+        "34:calmmind",
+        "39:icebeam",
+        "50:amnesia",
+        "55:substitute",
+        "61:raindance",
+        "62:hydropump",
+        "70:sheercold",
+        "100:hydrocannon",
+        "1:scaryface"
+    ],
+    "labels": [
+        "custom",
+        "legendary"
+    ],
+    "pokedex": [
+        "cobblemon.species.delcalf.desc1",
+        "cobblemon.species.delcalf.desc2"
+    ],
+    "baseScale": 1,
+    "hitbox": {
+        "width": 1.5,
+        "height": 1,
+        "fixed": false
+    },
+    "baseFriendship": 50,
+    "evYield": {
+        "hp": 1,
+        "attack": 0,
+        "defence": 0,
+        "special_attack": 0,
+        "special_defence": 0,
+        "speed": 0
+    },
+    "height": 2,
+    "weight": 600,
+    "evolutions": [
+        {
+            "id": "delcalf_kyogre",
+            "variant": "level_up",
+            "result": "kyogre",
+            "consumeHeldItem": false,
+            "learnableMoves": [
+                "originpulse"
+            ],
+            "requirements": [
+                {
+                    "variant": "weather",
+                    "isRaining": true,
+                    "isThundering": true
+                },
+                {
+                    "variant": "level",
+                    "minLevel": 60
+                }
+            ],
+            "requiredContext": ""
+        }
+    ]
+}

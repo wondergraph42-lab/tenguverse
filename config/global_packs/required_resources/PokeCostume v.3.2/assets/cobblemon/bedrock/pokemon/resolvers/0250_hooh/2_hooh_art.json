@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:hooh",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["art"],
+      "poser": "cobblemon:hooh_art",
+      "model": "cobblemon:hooh_art.geo",
+      "texture": "cobblemon:textures/pokemon/0250_hooh/hooh_art.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny","art"],
+      "texture": "cobblemon:textures/pokemon/0250_hooh/hooh_art_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "terralith:mantle_caves",
+      "required": false
+    },
+    {
+      "id": "terralith:volcanic_crater",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:volcanic_plains",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:erupting_inferno",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:volcano",
+      "required": false
+    },
+    {
+      "id": "terralith:volcanic_peaks",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:scorching_caves",
+      "required": false
+    },
+    {
+      "id": "wythers:icy_volcano",
+      "required": false
+    },
+    {
+      "id": "wythers:tropical_volcano",
+      "required": false
+    },
+    {
+      "id": "wythers:volcano",
+      "required": false
+    },
+    {
+      "id": "wythers:volcanic_chamber",
+      "required": false
+    },
+    {
+      "id": "wythers:volcanic_crater",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:ashen_woodland",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:scorching_caves",
+      "required": false
+    },
+    {
+      "id": "darkerdepths:molten_cavern",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/mantle_caves",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "ironcocoon-1",
+            "pokemon": "ironcocoon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "58-62",
+            "weight": 1.0,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_cherry_blossom"
+                ]
+             }
+          },
+          {
+            "id": "ironcocoon-2",
+            "pokemon": "ironcocoon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "58-62",
+            "weight": 1.0,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_tundra"
+                ]
+            }
+        },
+          {
+            "id": "ironcocoon-3",
+            "pokemon": "ironcocoon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "58-62",
+            "weight": 1.0,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_end"
+                ]
+             }
+          }
+        ]
+    }

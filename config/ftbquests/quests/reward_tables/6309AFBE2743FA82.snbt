@@ -1,0 +1,33 @@
+{
+	icon: {
+		id: "cobblemon:master_ball"
+	}
+	id: "6309AFBE2743FA82"
+	loot_size: 1
+	order_index: 32
+	rewards: [
+		{
+			auto: "disabled"
+			command: "/spawnpokemon yveltal lvl=70"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:cherish_ball"
+			}
+			id: "4457F72BF512B2DF"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon xerneas lvl=70"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:ancient_jet_ball"
+			}
+			id: "040650FFF409F1AD"
+			permission_level: 2
+			type: "command"
+		}
+	]
+	use_title: true
+}

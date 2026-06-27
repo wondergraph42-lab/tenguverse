@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_unovaleader_elesa",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_unovaleader_clay"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_unovaleader_clay.description"
+    },
+    "icon": {
+      "id": "cobblemonpokemonbadges:quake_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "unovaleader_clay"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

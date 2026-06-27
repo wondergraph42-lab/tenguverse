@@ -1,0 +1,26 @@
+{
+    "pokemon": [
+
+        "latios",
+        "latias",
+        "spheal",
+        "deino",
+        "eevee",
+        "zweilous",
+        "marill",
+        "rayquaza",
+        "rapidash",
+        "zebstrika",
+        "ponyta",
+        "espeon",
+        "scolipede"
+    ],
+    "cosmeticItems": [
+        {
+            "consumedItem": "minecraft:gold_nugget",
+            "aspects": [
+                "cosmetic_item-gold_nugget"
+            ]
+        }
+    ]
+}

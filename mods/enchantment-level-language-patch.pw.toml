@@ -1,0 +1,13 @@
+name = "Enchantment Level Language Patch"
+filename = "enchlevel-langpatch-3.8.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "07aaa63940a4b3020296a9914c53c2e895410eca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8152602
+project-id = 529854

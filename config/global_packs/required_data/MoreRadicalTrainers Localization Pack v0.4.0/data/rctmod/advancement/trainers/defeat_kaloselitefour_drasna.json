@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_kaloselitefour_wikstrom",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_kaloselitefour_drasna"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_kaloselitefour_drasna.description"
+    },
+    "icon": {
+      "id": "cobblemon:ultra_ball"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "kaloselitefour_drasna"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

@@ -1,0 +1,166 @@
+{
+    "implemented": true,
+    "name": "yangram",
+    "nationalPokedexNumber": 6751,
+    "primaryType": "dragon",
+    "abilities": [
+        "pressure"
+    ],
+    "baseStats": {
+        "hp": 62,
+        "attack": 65,
+        "defence": 45,
+        "special_attack": 65,
+        "special_defence": 45,
+        "speed": 47
+    },
+    "behaviour": {
+        "resting": {
+            "canSleep": true,
+            "depth": "normal",
+            "light": "0-4",
+            "willSleepOnBed": true,
+            "times": "night"
+        },
+        "moving": {
+            "canLook": true,
+            "walk": {
+                "canWalk": true,
+                "avoidsLand": false
+            },
+            "swim": {
+                "swimSpeed": 0.3,
+                "canSwimInWater": false,
+                "canBreatheUnderwater": false
+            },
+            "fly": {
+                "canFly": true,
+                "flySpeedHorizontal": 0.8
+            },
+            "wanderChance": 1
+        }
+    },
+    "catchRate": 10,
+    "maleRatio": -1,
+    "shoulderMountable": false,
+    "baseExperienceYield": 100,
+    "experienceGroup": "medium_slow",
+    "eggCycles": 80,
+    "eggGroups": [
+        "undiscovered"
+    ],
+    "drops": {
+        "amount": 1,
+        "entries": [
+            {
+                "item": "minecraft:obsidian",
+                "quantityRange": "1-2",
+                "percentage": 50
+            }
+        ]
+    },
+    "moves": [
+        "1:leer",
+        "1:dragonbreath",
+        "5:ember",
+        "8:thundershock",
+        "12:icywind",
+        "16:bite",
+        "20:ancientpower",
+        "24:slash",
+        "28:scaryface",
+        "32:crunch",
+        "36:dragonclaw",
+        "40:dragonpulse",
+        "44:nobleroar",
+        "48:zenheadbutt",
+        "52:hypervoice",
+        "56:reflect",
+        "60:lightscreen",
+        "64:outrage",
+        "68:earthpower",
+        "72:flashcannon",
+        "76:calmmind",
+        "80:imprison"
+    ],
+    "labels": [
+        "custom",
+        "legendary"
+    ],
+    "pokedex": [
+        "cobblemon.species.yangram.desc1",
+        "cobblemon.species.yangram.desc2"
+    ],
+    "baseScale": 1,
+    "hitbox": {
+        "width": 1.5,
+        "height": 2,
+        "fixed": false
+    },
+    "baseFriendship": 50,
+    "evYield": {
+        "special_attack": 2
+    },
+    "height": 2,
+    "weight": 60,
+    "evolutions": [
+        {
+            "id": "yangram_zekrom",
+            "variant": "level_up",
+            "result": "zekrom",
+            "consumeHeldItem": false,
+            "learnableMoves": [
+                "fusionbolt"
+            ],
+            "requirements": [
+                {
+                    "variant": "weather",
+                    "isRaining": true,
+                    "isThundering": true
+                },
+                {
+                    "variant": "level",
+                    "minLevel": 60
+                }
+            ],
+            "requiredContext": ""
+        },
+        {
+            "id": "yangram_reshiram",
+            "variant": "level_up",
+            "result": "reshiram",
+            "consumeHeldItem": false,
+            "learnableMoves": [
+                "fusionflare"
+            ],
+            "requirements": [
+                {
+                    "variant": "weather",
+                    "isRaining": false,
+                    "isThundering": false
+                },
+                {
+                    "variant": "level",
+                    "minLevel": 60
+                }
+            ],
+            "requiredContext": ""
+        },
+        {
+            "id": "yangram_kyurem",
+            "variant": "item_interact",
+            "result": "kyurem",
+            "consumeHeldItem": false,
+            "learnableMoves": [
+                "glaciate"
+            ],
+            "requirements": [
+                {
+                    "variant": "level",
+                    "minLevel": 70
+                }
+            ],
+            "requiredContext": "cobblemon:ice_stone"
+        }
+    ]
+}

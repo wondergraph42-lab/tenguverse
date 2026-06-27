@@ -1,0 +1,218 @@
+{
+  "implemented": true,
+  "name": "lunarveil",
+  "nationalPokedexNumber": 9920,
+  "primaryType": "psychic",
+  "secondaryType": "ice",
+  "abilities": [
+    "protosynthesis"
+  ],
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "cobblemon:mystic_water",
+        "quantityRange": "1"
+      },
+      {
+        "item": "cobblemon:kelpsy_berry",
+        "percentage": 10
+      }
+    ]
+  },
+  "baseStats": {
+    "hp": 135,
+    "attack": 71,
+    "defence": 129,
+    "special_attack": 99,
+    "special_defence": 115,
+    "speed": 43
+  },
+  "riding": {
+    "behaviours": {
+      "LAND": {
+        "key": "cobblemon:land/horse",
+        "rideSounds": [],
+        "canJump": false,
+        "canSprint": false,
+        "stats": {
+          "ACCELERATION": "10-40",
+          "JUMP": "10-10",
+          "SKILL": "80-100",
+          "SPEED": "10-20",
+          "STAMINA": "10-25"
+        }
+      },
+      "LIQUID": {
+        "key": "cobblemon:liquid/boat",
+        "surfaceLevelOffset": -1.6,
+        "rideSounds": [
+          {
+            "muffleEnabled": true,
+            "pitchExpr": "math.max(1.0 ,0.2 + math.pow(math.min(q.ride_velocity() / 1.5, 1.0),2))",
+            "playForNonPassengers": true,
+            "soundLocation": "cobblemon:ride.loop.water_surface",
+            "volumeExpr": "math.pow(math.min(q.ride_velocity() / 1.5, 1.0),2)"
+          }
+        ],
+        "stats": {
+          "ACCELERATION": "30-75",
+          "JUMP": "20-30",
+          "SKILL": "50-85",
+          "SPEED": "25-70",
+          "STAMINA": "45-100"
+        }
+      }
+    },
+    "seats": [
+      {
+        "offset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    ]
+  },
+"behaviour": {
+   "resting": {
+     "canSleep": true,
+     "willSleepOnBed": false,
+     "depth": "normal",
+     "light": "0-4"
+  },
+    "moving": {
+      "canLook": true,
+      "walk": {
+        "avoidsLand": true,
+        "walkSpeed": 0.15
+      },
+      "swim": {
+        "swimSpeed": 0.20,
+        "canBreatheUnderwater": true,
+        "canWalkOnWater": true
+      }
+    },
+    "combat": {
+          "willDefendSelf": true,
+          "willDefendOwner": true,
+          "willFlee": false
+        },
+        "fireImmune": false
+      },
+  "catchRate": 10,
+  "maleRatio": -1,
+  "shoulderMountable": false,
+  "baseExperienceYield": 169,
+  "experienceGroup": "slow",
+  "eggCycles": 20,
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "moves": [
+    "1:waterpulse",
+    "1:soak",
+    "1:calmmind",
+    "1:raindance",
+    "1:weatherball",
+    "1:zenheadbutt",
+    "1:lunardance",
+    "10:trickroom",
+    "21:psychic",
+    "24:bodypress",
+    "26:batonpass",
+    "29:lunarblessing",
+    "31:psyshock",
+    "36:snowscape",
+    "39:dazzlinggleam",
+    "43:luminacrash",
+    "50:sheercold",
+    "57:moonblast",
+    "64:moonlight",
+    "71:blizzard",
+    "78:glaciate",
+    "78:icebeam",
+    "81:expandingforce",
+    "85:aquaring",
+    "86:lunarbash",
+
+    "tm:blizzard",
+    "tm:hydrocannon",
+    "tm:futuresight",
+    "tm:chillingwater",
+    "tm:faketears",
+    "tm:charm",
+    "tm:batonpass",
+    "tm:uturn",
+    "tm:endure",
+    "tm:dragontail",
+    "tm:dazzlinggleam",
+    "tm:amnesia",
+    "tm:trickroom",
+    "tm:psywave",
+    "tm:dracometeor",
+    "tm:moonblast",
+    "tm:dragonpulse",
+    "tm:lightscreen",
+    "tm:energyball",
+    "tm:facade",
+    "tm:psychup",
+    "tm:waterfall",
+    "tm:focusblast",
+    "tm:reflect",
+    "tm:lightscreen",
+    "tm:grassknot",
+    "tm:storedpower",
+    "tm:psychic",
+    "tm:helpinghand",
+    "tm:psybeam",
+    "tm:icepunch",
+    "tm:swift",
+    "tm:flipturn",
+    "tm:lowsweep",
+    "tm:payback",
+    "tm:playrough",
+    "tm:moonblast",
+    "tm:protect",
+    "tm:scald",
+    "tm:knockoff",
+    "tm:rest",
+    "tm:irontail",
+    "tm:icebeam",
+    "tm:shadowball",
+    "tm:liquidation",
+    "tm:surf",
+    "tm:sleeptalk",
+    "tm:substitute",
+    "tm:thunderbolt",
+    "tm:terablast",
+    "tm:signalbeam",
+    "tm:calmmind",
+    "tm:zenheadbutt"
+ ],
+  "labels": [
+    "gen9",
+    "paradox"
+  ],
+  "pokedex": [
+    "cobblemon.species.lunarveil.desc"
+  ],
+  "baseFriendship": 50,
+  "evYield": {
+    "hp": 2,
+    "attack": 0,
+    "defence": 1,
+    "special_attack": 0,
+    "special_defence": 1,
+    "speed": 0
+  },
+  "height": 3,
+  "weight": 5480,
+  "aspects": [],
+  "cannotDynamax": false,
+  "hitbox": {
+    "width": 2,
+    "height": 3,
+    "fixed": false
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_any",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_sinnohleader_roark"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_sinnohleader_roark.description"
+    },
+    "icon": {
+      "id": "cobblemonpokemonbadges:coal_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "sinnohleader_roark"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

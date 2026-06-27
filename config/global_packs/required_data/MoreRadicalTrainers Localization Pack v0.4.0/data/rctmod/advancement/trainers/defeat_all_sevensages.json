@@ -1,0 +1,37 @@
+{
+  "criteria": {
+    "defeat_all_sevensages": {
+      "conditions": {
+        "count": -1,
+        "entity": {
+          "type": null
+        },
+        "trainer_ids": [],
+        "trainer_type": "sevensages"
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": null,
+    "description": {
+      "translate": "advancements.rctmod.defeat_all_sevensages.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "id": "cobblemon:ultra_ball"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.rctmod.defeat_all_sevensages"
+    }
+  },
+  "parent": "rctmod:trainers/defeat_any",
+  "requirements": [
+    [
+      "defeat_all_sevensages"
+    ]
+  ]
+}

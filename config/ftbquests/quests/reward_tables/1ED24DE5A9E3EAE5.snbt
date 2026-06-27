@@ -1,0 +1,47 @@
+{
+	icon: {
+		id: "cobblemon:fossilized_bird"
+	}
+	id: "1ED24DE5A9E3EAE5"
+	loot_size: 1
+	order_index: 15
+	rewards: [
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "2AF603371A1A8BAB"
+			item: {
+				count: 1
+				id: "cobblemon:fossilized_bird"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "1E0AB7487888FF29"
+			item: {
+				count: 1
+				id: "cobblemon:fossilized_fish"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "6DEA17717A43B91B"
+			item: {
+				count: 1
+				id: "cobblemon:fossilized_drake"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "744223277888BF48"
+			item: {
+				count: 1
+				id: "cobblemon:fossilized_dino"
+			}
+		}
+	]
+	use_title: true
+}

@@ -1,0 +1,38 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:savanna_plateau",
+    {
+      "id": "#byg:is_plateau",
+      "required": false
+    },
+    {
+      "id": "#forge:is_plateau",
+      "required": false
+    },
+    {
+      "id": "wythers:ayers_rock",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:barley_fields",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:prairie",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:steppe",
+      "required": false
+    },
+    {
+      "id": "still_life:grassland_savanna",
+      "required": false
+    },
+    {
+      "id": "still_life:savanna_highlands",
+      "required": false
+    }
+  ]
+}

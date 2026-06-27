@@ -1,0 +1,92 @@
+{
+    "portraitScale": 2.2,
+    "portraitTranslation": [0, -0.2, 0],
+    "profileScale": 1.0,
+    "profileTranslation": [0, 0.5, 0],
+    "animations": {
+      "faint": "q.bedrock_stateful('magneton', 'faint')"
+    },
+    "poses": {
+      "battle-standing": {
+        "poseTypes": ["STAND"],
+        "isBattle": true,
+        "animations": [
+          "q.bedrock('magneton', 'air_idle')"
+        ],
+        "quirks": ["q.bedrock_quirk('magneton', 'blink')"]
+      },
+      "standing": {
+        "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+        "isBattle": false,
+        "animations": [
+          "q.bedrock('magneton', 'air_idle')"
+        ],
+        "quirks": [
+          "q.bedrock_quirk('magneton', 'blink')"
+        ]
+      },
+      "walking": {
+        "poseTypes": ["WALK"],
+        "animations": [
+          "q.bedrock('magneton', 'air_fly')"
+        ],
+        "quirks": ["q.bedrock_quirk('magneton', 'blink')"]
+      },
+    "sleeping": {
+      "poseTypes": ["SLEEP"],
+        "animations": ["q.bedrock('magneton', 'sleep')"]
+      },
+	"leftshoulder": {
+     "poseName": "leftshoulder",
+     "transformTicks": 10,
+     "poseTypes": [
+       "SHOULDER_LEFT"
+     ],
+     "animations": [
+       "bedrock(magneton, left_shoulder)"
+     ],
+     "quirks": [
+       {
+         "name": "blink",
+         "animations": [
+           "bedrock(magneton, blink)"
+         ]
+       }
+     ],
+	 "transformedParts": [
+         {
+           "part": "allbodies",
+           "position": [-2.25, -3, 0],
+           "rotation": [0, 0, 0],
+           "isVisible": true
+         }
+	]
+   },
+   "rightshoulder": {
+     "poseName": "rightshoulder",
+     "transformTicks": 10,
+     "poseTypes": [
+       "SHOULDER_RIGHT"
+     ],
+     "animations": [
+       "bedrock(magneton, right_shoulder)"
+     ],
+     "quirks": [
+       {
+         "name": "blink",
+         "animations": [
+           "bedrock(magneton, blink)"
+         ]
+       }
+     ],
+	 "transformedParts": [
+         {
+           "part": "allbodies",
+           "position": [2.25, -3, 0],
+           "rotation": [0, 0, 0],
+           "isVisible": true
+         }
+	]
+   }
+  }
+ }

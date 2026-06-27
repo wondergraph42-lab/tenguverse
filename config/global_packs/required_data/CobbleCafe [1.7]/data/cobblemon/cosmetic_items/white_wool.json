@@ -1,0 +1,57 @@
+{
+    "pokemon": [
+        "arctozolt",
+        "gogoat",
+        "dedenne",
+        "vulpix",
+        "ninetales",
+        "raichu",
+        "dracozolt",
+        "trapinch",
+        "cyndaquil",
+        "quilava",
+        "typhlosion",
+        "vibrava",
+        "flygon",
+        "fennekin",
+        "braixen",
+        "delphox",
+        "litten",
+        "fuecoco",
+        "tinkaton",
+        "chikorita",
+        "liligant",
+        "chansey",
+        "cutiefly",
+        "chandelure",
+        "noibat",
+        "gardevoir",
+        "goodra",
+        "rowlet",
+        "tropius",
+        "salamence",
+        "mew",
+        "arbok",
+        "meowscrada",
+        "floragato",
+        "sprigatito",
+        "milotic",
+        "minccino",
+        "whimsicott",
+        "swablu",
+        "altaria",
+        "sylveon",
+        "snivy",
+        "kirlia",
+        "inteleon",
+        "mawile"
+    ],
+    "cosmeticItems": [
+        {
+            "consumedItem": "minecraft:white_wool",
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ]
+        }
+    ]
+}

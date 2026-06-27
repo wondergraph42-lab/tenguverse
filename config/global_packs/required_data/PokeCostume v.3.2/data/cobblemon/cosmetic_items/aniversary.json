@@ -1,0 +1,14 @@
+{
+  "pokemon": [
+    "ogerpon"
+  ],
+  "cosmeticItems": [
+    {
+      "consumedItem": "cobblemon:star_sweet",
+      "aspects": [
+        "aniversary"
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,169 @@
+{
+  "implemented": true,
+  "name": "ironcocoon",
+  "nationalPokedexNumber": 9915,
+  "primaryType": "psychic",
+  "secondaryType": "poison",
+  "abilities": [
+    "quarkdrive"
+  ],
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:string",
+        "quantityRange": "10-15"
+      },
+      {
+        "item": "cobblemon:qualot_berry",
+        "percentage": 10
+      }
+    ]
+  },
+  "baseStats": {
+    "hp": 90,
+    "attack": 64,
+    "defence": 76,
+    "special_attack": 140,
+    "special_defence": 114,
+    "speed": 106
+  },
+"behaviour": {
+   "resting": {
+     "canSleep": true,
+     "willSleepOnBed": false,
+     "depth": "normal",
+     "light": "0-4"
+   },
+        "moving": {
+          "swim": {
+            "avoidsWater": true
+          }
+        },
+        "combat": {
+          "willDefendSelf": true,
+          "willDefendOwner": true,
+          "willFlee": false
+        },
+        "fireImmune": false
+  },
+  "catchRate": 10,
+  "maleRatio": -1,
+  "shoulderMountable": false,
+  "baseExperienceYield": 169,
+  "experienceGroup": "slow",
+  "eggCycles": 20,
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "moves": [
+    "1:lightscreen",
+    "1:corrosivegas",
+    "1:acidspray",
+    "1:poisonjab",
+    "1:amnesia",
+    "1:moonblast",
+    "21:electricterrain",
+    "26:storedpower",
+    "31:psychic",
+    "33:poisonsting",
+    "36:sludgewave",
+    "43:venoshock",
+    "50:psychocut",
+    "57:switcheroo",
+    "64:sludgebomb",
+    "71:naturesmadness",
+    "78:crosspoison",
+    "85:expandingforce",
+    "86:toxinblossom",
+
+    "tm:playrough",
+    "tm:gunkshot",
+    "tm:magnetbomb",
+    "tm:sludgebomb",
+    "tm:sludgewave",
+    "tm:solarbeam",
+    "tm:thief",
+    "tm:nastyplot",
+    "tm:smackdown",
+    "tm:skittersmack",
+    "tm:knockoff",
+    "tm:powerswap",
+    "tm:guardswap",
+    "tm:speedswap",
+    "tm:irondefense",
+    "tm:calmmind",
+    "tm:aurasphere",
+    "tm:dragonpulse",
+    "tm:endure",
+    "tm:energyball",
+    "tm:facade",
+    "tm:ironhead",
+    "tm:venoshock",
+    "tm:thunder",
+    "tm:focusblast",
+    "tm:fling",
+    "tm:magicroom",
+    "tm:dazzlinggleam",
+    "tm:overheat",
+    "tm:thunderpunch",
+    "tm:helpinghand",
+    "tm:thunderbolt",
+    "tm:icebeam",
+    "tm:falseswipe",
+    "tm:toxic",
+    "tm:triattack",
+    "tm:payback",
+    "tm:workup",
+    "tm:protect",
+    "tm:darkpulse",
+    "tm:electricterrain",
+    "tm:hyperbeam",
+    "tm:tripleaxel",
+    "tm:rest",
+    "tm:gigaimpact",
+    "tm:smartstrike",
+    "tm:flashcannon",
+    "tm:uturn",
+    "tm:throatchop",
+    "tm:seismictoss",
+    "tm:takedown",
+    "tm:sleeptalk",
+    "tm:wonderroom",
+    "tm:psychocut",
+    "tm:doubleedge",
+    "tm:doubleteam",
+    "tm:substitute",
+    "tm:moonblast",
+    "tm:terablast",
+    "tm:signalbeam",
+    "tm:chargebeam",
+    "tm:uturn",
+    "tm:voltswitch",
+    "tm:zenheadbutt" ],
+  "labels": [
+    "gen9",
+    "paradox"
+  ],
+  "pokedex": [
+    "cobblemon.species.ironcocoon.desc"
+  ],
+  "baseFriendship": 50,
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 2,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "height": 2.5,
+  "weight": 2300,
+  "aspects": [],
+  "cannotDynamax": false,
+  "hitbox": {
+    "width": 1.4,
+    "height": 2.5,
+    "fixed": false
+  }
+}

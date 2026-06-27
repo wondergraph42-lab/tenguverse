@@ -1,0 +1,9 @@
+{
+    "entryId": "cobblemon:hooh",
+    "forms": [
+      {
+        "displayForm": "art",
+        "unlockForms": ["art"]
+      }
+    ]
+}

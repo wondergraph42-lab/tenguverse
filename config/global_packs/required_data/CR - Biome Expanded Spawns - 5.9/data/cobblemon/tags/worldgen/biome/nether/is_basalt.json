@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+	{
+      "id": "regions_unexplored:blackstone_basin",
+      "required": false
+    }
+  ]
+}

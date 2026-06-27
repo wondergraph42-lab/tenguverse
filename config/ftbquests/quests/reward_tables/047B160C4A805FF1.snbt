@@ -1,0 +1,25 @@
+{
+	icon: {
+		id: "cobblemon:poke_ball"
+	}
+	id: "047B160C4A805FF1"
+	loot_size: 1
+	order_index: 56
+	rewards: [
+		{
+			command: "/spawnpokemon Treecko shiny lvl=10"
+			id: "7C9043689E713FCA"
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon Torchic shiny lvl=10"
+			id: "295F765D3601B059"
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon Mudkip shiny lvl=10"
+			id: "2017D3768BC2ADCE"
+			type: "command"
+		}
+	]
+}

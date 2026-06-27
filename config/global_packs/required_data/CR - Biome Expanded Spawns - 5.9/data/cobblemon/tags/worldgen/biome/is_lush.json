@@ -1,0 +1,82 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:lush_caves",
+    {
+      "id": "byg:lush_stacks",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:rainforest",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:wetland",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:marsh",
+      "required": false
+    },
+    {
+      "id": "terralith:underground_jungle",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:blooming_caverns",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:ancient_delta",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/underground_jungle",
+      "required": false
+    },
+    {
+      "id": "wythers:lichenous_caves",
+      "required": false
+    },
+    {
+      "id": "wythers:lichenous_dripstone_caves",
+      "required": false
+    },
+    {
+      "id": "wythers:lush_dripstone_caves",
+      "required": false
+    },
+    {
+      "id": "wythers:lush_fungous_dripstone_caves",
+      "required": false
+    },
+    {
+      "id": "wythers:lush_shroom_caves",
+      "required": false
+    },
+    {
+      "id": "#forge:is_lush",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:ancient_delta",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:lush_stacks",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/fungal_caves",
+      "required": false
+    },
+    {
+      "id": "wythers:dripleaf_swamp",
+      "required": false
+    },
+    {
+      "id": "still_life:lush_tundra",
+      "required": false
+    }
+  ]
+}

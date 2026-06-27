@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:latios",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:latios",
+            "model": "cobblemon:festive_latios.geo",
+            "texture": "cobblemon:textures/pokemon/latios/latios.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/latios/latios_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-gold_nugget"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/latios/festive_latios.png"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:fuecoco",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:fuecoco",
+            "model": "cobblemon:fuecoco_cafe.geo",
+            "texture": "cobblemon:textures/pokemon/fuecoco/fuecoco.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/fuecoco/fuecoco_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/fuecoco/cafe_fuecoco.png"
+                }
+            ]
+        }
+    ]
+}

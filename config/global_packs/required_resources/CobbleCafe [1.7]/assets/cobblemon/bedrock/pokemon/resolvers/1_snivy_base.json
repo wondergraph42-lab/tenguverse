@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:snivy",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:snivy",
+            "model": "cobblemon:cafe_snivy.geo",
+            "texture": "cobblemon:textures/pokemon/snivy/snivy.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/snivy/snivy_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/snivy/cafe_snivy.png"
+                }
+            ]
+        }
+    ]
+}

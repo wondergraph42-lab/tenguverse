@@ -1,0 +1,13 @@
+name = "Music Interface"
+filename = "musicinterface-neoforge-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c508c962e9a79144c05ad123f6363f7d8d5384e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8239147
+project-id = 1481143

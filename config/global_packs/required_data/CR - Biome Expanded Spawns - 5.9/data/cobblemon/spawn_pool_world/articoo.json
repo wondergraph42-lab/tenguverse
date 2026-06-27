@@ -1,0 +1,31 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "articoo-1",
+      "pokemon": "articoo",
+      "presets": [
+        "natural",
+        "wild"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "ultra-rare",
+      "level": "4-29",
+      "weight": 0.5,
+      "weightMultiplier": {
+        "multiplier": 0.25,
+        "condition": {
+          "timeRange": "day"
+        }
+      },
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_tundra"
+        ]
+      }
+    }
+  ]
+}

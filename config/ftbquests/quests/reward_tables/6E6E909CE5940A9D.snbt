@@ -1,0 +1,25 @@
+{
+	icon: {
+		id: "cobblemon:poke_ball"
+	}
+	id: "6E6E909CE5940A9D"
+	loot_size: 1
+	order_index: 55
+	rewards: [
+		{
+			command: "/spawnpokemon Chikorita shiny lvl=10"
+			id: "725E60C349B376B8"
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon Cyndaquil shiny lvl=10"
+			id: "2B770B6AEC0FD217"
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon Totodile shiny lvl=10"
+			id: "387F361FBC6836D7"
+			type: "command"
+		}
+	]
+}

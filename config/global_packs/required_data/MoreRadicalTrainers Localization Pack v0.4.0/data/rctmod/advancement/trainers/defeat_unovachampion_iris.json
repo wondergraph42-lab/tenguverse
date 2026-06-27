@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_unovachampion_alder",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_unovachampion_iris"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_unovachampion_iris.description"
+    },
+    "icon": {
+      "id": "cobblemon:master_ball"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "unovachampion_iris"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

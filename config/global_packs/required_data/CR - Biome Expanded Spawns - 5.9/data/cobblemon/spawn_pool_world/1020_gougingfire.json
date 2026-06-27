@@ -1,0 +1,47 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "deeper-gougingfire-1",
+      "pokemon": "gougingfire",
+      "presets": [
+        "deep_dark"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "ultra-rare",
+      "level": "65-80",
+      "weight": 0.6,
+      "condition": {
+        "biomes": [
+          "deeperdarker:overcast_columns"
+        ],
+        "dimensions": [
+          "deeperdarker:otherside"
+        ]
+      }
+    },
+    {
+      "id": "aether_gouging_fire_1",
+      "pokemon": "gougingfire",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "60-100",
+      "weight": 2.0,
+      "condition": {
+        "biomes": [
+          "aether:skyroot_meadow"
+        ],
+        "dimensions": [
+          "aether:the_aether"
+        ]
+      }
+    }
+  ]
+}

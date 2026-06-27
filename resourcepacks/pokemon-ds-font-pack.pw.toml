@@ -1,0 +1,13 @@
+name = "Pokemon DS Font Pack"
+filename = "Pokémon DS Font Pack.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6eb5e2c9d0d06dcd6b9740a941dfa99ace5cb487"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7133125
+project-id = 1369617

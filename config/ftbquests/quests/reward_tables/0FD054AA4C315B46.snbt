@@ -1,0 +1,36 @@
+{
+	icon: {
+		id: "cobblemon:master_ball"
+	}
+	id: "0FD054AA4C315B46"
+	loot_size: 1
+	order_index: 24
+	rewards: [
+		{
+			auto: "disabled"
+			command: "/spawnpokemon ho-oh lvl=70"
+			exclude_from_claim_all: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "aether:golden_feather"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "3417E1A320D8E51B"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon lugia lvl=70"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:shell_bell"
+			}
+			id: "58A7A94C49A56FEE"
+			permission_level: 2
+			type: "command"
+		}
+	]
+	use_title: true
+}

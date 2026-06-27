@@ -1,0 +1,13 @@
+name = "Cobblemon Size Variations"
+filename = "CobblemonSizeVariationNeoforge-1.4.0+1.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "077fb58fc8b36e285c7225d0d96ffc5c7a83f03a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7257646
+project-id = 1190578

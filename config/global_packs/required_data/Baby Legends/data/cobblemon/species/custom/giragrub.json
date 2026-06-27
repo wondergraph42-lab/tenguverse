@@ -1,0 +1,96 @@
+{
+    "nationalPokedexNumber": 6756,
+    "name": "Giragrub",
+    "primaryType": "ghost",
+    "maleRatio": -1,
+    "height": 35,
+    "weight": 9500,
+    "pokedex": [
+        "cobblemon.species.giragrub.desc"
+    ],
+    "labels": [
+        "gen4",
+        "legendary",
+        "restricted"
+    ],
+    "aspects": [
+        "standard"
+    ],
+    "abilities": [
+        "levitate"
+    ],
+    "eggGroups": [
+        "undiscovered"
+    ],
+    "baseStats": {
+        "hp": 70,
+        "attack": 60,
+        "defence": 50,
+        "special_attack": 60,
+        "special_defence": 50,
+        "speed": 45
+    },
+    "evYield": {
+        "attack": 3
+    },
+"behaviour": {
+   "resting": {
+     "canSleep": true,
+     "willSleepOnBed": true,
+     "depth": "normal",
+     "light": "0-4"
+   }
+ },
+    "baseExperienceYield": 335,
+    "experienceGroup": "slow",
+    "catchRate": 3,
+    "eggCycles": 120,
+    "baseFriendship": 0,
+    "baseScale": 1,
+    "hitbox": {
+        "width": 1,
+        "height": 1,
+        "fixed": false
+    },
+    "drops": {
+        "amount": 1,
+        "entries": [
+            {
+                "item": "minecraft:nether_star"
+            }
+        ]
+    },
+    "moves": [
+        "1:astonish",
+        "1:scaryface",
+        "1:pound",
+        "9:confusion",
+        "18:shadowclaw",
+        "27:willowisp",
+        "36:thunderwave",
+        "45:darkpulse",
+        "54:aurasphere",
+        "72:earthpower",
+        "81:shadowball",
+        "90:dracometeor",
+        "100:perishsong"
+    ],
+    "evolutions": [
+        {
+            "id": "giragrub_level",
+            "variant": "item_interact",
+            "result": "giratina",
+            "consumeHeldItem": true,
+            "learnableMoves": [
+                "shadowforce"
+            ],
+            "requirements": [
+                {
+                    "variant": "level",
+                    "minLevel": 60
+                }
+            ],
+            "requiredContext": "cobblemon:dusk_stone"
+        }
+    ]
+}

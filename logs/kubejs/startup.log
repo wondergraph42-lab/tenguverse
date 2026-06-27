@@ -1,0 +1,15 @@
+[08:37:38] [INIT] KubeJS 2101.7.2-build.368; MC 2101 NeoForge
+[08:37:38] [INIT] Loaded plugins:
+[08:37:38] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[08:37:38] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
+[08:37:38] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[08:37:38] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[08:37:38] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[08:37:38] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[08:37:38] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[08:37:38] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[08:37:39] [INFO] startup_scripts:cobblemonrealmsss.js#1: Hello Cobblemon Realms Player! (Loaded startup scripts)
+[08:37:39] [INFO] Loaded script startup_scripts:cobblemonrealmsss.js in 0.039 s
+[08:37:39] [INFO] Loaded 1/1 KubeJS startup scripts in 1.796 s with 0 errors and 0 warnings
+[08:37:40] [INFO] Validated 257 files in kubejs/assets/ in 74ms
+[08:37:40] [INFO] Validated 10 files in kubejs/data/ in 45ms

@@ -1,0 +1,9 @@
+{
+  "pokemon": ["tangrowth"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "cobblemon:wise_glasses",
+      "aspects": ["cosmetic_item-professor"]
+    }
+  ]
+}

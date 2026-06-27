@@ -1,0 +1,13 @@
+name = "Pokemon TCG Font Pack"
+filename = "Pokémon TCG Font Pack.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8fbbd79d088790af6a71434f107175f8ecf53ed6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7133302
+project-id = 1369674

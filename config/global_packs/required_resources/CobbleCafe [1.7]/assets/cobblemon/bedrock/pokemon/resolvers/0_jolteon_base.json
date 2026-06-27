@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:jolteon",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:jolteon",
+            "model": "cobblemon:popstar_jolteon.geo",
+            "texture": "cobblemon:textures/pokemon/jolteon/jolteon.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/jolteon/jolteon_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-jukebox"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/jolteon/popstar_jolteon.png"
+                }
+            ]
+        }
+    ]
+}

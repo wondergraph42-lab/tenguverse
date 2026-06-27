@@ -1,0 +1,45 @@
+{
+  "portraitScale": 1.11,
+  "portraitTranslation": [
+    -1.66,
+    4.48,
+    0
+  ],
+  "profileScale": 0.25,
+  "profileTranslation": [
+    0,
+    1.5,
+    -10
+  ],
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "animations": ["look", "bedrock(lunar_rayquaza, ground_idle)"],
+      "isBattle": false,
+      "quirks": [
+        {
+          "name": "blink",
+          "loopTimes": 1,
+          "minSecondsBetweenOccurrences": 15,
+          "maxSecondsBetweenOccurrences": 30,
+          "animations": ["bedrock(lunar_rayquaza, blink)"]
+        }
+      ]
+    },
+    "walking": {
+      "poseName": "walking",
+      "transformTicks": 10,
+      "poseTypes": ["WALK"],
+      "animations": ["bedrock(lunar_rayquaza, ground_idle)"]
+    },
+    "battle": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": ["bedrock(lunar_rayquaza, ground_idle)"]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "t",        
+      "c"
+    ],
+    "key": {
+        "c": {
+            "item": "cobblemon:fragmented_balance_stone"
+        },
+        "t": {
+            "item": "cobblemon:grey_balance_shard"
+        }
+    },
+    "result": {
+        "count": 1,
+        "id": "cobblemon:mostly_unbalanced_stone"
+    }
+}

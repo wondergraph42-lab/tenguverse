@@ -1,0 +1,108 @@
+{
+    "nationalPokedexNumber": 6756,
+    "name": "Kaidon",
+    "primaryType": "electric",
+    "maleRatio": -1,
+    "height": 35,
+    "weight": 9500,
+    "pokedex": [
+        "cobblemon.species.kaidon.desc"
+    ],
+    "labels": [
+        "gen9",
+        "legendary",
+        "restricted"
+    ],
+    "aspects": [
+        "standard"
+    ],
+    "abilities": [
+        "voltabsorb"
+    ],
+    "eggGroups": [
+        "undiscovered"
+    ],
+    "baseStats": {
+        "hp": 50,
+        "attack": 42,
+        "defence": 50,
+        "special_attack": 67,
+        "special_defence": 58,
+        "speed": 67
+    },
+    "evYield": {
+        "special_attack": 3
+    },
+ "behaviour": {
+   "resting": {
+     "canSleep": true,
+     "willSleepOnBed": true,
+     "depth": "normal",
+     "light": "0-4"
+   }
+ },
+    "baseExperienceYield": 335,
+    "experienceGroup": "slow",
+    "catchRate": 3,
+    "eggCycles": 120,
+    "baseFriendship": 0,
+    "baseScale": 1,
+    "hitbox": {
+        "width": 1,
+        "height": 1,
+        "fixed": false
+    },
+    "drops": {
+        "amount": 1,
+        "entries": [
+            {
+                "item": "minecraft:nether_star"
+            }
+        ]
+    },
+    "moves": [
+        "1:scaryface",
+        "1:spark",
+        "5:charge",
+        "9:helpinghand",
+        "18:dragonbreath",
+        "27:paraboliccharge",
+        "36:acrobatics",
+        "45:chargebeam",
+        "54:dragonpulse",
+        "72:thunder",
+        "81:solarbeam",
+        "90:dracometeor",
+        "100:overheat"
+        
+    ],
+    "evolutions": [
+        {
+      "id": "kaidon-trade",
+      "variant": "trade",
+      "result": "miraidon",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "electrodrift"
+      ],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "cobblemon:electirizer"
+        }
+      ],
+      "requiredContext": ""
+    },
+    {
+      "id": "kaidon-item_interact",
+      "variant": "item_interact",
+      "result": "miraidon",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "electrodrift"
+      ],
+      "requirements": [],
+      "requiredContext": "farmersdelight:chicken_sandwich"
+    }
+    ]
+}

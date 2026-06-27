@@ -1,0 +1,44 @@
+{
+	icon: {
+		id: "cobblemon:great_ball"
+	}
+	id: "155D1A28AC507AB3"
+	loot_size: 1
+	order_index: 36
+	rewards: [
+		{
+			auto: "disabled"
+			command: "/spawnpokemon galarian zapdos lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "4D8C390A47EDFCF2"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon galarian articuno lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:azure_ball"
+			}
+			id: "4EECEF70B4067E96"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon galarian moltres lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "65AD52BAF1D8C663"
+			permission_level: 2
+			type: "command"
+		}
+	]
+	use_title: true
+}

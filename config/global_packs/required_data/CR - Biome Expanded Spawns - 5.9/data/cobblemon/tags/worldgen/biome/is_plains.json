@@ -1,0 +1,228 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:plains",
+    "minecraft:sunflower_plains",
+    "#cobblemon:is_highlands",
+    {
+      "id": "#byg:is_plain",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:field",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:forested_field",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:pumpkin_patch",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:old_growth_dead_forest",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:shrubland",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:pasture",
+      "required": false
+    },
+    {
+      "id": "#byg:is_plain",
+      "required": false
+    },
+    {
+      "id": "#c:plains",
+      "required": false
+    },
+    {
+      "id": "#forge:is_plains",
+      "required": false
+    },
+    {
+      "id": "terralith:brushland",
+      "required": false
+    },
+    {
+      "id": "terralith:steppe",
+      "required": false
+    },
+    {
+      "id": "terralith:valley_clearing",
+      "required": false
+    },
+    {
+      "id": "wythers:berry_bog",
+      "required": false
+    },
+    {
+      "id": "wythers:cool_forest_edge",
+      "required": false
+    },
+    {
+      "id": "wythers:dry_tropical_grassland",
+      "required": false
+    },
+    {
+      "id": "wythers:forest_edge",
+      "required": false
+    },
+    {
+      "id": "wythers:spring_flower_fields",
+      "required": false
+    },
+    {
+      "id": "wythers:subtropical_forest_edge",
+      "required": false
+    },
+    {
+      "id": "wythers:tropical_grassland",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:barley_fields",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:shrubland",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:clover_plains",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:grassland",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:prairie",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:flower_fields",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:clover_patch",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:fir_clearing",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:grassland",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:lavender_field",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:marsh",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:orchard",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:prairie",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:seasonal_orchard",
+      "required": false
+    },
+    {
+      "id": "clifftree:sparse_forest",
+      "required": false
+    },
+    {
+      "id": "terralith:scrubland",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:allium_shrubland",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:amaranth_grassland",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:coconino_meadow",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:crimson_tundra",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:firecracker_chaparral",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:prairie",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:pumpkin_valley",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:rose_fields",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:temperate_grove",
+      "required": false
+    },
+    {
+      "id": "still_life:alpine_plains",
+      "required": false
+    },
+    {
+      "id": "still_life:cold_steppe",
+      "required": false
+    },
+    {
+      "id": "still_life:cold_taiga_clearings",
+      "required": false
+    },
+    {
+      "id": "still_life:warm_temperate_clearings",
+      "required": false
+    },
+    {
+      "id": "still_life:dry_cold_steppe",
+      "required": false
+    },
+    {
+      "id": "still_life:mediterranean_steppe",
+      "required": false
+    },
+    {
+      "id": "still_life:mixed_forest_steppe",
+      "required": false
+    },
+    {
+      "id": "still_life:shrub_steppe",
+      "required": false
+    },
+    {
+      "id": "still_life:wooded_mediterranean_steppe",
+      "required": false
+    },
+    {
+      "id": "still_life:alpine_heathlands",
+      "required": false
+    }
+  ]
+}

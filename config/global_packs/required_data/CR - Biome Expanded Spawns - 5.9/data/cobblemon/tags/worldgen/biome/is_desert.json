@@ -1,0 +1,154 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:desert",
+    {
+      "id": "#byg:is_desert",
+      "required": false
+    },
+    {
+      "id": "yungscavebiomes:lost_caves",
+      "required": false
+    },
+    {
+      "id": "terralith:ancient_sands",
+      "required": false
+    },
+    {
+      "id": "terralith:desert_canyon",
+      "required": false
+    },
+    {
+      "id": "terralith:desert_caves",
+      "required": false
+    },
+    {
+      "id": "terralith:desert_oasis",
+      "required": false
+    },
+    {
+      "id": "terralith:desert_spires",
+      "required": false
+    },
+    {
+      "id": "terralith:lush_desert",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:lush_desert",
+      "required": false
+    },
+    {
+      "id": "terralith:red_oasis",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:lush_desert",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:wasteland",
+      "required": false
+    },
+    {
+      "id": "terralith:sandstone_valley",
+      "required": false
+    },
+    {
+      "id": "wythers:badlands_desert",
+      "required": false
+    },
+    {
+      "id": "wythers:desert_island",
+      "required": false
+    },
+    {
+      "id": "wythers:kwongan_heath",
+      "required": false
+    },
+    {
+      "id": "wythers:outback_desert",
+      "required": false
+    },
+    {
+      "id": "wythers:red_desert",
+      "required": false
+    },
+    {
+      "id": "wythers:sandy_jungle",
+      "required": false
+    },
+    {
+      "id": "yungscavebiomes:lost_caves",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:saguaro_desert",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:joshua_desert",
+      "required": false
+    },
+    {
+      "id": "clifftree:desert_cliff",
+      "required": false
+    },
+    {
+      "id": "darkerdepths:sandy_catacombs",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/desert_caves",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:atacama_outback",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:mojave_desert",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:windswept_desert",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:rugged_badlands",
+      "required": false
+    },
+    {
+      "id": "still_life:arid_desert",
+      "required": false
+    },
+    {
+      "id": "still_life:cold_desert",
+      "required": false
+    },
+    {
+      "id": "still_life:cold_semi_desert",
+      "required": false
+    },
+    {
+      "id": "still_life:desert_river",
+      "required": false
+    },
+    {
+      "id": "still_life:desert_wetlands",
+      "required": false
+    },
+    {
+      "id": "still_life:semiarid_desert",
+      "required": false
+    },
+    {
+      "id": "still_life:wooded_semiarid_desert",
+      "required": false
+    },
+    {
+      "id": "still_life:xeric_shrubland",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "portraitScale": 0.9,
+  "portraitTranslation": [-0.66, 1.9, 0],
+  "profileScale": 0.4,
+  "profileTranslation": [0, 1, 0],
+  "rootBone": "lunarveil",
+  "firstPersonCameraOffset": {
+    "seat_1": [0, 0.45, 0]
+  },
+  "thirdPersonCameraOffset": {
+    "seat_1": [0, 0.45, 0],
+    "seat_1_reverse": [0, 0.45, 0]
+  },
+  "thirdPersonCameraOffsetNoViewBobbing": {
+    "seat_1": [0, 0.45, 0],
+    "seat_1_reverse": [0, 0.45, 0]
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('lunarveil', 'cry')",
+    "recoil": "q.bedrock_stateful('lunarveil', 'recoil')",
+    "status": "q.bedrock_stateful('lunarveil', 'cry', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "isTouchingWater": false,
+      "namedAnimations": {},
+      "animations": ["q.bedrock('lunarveil', 'ground_idle')"],
+      "quirks": ["q.bedrock_quirk('lunarveil', 'blink')"]
+    },
+    "surfacewater-battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "isTouchingWater": true,
+      "isUnderWater": false,
+      "namedAnimations": {},
+      "animations": [
+        "q.bedrock('lunarveil', 'surfacewater_idle')"
+      ],
+      "quirks": ["q.bedrock_quirk('lunarveil', 'blink')"]
+    },
+    "underwater-battle-standing": {
+      "poseTypes": ["FLOAT"],
+      "isBattle": true,
+      "isTouchingWater": true,
+      "isUnderWater": true,
+      "namedAnimations": {},
+      "animations": ["q.bedrock('lunarveil', 'water_idle')"],
+      "quirks": ["q.bedrock_quirk('lunarveil', 'blink')"]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "isTouchingWater": false,
+      "animations": [
+        "q.bedrock('lunarveil', 'ground_idle')",
+        {
+          "condition": "q.is_ridden",
+          "animation": "q.bedrock('lunarveil', 'ride_ground_walk')"
+        }
+      ],
+      "quirks": [
+        "q.bedrock_quirk('lunarveil', 'blink')"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "isTouchingWater": false,
+      "animations": [
+        "q.bedrock('lunarveil', 'ground_walk')",
+        {
+          "condition": "q.is_ridden",
+          "animation": "q.bedrock('lunarveil', 'ride_ground_walk')"
+        }
+      ],
+      "quirks": ["q.bedrock_quirk('lunarveil', 'blink')"]
+    },
+    "surfacewater-float": {
+      "poseTypes": ["STAND", "FLOAT"],
+      "isTouchingWater": true,
+      "isUnderWater": false,
+      "animations": [
+        "q.bedrock('lunarveil', 'surfacewater_idle')",
+        {
+          "condition": "q.is_ridden",
+          "animation": "q.bedrock('lunarveil', 'ride_surfacewater_swim')"
+        }
+      ],
+      "quirks": [
+        "q.bedrock_quirk('lunarveil', 'blink')"
+      ]
+    },
+    "float": {
+      "poseTypes": ["FLOAT"],
+      "isTouchingWater": true,
+      "isUnderWater": true,
+      "animations": [
+        "q.bedrock('lunarveil', 'water_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('lunarveil', 'blink')"
+      ]
+    },
+    "surfacewater-swim": {
+      "poseTypes": ["WALK", "SWIM"],
+      "isTouchingWater": true,
+      "isUnderWater": false,
+      "animations": [
+        "q.bedrock('lunarveil', 'surfacewater_swim')",
+        {
+          "condition": "q.is_ridden",
+          "animation": "q.bedrock('lunarveil', 'ride_surfacewater_swim')"
+        }
+      ],
+      "quirks": [
+        "q.bedrock_quirk('lunarveil', 'blink')"
+      ]
+    },
+    "swim": {
+      "poseTypes": ["SWIM"],
+      "isTouchingWater": true,
+      "isUnderWater": true,
+      "animations": [
+        "q.bedrock('lunarveil', 'water_swim')"
+      ],
+      "quirks": ["q.bedrock_quirk('lunarveil', 'blink')"]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "isTouchingWater": false,
+      "namedAnimations": {
+        "cry": "q.bedrock_stateful('dummy', 'cry')"
+      },
+      "animations": ["q.bedrock('lunarveil', 'sleep')"]
+    },
+    "underwater-sleep": {
+      "poseTypes": ["SLEEP"],
+      "poseName": ["water-sleep"],
+      "isTouchingWater": true,
+      "isUnderWater": true,
+      "namedAnimations": {
+        "cry": "q.bedrock_stateful('dummy', 'cry')"
+      },
+      "animations": ["q.bedrock('lunarveil', 'water_sleep')"]
+    },
+    "surfacewater-sleep": {
+      "poseTypes": ["SLEEP"],
+      "poseName": ["surfacewater-sleep"],
+      "isTouchingWater": true,
+      "isUnderWater": false,
+      "namedAnimations": {
+        "cry": "q.bedrock_stateful('dummy', 'cry')"
+      },
+      "animations": ["q.bedrock('lunarveil', 'surfacewater_sleep')"]
+    }
+  }
+}

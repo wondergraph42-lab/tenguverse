@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mimikins-mimikyu-1T",
+      "pokemon": "mimikyu acerola=true",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50-75",
+      "weight": 6.66,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 7,
+        "biomes": [
+            "#cobblemon:is_deep_dark"
+        ]
+      }
+    }
+  ]
+}

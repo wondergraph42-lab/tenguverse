@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:irondrill",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["mega"],
+      "poser": "cobblemon:irondrill_mega",
+      "model": "cobblemon:irondrill_mega.geo",
+      "texture": "cobblemon:textures/pokemon/irondrill/irondrill_mega.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/irondrill/irondrill_mega_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    },
+    {
+      "aspects": ["mega", "sleep"],
+      "texture": "cobblemon:textures/pokemon/irondrill/irondrill_mega_sleep.png"
+    },
+    {
+      "aspects": ["mega", "shiny"],
+      "texture": "cobblemon:textures/pokemon/irondrill/irondrill_mega_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/irondrill/irondrill_mega_shiny_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    }
+  ]
+}

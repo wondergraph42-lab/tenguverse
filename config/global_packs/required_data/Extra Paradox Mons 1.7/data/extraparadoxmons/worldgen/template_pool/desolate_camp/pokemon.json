@@ -1,0 +1,22 @@
+{
+    "name":"extraparadoxmons:camps/desolate_camp/pokemon",
+    "fallback":"minecraft:empty",
+    "elements": [{
+        "weight": 50,
+        "element": {
+            "location": "extraparadoxmons:camps/desolate_camp/pokemon/camerupt1",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/desolate_camp/pokemon/camerupt2",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }]
+}

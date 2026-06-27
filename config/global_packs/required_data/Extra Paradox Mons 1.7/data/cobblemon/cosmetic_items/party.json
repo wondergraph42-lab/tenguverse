@@ -1,0 +1,9 @@
+{
+  "pokemon": ["toxicmelody", "lumintail", "crimsonmaw"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:pink_wool",
+      "aspects": ["cosmetic_party"]
+    }
+  ]
+}

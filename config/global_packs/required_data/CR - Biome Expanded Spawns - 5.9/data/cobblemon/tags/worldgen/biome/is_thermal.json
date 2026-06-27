@@ -1,0 +1,85 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "terralith:caldera",
+      "required": false
+    },
+    {
+      "id": "terralith:thermal_caves",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:visceral_heap",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:undergrowth",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:wooded_wasteland",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:rocky_shrubland",
+      "required": false
+    },
+    {
+      "id": "terralith:yellowstone",
+      "required": false
+    },
+    {
+      "id": "wythers:calcite_caverns",
+      "required": false
+    },
+    {
+      "id": "wythers:mediterranean_island_thermal_springs",
+      "required": false
+    },
+    {
+      "id": "wythers:snowy_thermal_taiga",
+      "required": false
+    },
+    {
+      "id": "wythers:thermal_taiga_crags",
+      "required": false
+    },
+    {
+      "id": "wythers:thermal_taiga",
+      "required": false
+    },
+    {
+      "id": "wythers:tibesti_mountains",
+      "required": false
+    },
+    {
+      "id": "wythers:danakil_desert",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:scorching_caves",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:tropical_river",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:hot_springs",
+      "required": false
+    },
+    {
+      "id": "clifftree:inferno",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/thermal_caves",
+      "required": false
+    },
+    {
+      "id": "still_life:alpine_heathlands",
+      "required": false
+    }
+  ]
+}

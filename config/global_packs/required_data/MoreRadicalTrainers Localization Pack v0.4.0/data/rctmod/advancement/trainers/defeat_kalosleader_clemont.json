@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_kalosleader_ramos",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_kalosleader_clemont"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_kalosleader_clemont.description"
+    },
+    "icon": {
+      "id": "cobblemonpokemonbadges:voltage_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "kalosleader_clemont"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

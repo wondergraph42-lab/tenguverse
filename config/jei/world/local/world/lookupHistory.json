@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:trial_key","components":{"mega_showdown:registry_type_component":"form_change_interact","mega_showdown:registry_location_component":"atmxmsd:shadow_energy","minecraft:custom_model_data":260613,"minecraft:item_name":"{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\":\"Shadow Energy\"}],\"italic\":false,\"text\":\"\"}","minecraft:lore":["\"Discovered from recipes\""]}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":"lugia_shadow","type":"com.cobbledex.jei.PokemonIngredient","bookmarkType":"INGREDIENT"},
+  {"ingredient":"zygarde","type":"com.cobbledex.jei.PokemonIngredient","bookmarkType":"INGREDIENT"}
+]

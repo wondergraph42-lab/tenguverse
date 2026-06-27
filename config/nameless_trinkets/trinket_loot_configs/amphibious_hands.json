@@ -1,0 +1,226 @@
+{
+  "item": "amphibious_hands",
+  "chance": 0.01,
+  "loot_tables": [
+    {
+      "namespace": "minecraft",
+      "path": "chests/spawn_bonus_chest",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/end_city_treasure",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/simple_dungeon",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/village/village_weaponsmith",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/village/village_toolsmith",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/village/village_armorer",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/village/village_cartographer",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/village/village_mason",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/village/village_shepherd",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/village/village_butcher",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/village/village_fletcher",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/village/village_fisher",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/village/village_tannery",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/village/village_temple",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/village/village_desert_house",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/village/village_plains_house",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/village/village_taiga_house",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/village/village_snowy_house",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/village/village_savanna_house",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/abandoned_mineshaft",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/nether_bridge",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/stronghold_library",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/stronghold_crossing",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/stronghold_corridor",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/desert_pyramid",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/jungle_temple",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/jungle_temple_dispenser",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/igloo_chest",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/woodland_mansion",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/underwater_ruin_small",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/underwater_ruin_big",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/buried_treasure",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/shipwreck_map",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/shipwreck_supply",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/shipwreck_treasure",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/pillager_outpost",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/bastion_treasure",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/bastion_other",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/bastion_bridge",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/bastion_hoglin_stable",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/ancient_city",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/ancient_city_ice_box",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "chests/ruined_portal",
+      "cachedString": null
+    },
+    {
+      "namespace": "minecraft",
+      "path": "gameplay/cat_morning_gift",
+      "cachedString": null
+    }
+  ]
+}

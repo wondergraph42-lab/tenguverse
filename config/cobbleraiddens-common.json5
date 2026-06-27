@@ -1,0 +1,88 @@
+{
+	// Enable natural spawning of raid dens. Default: true
+	"enable_spawning": true,
+	// Weighted probability of each raid tier from Tier 1 to Tier 7 per dimension. Leave empty to use overworld/default. Default: {"minecraft:overworld": [9.0, 15.0, 25.0, 25.0, 20.0, 5.0, 1.0]}
+	"dimension_tier_weights": {
+		"minecraft:overworld": [
+			9.0,
+			15.0,
+			25.0,
+			25.0,
+			20.0,
+			5.0,
+			1.0
+		]
+	},
+	// Raids require key items to interact with. Default: false
+	"requires_key": false,
+	// Whether all players require the unique key or just the host. Default: true
+	"all_require_unique": true,
+	// Maximum number of players in a raid (Set to -1 for no limit). Default: 4
+	"max_players": 4,
+	// Number of clears until the raid den deactivates (Set to -1 for no limit). Default: 3
+	"max_clears": 3,
+	// How long in seconds until raid dens reset (Set to -1 for no resets). Default: 7200
+	"reset_time": 7200,
+	// Whether the raid boss and raid tier changes between resets (Options: NONE, LOCK_BOTH, LOCK_TIER, LOCK_TYPE, ALL). Default: ALL
+	"cycle_mode": "ALL",
+	// Raid boss HP multipliers for each raid tier from Tier 1 to Tier 7. Default: [5, 5, 8, 12, 20, 25, 30]
+	"tier_health_multiplier": [
+		5,
+		5,
+		8,
+		12,
+		20,
+		25,
+		30
+	],
+	// Bonus raid boss HP multiplier for each extra player that joins the raid battle. Default: 1.0
+	"multiplayer_health_multiplier": 1.0,
+	// Raid boss level for each raid tier from Tier 1 to Tier 7. Default: [12, 20, 35, 45, 75, 75, 100]
+	"tier_level": [
+		12,
+		20,
+		35,
+		45,
+		75,
+		75,
+		100
+	],
+	// Reward Pokemon level for each raid tier from Tier 1 to Tier 7. Default: [12, 20, 35, 45, 75, 75, 100]
+	"tier_reward_level": [
+		12,
+		20,
+		35,
+		45,
+		75,
+		75,
+		100
+	],
+	// Raid boss number of max IVs for each raid tier from Tier 1 to Tier 7. Default: [0, 1, 2, 3, 4, 5, 6]
+	"tier_ivs": [
+		0,
+		1,
+		2,
+		3,
+		4,
+		5,
+		6
+	],
+	// How much currency is rewarded for clearing a raid boss (Requires CobbleDollars). Default: [1000, 2000, 5000, 10000, 20000, 50000, 100000]
+	"tier_currency": [
+		1000,
+		2000,
+		5000,
+		10000,
+		20000,
+		50000,
+		100000
+	],
+	// The default shiny chance for raid bosses (Set to -1 to use the Cobblemon rate). Default: -1.0
+	"shiny_rate": -1.0,
+	// The chance for raid bosses to have their hidden ability. Default: 0.20
+	"ha_rate": 0.2,
+	// The max number of cheers a player can use per raid. Default: 3
+	"max_cheers": 3,
+	// The max number Pokemon a player can use in a raid. Default: 1
+	"raid_party_size": 1
+}

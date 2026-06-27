@@ -1,0 +1,80 @@
+{
+    "name":"extraparadoxmons:camps/floral_abandoned_camp/pokemon",
+    "fallback":"minecraft:empty",
+    "elements": [{
+        "weight": 50,
+        "element": {
+            "location": "extraparadoxmons:camps/floral_abandoned_camp/pokemon/breloom1",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/floral_abandoned_camp/pokemon/breloom2",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/floral_abandoned_camp/pokemon/breloom3",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },{
+        "weight": 50,
+        "element": {
+            "location": "extraparadoxmons:camps/floral_abandoned_camp/pokemon/ursaring1",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/floral_abandoned_camp/pokemon/ursaring2",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/floral_abandoned_camp/pokemon/ursaring3",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },{
+        "weight": 50,
+        "element": {
+            "location": "extraparadoxmons:camps/floral_abandoned_camp/pokemon/trevenant1",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/floral_abandoned_camp/pokemon/trevenant2",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/floral_abandoned_camp/pokemon/trevenant3",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }]
+}

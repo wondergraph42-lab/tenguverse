@@ -1,0 +1,9 @@
+{
+	id: "6A2302790D950272"
+	loot_size: 1
+	order_index: 18
+	rewards: [
+		{ id: "2BE91DBF9183DC85", item: { count: 1, id: "cobblemon:protein" } }
+		{ id: "047997148DD7D6A9", item: { count: 1, id: "cobblemon:iron" } }
+	]
+}

@@ -1,0 +1,55 @@
+{
+  "version": "1.1.0",
+  "individualHunts": false,
+  "sendHuntEndMessage": true,
+  "sendHuntBeginMessage": true,
+  "timerCooldowns": true,
+  "bufferDuration": 5,
+  "huntDuration": 60,
+  "huntAmount": 7,
+  "rarity": {
+    "commonPokemonRarity": 7.0,
+    "uncommonPokemonRarity": 2.5,
+    "rarePokemonRarity": 0.3
+  },
+  "rewards": {
+    "common": {
+      "price": 100.0,
+      "commands": [
+        "give {player} minecraft:diamond 1"
+      ]
+    },
+    "uncommon": {
+      "price": 500.0,
+      "commands": [
+        "give {player} minecraft:diamond 2"
+      ]
+    },
+    "rare": {
+      "price": 700.0,
+      "commands": [
+        "give {player} minecraft:diamond 3"
+      ]
+    },
+    "ultraRare": {
+      "price": 1000.0,
+      "commands": [
+        "give {player} minecraft:diamond 4"
+      ]
+    }
+  },
+  "matchProperties": {
+    "ability": true,
+    "gender": true,
+    "nature": true,
+    "shiny": false
+  },
+  "customPrices": [
+    {
+      "species": "magikarp",
+      "form": "",
+      "price": 500.0
+    }
+  ],
+  "blacklist": []
+}

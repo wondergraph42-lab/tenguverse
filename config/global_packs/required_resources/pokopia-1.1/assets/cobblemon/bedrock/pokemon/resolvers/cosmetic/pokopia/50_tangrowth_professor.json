@@ -1,0 +1,28 @@
+{
+    "species": "cobblemon:tangrowth",
+    "order": 50,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-professor"
+            ],
+            "poser": "cobblemon:tangrowth_professor",
+            "model": "cobblemon:tangrowth_professor.geo",
+            "texture": "cobblemon:textures/pokemon/cosmetic/pokopia/tangrowth_professor.png",
+            "layers": [
+				{
+                    "name": "translucent",
+                    "texture": "cobblemon:textures/pokemon/cosmetic/pokopia/tangrowth_professor_translucent.png",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "aspects": [
+                "shiny",
+                "cosmetic_item-professor"
+            ],
+            "texture": "cobblemon:textures/pokemon/cosmetic/pokopia/tangrowth_professor_shiny.png"
+        }
+    ]
+}

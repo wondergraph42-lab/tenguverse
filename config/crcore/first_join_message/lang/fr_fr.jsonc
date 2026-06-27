@@ -1,0 +1,15 @@
+{
+  // ============================================================
+  // CRCore First Join Message language file
+  // Codes couleur: §6, §e, §l, §r ...
+  // Placeholder: %player%
+  // ============================================================
+
+  "first_join_message": "§f✨ Bienvenue sur §6§lCobblemon Realms§r §f✨
+§fTon aventure commence sur la §eSpawn Island§f, l'endroit ideal pour prendre tes reperes.
+§fExplore l'ile, rencontre les premiers PNJ et prepare-toi pour la suite.
+§fAvant toute chose, va voir §6§lle Professeur Chen§r§f au spawn pour recuperer ton §estarter§f.
+§fUne fois pret, le reste de Cobblemon Realms n'attend plus que toi.",
+  "join_message": "§6§lInformation importante§r\n§fTon ancienne monnaie §eRealms Coin§f a ete remplacee par\n§6la nouvelle monnaie officielle du modpack§f.\n\n§fTu peux convertir tes anciens coins §a1:1§f a tout moment.\n\n§a[ Convertir mes Realms Coins ]\n\n§fUtilise §e/spawn§f ou §e/hub§f pour revenir sur l'ile du spawn.",
+  "server_broadcast_message": "§f§6§lBienvenue§r §e%player%§r §fsur §6Cobblemon Realms§f!\n§fIl est le §e§l%unique%§r§feme dresseur unique a rejoindre ce monde."
+}

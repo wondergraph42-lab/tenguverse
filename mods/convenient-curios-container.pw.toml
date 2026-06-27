@@ -1,0 +1,13 @@
+name = "Convenient Curios Container"
+filename = "ConvenientCuriosContainer-3.3_NeoForge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "323a841baa5b938054d91140ba591cf3c492217c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7949772
+project-id = 544033

@@ -1,0 +1,13 @@
+{
+    "name":"extraparadoxmons:dens/desolate_red_den/den_structure",
+    "fallback":"minecraft:empty",
+    "elements": [{
+        "weight": 2,
+        "element": {
+            "location": "extraparadoxmons:dens/desolate_red_den/den_structure/den",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }]
+}

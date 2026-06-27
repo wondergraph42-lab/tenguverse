@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:courpup",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["female"],
+      "texture": "cobblemon:textures/pokemon/courpup/courpup_female.png"
+    },
+    {
+      "aspects": ["shiny", "female"],
+      "texture": "cobblemon:textures/pokemon/courpup/courpup_female_shiny.png"
+    }
+  ]
+}

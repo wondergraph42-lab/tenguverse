@@ -1,0 +1,22 @@
+{
+    "name":"extraparadoxmons:camps/glacial_camp/pokemon",
+    "fallback":"minecraft:empty",
+    "elements": [{
+        "weight": 50,
+        "element": {
+            "location": "extraparadoxmons:camps/glacial_camp/pokemon/sawsbuck1",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/glacial_camp/pokemon/sawsbuck2",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }]
+}

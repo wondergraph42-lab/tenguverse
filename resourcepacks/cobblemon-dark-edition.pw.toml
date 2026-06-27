@@ -1,0 +1,13 @@
+name = "Cobblemon: Dark Edition"
+filename = "Cobblemon Dark Edition v3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "90ac517ce0fa1e96ecde7f355f3fddb1d3e11ef8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7483944
+project-id = 1328178

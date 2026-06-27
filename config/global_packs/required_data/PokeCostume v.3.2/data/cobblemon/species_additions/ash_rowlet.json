@@ -1,0 +1,44 @@
+{
+  "target": "cobblemon:rowlet",
+  "forms": [
+    {
+      "name": "ash",
+      "aspects": ["ash"],
+      "pokedex": ["cobblemon.species.rowlet-ash.desc"],
+	  "baseStats": {
+      "hp": 88,
+      "attack": 110,
+      "defence": 80,
+      "special_attack": 105,
+      "special_defence": 105,
+      "speed": 80
+    },
+      "evolutions": [
+        {
+          "id": "ash_to_normal",
+          "variant": "item_interact",
+          "result": "rowlet ash=false",
+          "consumeHeldItem": true,
+          "learnableMoves": [],
+          "requirements": [],
+          "requiredContext": "minecraft:shears"
+        }
+      ]
+    }
+  ],
+  "evolutions": [
+    {
+      "id": "rowlet_to_ash",
+      "variant": "level_up",
+      "result": "rowlet ash=true",
+      "consumeHeldItem": true,
+      "learnableMoves": [],
+      "requirements": [
+	  {
+          "variant": "level",
+          "minLevel": 40
+      }
+     ]
+    }
+  ]
+}

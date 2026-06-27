@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:ironwarp",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:ironwarp",
+      "model": "cobblemon:ironwarp.geo",
+      "texture": "cobblemon:textures/pokemon/ironwarp/ironwarp.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/ironwarp/ironwarp_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    },
+    {
+      "aspects": ["sleep"],
+      "texture": "cobblemon:textures/pokemon/ironwarp/ironwarp_sleep.png"
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/ironwarp/ironwarp_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/ironwarp/ironwarp_shiny_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    }
+  ]
+}

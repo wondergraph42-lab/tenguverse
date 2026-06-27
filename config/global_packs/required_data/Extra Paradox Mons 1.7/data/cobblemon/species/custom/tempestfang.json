@@ -1,0 +1,174 @@
+{
+  "implemented": true,
+  "name": "tempestfang",
+  "nationalPokedexNumber": 9913,
+  "primaryType": "electric",
+  "secondaryType": "dragon",
+  "abilities": [
+    "protosynthesis"
+  ],
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:copper_ingot",
+        "quantityRange": "10-15"
+      },
+      {
+        "item": "cobblemon:pamtre_berry",
+        "percentage": 10
+      }
+    ]
+  },
+  "baseStats": {
+    "hp": 83,
+    "attack": 115,
+    "defence": 77,
+    "special_attack": 113,
+    "special_defence": 81,
+    "speed": 121
+  },
+"behaviour": {
+   "resting": {
+     "canSleep": true,
+     "willSleepOnBed": false,
+     "depth": "normal",
+     "light": "0-4"
+   },
+        "moving": {
+          "swim": {
+            "avoidsWater": true
+          },
+          "fly": {
+        "canFly": true
+      }
+        },
+        "combat": {
+          "willDefendSelf": true,
+          "willDefendOwner": true,
+          "willFlee": false
+        },
+        "fireImmune": false
+  },
+  "catchRate": 10,
+  "maleRatio": -1,
+  "shoulderMountable": false,
+  "baseExperienceYield": 169,
+  "experienceGroup": "slow",
+  "eggCycles": 20,
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "moves": [
+    "1:nastyplot",
+    "1:fly",
+    "1:bulkup",
+    "1:taunt",
+    "1:dragondance",
+    "1:charge",
+    "1:thunderbolt",
+    "21:dragonrage",
+    "26:outrage",
+    "31:doubleshock",
+    "36:dragonclaw",
+    "43:supercellslam",
+    "50:wildcharge",
+    "57:discharge",
+    "64:outrage",
+    "71:dracometeor",
+    "72:discharge",
+    "78:weatherball",
+    "85:wildboltstorm",
+    "86:tempestslash",
+
+    "tm:defog",
+    "tm:fireblast",
+    "tm:magnetbomb",
+    "tm:sunnyday",
+    "tm:raindance",
+    "tm:solarblade",
+    "tm:hail",
+    "tm:fly",
+    "tm:smackdown",
+    "tm:dragontail",
+    "tm:knockoff",
+    "tm:hurricane",
+    "tm:scald",
+    "tm:dragoncheer",
+    "tm:roost",
+    "tm:aurasphere",
+    "tm:dragonpulse",
+    "tm:endure",
+    "tm:energyball",
+    "tm:facade",
+    "tm:dragondance",
+    "tm:willowisp",
+    "tm:thunder",
+    "tm:focusblast",
+    "tm:aerialace",
+    "tm:airslash",
+    "tm:shadowclaw",
+    "tm:hurricane",
+    "tm:thunderpunch",
+    "tm:helpinghand",
+    "tm:thunderbolt",
+    "tm:thunderfang",
+    "tm:icefang",
+    "tm:firefang",
+    "tm:icebeam",
+    "tm:firepunch",
+    "tm:toxic",
+    "tm:triattack",
+    "tm:payback",
+    "tm:waterfall",
+    "tm:workup",
+    "tm:protect",
+    "tm:darkpulse",
+    "tm:dragonclaw",
+    "tm:revenge",
+    "tm:dracometeor",
+    "tm:rest",
+    "tm:irontail",
+    "tm:frustration",
+    "tm:blizzard",
+    "tm:frostbreath",
+    "tm:beatup",
+    "tm:seismictoss",
+    "tm:brutalswing",
+    "tm:sleeptalk",
+    "tm:acrobatics",
+    "tm:darkpulse",
+    "tm:substitute",
+    "tm:aerialace",
+    "tm:terablast",
+    "tm:rockslide",
+    "tm:chargebeam",
+    "tm:uturn",
+    "tm:voltswitch",
+    "tm:zenheadbutt" ],
+  "labels": [
+    "gen9",
+    "paradox"
+  ],
+  "pokedex": [
+    "cobblemon.species.tempestfang.desc"
+  ],
+  "baseFriendship": 50,
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 1,
+    "special_defence": 0,
+    "speed": 2
+  },
+  "height": 4.7,
+  "weight": 1652,
+  "aspects": [],
+  "cannotDynamax": false,
+  "hitbox": {
+    "width": 2.3,
+    "height": 4.8,
+    "fixed": false
+  }
+}

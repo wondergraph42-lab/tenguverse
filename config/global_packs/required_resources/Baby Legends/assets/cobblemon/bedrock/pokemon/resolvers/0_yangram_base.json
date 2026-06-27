@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:yangram",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:yangram",
+      "model": "cobblemon:yangram.geo",
+      "texture": "cobblemon:textures/pokemon/yangram/yangram.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/yangram/yangram_shiny.png"
+    }
+  ]
+}

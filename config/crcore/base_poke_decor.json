@@ -1,0 +1,93 @@
+{
+  "3ed6c4a2-dda2-427e-b3a8-e7effc8aa4e9": {
+    "pid": "3ed6c4a2-dda2-427e-b3a8-e7effc8aa4e9",
+    "propertiesSpec": "miltank level=8",
+    "dimension": "cobblemonrealms:realms_world",
+    "spawnX": 105.5,
+    "spawnY": 171,
+    "spawnZ": 110.5,
+    "spawnYaw": -4.6500015,
+    "invulnerable": true,
+    "persistent": true,
+    "unbattleable": true,
+    "uncatchable": true
+  },
+  "e52d6032-83ae-4c18-8efa-bbc57dccabb0": {
+    "pid": "e52d6032-83ae-4c18-8efa-bbc57dccabb0",
+    "propertiesSpec": "tauros level=32",
+    "dimension": "cobblemonrealms:realms_world",
+    "spawnX": 104.5,
+    "spawnY": 171,
+    "spawnZ": 90.5,
+    "spawnYaw": -49.05014,
+    "invulnerable": true,
+    "persistent": true,
+    "unbattleable": true,
+    "uncatchable": true
+  },
+  "21d760b8-e0d1-4d6c-acdb-449316535c0c": {
+    "pid": "21d760b8-e0d1-4d6c-acdb-449316535c0c",
+    "propertiesSpec": "tauros level=53",
+    "dimension": "cobblemonrealms:realms_world",
+    "spawnX": 102.5,
+    "spawnY": 171,
+    "spawnZ": 90.5,
+    "spawnYaw": 135.74994,
+    "invulnerable": true,
+    "persistent": true,
+    "unbattleable": true,
+    "uncatchable": true
+  },
+  "cc5c7c60-60f2-4d49-a45e-61e936001de2": {
+    "pid": "cc5c7c60-60f2-4d49-a45e-61e936001de2",
+    "propertiesSpec": "miltank level=17",
+    "dimension": "cobblemonrealms:realms_world",
+    "spawnX": 110.5,
+    "spawnY": 171,
+    "spawnZ": 97.5,
+    "spawnYaw": 10.64998,
+    "invulnerable": true,
+    "persistent": true,
+    "unbattleable": true,
+    "uncatchable": true
+  },
+  "28e8dca7-9180-41d2-a5a2-fa3756ce7cd5": {
+    "pid": "28e8dca7-9180-41d2-a5a2-fa3756ce7cd5",
+    "propertiesSpec": "miltank level=23",
+    "dimension": "cobblemonrealms:realms_world",
+    "spawnX": 109.5,
+    "spawnY": 171,
+    "spawnZ": 102.5,
+    "spawnYaw": -163.64993,
+    "invulnerable": true,
+    "persistent": true,
+    "unbattleable": true,
+    "uncatchable": true
+  },
+  "c92bb5fa-fe07-4a28-965d-b9ff36850619": {
+    "pid": "c92bb5fa-fe07-4a28-965d-b9ff36850619",
+    "propertiesSpec": "miltank level=28",
+    "dimension": "cobblemonrealms:realms_world",
+    "spawnX": 99.5,
+    "spawnY": 171,
+    "spawnZ": 118.5,
+    "spawnYaw": -171.89989,
+    "invulnerable": true,
+    "persistent": true,
+    "unbattleable": true,
+    "uncatchable": true
+  },
+  "22c75605-9c4b-460a-a9e7-80df22681cc8": {
+    "pid": "22c75605-9c4b-460a-a9e7-80df22681cc8",
+    "propertiesSpec": "tauros level=38",
+    "dimension": "cobblemonrealms:realms_world",
+    "spawnX": 103.5,
+    "spawnY": 171,
+    "spawnZ": 90.5,
+    "spawnYaw": 146.69992,
+    "invulnerable": true,
+    "persistent": true,
+    "unbattleable": true,
+    "uncatchable": true
+  }
+}

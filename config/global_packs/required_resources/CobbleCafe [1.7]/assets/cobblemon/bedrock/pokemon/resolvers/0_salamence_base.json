@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:salamence",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:salamence",
+            "model": "cobblemon:cafe_salamence.geo",
+            "texture": "cobblemon:textures/pokemon/salamence/salamence.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/salamence/salamence_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/salamence/cafe_salamence.png"
+                }
+            ]
+        }
+    ]
+}

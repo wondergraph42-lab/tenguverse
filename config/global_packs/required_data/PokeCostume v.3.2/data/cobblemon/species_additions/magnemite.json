@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:magnemite",
+  "evolutions": [
+    {
+      "id": "iono_magneton",
+      "variant": "level_up",
+      "result": "magneton iono=true",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "electroweb"
+      ],
+      "requirements": [
+        {
+          "variant": "party_member",
+          "target": "bellibolt",
+          "contains": true
+        }
+      ]
+    }
+  ]
+}

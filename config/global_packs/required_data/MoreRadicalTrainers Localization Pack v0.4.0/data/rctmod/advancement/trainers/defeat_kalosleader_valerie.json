@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_kalosleader_clemont",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_kalosleader_valerie"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_kalosleader_valerie.description"
+    },
+    "icon": {
+      "id": "cobblemonpokemonbadges:fairy_badge_kalos"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "kalosleader_valerie"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

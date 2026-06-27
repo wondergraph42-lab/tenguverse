@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:scolipede",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:scolipede",
+            "model": "cobblemon:lunar_scolipede.geo",
+            "texture": "cobblemon:textures/pokemon/scolipede/scolipede.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/scolipede/scolipede_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-gold_nugget"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/scolipede/lunar_scolipede.png"
+                }
+            ]
+        }
+    ]
+}

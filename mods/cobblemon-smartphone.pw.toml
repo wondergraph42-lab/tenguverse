@@ -1,0 +1,13 @@
+name = "Cobblemon Smartphone"
+filename = "cobblemon_smartphone-neoforge-1.0.9-rev01.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d9c3c1e6c81f28911bac43eb7423183c709a38d4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8213592
+project-id = 1202617

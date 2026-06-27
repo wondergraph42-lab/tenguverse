@@ -1,0 +1,91 @@
+{
+  "replace": false,
+  "values": [
+    "#cobblemon:is_badlands",
+    "#cobblemon:is_desert",
+    {
+      "id": "#byg:is_sandy",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:wasteland",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:dryland",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:dune_beach",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:lush_desert",
+      "required": false
+    },
+    {
+      "id": "clifftree:warm_river",
+      "required": false
+    },
+    {
+      "id": "still_life:arid_desert",
+      "required": false
+    },
+    {
+      "id": "still_life:cold_desert",
+      "required": false
+    },
+    {
+      "id": "still_life:cold_semi_desert",
+      "required": false
+    },
+    {
+      "id": "still_life:savanna_beach",
+      "required": false
+    },
+    {
+      "id": "still_life:semiarid_desert",
+      "required": false
+    },
+    {
+      "id": "still_life:shrub_steppe",
+      "required": false
+    },
+    {
+      "id": "still_life:wooded_semiarid_desert",
+      "required": false
+    },
+    {
+      "id": "still_life:arid_beach",
+      "required": false
+    },
+    {
+      "id": "still_life:cold_tundra_beach",
+      "required": false
+    },
+    {
+      "id": "still_life:savanna_beach",
+      "required": false
+    },
+    {
+      "id": "still_life:mediterranean_beach",
+      "required": false
+    },
+    {
+      "id": "still_life:taiga_beach",
+      "required": false
+    },
+    {
+      "id": "still_life:temperate_beach",
+      "required": false
+    },
+    {
+      "id": "still_life:tundra_beach",
+      "required": false
+    },
+    {
+      "id": "still_life:tropical_beach",
+      "required": false
+    }
+  ]
+}

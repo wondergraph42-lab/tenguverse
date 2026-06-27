@@ -1,0 +1,13 @@
+{
+    "species": "cobblemon:milotic",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "female"
+            ],
+            "poser": "cobblemon:milotic_female",
+            "model": "cobblemon:cafe_milotic_female.geo"
+        }
+    ]
+}

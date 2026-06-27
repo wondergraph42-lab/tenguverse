@@ -1,0 +1,307 @@
+{
+	icon: {
+		id: "cobblemon:azure_ball"
+	}
+	id: "3A330DCF5BC7C660"
+	loot_crate: {
+		color: 1214397
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		glow: 1b
+		item_name: "PokeCrate [Aqua]"
+		string_id: "pokecrate_tier_3_aqua_"
+	}
+	loot_size: 1
+	order_index: 46
+	rewards: [
+		{
+			command: "/spawnpokemon carvanha lvl=35"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Carvanha!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "53E85D089E9E7BA9"
+			permission_level: 2
+			type: "command"
+			weight: 2.0f
+		}
+		{
+			command: "/spawnpokemon carvanha shiny lvl=35"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Carvanha! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "6D15139BDDABF54F"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon sharpedo lvl=40"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Sharpedo!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "484E92C23B95B29E"
+			permission_level: 2
+			type: "command"
+			weight: 0.5f
+		}
+		{
+			command: "/spawnpokemon sharpedo shiny lvl=40"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Sharpedo!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "40D31EA0E4775BA6"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon poochyena lvl=35"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Poochyena!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "47A66A56AFD470B9"
+			permission_level: 2
+			type: "command"
+			weight: 2.0f
+		}
+		{
+			command: "/spawnpokemon poochyena shiny lvl=35"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Poochyena! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "37D9D73B44276303"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon mightyena lvl=40"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Mightyena!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "35CE0F02F289D034"
+			permission_level: 2
+			type: "command"
+			weight: 0.5f
+		}
+		{
+			command: "/spawnpokemon mightyena shiny lvl=40"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Mightyena! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "67269E23A5552B77"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon wailmer lvl=35"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Wailmer!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "59D0CF24D2F88C49"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon wailmer shiny lvl=35"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Wailmer! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "569A1B94CE459045"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon wailord lvl=40"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Wailord!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "774B64A0694DDD9C"
+			permission_level: 2
+			type: "command"
+			weight: 0.5f
+		}
+		{
+			command: "/spawnpokemon wailord shiny lvl=40"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Wailord! - Shiny"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "6F9F103FC013FF84"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon tentacool lvl=35"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Tentacool!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "6866F2C62F73356F"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon tentacool shiny lvl=35"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Tentacool! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "101271C12C1BEBED"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon tentacruel lvl=40"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Tentacruel!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "1A0ABB75D4B90AA5"
+			permission_level: 2
+			type: "command"
+			weight: 0.5f
+		}
+		{
+			command: "/spawnpokemon tentacruel shiny lvl=40"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Tentacruel! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "22401132C1707264"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon pelipper lvl=40"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Pelipper!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "35A9F8312F5DD02F"
+			permission_level: 2
+			type: "command"
+			weight: 0.5f
+		}
+		{
+			command: "/spawnpokemon pelipper shiny lvl=40"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Pelipper! - Shiny"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "31969D8DD40A22E5"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon qwilfish lvl=35"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Qwilfish!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "4199D4BD9B24BD1D"
+			permission_level: 2
+			type: "command"
+			weight: 2.0f
+		}
+		{
+			command: "/spawnpokemon qwilfish shiny lvl=35"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Qwilfish! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "1FBBC0C18ACE4A95"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon wingull lvl=35"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Wingull!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "7D1E0742928F132F"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon wingull shiny lvl=35"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Wingull! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "0AFB53284DF942A2"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon kyogre lvl=50"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Kyogre!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "3CE3F1EFDB7995E4"
+			permission_level: 2
+			type: "command"
+			weight: 0.02f
+		}
+		{
+			command: "/spawnpokemon kyogre shiny lvl=50"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Kyogre! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "2B1951E98843D3E0"
+			permission_level: 2
+			type: "command"
+			weight: 0.01f
+		}
+	]
+	use_title: true
+}

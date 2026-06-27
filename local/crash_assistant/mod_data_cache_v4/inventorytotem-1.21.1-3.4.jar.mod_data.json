@@ -1,0 +1,1 @@
+{"jarName":"inventorytotem-1.21.1-3.4.jar","modId":"inventorytotem","name":"Inventory Totem","version":"3.4","mixinConfigs":["inventorytotem_fabric.mixins.json","inventorytotem_neoforge.mixins.json","inventorytotem_forge.mixins.json"],"jarJarMods":[],"curseForgeHash":1036907227,"modrinthHash":"fcd2f54cc4c5c0368c1d8c957f76d908cec9f8a0"}

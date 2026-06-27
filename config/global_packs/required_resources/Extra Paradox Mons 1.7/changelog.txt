@@ -1,0 +1,265 @@
+version 16
+-iron virus special atk -10, special def +10
+-tempest fang battle_idle fix
+-tempest fang profile/portrait fixes
+-iron victory remodeled/texture/anims
+
+version 17
+-iron mirage stat changes -20 special atk, +10 def, +10 atk
+-iron might stat changes -10 atk, -10 spe, +10 hp, +10 def
+-iron virus stat changes -6 atk, -4 special atk, +10 hp
+-iron justice stat changes -20 atk, -10 special atk, -10 spe, +20 special def, +20 def
+-iron drone stat changes -10 spe, -10 def, -10 special def, +10 hp, +20 atk
+-iron core stat changes -30 def, -10 hp, -10 spe, +30 atk, +20 special def
+-tempest fang stat changes -10 atk, -4 spe, -10 special atk, +4 def, +10 hp, +10 special def
+-ancient gale stat changes -10 atk, +10 def
+-crimson veil stat changes -10 atk, -10 hp, -10 def, -10 spe, +10 special def, +40 special atk
+-lumin tail stat changes -10 speed, -10 special atk, +20 atk
+-feral wish stat changes -30 special atk, +10 spe, +10 atk, +10 def
+-toxic melody stat changes -20 special def, -20 spe, +40 atk
+-iron victory stat changes -20 spe, -20 special atk, +20 atk, +20 special def
+-wild gene shiny fix
+-toxic melody remodeled/texture/anims
+-toxic melody move pool revamp
+-crimson veil move pool revamp
+-lumin tail move pool revamp
+-feral wish move pool revamp
+-wild gene move pool revamp
+-ancient gale move pool revamp
+-tempest fang move pool revamp
+-iron victory move pool revamp
+-iron core move pool revamp
+-iron drone move pool revamp
+-iron virus move pool revamp
+-iron justice move pool revamp
+-iron might move pool revamp
+-iron mirage move pool revamp
+
+version 18
+-iron might dex entry fix
+-move name fixes
+-wild gene pivot fixes
+-wild gene shiny fix again (some reason it didn't save last time)
+-lumin tail tweaked/textures/anims
+-iron drone texture tweaks
+-tempest fang revamped texture/model/anims (locators will be done with the other therians)
+-ancient gale revamped texture/model/anims (locators will be done with the other therians)
+-iron virus revamped texture/model/anims
+-iron core revamped texture/model/anims
+-minor crimson veil texture changes (4 pixels, considering more at some point)
+-feral wish anim fix
+-french wild gene lang fix
+-iron victory shiny fix
+-crimson veil stat changes +10 atk
+-toxic melody locators
+-feral wish locators
+-crimson veil locators
+-lumin tail locators
+-wild gene locators
+-iron victory locators
+-iron core locators
+-iron drone locators
+-iron virus  locators
+-iron justice locators
+
+Version 19
+-wild gene profile/portrait fix
+-iron mirage -> primal shell
+-iron might -> saber jaw
+-iron core cry changes
+-iron virus profile fix
+-iron justice profile fix
+-iron core profile fix
+-iron victory profile fix
+-feral wish profile fix
+-toxic melody profile fix
+-ancient gale profile fix
+-universal sleep species addition
+-saber jaw spawn location mountain->jungle
+-iron victory stat change
+-iron core stat change
+-iron drone stat change
+-iron justice stat change
+-iron virus stat change
+-toxic melody stat change
+-crimson veil stat change
+-lumin tail stat change
+-feral wish stat change
+-wild gene stat change
+-ancient gale stat change
+-tempest fang stat change
+-primal shell move/stat full change from previous form
+-saber jaw move/stat full change from previous form
+
+Version 20 The Milestone Update
+-advancements
+-drone/lumin generational beef? guess not yet, kinda?
+-structures
+-paradox locators again
+-paradox alpha textures
+-lumin tail texture change
+-lumin tail shoulder mount
+-iron drone shoulder mount
+-aggression
+-ride compat for primal shell
+-pokedex page changes
+-iron drone overworld speed changes
+-primal shell model/texture/animation tweaks
+-iron victory model/texture/animation tweaks
+-crimson veil remodel/texture/animation --> crimson maw
+-crimson veil dex entry changes
+-lunar veil
+-iron drill
+-iron drill mega
+-iron warp perfected
+-iron warp
+-iron beak
+-iron cocoon
+-iron bell
+-iron sail
+-paradox cry/recoil animations
+-paradox cry noises
+-ancient gale model/texture/animation changes
+-tempest fang texture/animation changes
+-iron core texture fixes
+-iron core pivot fix
+-toxic melody walk fix
+-slight toxic melody texture adjustments 
+-walking wake and iron leaves spawn compat
+-iron drone model tweaks
+-spawn tweaks
+-iron core model tweaks
+-iron victory model tweaks
+-iron virus model tweaks
+-iron victory metal redo
+-iron core metal redo
+-iron drone metal redo
+-iron virus metal redo
+-iron justice metal redo
+-removed iron virus optional blue
+-resized paradox mons to be accurate
+-saber jaw eyelid sleep fix
+-added banned monetization examples to modrinth datapack page
+
+Version 21
+-locators for new mons
+-the sizening part 2
+-added spawn pool files for iron leaves and walking wake
+-fixed the weird clipping in lumin tail's profile, not sure what caused it
+-slight lumin tail model change (the eyes got moved forward a small bit)
+-slight iron warp prototype base texture recolor
+-status move anims
+-rough item code mostly done (just getting the feel for it and lil bit of prep anyways)
+-edited desolate sus sand to have custom items (hopefully it's just air for now)
+-swapped mega iron drills attack stats
+-item sprites/lang
+-wild gene forms
+-wild gene texture/model/animation redo
+-iron virus drop fix
+-iron victory drop fix
+-iron sail drop fix
+-head start asset code for version 22 (regarding iron genesis and gene)
+-signature moves
+-iron virus stat changes psyshock <-- psychocut
+-iron sail fishing spawn rate changes
+-lunar veil fishing spawn rate changes
+-iron drone fishing spawn rate changes
+-lumin tail fishing spawn rate changes
+-pokedex description changes for easier translation
+-re-added? ancient gale blink
+-ancient gale stat change + nasty plot
+-lunar veil stat change  +expanding force +body press
+-iron beak + bolt beak, rising voltage
+-toxic melody + recover, boomburst
+-iron drill + rapid spin
+-saber jaw - ice/thunder/fire punch, + ice/thunder/fire fang
+-tempest fang + ice/thunder/fire fang
+-crimson maw + ice/thunder/fire fang + crunch
+-iron warp perfected stat change -uturn
+-iron warp stat change -uturn
+-feral wish texture/model/animation changes
+-feral wish shoulder animations
+-ironflare mega
+-iron flux mega
+-iron flux
+-iron flare
+-gloom shade
+-lunar veil stat change
+-iron victory shoulder animations
+-toxic melody dex changes
+-iron beak metal redo
+-added origin wyrm's ability
+-iron sail stats 580 --> 590
+-fixed major iron warp dex entry issue
+-primal shell -fairylock +dragonpulse
+-tempest fang -plasmafists -dragonenergy +supercellslam +discharge
+-saber jaw -landswrath -direclaw -precipiceblades -psyblade +spikes +sandtomb +earthpower +fissure
+-ancient gale -coreenforcer -aeroblast +hurricane +featherdance
+-iron justice -psyblade +lifedew
+-lumin tail -bouncybubble -thundercage +thunderwave +muddywater
+-iron drill -nastyplot -calmmind
+-iron virus -bittermalice +lunge
+-crimson maw -fierywrath -wickedblow +poweruppunch +closecombat
+-iron sail -doodle -malignantchain +crosspoison +gastroacid
+-iron beak -doodle -malignantchain +crosspoison +gastroacid
+-iron bell -doodle -malignantchain +crosspoison +acidarmor
+-iron cocoon -doodle -malignantchain +crosspoison +corrosivegas
+-iron warp perfected -shadowforce -psyblade +throatchop +supercellslam
+-iron warp prototype -psyblade +throatchop
+-lunar veil -instruct -followme +icebeam +trickroom
+-feral wish -fiery wrath -baddybad +dragontail +playrough
+-iron drone -aeroblast +scald
+-drop changes
+[
+-iron virus ender pearl --> medicinal brew
+-toxic melody starf --> sitrus
+-feral wish starf --> enigma
+-crimson maw starf --> pomeg
+-lumin tail starf --> leppa
+-wild gene starf --> aguav
+-iron victory starf --> tamato
+-iron core starf --> eggant
+-iron drone starf --> cornn
+-iron virus starf --> starf
+-iron justice starf --> grepa
+-lunar veil starf --> kelpsy
+-iron drill starf --> mago
+-iron warp starf --> watmel
+-iron beak starf --> hopo
+-iron cocoon starf --> qualot
+-iron bell starf --> iapapa
+-iron sail starf --> wiki
+-ancient gale starf --> hondew
+-saber jaw starf --> spelon
+-primal shell starf --> touga
+-tempest fang starf --> pamtre
+-iron flare starf --> lansat
+-iron flux starf --> magost
+-gloom shade pomeg --> enigma
+ reaper_cloth --> expert_belt
+]
+
+Version 22
+-iron justice sleep anim fix
+-weight fixes
+-lumin tail tweaks model/texture/animations
+-anniversary cosmetics
+-wild gene draco-gear --> flutter-gear
+-fixed gloom shade sculk swim naming in poser
+-gloom shade +phantom force (sign move won't work as intended)
+-iron drill +rapid spin (forgot to add this like 3 times)
+-fixed crimson maw portrait/profile
+-fixed iron drill/mega locators
+-pupil bones and shocked mouth for feral wish
+-shocked/unamused/sad/happy/hurt emote feral wish
+-shiver shrub
+-iron gene
+-iron genesis
+-iron genesis mega
+-new sign move "snow rush"
+-dual droneslash status chance changes
+-added more names to the namelog
+-tweaked dex entries for forms such as perfected warp/megas/gears
+-fixed protect breaking moves just going through protect and not breaking protect
+-dual droneslash debuff removed
+-dual hoof buff removed

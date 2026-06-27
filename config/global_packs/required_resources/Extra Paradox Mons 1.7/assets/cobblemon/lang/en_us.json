@@ -1,0 +1,287 @@
+{
+ "advancements.extraparadoxmons.root": "So Timeless!",
+ "advancements.extraparadoxmons.root.description": "You downloaded Extra Paradox Mons and let them loose!",
+
+ "advancements.extraparadoxmons.cozy_camps": "Welcome to a resting zone! how was the trip...",
+ "advancements.extraparadoxmons.cozy_camps.description": "Find a cozy campsite and sip some tea with the nearby Villager.",
+
+ "advancements.extraparadoxmons.abandoned_camps": "Oh, what a shame...",
+ "advancements.extraparadoxmons.abandoned_camps.description": "Find a abandoned campsite, if only you showed up sooner...",
+
+ "advancements.extraparadoxmons.first_paradox_catch": "Difficult to find, ain't it?",
+ "advancements.extraparadoxmons.first_paradox_catch.description": "You found and successfully caught a paradox Pokémon.",
+
+ "advancements.extraparadoxmons.catch_all_extra_paradox": "Every one of them?",
+ "advancements.extraparadoxmons.catch_all_extra_paradox.description": "You found and successfully caught every paradox Pokémon, unbelievable.",
+
+ "item.cobblemon.flare_gear": "Flare Gear",
+   "item.cobblemon.flare_gear.tooltip": "Changes Wild Gene into it's Flare forme, Tastes rather spicy with a mix of burning, Hot!",
+ "item.cobblemon.wave_gear": "Wave Gear",
+   "item.cobblemon.wave_gear.tooltip": "Changes Wild Gene into it's Wave forme, Tastes rather water with a mix of H2O, Yum?",
+ "item.cobblemon.frost_gear": "Frost Gear",
+    "item.cobblemon.frost_gear.tooltip": "Changes Wild Gene into it's Frost forme, Tastes rather water with a texture of ice, Meh.",
+ "item.cobblemon.zap_gear": "Zap Gear",
+    "item.cobblemon.zap_gear.tooltip": "Changes Wild Gene into it's Zap forme, Tastes very static with the scent of zap, Ouch!",
+ "item.cobblemon.flutter_gear": "Flutter Gear",
+    "item.cobblemon.flutter_gear.tooltip": "Changes Wild Gene into it's Draco forme, Tastes rather salty with the scent of sweat, meh.",
+ "item.cobblemon.ghastly_gear": "Ghastly Gear",
+    "item.cobblemon.ghastly_gear.tooltip": "Changes Wild Gene into it's Ghastly forme, Tastes rather pungant with the scent of death, Bleh!",
+ "item.cobblemon.toxin_gear": "Toxin Gear",
+    "item.cobblemon.toxin_gear.tooltip": "Changes Wild Gene into it's Toxin forme, Tastes rather sweet with an after effect of paralysis, Yum i suppose",
+ "item.cobblemon.fossil_gear": "Fossil Gear",
+    "item.cobblemon.fossil_gear.tooltip": "Changes Wild Gene into it's Fossil forme, Tastes rather earthy with a mix of iron, Bleh!",
+
+ "item.cobblemon.flare_dna": "Flare DNA",
+ "item.cobblemon.wave_dna": "Wave DNA",
+ "item.cobblemon.frost_dna": "Frost DNA",
+ "item.cobblemon.zap_dna": "Zap DNA",
+ "item.cobblemon.flutter_dna": "Flutter DNA",
+ "item.cobblemon.ghastly_dna": "Ghastly DNA",
+ "item.cobblemon.toxin_dna": "Toxin DNA",
+ "item.cobblemon.fossil_dna": "Fossil DNA",
+
+ "item.cobblemon.prism_cube": "Prism Cube",
+    "item.cobblemon.prims_cube.tooltip": "Changes Iron Warps forme, Tastes like nothing honestly",
+ "item.cobblemon.drill_usb": "Drill USB",
+    "item.cobblemon.drill_usb.tooltip": "Mega Evolves Iron Drill, Tastes like iron, Bleh!",
+ "item.cobblemon.flux_usb": "Flux USB",
+     "item.cobblemon.flux_usb.tooltip": "Mega Evolves Iron Flux, Tastes like iron, Bleh!",
+ "item.cobblemon.flare_usb": "Flare USB",
+     "item.cobblemon.flare_usb.tooltip": "Mega Evolves Iron Flare, Tastes like iron, Bleh!",
+ "item.cobblemon.genesis_usb_01": "Genesis USB 01",
+     "item.cobblemon.genesis_usb_01.tooltip": "Mega Evolves Iron Genesis into it's Physical forme, Tastes like iron, Bleh!",
+ "item.cobblemon.genesis_usb_02": "Genesis USB 02",
+     "item.cobblemon.genesis_usb_02.tooltip": "Mega Evolves Iron Genesis into it's Special forme, Tastes like iron, Bleh!",
+ "item.cobblemon.primal_amber": "Primal Amber",
+     "item.cobblemon.primal_amber.tooltip": "Awakens Magma Thorn or Aqua Pod's Apex formes, Tastes rather sweet, Yum!",
+ "item.cobblemon.meteor_fragment": "Meteor Fragment",
+     "item.cobblemon.meteor_fragment.tooltip": "Mega evolves Emerald Wyrm, Tastes kinda earthy with a mix of iron, Bleh!",
+ "item.cobblemon.balance_stone": "Balance Tablet",
+     "item.cobblemon.balance_stone.tooltip": "Used to fuse Razor Drake or Feral Drake with the missing third piece, mix of all flavours, Bleh!",
+ "item.cobblemon.somewhat_balanced_tablet": "Somewhat Balanced Tablet",
+     "item.cobblemon.somewhat_balanced_tablet.tooltip": "Maybe you should chisel words into it? They have standards.",
+ "item.cobblemon.mostly_unbalanced_stone": "Mostly Unbalanced Stone",
+     "item.cobblemon.mostly_unbalanced_stone.tooltip": "Maybe you should cut it to shape? They like symmetrical shapes.",
+ "item.cobblemon.fragmented_balance_stone": "Fragmented Balance Stone",
+      "item.cobblemon.fragmented_balance_stone.tooltip": "missing a piece, used to fuse Feral Flare or Razor Bolt with Shiver Drake",
+ "item.cobblemon.grey_balance_shard": "Grey Balance Shard",
+        "item.cobblemon.grey_balance_shard.tooltip": "Tastes like water and a mix of how wet dog smells, Bleh!",
+ "item.cobblemon.white_balance_shard": "White Balance Shard",
+       "item.cobblemon.white_balance_shard.tooltip": "Tastes like cream soda with a minty after taste, Yum!",
+ "item.cobblemon.black_balance_shard": "Black Balance Shard",
+      "item.cobblemon.black_balance_shard.tooltip": "Tastes like black liqorice and a mix of charcoal, Meh.",
+ "item.cobblemon.solar_device": "Solar Device",
+     "item.cobblemon.solar_device.tooltip": "Used to fuse Solar Mane with Iron Prism",
+ "item.cobblemon.lunar_device": "Lunar Device",
+     "item.cobblemon.lunar_device.tooltip": "Used to fuse Lunar Wing with Iron Prism",
+
+ "cobblemon.battle.prepare.spectralmaul": "%1$s dove into the shadows!",
+
+ "cobblemon.move.spectralmaul": "Spectral Maul",
+  "cobblemon.move.spectralmaul.desc": "The target's shadow is doven into, after a turn the target is mauled by a spectral figure. This move may flinch and always paralyses the target and it always breaks protect.",
+  "cobblemon.move.floraltwister": "Floral Twister",
+  "cobblemon.move.floraltwister.desc": "The target is enveloped in a lush twister. This move may flinch",
+  "cobblemon.move.sabercrush": "Saber Crush",
+  "cobblemon.move.sabercrush.desc": "The target is biten with extreme force. This may cause the target to flinch",
+  "cobblemon.move.tempestslash": "Tempest Slash",
+  "cobblemon.move.tempestslash.desc": "The target is slashed at with extreme force. This move is super effective against fairy types.",
+  "cobblemon.move.primalguard": "Primal Guard",
+  "cobblemon.move.primalguard.desc": "The user protects itself and raises Def by one stage.",
+  "cobblemon.move.lunarbash": "Lunar Bash",
+  "cobblemon.move.lunarbash.desc": "the target is bashed with extreme force. This moves damage is based on the user's defensive stat.",
+  "cobblemon.move.wickedwish": "Wicked Wish",
+  "cobblemon.move.wickedwish.desc": "The target is hit with a status from a wicked wish. this move will always inflict burn, freeze, or poison but only ever one status.",
+  "cobblemon.move.noxiouschorus": "Noxious Chorus",
+  "cobblemon.move.noxiouschorus.desc": "The opposing side is affected by a intoxicating chorus. This move always inflicts poison.",
+  "cobblemon.move.arachnoclasp": "Arachno Clasp",
+  "cobblemon.move.arachnoclasp.desc": "The target is attacked by multiple claws. This move may cause flinch and changes type based on the gear equipped.",
+  "cobblemon.move.luminbeam": "Lumin Beam",
+  "cobblemon.move.luminbeam.desc": "The target is flashed by bright lights. This attack hits twice and may paralyse.",
+  "cobblemon.move.horrormaw": "Horror Maw",
+  "cobblemon.move.horrormaw.desc": "The target is bitten by a giant set of jaws, this move traps the opponent. This move may cause flinching.",
+  "cobblemon.move.snowrush": "Snow Rush",
+  "cobblemon.move.snowrush.desc": "The user rushes towards the target with break neck speeds, the damage of this move is based on the users speed stat.",
+  "cobblemon.move.beastialmaul": "Beastial Maul",
+  "cobblemon.move.beastialmaul.desc": "The user lunges at the target, biting and scratching. This move boosts the users attack by 1 stage and a low chance to cause flinching.",
+  "cobblemon.move.thornybeatdown": "Thorny Beatdown",
+  "cobblemon.move.thornybeatdown.desc": "The user beats the target with a thorn covered cudgel. This move's type changes depending on the mask worn by the user, and it has a heightened chance of landing a critical hit.",
+
+ "cobblemon.move.boosterburn": "Booster Burn",
+  "cobblemon.move.boosterburn.desc": "The target is blasted with intense heat from Iron Flare's back booster, raising Sp. Atk in electric terrain one stage.",
+  "cobblemon.move.boostervolt": "Booster Volt",
+  "cobblemon.move.boostervolt.desc": "The target is blasted with intense Electricity from Iron Flux's back booster, raising Sp. Atk in electric terrain one stage.",
+  "cobblemon.move.toxinshock": "Toxin Shock",
+  "cobblemon.move.toxinshock.desc": "The target is blasted with a intense shock and a wave of poison. This move may inflict poison as well as raising the users Sp. Atk by one stage.",
+  "cobblemon.move.toxinflood": "Toxin Flood",
+  "cobblemon.move.toxinflood.desc": "The opposing side is hit with a intense wave of poison that affects the surrounding opponents. This move may inflict poison as well as raising the users Sp. Atk by one stage.",
+  "cobblemon.move.toxinblossom": "Toxin Blossom",
+  "cobblemon.move.toxinblossom.desc": "The opposing side is hit with a intense flurry of petals that affects the surrounding opponents. This move may inflict poison as well as raising the users Sp. Atk by one stage.",
+  "cobblemon.move.toxindrill": "Toxin Drill",
+  "cobblemon.move.toxindrill.desc": "The target is hit with a intense drill barrage. This move may inflict poison as well as raising the users Atk by one stage.",
+  "cobblemon.move.injectionshot": "Injection Shot",
+  "cobblemon.move.injectionshot.desc": "The target is hit with multiple tentacle like needles. This move may inflict poison, burn, or paralysis.",
+  "cobblemon.move.victorysear": "Victory Sear",
+  "cobblemon.move.victorysear.desc": "The target is attacked by searing flames. High chance to burn.",
+  "cobblemon.move.diamonddrill": "Diamond Drill",
+  "cobblemon.move.diamonddrill.desc": "The user launches itself at the opponent with drill like movements. This move does extra damage to ground types.",
+  "cobblemon.move.dualhoof": "Dual Hoof",
+  "cobblemon.move.dualhoof.desc": "The user shoots high preasure water from it's back hooves at the opponent. This move does extra damage to dark types and hits twice.",
+  "cobblemon.move.dualdroneslash": "Dual Droneslash",
+  "cobblemon.move.dualdroneslash.desc": "The user uses it's propeller to launch wave like slashes towards the opponent. This move hits twice.",
+  "cobblemon.move.sparklingmist": "Sparkling Mist",
+  "cobblemon.move.sparklingmist.desc": "The user exudes a beautiful but intoxicating mist that affects the surrounding opponents. This move may inflict poison or sleep.",
+  "cobblemon.move.ultraspacefury": "Ultraspace Fury",
+  "cobblemon.move.ultraspacefury.desc": "The user uses portals to attack the target. This move lowers Def and Sp. Def while raising Sp. Atk by one stage.",
+  "cobblemon.move.ultraspacehole": "Ultraspace Hole",
+  "cobblemon.move.ultraspacehole.desc": "The user uses portals to attack the target. This move raises Sp. Atk by one stage.",
+  "cobblemon.move.psychoburst": "Psycho Burst",
+  "cobblemon.move.psychoburst.desc": "The user condenses it's psychic power and releases it in a quick burst. This move is super effective against Dark types and has the ability to switch between its attack stats depending on which is stronger.",
+  "cobblemon.move.psychoforce": "Psycho Force",
+  "cobblemon.move.psychoforce.desc": "The user fills the surrounding air with psychic energy and crushes any pokemon within it's range. This move is super effective against Bug types and may cause confusion.",
+  "cobblemon.move.sensoryflare": "Sensory Flare",
+  "cobblemon.move.sensoryflare.desc": "The user uses intense telepathic powers to scramble the targets emotions and trap them. This move may poison and lower the targets offensive stats.",
+  "cobblemon.move.sensoryburst": "Sensory Burst",
+  "cobblemon.move.sensoryburst.desc": "The user uses intense telepathic powers to scramble the targets brain and trap them.  This move may paralyse and lower the targets speed stat.",
+  "cobblemon.move.sensoryforce": "Sensory Force",
+  "cobblemon.move.sensoryforce.desc": "The user uses intense telepathic powers to restrict the targets muscles and trap them.  This move may burn and lower the targets defensive stats.",
+
+  "cobblemon.move.justinbeam": "The Almighty Goliath Justin Beam Of The Century",
+  "cobblemon.move.justinbeam.desc": "The user uses it's Justin powers to Justin blast the opponent with a Justin beam",
+  "cobblemon.move.justinpunch": "The Almighty Goliath Justin Punch Of The Century",
+  "cobblemon.move.justinpunch.desc": "The user uses it's Justin powers to Justin blast the opponent with some Justin punch",
+
+  "cobblemon.ability.apexdrive":"Apex Drive",
+  "cobblemon.ability.apexdrive.desc":"Changes Origin Wrym's secondary type based on the weather, if it's sunny it becomes Fire type, if theres Electric Terrain in place, it becomes Electric type.",
+
+ "cobblemon.species.toxicmelody.name": "Toxic Melody",
+ "cobblemon.species.toxicmelody.desc": "Toxic Melody shares many similarities to the Pokémon Meloetta, even in it's singing habits. Despite it's similarities to the often calm Meloetta, it has a nasty glare and holds grudges longer than most other Pokémon.",
+
+"cobblemon.species.ironvictory.name": "Iron Victory",
+ "cobblemon.species.ironvictory.desc": "Although rare, few sightings have been reported of this Pokémon. The sightings are very well known as this Pokémon is very friendly despite other similar pokemon.",
+
+"cobblemon.species.ironcore.name": "Iron Core",
+ "cobblemon.species.ironcore.desc": "They may seem docile or rather peaceful, but if you get too close, they'll poison and send you into a deep slumber with various toxins.",
+
+"cobblemon.species.crimsonmaw.name": "Crimson Maw",
+"cobblemon.ui.pokedex.info.form.crimsonmaw": "Base",
+ "cobblemon.species.crimsonmaw.desc": "Crimson Maw is said to be the Pokémon that makes even the toughest of Pokémon wake up from a dead sleep, it's nightmares are said to be powerful enough to wake even the dead.",
+
+"cobblemon.ui.pokedex.info.form.crimsonmaw-mega": "Mega",
+ "cobblemon.species.crimsonmaw-mega.desc": "[DEV LOG:] When this pokemon was first caught it was believed it couldn't mega evolve at all. The idea of these alien-like pokemon being able to mega evolve was just nightmarish, especially after it happened.",
+
+"cobblemon.species.irondrone.name": "Iron Drone",
+ "cobblemon.species.irondrone.desc": "Incredibly friendly but rather cautious, this Pokémon is often reported delivering old relics from the seafloor to unsuspecting divers. Its rather bizarre appearance causes scentists to question what it resembles, the most recent conclusions state it may be based on Phione.",
+ 
+"cobblemon.species.lumintail.name": "Lumin Tail",
+ "cobblemon.species.lumintail.desc": "Rather Hostile despite its similarities with Manaphy, it's been reported that they often attack Iron Drone if they cross pathes, the leading theory behind this is that Iron Drone steals Lumin Tail's relics.",
+
+"cobblemon.species.ironvirus.name": "Iron Virus",
+ "cobblemon.species.ironvirus.desc": "This Pokémon hates Deoxys and will go out of its way to defeat any and all Deoxys. The reason for why this is, is unknown but from what is known it is the ultimate antivirus.",
+
+"cobblemon.species.feralwish.name": "Feral Wish",
+ "cobblemon.species.feralwish.desc": "This feral Pokémon likes to grant wishes but it has a habit of twisting words to form completely different wishes. Though, it is often ignored because of its annoying nature.",
+
+"cobblemon.species.wildgene.name": "Wild Gene",
+"cobblemon.ui.pokedex.info.form.wildgene": "Base",
+ "cobblemon.species.wildgene.desc": "Wild Gene are very aggressive but often stand their ground, this has led to mountains of research on them since they always refuse to back down.",
+
+"cobblemon.ui.pokedex.info.form.wildgene-frost": "Frost Exo Gear",
+"cobblemon.species.wildgene-frost.desc": "[DEV LOG:] after extensive research on the biology of the alien like robotic pokemon, a form of gear has been engineered for Wild Gene. This gear changes it's typing to the corrosponding gear.",
+
+"cobblemon.ui.pokedex.info.form.wildgene-zap": "Zap Exo Gear",
+"cobblemon.species.wildgene-zap.desc": "[DEV LOG:] after extensive research on the biology of the alien like robotic pokemon, a form of gear has been engineered for Wild Gene. This gear changes it's typing to the corrosponding gear.",
+
+"cobblemon.ui.pokedex.info.form.wildgene-flare": "Flare Exo Gear",
+"cobblemon.species.wildgene-flare.desc": "[DEV LOG:] after extensive research on the biology of the alien like robotic pokemon, a form of gear has been engineered for Wild Gene. This gear changes it's typing to the corrosponding gear.",
+
+"cobblemon.ui.pokedex.info.form.wildgene-wave": "Wave Exo Gear",
+"cobblemon.species.wildgene-wave.desc": "[DEV LOG:] after extensive research on the biology of the alien like robotic pokemon, a form of gear has been engineered for Wild Gene. This gear changes it's typing to the corrosponding gear.",
+
+"cobblemon.ui.pokedex.info.form.wildgene-fossil": "Fossil Exo Gear",
+"cobblemon.species.wildgene-fossil.desc": "[DEV LOG:] after extensive research on the biology of the alien like robotic pokemon, a form of gear has been engineered for Wild Gene. This gear changes it's typing to the corrosponding gear.",
+
+"cobblemon.ui.pokedex.info.form.wildgene-flutter": "Flutter Exo Gear",
+"cobblemon.species.wildgene-flutter.desc": "[DEV LOG:] after extensive research on the biology of the alien like robotic pokemon, a form of gear has been engineered for Wild Gene. This gear changes it's typing to the corrosponding gear.",
+
+"cobblemon.ui.pokedex.info.form.wildgene-toxin": "Toxin Exo Gear",
+"cobblemon.species.wildgene-toxin.desc": "[DEV LOG:] after extensive research on the biology of the alien like robotic pokemon, a form of gear has been engineered for Wild Gene. This gear changes it's typing to the corrosponding gear.",
+
+"cobblemon.ui.pokedex.info.form.wildgene-ghastly": "Ghastly Exo Gear",
+"cobblemon.species.wildgene-ghastly.desc": "[DEV LOG:] after extensive research on the biology of the alien like robotic pokemon, a form of gear has been engineered for Wild Gene. This gear changes it's typing to the corrosponding gear.",
+
+"cobblemon.species.ironjustice.name": "Iron Justice",
+ "cobblemon.species.ironjustice.desc": "Iron Justice makes its task to rid the Paldea region of Pokémon it deems evil. As of lately its been proven its not limited to just Pokémon.",
+
+"cobblemon.species.primalshell.name": "Primal Shell",
+ "cobblemon.species.primalshell.desc": "This turtle-like Pokémon has been observed moving towards to Hoenn region and have been proven to hang around the Mirage Islands.",
+
+"cobblemon.species.saberjaw.name": "Saber Jaw",
+ "cobblemon.species.saberjaw.desc": "Saber Jaw, the saber tooth tiger Pokémon, it's extremely aggressive nature leads most explorers who trail it's territory, missing. Records show a it seems to be a distant relative of the Pokémon Landorus.",
+
+"cobblemon.species.ancientgale.name": "Ancient Gale",
+ "cobblemon.species.ancientgale.desc": "Ancient Gale, seemingly connected to the Pokémon Tornadus, it is believed to be a ancient deity or a guardian of dense forests and Pokémon alike.",
+
+"cobblemon.species.tempestfang.name": "Tempest Fang",
+ "cobblemon.species.tempestfang.desc": "This seemingly berserk dragon has an odd habit of collecting coins from Gimmighoul through rather vicious methods, this often results in conflicts between Tempest Fang and Ancient Gale.",
+
+"cobblemon.species.ironbeak.name": "Iron Beak",
+ "cobblemon.species.ironbeak.desc": "Iron Beak, the false guardian of Melemele island's possible future. When they first arrived, all four made their way towards the alola islands and fought with their respective guardians.",
+
+"cobblemon.species.ironcocoon.name": "Iron Cocoon",
+ "cobblemon.species.ironcocoon.desc": "Iron Cocoon, the false guardian of Akala island's possible future. When they first arrived, all four made their way towards the alola islands and fought with their respective guardians.",
+
+"cobblemon.species.ironbell.name": "Iron Bell",
+ "cobblemon.species.ironbell.desc": "Iron Bell, the false guardian of Ula'ula island's possible future. When they first arrived, all four made their way towards the alola islands and fought with their respective guardians.",
+
+"cobblemon.species.ironsail.name": "Iron Sail",
+ "cobblemon.species.ironsail.desc": "Iron Sail, the false guardian of Poni island's possible future. When they first arrived, all four made their way towards the alola islands and fought with their respective guardians.",
+
+"cobblemon.species.ironwarp.name": "Iron Warp",
+"cobblemon.ui.pokedex.info.form.ironwarp": "Prototype",
+ "cobblemon.species.ironwarp.desc": "This Pokémon likes to use portals to wander about and commit various thievery stunts across the lands of Paldea and Kalos. It shares a strong resemblance to the Pokémon Hoopa while in it's confined form",
+
+"cobblemon.ui.pokedex.info.form.ironwarp-perfected": "Perfected",
+ "cobblemon.species.ironwarp-perfected.desc": "[DEV LOG:] Following the capture of a paradox pokemon called Iron Warp, a strange cube had been found at a digsite in the Lumiose Badlands. based on the markings on the outside of the cube, it is best whatever it holds stays locked away, for the worlds sake.",
+
+"cobblemon.species.irondrill.name": "Iron Drill",
+"cobblemon.ui.pokedex.info.form.irondrill": "Standard",
+ "cobblemon.species.irondrill.desc": "Iron Drill loves diamonds and digging, in recent years scientists have discovered that Iron Drill can somehow locate the where abouts of diamonds.",
+
+"cobblemon.ui.pokedex.info.form.irondrill-mega": "Mega",
+ "cobblemon.species.irondrill-mega.desc": "[RESEARCHER LOG:] After previous encounters with these paradox pokemon mega evolving without reason, we thought we were prepared for whatever was next, well turns out the team was not. The next one that went and evolved became a giant drill and dug straight through the floor! The hole seemed much more precise than it's base form, as if it was going somewhere.",
+
+"cobblemon.species.lunarveil.name": "Lunar Veil",
+ "cobblemon.species.lunarveil.desc": "Often times this Pokémon is peaceful and known for calming dangerous tides, this Pokémon resembles the Pokémon Cresselia and is said to be closer to the moon than even the Pokémon Deoxys.",
+
+"cobblemon.species.ironflare.name": "Iron Flare",
+"cobblemon.ui.pokedex.info.form.ironflare": "Standard",
+ "cobblemon.species.ironflare.desc": "Often seen soaring the skies of Hoenn alongside Iron Flux, this Pokémon propels it's jet like body with extreme heat and extreme force.",
+
+"cobblemon.species.ironflux.name": "Iron Flux",
+"cobblemon.ui.pokedex.info.form.ironflux": "Standard",
+ "cobblemon.species.ironflux.desc": "Often seen soaring the skies of Hoenn alongside Iron Flare, this Pokémon propels it's plane like body with extreme voltage and extreme force.",
+
+"cobblemon.species.gloomshade.name": "Gloom Shade",
+ "cobblemon.species.gloomshade.desc": "When this Pokémon hunts, it lurks within it's targets shadow and waits for dusk, when it's prey sleeps it strikes. Due to Gloom Shade's bizarre hunting strategy, countless explorers have been lost in the midst of night to it's vicious slaughter.",
+ 
+"cobblemon.ui.pokedex.info.form.ironflux-mega": "Mega",
+ "cobblemon.species.ironflux-mega.desc": "[RESEARCHER LOG:] When the we managed to capture an Iron Flux, we had a feast for the occasion, till it went rogue and blew a hole through the labratory roof, it flew so slow but with tremendous electrical power we were lucky the facility held power.",
+
+ "cobblemon.ui.pokedex.info.form.ironflare-mega": "Mega",
+ "cobblemon.species.ironflare-mega.desc": "[DEV LOG:] Similar to the Flux incident, while captured this pokemon underwent rogue mega evolution, the flames bursting from the jet like objects attached to it's wings melted the steel walls with ease. Such magnificient flames.",
+
+"cobblemon.species.irongenesis.name": "Iron Genesis",
+"cobblemon.ui.pokedex.info.form.irongenesis": "Standard",
+ "cobblemon.species.irongenesis.desc": "Seemingly built in the picture of a psycho enhanced Mewtwo, Iron Genesis shares it's territory with plenty of wild pokemon. Despite this, it seems to never lower it's guard.",
+
+"cobblemon.ui.pokedex.info.form.irongenesis-mega": "Mega",
+ "cobblemon.species.irongenesis-mega.desc": "[DEV LOG:] During a study, one of the Iron Genesis subjects underwent a process similar to Rogue Mega Evolution, during such it had destroyed a whole labratory wing. Truly a spectacle. ",
+
+ "cobblemon.species.irongene.name": "Iron Gene",
+ "cobblemon.species.irongene.desc": "Iron Gene loves wandering about Area Zero. Explorers who have reported encountering it never say where.",
+
+ "cobblemon.species.shivershrub.name": "Shiver Shrub",
+ "cobblemon.species.shivershrub.desc": "Shiver Shrub is very timid, because of this very few encounters have been reported. Despite it's timid nature it shows great gratitude towards anyone who helps it.",
+
+"cobblemon.ui.pokedex.region.extraparadox": "Paradox"
+}

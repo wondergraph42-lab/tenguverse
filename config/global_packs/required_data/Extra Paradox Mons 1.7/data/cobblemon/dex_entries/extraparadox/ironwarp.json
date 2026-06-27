@@ -1,0 +1,21 @@
+{
+  "id": "cobblemon:ironwarp",
+  "speciesId": "cobblemon:ironwarp",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "normal",
+      "unlockForms": [
+        "normal"
+      ]
+    },
+    {
+      "displayForm": "perfected",
+      "unlockForms": [
+        "perfected"
+      ]
+    }
+  ],
+  "variations": []
+}

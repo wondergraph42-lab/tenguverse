@@ -1,0 +1,35 @@
+{
+	icon: {
+		id: "minecraft:copper_ingot"
+	}
+	id: "4FD035E7852C4A82"
+	loot_size: 1
+	order_index: 20
+	rewards: [
+		{
+			count: 5
+			id: "2DFE6B32A201640D"
+			item: {
+				count: 1
+				id: "minecraft:copper_ingot"
+			}
+		}
+		{
+			count: 5
+			id: "241F8A2A57715EF9"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+		}
+		{
+			count: 5
+			id: "5AFDDE7502168FB2"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+		}
+	]
+	use_title: true
+}

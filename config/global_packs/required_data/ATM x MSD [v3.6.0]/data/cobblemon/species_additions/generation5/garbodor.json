@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:garbodor",   
+  "baseScale": 0.55,
+  "hitbox": {
+    "width": 2,
+    "height": 2.8,
+    "fixed": false
+  }
+}

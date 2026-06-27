@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:rotisikree",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:rotisikree",
+            "model": "cobblemon:rotisikree.geo",
+            "texture": "cobblemon:textures/pokemon/rotisikree/rotisikree.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/rotisikree/rotisikree_shiny.png",
+            "layers": []
+        }
+    ]
+}

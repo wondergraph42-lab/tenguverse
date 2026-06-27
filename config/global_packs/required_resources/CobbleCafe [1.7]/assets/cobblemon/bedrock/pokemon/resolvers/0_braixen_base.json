@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:braixen",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:braixen",
+            "model": "cobblemon:cafe_braixen.geo",
+            "texture": "cobblemon:textures/pokemon/braixen/braixen.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/braixen/braixen_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/braixen/cafe_braixen.png"
+                }
+            ]
+        }
+    ]
+}

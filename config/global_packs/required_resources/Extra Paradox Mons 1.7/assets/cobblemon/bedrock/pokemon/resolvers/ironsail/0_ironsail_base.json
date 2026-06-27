@@ -1,0 +1,30 @@
+{
+  "species": "cobblemon:ironsail",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:ironsail",
+      "model": "cobblemon:ironsail.geo",
+      "texture": "cobblemon:textures/pokemon/ironsail/ironsail.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/ironsail/ironsail_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/ironsail/ironsail_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/ironsail/ironsail_shiny_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    }
+  ]
+}

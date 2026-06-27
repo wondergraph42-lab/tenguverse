@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:ogerpon",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["aniversary"],
+      "poser": "cobblemon:ogerpon_aniversary",
+      "model": "cobblemon:ogerpon_aniversary.geo",
+      "texture": "cobblemon:textures/pokemon/1017_ogerpon/ogerpon_aniversary.png",
+      "layers": [
+	  {
+			"name": "glow",
+			"texture": "cobblemon:textures/pokemon/1017_ogerpon/ogerpon_emissive.png",
+			"emissive": true
+	  }
+	  ]
+    },
+    {
+      "aspects": ["shiny","aniversary"],
+      "texture": "cobblemon:textures/pokemon/1017_ogerpon/ogerpon_aniversary_shiny.png"
+    }
+  ]
+}

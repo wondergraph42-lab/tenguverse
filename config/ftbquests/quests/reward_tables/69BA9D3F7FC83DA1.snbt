@@ -1,0 +1,44 @@
+{
+	icon: {
+		id: "cobblemon:citrine_ball"
+	}
+	id: "69BA9D3F7FC83DA1"
+	loot_size: 1
+	order_index: 11
+	rewards: [
+		{
+			auto: "disabled"
+			command: "/spawnpokemon entei lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "6BB3E23228AF2CAF"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon suicune lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:azure_ball"
+			}
+			id: "5C5618BBE207AEED"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon raikou lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "3EECA1F86459B2B3"
+			permission_level: 2
+			type: "command"
+		}
+	]
+	use_title: true
+}

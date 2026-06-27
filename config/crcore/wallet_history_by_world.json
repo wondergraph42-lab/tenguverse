@@ -1,0 +1,53 @@
+{
+  "currentKey": "menu",
+  "histories": {
+    "single:5.8_65f3ac16": {
+      "payments": [],
+      "transfers": []
+    },
+    "single:5.8_7a5d87a": {
+      "payments": [],
+      "transfers": []
+    },
+    "single:spawn_a_ne_pas_remove_65f3ac16": {
+      "payments": [],
+      "transfers": []
+    },
+    "single:cobbled_farms_65f3ac16": {
+      "payments": [],
+      "transfers": []
+    },
+    "single:test_starter_ad9203c5": {
+      "payments": [],
+      "transfers": []
+    },
+    "single:5.9_65f3ac16": {
+      "payments": [],
+      "transfers": []
+    },
+    "single:5.8.2_65f3ac16": {
+      "payments": [],
+      "transfers": []
+    },
+    "single:5.9_out_65f3ac16": {
+      "payments": [],
+      "transfers": []
+    },
+    "server:localhost": {
+      "payments": [],
+      "transfers": []
+    },
+    "server:play.cobblemon-realms.com": {
+      "payments": [],
+      "transfers": []
+    },
+    "menu": {
+      "payments": [],
+      "transfers": []
+    },
+    "server:109.239.154.131:26065": {
+      "payments": [],
+      "transfers": []
+    }
+  }
+}

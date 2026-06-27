@@ -1,0 +1,42 @@
+{
+  "mod": "cobblemon_leaderboards",
+  "generatedAt": "2026-05-30T00:01:59.106596200Z",
+  "dimension": "minecraft:overworld",
+  "count": 1,
+  "leaderboards": [
+    {
+      "key": "winstreak",
+      "type": "BEST_WIN_STREAK",
+      "mode": "BOARD",
+      "dimension": "minecraft:overworld",
+      "facing": "north",
+      "mountedFacing": "north",
+      "width": 2,
+      "height": 3,
+      "hologramLineCount": 10,
+      "lastRefreshEpochMs": 1780099229109,
+      "min": {
+        "x": 80,
+        "y": 181,
+        "z": 59
+      },
+      "max": {
+        "x": 81,
+        "y": 183,
+        "z": 59
+      },
+      "boardStyle": {
+        "titleScale": 1.5,
+        "subtitleScale": 1.0,
+        "titleColor": 16777215,
+        "subtitleColor": 16777215,
+        "bodyColor": 16777215,
+        "footerColor": 11579568,
+        "firstPlaceColor": 16766720,
+        "secondPlaceColor": 12632256,
+        "thirdPlaceColor": 13467442
+      },
+      "displayEntityIds": []
+    }
+  ]
+}

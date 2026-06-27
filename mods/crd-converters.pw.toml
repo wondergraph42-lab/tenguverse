@@ -1,0 +1,13 @@
+name = "CRD Converters"
+filename = "crd_converters-neoforge-1.1.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a872d95549ed93a03e18cc491cdb576c574f55b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7500414
+project-id = 1358561

@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:haidon",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:haidon",
+            "model": "cobblemon:haidon.geo",
+            "texture": "cobblemon:textures/pokemon/haidon/haidon.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/haidon/haidon_shiny.png",
+            "layers": []
+        }
+    ]
+}

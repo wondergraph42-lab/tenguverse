@@ -1,0 +1,66 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "our_story_world"
+	group: "18636A549DDC3D4D"
+	icon: {
+		components: {
+			"ftbquests:icon": "cobblemonrealmss:textures/ftbquests/logos/crlogo.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "2D42A81C33E07706"
+	order_index: 9
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: {
+				id: "cobblemon:master_ball"
+			}
+			id: "17156E54E3070B88"
+			rewards: [{
+				command: "/rctmod trainer summon patreon_xxend ~ ~1 ~1"
+				exclude_from_claim_all: true
+				id: "2660EDA2288D55C1"
+				permission_level: 2
+				type: "command"
+			}]
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				consume_items: true
+				count: 5L
+				id: "2F1DF0835C91DE36"
+				item: { count: 1, id: "cobblemonrealms:realms_coin" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:npc_editor"
+			}
+			id: "09DD54EE83E83325"
+			rewards: [{
+				id: "0CE8DBFD23853C59"
+				item: {
+					count: 1
+					id: "cobblemonrealms:realms_coin"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				id: "1BC57BDB8AB87E02"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+	]
+}

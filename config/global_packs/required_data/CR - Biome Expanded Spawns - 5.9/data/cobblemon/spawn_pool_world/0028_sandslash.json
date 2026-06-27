@@ -1,0 +1,58 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "sandslash-1",
+      "pokemon": "sandslash",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "common",
+      "level": "22-45",
+      "weight": 4.5,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_arid"
+        ]
+      }
+    },
+    {
+      "id": "sandslash-alolan-freezing-1",
+      "pokemon": "sandslash alolan",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "uncommon",
+      "level": "26-48",
+      "weight": 2.0,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_freezing"
+        ]
+      }
+    },
+    {
+      "id": "sandslash-alolan-glacial-1",
+      "pokemon": "sandslash alolan",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "rare",
+      "level": "30-55",
+      "weight": 0.8,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_glacial"
+        ]
+      }
+    }
+  ]
+}

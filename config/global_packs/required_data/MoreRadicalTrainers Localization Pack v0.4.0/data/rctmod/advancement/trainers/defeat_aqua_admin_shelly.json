@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_aqua_admin_matt",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_aqua_admin_shelly"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_aqua_admin_shelly.description"
+    },
+    "icon": {
+      "id": "cobblemon:azure_ball"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "aqua_admin_shelly"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

@@ -1,0 +1,33 @@
+{
+	icon: {
+		id: "cobblemon:master_ball"
+	}
+	id: "63A47D91C7508B67"
+	loot_size: 1
+	order_index: 35
+	rewards: [
+		{
+			auto: "disabled"
+			command: "/spawnpokemon zamazenta lvl=70"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "42F946FCC2A46DE7"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon zacian lvl=70"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:azure_ball"
+			}
+			id: "57505FB3246C67F6"
+			permission_level: 2
+			type: "command"
+		}
+	]
+	use_title: true
+}

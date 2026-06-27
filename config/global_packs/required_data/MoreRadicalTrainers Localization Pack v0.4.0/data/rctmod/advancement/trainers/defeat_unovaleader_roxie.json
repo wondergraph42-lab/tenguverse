@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_unovaleader_cheren",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_unovaleader_roxie"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_unovaleader_roxie.description"
+    },
+    "icon": {
+      "id": "cobblemonpokemonbadges:soul_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "unovaleader_roxie"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

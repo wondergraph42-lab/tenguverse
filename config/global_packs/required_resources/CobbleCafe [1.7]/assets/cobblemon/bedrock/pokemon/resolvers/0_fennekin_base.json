@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:fennekin",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:fennekin",
+            "model": "cobblemon:cafe_fennekin.geo",
+            "texture": "cobblemon:textures/pokemon/fennekin/fennekin.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/fennekin/fennekin_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/fennekin/cafe_fennekin.png"
+                }
+            ]
+        }
+    ]
+}

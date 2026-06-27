@@ -1,0 +1,9 @@
+{
+  "pokemon": ["smeargle"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:firework_rocket",
+      "aspects": ["cosmetic_item-smearguru"]
+    }
+  ]
+}

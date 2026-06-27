@@ -1,0 +1,259 @@
+{
+	icon: {
+		id: "cobblemon:dream_ball"
+	}
+	id: "2DEBC441EEB71D6B"
+	loot_crate: {
+		color: 8196235
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		glow: 1b
+		item_name: "PokeCrate [Galactic]"
+		string_id: "pokecrate_tier_4_galactic_"
+	}
+	loot_size: 1
+	order_index: 48
+	rewards: [
+		{
+			command: "/spawnpokemon stunky lvl=45"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Stunky!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "2C9F65531388E5B8"
+			permission_level: 2
+			type: "command"
+			weight: 2.0f
+		}
+		{
+			command: "/spawnpokemon stunky shiny lvl=45"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Stunky! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "3080FBF2905528CA"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon skuntank lvl=50"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Skuntank!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "503ED37E4D75BC0B"
+			permission_level: 2
+			type: "command"
+			weight: 0.5f
+		}
+		{
+			command: "/spawnpokemon skuntank shiny lvl=50"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Skuntank! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "392A59020AF22E67"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon bronzor lvl=45"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Bronzor!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "1A3A774F2C75E7AB"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon bronzor lvl=45"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Bronzor! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "4DDEB79C456504C2"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon bronzong lvl=50"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Bronzong!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "38252F4701CBFABE"
+			permission_level: 2
+			type: "command"
+			weight: 0.5f
+		}
+		{
+			command: "/spawnpokemon bronzong shiny lvl=50"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Bronzong! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "721D7C54C60D5B66"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon sneasel lvl=45"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Sneasel!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "738ED24E26FF8633"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon sneasel shiny lvl=45"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Sneasel! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "47313A0088CBF518"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon weavile lvl=50"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Weavile!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "4FF44A6CB286267F"
+			permission_level: 2
+			type: "command"
+			weight: 0.5f
+		}
+		{
+			command: "/spawnpokemon weavile shiny lvl=50"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Weavile! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "7FECD6FA4128CD91"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon murkrow lvl=45"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Murkrow!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "18D8AD9F732FF157"
+			permission_level: 2
+			type: "command"
+			weight: 2.0f
+		}
+		{
+			command: "/spawnpokemon murkrow shiny lvl=45"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Murkrow! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "27A475B18394F3B3"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon duskull lvl=45"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Duskull!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "2491A343D25E7AF1"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			command: "/spawnpokemon duskull shiny lvl=45"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Duskull! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "73F1900A171813EE"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon toxicroak lvl=50"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Toxicroak!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "30C0C792687A9C61"
+			permission_level: 2
+			type: "command"
+			weight: 0.5f
+		}
+		{
+			command: "/spawnpokemon toxicroak shiny lvl=50"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Toxicroak! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "1A9869D5AFE91850"
+			permission_level: 2
+			type: "command"
+			weight: 0.08f
+		}
+		{
+			command: "/spawnpokemon giratina lvl=50"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Giratina!"
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "19BC22F3F32087E4"
+			permission_level: 2
+			type: "command"
+			weight: 0.02f
+		}
+		{
+			command: "/spawnpokemon giratina shiny lvl=50"
+			exclude_from_claim_all: true
+			feedback_message: "You Got A Giratina! - Shiny!"
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "2C60E698033AA8A4"
+			permission_level: 2
+			type: "command"
+			weight: 0.01f
+		}
+	]
+	use_title: true
+}

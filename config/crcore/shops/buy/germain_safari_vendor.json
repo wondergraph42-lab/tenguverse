@@ -1,0 +1,65 @@
+{
+  "pages": [
+    {
+      "enabled": true,
+      "items": [
+        {
+          "item": "cobblemon:safari_ball",
+          "price": 7,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 16
+        },
+        {
+          "item": "cobblesafari:repel",
+          "price": 3,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblesafari:perfume_uncommon",
+          "price": 4,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblesafari:perfume_rare",
+          "price": 8,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblesafari:perfume_ultrarare",
+          "price": 15,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblesafari:shinyincense",
+          "price": 20,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblesafari:greatshinyincense",
+          "price": 30,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        },
+        {
+          "item": "cobblesafari:ultrashinyincense",
+          "price": 50,
+          "currency": "REALMS",
+          "stock": 0,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

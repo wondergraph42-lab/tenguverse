@@ -1,0 +1,13 @@
+name = "Cobblemon Trials Edition"
+filename = "CobblemonTrialsEdition-neoforge-1.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee0ac42bad16d36b970e0a1ca109fa1559a697c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7985976
+project-id = 1395542

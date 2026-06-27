@@ -1,0 +1,44 @@
+{
+	icon: {
+		id: "cobblemon:verdant_ball"
+	}
+	id: "528599E5AB1A38C7"
+	loot_size: 1
+	order_index: 25
+	rewards: [
+		{
+			auto: "disabled"
+			command: "/spawnpokemon regirock lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:ancient_heavy_ball"
+			}
+			id: "49BEDE35054AD641"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon regice lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:ancient_azure_ball"
+			}
+			id: "63845FC1EFD7BC5F"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon registeel lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:ancient_ivory_ball"
+			}
+			id: "32472BAAE04BAE24"
+			permission_level: 2
+			type: "command"
+		}
+	]
+	use_title: true
+}

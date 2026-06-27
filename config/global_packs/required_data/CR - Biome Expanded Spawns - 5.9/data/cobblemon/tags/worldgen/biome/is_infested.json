@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#byg:is_spooky",
+      "required": false
+    },
+	{
+      "id": "biomesoplenty:spider_nest",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_sinnohleader_candice",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_sinnohleader_volkner"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_sinnohleader_volkner.description"
+    },
+    "icon": {
+      "id": "cobblemonpokemonbadges:beacon_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "sinnohleader_volkner"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

@@ -1,0 +1,44 @@
+{
+	icon: {
+		id: "cobblemon:azure_ball"
+	}
+	id: "13E843AB32FCB508"
+	loot_size: 1
+	order_index: 28
+	rewards: [
+		{
+			auto: "disabled"
+			command: "/spawnpokemon uxie lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "27BE6BE5EAAA04B1"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon azelf lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:azure_ball"
+			}
+			id: "19F89DDC7F7ABF10"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon mespirit lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:roseate_ball"
+			}
+			id: "19A9598569BB2254"
+			permission_level: 2
+			type: "command"
+		}
+	]
+	use_title: true
+}

@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:smeargle",
+  "order": 50,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-smearguru"],
+      "poser": "cobblemon:smeargle_smearguru",
+      "model": "cobblemon:smeargle_smearguru.geo",
+      "texture": "cobblemon:textures/pokemon/cosmetic/pokopia/smeargle_smearguru.png",
+      "layers": [ {
+          "name": "paint",
+          "texture": "cobblemon:textures/pokemon/cosmetic/pokopia/blank.png"
+        }
+]
+    },
+    {
+      "aspects": ["shiny","cosmetic_item-smearguru"],
+      "texture": "cobblemon:textures/pokemon/cosmetic/pokopia/smeargle_smearguru_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "ironflare-1",
+            "pokemon": "ironflare",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "58-62",
+            "weight": 1.0,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_tundra"
+                ]
+            }
+        },
+        {
+            "id": "ironflare-2",
+            "pokemon": "ironflare",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "58-62",
+            "weight": 1.0,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_mountains"
+                ]
+            }
+        },
+        {
+            "id": "ironflare-3",
+            "pokemon": "ironflare",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "58-62",
+            "weight": 1.0,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_end"
+                ]
+            }
+        }
+    ]
+}

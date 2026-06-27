@@ -1,0 +1,42 @@
+{
+	id: "7B4B754D4D631740"
+	loot_size: 1
+	order_index: 51
+	rewards: [
+		{
+			count: 5
+			id: "35A49143CA007802"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+		}
+		{
+			count: 4
+			id: "472D0893161998F0"
+			item: {
+				count: 1
+				id: "cobblemonrealms:realms_coin"
+			}
+		}
+		{
+			count: 8
+			id: "68D44FCF6B29111C"
+			item: {
+				count: 1
+				id: "cobblemonrealms:realms_coin"
+			}
+			weight: 0.8f
+		}
+		{
+			count: 6
+			id: "40F756E37DF53E1E"
+			item: {
+				count: 1
+				id: "cobblemonrealms:realms_coin"
+			}
+			weight: 0.9f
+		}
+	]
+	use_title: true
+}

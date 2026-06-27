@@ -1,0 +1,55 @@
+{
+	icon: {
+		id: "cobblemon:premier_ball"
+	}
+	id: "056DD1BFD7F12416"
+	loot_size: 1
+	order_index: 34
+	rewards: [
+		{
+			auto: "disabled"
+			command: "/spawnpokemon tapubulu lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:slate_ball"
+			}
+			id: "062030385B4AEF54"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon tapukoko lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "28D398237B2A35B8"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon tapulele lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:roseate_ball"
+			}
+			id: "4044F611F6F0D0F2"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon tapufini lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:azure_ball"
+			}
+			id: "3A208ED59EE20789"
+			permission_level: 2
+			type: "command"
+		}
+	]
+	use_title: true
+}

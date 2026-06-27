@@ -1,0 +1,80 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "deeper-ragingbolt-1",
+      "pokemon": "ragingbolt",
+      "presets": [
+        "deep_dark"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "ultra-rare",
+      "level": "65-80",
+      "weight": 0.4,
+      "condition": {
+        "biomes": [
+          "deeperdarker:echoing_forest"
+        ],
+        "dimensions": [
+          "deeperdarker:otherside"
+        ]
+      }
+    },
+    {
+      "id": "ragingbolt-1T",
+      "pokemon": "ragingbolt shiny=no",
+      "presets": [
+        "natural",
+        "wild"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "ultra-rare",
+      "level": "60-80",
+      "weight": 0.2,
+      "weightMultipliers": [
+        {
+          "multiplier": 0.3,
+          "condition": {
+            "isRaining": true
+          }
+        },
+        {
+          "multiplier": 0.5,
+          "condition": {
+            "isThundering": true
+          }
+        }
+      ],
+      "condition": {
+        "timeRange": "day",
+        "biomes": [
+          "#cobblemon:is_coast"
+        ]
+      }
+    },
+    {
+      "id": "aether_raging_bolt_1",
+      "pokemon": "ragingbolt",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "60-100",
+      "weight": 2.0,
+      "condition": {
+        "biomes": [
+          "aether:skyroot_grove"
+        ],
+        "dimensions": [
+          "aether:the_aether"
+        ]
+      }
+    }
+  ]
+}

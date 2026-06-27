@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:courpup",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:courpup",
+      "model": "cobblemon:courpup.geo",
+      "texture": "cobblemon:textures/pokemon/courpup/courpup_male.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/courpup/courpup_male_shiny.png"
+    }
+  ]
+}

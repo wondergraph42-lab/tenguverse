@@ -1,0 +1,22 @@
+{
+    "name":"extraparadoxmons:dens/desolate_red_den/pastspawns",
+    "fallback":"minecraft:empty",
+    "elements": [{
+        "weight": 10,
+        "element": {
+            "location": "extraparadoxmons:dens/desolate_red_den/pastspawns/tempest_fang1",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:dens/desolate_red_den/pastspawns/tempest_fang2",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }]
+}

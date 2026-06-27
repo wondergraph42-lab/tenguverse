@@ -1,0 +1,71 @@
+{
+  "portraitScale": 1.15,
+  "portraitTranslation": [-0.2, 0.8, 0],
+  "profileScale": 0.6,
+  "profileTranslation": [0, 0.8, 0],
+  "animations": {
+    "cry": "q.bedrock_stateful('gengar_ot', 'cry')",
+    "status": "q.bedrock_primary('gengar_ot', 'cry', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND", "WALK"],
+      "isBattle": true,
+      "animations": [
+        "q.bedrock('gengar_ot', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('gengar_ot', 'blink')"
+      ]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+        "q.bedrock('gengar_ot', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('gengar_ot', 'blink')"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.bedrock('gengar_ot', 'ground_walk')"
+      ]
+    },
+    "flying": {
+      "transformTicks": 5,
+      "poseTypes": ["FLY"],
+      "animations": [
+        "q.bedrock('gengar_ot', 'air_fly')"
+      ]
+    },
+    "hover": {
+      "transformTicks": 5,
+      "poseTypes": ["HOVER"],
+      "animations": [
+        "q.bedrock('gengar_ot', 'air_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('gengar_ot', 'blink')"
+      ]
+    },
+    "float": {
+      "poseTypes": ["FLOAT"],
+      "animations": [
+        "q.bedrock('gengar_ot', 'air_fly')"
+      ]
+    },
+    "swim": {
+      "poseTypes": ["SWIM"],
+      "animations": [
+        "q.bedrock('gengar_ot', 'air_fly')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": ["q.bedrock('gengar_ot', 'sleep')"]
+    }
+  }
+}

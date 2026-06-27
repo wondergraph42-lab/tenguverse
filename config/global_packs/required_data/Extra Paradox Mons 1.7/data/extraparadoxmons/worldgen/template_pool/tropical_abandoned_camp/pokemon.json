@@ -1,0 +1,62 @@
+{
+    "name":"extraparadoxmons:camps/tropical_abandoned_camp/pokemon",
+    "fallback":"minecraft:empty",
+    "elements": [{
+        "weight": 50,
+        "element": {
+            "location": "extraparadoxmons:camps/tropical_abandoned_camp/pokemon/heracross1",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/tropical_abandoned_camp/pokemon/heracross2",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },{
+        "weight": 50,
+        "element": {
+            "location": "extraparadoxmons:camps/tropical_abandoned_camp/pokemon/pinsir1",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/tropical_abandoned_camp/pokemon/pinsir2",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },{
+        "weight": 50,
+        "element": {
+            "location": "extraparadoxmons:camps/tropical_abandoned_camp/pokemon/ambipom1",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/tropical_abandoned_camp/pokemon/ambipom2",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/tropical_abandoned_camp/pokemon/ambipom3",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }]
+}

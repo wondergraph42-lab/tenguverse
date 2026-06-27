@@ -1,0 +1,30 @@
+{
+  "species": "cobblemon:ironcocoon",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:ironcocoon",
+      "model": "cobblemon:ironcocoon.geo",
+      "texture": "cobblemon:textures/pokemon/ironcocoon/ironcocoon.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/ironcocoon/ironcocoon_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/ironcocoon/ironcocoon_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/ironcocoon/ironcocoon_shiny_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    }
+  ]
+}

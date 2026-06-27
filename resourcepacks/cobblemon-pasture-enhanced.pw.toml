@@ -1,0 +1,13 @@
+name = "Cobblemon Pasture Enhanced"
+filename = "v4 Cobblemon Pasture Enhanced.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "898afb5a927cde204c35cb3c330ca46504c88b4b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7548007
+project-id = 1328129

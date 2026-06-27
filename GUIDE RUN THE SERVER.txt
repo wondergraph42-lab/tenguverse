@@ -1,0 +1,47 @@
+=========================================
+# Minecraft NeoForge Server Setup Guide
+by LevelsCraft7 for Our Story Modpacks
+=========================================
+
+
+When setting up your Minecraft NeoForge server, follow these steps to ensure everything runs smoothly.
+
+# --------------------------------------------------
+# 🛠️ Step 1: Configure RAM Allocation (Optional)
+# --------------------------------------------------
+# Before starting the server, you can configure how much RAM it will use.
+
+# 1. Open the file user_jvm_args.txt with a text editor.
+# 2. Find the lines starting with -Xmx and -Xms.
+# 3. Modify them according to your available RAM:
+
+# Example for 8GB of RAM:
+-Xmx8G
+-Xms8G
+
+# Explanation:
+# -Xmx8G → Sets the maximum RAM usage to 8GB.
+# -Xms8G → Sets the minimum RAM usage to 8GB.
+
+# ⚠️ Important:
+# - Do not allocate all your RAM! Keep at least 2-4GB free for your operating system.
+# - If you have 16GB+ RAM, you may increase the allocation to 10G or 12G.
+
+# --------------------------------------------------
+# 📜 Step 2: First Server Launch & EULA Acceptance
+# --------------------------------------------------
+# 1. Extract the server pack ZIP file into a folder.
+# 2. Run run.bat to start the server for the first time.
+# 3. The server will stop automatically and ask you to accept the EULA.
+# 4. Open eula.txt with a text editor and change:
+#    eula=false  →  eula=true
+# 5. Save the file and close it.
+
+# --------------------------------------------------
+# 🔄 Step 3: Restart the Server
+# --------------------------------------------------
+# 1. Run run.bat again.
+# 2. The server will now start properly.
+
+# 🎉 Your Minecraft NeoForge server is now ready to use! 🚀
+

@@ -1,0 +1,40 @@
+{
+	"placement": {
+		"type": "minecraft:random_spread",
+		"salt": 45678754,
+		"separation": 16,
+		"spacing": 28,
+		"spread_type": "triangular"
+	},
+	"structures": [{
+		"structure": "extraparadoxmons:glacial_camp",
+		"weight": 1
+	},{
+		"structure": "extraparadoxmons:tropical_camp",
+		"weight": 1
+	},{
+		"structure": "extraparadoxmons:floral_camp",
+		"weight": 1
+	},{
+		"structure": "extraparadoxmons:desolate_camp",
+		"weight": 1
+	},{
+		"structure": "extraparadoxmons:desolate_red_camp",
+		"weight": 1
+	},{
+		"structure": "extraparadoxmons:glacial_abandoned_camp",
+		"weight": 1
+	},{
+		"structure": "extraparadoxmons:tropical_abandoned_camp",
+		"weight": 1
+	},{
+		"structure": "extraparadoxmons:floral_abandoned_camp",
+		"weight": 1
+	},{
+		"structure": "extraparadoxmons:desolate_abandoned_camp",
+		"weight": 1
+	},{
+		"structure": "extraparadoxmons:desolate_red_abandoned_camp",
+		"weight": 1
+	}]
+}

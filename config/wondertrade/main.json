@@ -1,0 +1,48 @@
+{
+  "poolSize": 1000,
+  "cooldownEnabled": true,
+  "cooldown": 15,
+  "blacklist": [],
+  "poolMinLevel": 1,
+  "poolMaxLevel": 100,
+  "adjustNewPokemonToLevelRange": false,
+  "messages": {
+    "wonderTradeFeedback": "<gray>[<white>Wonder<red>Trade<gray>] <white>Are you sure you want to trade your <aqua>lvl <level> <pokemon> (<species>)</aqua>?<wtconfirm><yellow> Click here to confirm!</wtconfirm>",
+    "cooldownFeedback": "<gray>[<white>Wonder<red>Trade<gray>] <red>You are on cooldown!",
+    "pokemonNotAllowed": "<gray>[<white>Wonder<red>Trade<gray>] <red>You cannot trade this pokemon!",
+    "successFeedback": "<gray>[<white>Wonder<red>Trade<gray>] <green>Successfully traded!",
+    "broadcastPokemonAdded": "<gray>[<white>Wonder<red>Trade<gray>]<white> <pokemon> (<species>) got added to the wondertrade pool!",
+    "broadcastShinyPokemonAdded": "<gray>[<white>Wonder<red>Trade<gray>]<yellow> Shiny <pokemon> (<species>) got added to the wondertrade pool!"
+  },
+  "gui": {
+    "generateBorders": true,
+    "mainWindowTitle": "<white>Wonder<red>Trade",
+    "confirmationWindowTitle": "<red>Confirm Trade",
+    "poolWindowTitle": "<white>Wonder<red>Trade <white>Pool",
+    "cancelButton": {
+      "item": "minecraft:barrier",
+      "customName": "<red>Cancel",
+      "position": 22
+    },
+    "denyButton": {
+      "item": "minecraft:red_wool",
+      "customName": "<red>Go Back",
+      "position": 11
+    },
+    "confirmationButton": {
+      "item": "minecraft:green_wool",
+      "customName": "<green>Confirm Trade",
+      "position": 15
+    },
+    "prevPageButton": {
+      "item": "cobblemon:poke_ball",
+      "customName": "<white>Previous Page",
+      "position": 45
+    },
+    "nextPageButton": {
+      "item": "cobblemon:poke_ball",
+      "customName": "<white>Next Page",
+      "position": 53
+    }
+  }
+}

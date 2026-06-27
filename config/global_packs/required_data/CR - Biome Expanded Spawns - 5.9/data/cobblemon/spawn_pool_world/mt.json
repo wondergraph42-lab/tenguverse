@@ -1,0 +1,45 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mt-1",
+      "pokemon": "mt min_perfect_ivs=3",
+      "presets": [
+          "natural",
+          "wild"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "ultra-rare",
+      "level": "55-75",
+      "weight": 0.25,
+      "weightMultipliers": [
+        {
+          "multiplier": 2.0,
+          "condition": {
+            "timeRange": "night"
+          }
+        },
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "isRaining": true
+          }
+        },
+        {
+          "multiplier": 2.5,
+          "condition": {
+            "isThundering": true
+          }
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_overworld"
+        ]
+      }
+    }
+  ]
+}

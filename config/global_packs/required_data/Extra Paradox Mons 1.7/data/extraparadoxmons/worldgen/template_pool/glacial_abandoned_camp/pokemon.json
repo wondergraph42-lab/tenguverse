@@ -1,0 +1,70 @@
+{
+    "name":"extraparadoxmons:camps/glacial_abandoned_camp/pokemon",
+    "fallback":"minecraft:empty",
+    "elements": [{
+        "weight": 50,
+        "element": {
+            "location": "extraparadoxmons:camps/glacial_abandoned_camp/pokemon/delibird1",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/glacial_abandoned_camp/pokemon/delibird2",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },{
+        "weight": 50,
+        "element": {
+            "location": "extraparadoxmons:camps/glacial_abandoned_camp/pokemon/wyrdeer1",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/glacial_abandoned_camp/pokemon/wyrdeer2",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/glacial_abandoned_camp/pokemon/wyrdeer3",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },{
+        "weight": 50,
+        "element": {
+            "location": "extraparadoxmons:camps/glacial_abandoned_camp/pokemon/beartic1",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/glacial_abandoned_camp/pokemon/beartic2",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/glacial_abandoned_camp/pokemon/beartic3",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }]
+}

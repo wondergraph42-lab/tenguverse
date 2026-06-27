@@ -1,0 +1,40 @@
+{
+  
+  "parent": "extraparadoxmons:root",
+  "criteria": {
+    "abandoned_camps": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "#extraparadoxmons:abandoned_camps"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.extraparadoxmons.abandoned_camps.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:soul_campfire"
+    },
+    "title": {
+      "translate": "advancements.extraparadoxmons.abandoned_camps"
+    }
+  },
+  "requirements": [
+    [
+      "abandoned_camps"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

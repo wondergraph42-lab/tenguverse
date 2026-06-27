@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:articoo",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:articoo",
+            "model": "cobblemon:articoo.geo",
+            "texture": "cobblemon:textures/pokemon/articoo/articoo.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/articoo/articoo_shiny.png",
+            "layers": []
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+  "implemented": true,
+  "name": "gloomshade",
+  "nationalPokedexNumber": 9923,
+  "primaryType": "ghost",
+  "secondaryType": "dragon",
+  "abilities": [
+    "protosynthesis"
+  ],
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "cobblemon:expert_belt",
+        "quantityRange": "1"
+      },
+      {
+        "item": "cobblemon:enigma_berry",
+        "percentage": 10
+      }
+    ]
+  },
+  "baseStats": {
+    "hp": 91,
+    "attack": 149,
+    "defence": 89,
+    "special_attack": 101,
+    "special_defence": 85,
+    "speed": 75
+  },
+"behaviour": {
+   "resting": {
+     "canSleep": true,
+     "willSleepOnBed": false,
+     "depth": "normal",
+     "light": "0-4"
+   },
+        "moving": {
+          "swim": {
+            "avoidsWater": false
+          }
+        },
+        "combat": {
+          "willDefendSelf": true,
+          "willDefendOwner": true,
+          "willFlee": false
+        },
+        "fireImmune": true
+  },
+  "catchRate": 10,
+  "maleRatio": -1,
+  "shoulderMountable": false,
+  "baseExperienceYield": 169,
+  "experienceGroup": "slow",
+  "eggCycles": 20,
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "moves": [
+    "1:nastyplot",
+    "1:assurance",
+    "1:wakeupslap",
+    "1:dragondance",
+    "1:darkpulse",
+    "1:tripleaxel",
+    "21:nightslash",
+    "26:dragonrush",
+    "31:payback",
+    "32:crunch",
+    "36:crushclaw",
+    "43:shadowclaw",
+    "50:dragonclaw",
+    "57:pursuit",
+    "64:bulletpunch",
+    "71:shadowsneak",
+    "78:closecombat",
+    "85:spectralthief",
+    "86:spectralmaul",
+    "86:phantomforce",
+
+    "tm:dive",
+    "tm:fireblast",
+    "tm:weatherball",
+    "tm:sunnyday",
+    "tm:raindance",
+    "tm:solarblade",
+    "tm:sandstorm",
+    "tm:megapunch",
+    "tm:smackdown",
+    "tm:dragontail",
+    "tm:knockoff",
+    "tm:dragonrush",
+    "tm:burningjealousy",
+    "tm:dragoncheer",
+    "tm:dragonclaw",
+    "tm:reversal",
+    "tm:dragonpulse",
+    "tm:endure",
+    "tm:energyball",
+    "tm:facade",
+    "tm:dragondance",
+    "tm:willowisp",
+    "tm:acrobatics",
+    "tm:focusblast",
+    "tm:aerialace",
+    "tm:airslash",
+    "tm:grassknot",
+    "tm:falseswipe",
+    "tm:shadowpunch",
+    "tm:helpinghand",
+    "tm:thunderfang",
+    "tm:icefang",
+    "tm:firefang",
+    "tm:toxic",
+    "tm:lowsweep",
+    "tm:payback",
+    "tm:playrough",
+    "tm:hex",
+    "tm:protect",
+    "tm:darkpulse",
+    "tm:darkestlariat",
+    "tm:revenge",
+    "tm:thief",
+    "tm:rest",
+    "tm:irontail",
+    "tm:smartstrike",
+    "tm:dynamicpunch",
+    "tm:frostbreath",
+    "tm:beatup",
+    "tm:seismictoss",
+    "tm:nightshade",
+    "tm:sleeptalk",
+    "tm:honeclaws",
+    "tm:xscissor",
+    "tm:substitute",
+    "tm:flipturn",
+    "tm:terablast",
+    "tm:rockslide",
+    "tm:signalbeam",
+    "tm:uturn",
+    "tm:tripleaxel",
+    "tm:zenheadbutt"
+  ],
+  "labels": [
+    "gen9",
+    "paradox"
+  ],
+  "pokedex": [
+    "cobblemon.species.gloomshade.desc"
+  ],
+  "baseFriendship": 50,
+  "evYield": {
+    "hp": 0,
+    "attack": 2,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "height": 1.9,
+  "weight": 370,
+  "aspects": [],
+  "cannotDynamax": false,
+  "hitbox": {
+    "width": 1.3,
+    "height": 3.3,
+    "fixed": false
+  }
+}

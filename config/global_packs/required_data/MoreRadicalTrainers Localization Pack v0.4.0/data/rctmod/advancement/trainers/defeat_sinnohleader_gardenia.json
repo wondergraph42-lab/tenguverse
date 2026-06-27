@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_sinnohleader_roark",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_sinnohleader_gardenia"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_sinnohleader_gardenia.description"
+    },
+    "icon": {
+      "id": "cobblemonpokemonbadges:forest_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "sinnohleader_gardenia"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

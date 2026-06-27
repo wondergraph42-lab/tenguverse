@@ -1,0 +1,6 @@
+{
+  "keys": [ "art" ],
+  "type": "flag",
+  "isAspect": true,
+  "default": false
+}

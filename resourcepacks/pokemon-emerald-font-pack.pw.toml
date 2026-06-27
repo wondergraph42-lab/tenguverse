@@ -1,0 +1,13 @@
+name = "Pokemon Emerald Font Pack"
+filename = "Pokémon Emerald Font Pack.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ad02cf2b85ade3cc7bce9972a6fc79d14adffba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7133206
+project-id = 1369658

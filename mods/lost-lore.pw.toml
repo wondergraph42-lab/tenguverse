@@ -1,0 +1,13 @@
+name = "Lost Lore"
+filename = "lost_lore-neoforge-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6ccbb9d04dccdab722ef353be94db0338ccc23b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8157013
+project-id = 1454873

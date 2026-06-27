@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:delphox",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:cafe_delphox",
+            "model": "cobblemon:cafe_delphox.geo",
+            "texture": "cobblemon:textures/pokemon/delphox/delphox.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/delphox/delphox_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/delphox/cafe_delphox.png"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "species": "cobblemon:raygul",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:raygul",
+            "model": "cobblemon:raygul.geo",
+            "texture": "cobblemon:textures/pokemon/raygul/raygul.png",
+            "layers": [
+                {
+                    "name": "emissive",
+                    "emissive": true,
+                    "texture": "cobblemon:textures/pokemon/raygul/raygul_emissive.png",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/raygul/raygul_shiny.png",
+            "layers": [
+                {
+                    "name": "emissive",
+                    "emissive": true,
+                    "texture": "cobblemon:textures/pokemon/raygul/raygul_emissive.png",
+                    "translucent": true
+                }
+            ]
+        }
+    ]
+}

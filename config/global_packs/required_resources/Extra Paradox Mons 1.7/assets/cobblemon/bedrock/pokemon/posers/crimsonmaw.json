@@ -1,0 +1,42 @@
+{
+ "portraitScale": 1,
+ "portraitTranslation": [-0.1, 2.7, 0],
+ "profileScale": 0.4,
+ "profileTranslation": [0, 1.3, 0],
+ "animations": {
+   "cry": "q.bedrock_stateful('crimsonmaw', 'cry')",
+   "recoil": "q.bedrock_stateful('crimsonmaw', 'recoil')",
+   "status": "q.bedrock_stateful('crimsonmaw', 'battle_cry', q.curve('symmetrical_wide'))"
+ },
+ "poses": {
+   "battle-standing": {
+     "poseTypes": ["STAND"],
+     "isBattle": true,
+     "animations": [
+       "q.look('head')",
+       "q.bedrock('crimsonmaw', 'battle_idle')"
+     ],
+     "quirks": ["q.bedrock_quirk('crimsonmaw', 'blink')"],
+     "namedAnimations": {"cry": "q.bedrock_stateful('crimsonmaw', 'battle_cry')"}
+   },
+   "standing": {
+     "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+     "isBattle": false,
+     "animations": [
+       "q.look('head')",
+       "q.bedrock('crimsonmaw', 'ground_idle')"
+     ],
+     "quirks": [
+       "q.bedrock_quirk('crimsonmaw', 'blink')"
+     ]
+   },
+   "walking": {
+     "poseTypes": ["WALK"],
+     "animations": [
+       "q.look('head')",
+       "q.bedrock('crimsonmaw', 'ground_walk')"
+     ],
+     "quirks": ["q.bedrock_quirk('crimsonmaw', 'blink')"]
+   }
+ }
+}

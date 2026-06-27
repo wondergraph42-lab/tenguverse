@@ -1,0 +1,14 @@
+{
+  "pokemon": [
+    "gengar"
+  ],
+  "cosmeticItems": [
+    {
+      "consumedItem": "cobblemon:relic_coin",
+      "aspects": [
+        "ot"
+      ]
+    }
+  ]
+}
+

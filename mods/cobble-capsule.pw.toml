@@ -1,0 +1,13 @@
+name = "CobbleCapsule [Cobblemon Addon]"
+filename = "cobblecapsule-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3620af28a063189176d27e67ba5a65bcb54ae81c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7367651
+project-id = 1384148

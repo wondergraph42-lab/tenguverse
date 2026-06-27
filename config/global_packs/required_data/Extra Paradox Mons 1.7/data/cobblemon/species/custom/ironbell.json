@@ -1,0 +1,175 @@
+{
+  "implemented": true,
+  "name": "ironbell",
+  "nationalPokedexNumber": 9916,
+  "primaryType": "grass",
+  "secondaryType": "poison",
+  "abilities": [
+    "quarkdrive"
+  ],
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:bell",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:iapapa_berry",
+        "percentage": 10
+      }
+    ]
+  },
+  "baseStats": {
+    "hp": 96,
+    "attack": 144,
+    "defence": 116,
+    "special_attack": 64,
+    "special_defence": 106,
+    "speed": 64
+  },
+"behaviour": {
+   "resting": {
+     "canSleep": true,
+     "willSleepOnBed": false,
+     "depth": "normal",
+     "light": "0-4"
+   },
+        "moving": {
+          "swim": {
+            "avoidsWater": true
+          }
+        },
+        "combat": {
+          "willDefendSelf": true,
+          "willDefendOwner": true,
+          "willFlee": false
+        },
+        "fireImmune": false
+  },
+  "catchRate": 10,
+  "maleRatio": -1,
+  "shoulderMountable": false,
+  "baseExperienceYield": 169,
+  "experienceGroup": "slow",
+  "eggCycles": 20,
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "moves": [
+    "1:lightscreen",
+    "1:acidarmor",
+    "1:acidspray",
+    "1:poisonjab",
+    "1:amnesia",
+    "1:calmmind",
+    "5:swordsdance",
+    "10:megadrain",
+    "15:skullbash",
+    "21:electricterrain",
+    "26:storedpower",
+    "31:closecombat",
+    "33:poisonsting",
+    "36:sludgewave",
+    "43:venoshock",
+    "50:stompingtantrum",
+    "57:switcheroo",
+    "64:sludgebomb",
+    "69:megahorn",
+    "71:naturesmadness",
+    "78:crosspoison",
+    "85:woodhammer",
+    "86:toxindrill",
+
+    "tm:playrough",
+    "tm:gunkshot",
+    "tm:magnetbomb",
+    "tm:sludgebomb",
+    "tm:sludgewave",
+    "tm:solarblade",
+    "tm:thief",
+    "tm:nastyplot",
+    "tm:smackdown",
+    "tm:skittersmack",
+    "tm:knockoff",
+    "tm:acrobatics",
+    "tm:brickbreak",
+    "tm:earthquake",
+    "tm:rockslide",
+    "tm:aurasphere",
+    "tm:dragonpulse",
+    "tm:endure",
+    "tm:energyball",
+    "tm:facade",
+    "tm:ironhead",
+    "tm:venoshock",
+    "tm:thunder",
+    "tm:focusblast",
+    "tm:fling",
+    "tm:airslash",
+    "tm:revenge",
+    "tm:brutalswing",
+    "tm:shadowclaw",
+    "tm:overheat",
+    "tm:thunderpunch",
+    "tm:helpinghand",
+    "tm:thunderbolt",
+    "tm:icebeam",
+    "tm:falseswipe",
+    "tm:toxic",
+    "tm:triattack",
+    "tm:payback",
+    "tm:workup",
+    "tm:irondefense",
+    "tm:darkestlariat",
+    "tm:highhorsepower",
+    "tm:protect",
+    "tm:darkpulse",
+    "tm:electricterrain",
+    "tm:hyperbeam",
+    "tm:tripleaxel",
+    "tm:rest",
+    "tm:gigaimpact",
+    "tm:smartstrike",
+    "tm:flashcannon",
+    "tm:uturn",
+    "tm:throatchop",
+    "tm:seismictoss",
+    "tm:takedown",
+    "tm:sleeptalk",
+    "tm:doubleedge",
+    "tm:doubleteam",
+    "tm:substitute",
+    "tm:moonblast",
+    "tm:terablast",
+    "tm:signalbeam",
+    "tm:chargebeam",
+    "tm:uturn",
+    "tm:voltswitch",
+    "tm:zenheadbutt" ],
+  "labels": [
+    "gen9",
+    "paradox"
+  ],
+  "pokedex": [
+    "cobblemon.species.ironbell.desc"
+  ],
+  "baseFriendship": 50,
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 2,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "height": 2.5,
+  "weight": 2120,
+  "aspects": [],
+  "cannotDynamax": false,
+  "hitbox": {
+    "width": 1.4,
+    "height": 2.5,
+    "fixed": false
+  }
+}

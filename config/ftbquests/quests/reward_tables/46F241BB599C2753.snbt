@@ -1,0 +1,33 @@
+{
+	icon: {
+		id: "cobblemon:master_ball"
+	}
+	id: "46F241BB599C2753"
+	loot_size: 1
+	order_index: 27
+	rewards: [
+		{
+			auto: "disabled"
+			command: "/spawnpokemon dialga lvl=70"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:azure_ball"
+			}
+			id: "77C5E0CDF3A4BBE3"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon palkia lvl=70"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:roseate_ball"
+			}
+			id: "774A247CF7D142AC"
+			permission_level: 2
+			type: "command"
+		}
+	]
+	use_title: true
+}

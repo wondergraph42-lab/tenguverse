@@ -1,0 +1,40 @@
+{
+	id: "32E1B83EC9104969"
+	loot_size: 1
+	order_index: 39
+	rewards: [
+		{
+			count: 5
+			id: "1E2AB8979FECD4E6"
+			item: {
+				count: 1
+				id: "cobblemon:great_ball"
+			}
+		}
+		{
+			count: 5
+			id: "0C9F8372ADBA891B"
+			item: {
+				count: 1
+				id: "cobblemon:level_ball"
+			}
+		}
+		{
+			count: 5
+			id: "7816AF17E835B0AD"
+			item: {
+				count: 1
+				id: "cobblemon:friend_ball"
+			}
+		}
+		{
+			count: 5
+			id: "4EDE1E2B4B9595A0"
+			item: {
+				count: 1
+				id: "cobblemon:dusk_ball"
+			}
+		}
+	]
+	use_title: true
+}

@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:rowlet",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["duo"],
+      "poser": "cobblemon:rowlet_duo",
+      "model": "cobblemon:rowlet_duo.geo",
+      "texture": "cobblemon:textures/pokemon/0722_rowlet/rowlet_duo.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny","duo"],
+      "texture": "cobblemon:textures/pokemon/0722_rowlet/rowlet_duo_shiny.png"
+    }
+  ]
+}

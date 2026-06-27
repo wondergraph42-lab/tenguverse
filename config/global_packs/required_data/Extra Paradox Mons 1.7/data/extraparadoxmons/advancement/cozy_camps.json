@@ -1,0 +1,39 @@
+{
+  "display": {
+    "description": {
+      "translate": "advancements.extraparadoxmons.cozy_camps.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:campfire"
+    },
+    "title": {
+      "translate": "advancements.extraparadoxmons.cozy_camps"
+    }
+  },
+  "criteria": {
+    "cozy_camps": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "#extraparadoxmons:cozy_camps"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+ "parent": "extraparadoxmons:root",
+  "requirements": [
+    [
+      "cozy_camps"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

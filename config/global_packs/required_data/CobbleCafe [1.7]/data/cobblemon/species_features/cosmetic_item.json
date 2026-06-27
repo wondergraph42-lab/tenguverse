@@ -1,0 +1,15 @@
+{
+  "type": "choice",
+  "keys": [
+    "cosmetic_item"
+  ],
+  "default": "none",
+  "choices": [
+    "white_wool",
+    "juke_box",
+    "gold_nugget",
+    "black_wool"
+  ],
+  "isAspect": true,
+  "aspectFormat": "cosmetic_item-{{choice}}"
+}

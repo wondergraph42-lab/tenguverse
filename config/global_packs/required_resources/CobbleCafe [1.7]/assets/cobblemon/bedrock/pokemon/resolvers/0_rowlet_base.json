@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:rowlet",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:rowlet",
+            "model": "cobblemon:cafe_rowlet.geo",
+            "texture": "cobblemon:textures/pokemon/rowlet/rowlet.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/rowlet/rowlet_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/rowlet/cafe_rowlet.png"
+                }
+            ]
+        }
+    ]
+}

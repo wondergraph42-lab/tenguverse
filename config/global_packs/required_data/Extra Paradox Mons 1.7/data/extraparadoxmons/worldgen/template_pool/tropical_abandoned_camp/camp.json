@@ -1,0 +1,13 @@
+{
+    "name":"extraparadoxmons:camps/tropical_abandoned_camp/camp",
+    "fallback":"minecraft:empty",
+    "elements": [{
+        "weight": 1,
+        "element": {
+            "location": "extraparadoxmons:camps/tropical_abandoned_camp/camp/tropical_abandoned_camp",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }]
+}

@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "cobblemon:textures/block/building_blocks/grain_bale_side.png",
+    "frame": "task",
+    "show_toast": false,
+    "description": {
+      "translate": "advancements.extraparadoxmons.root.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "cobblemon:ancient_slate_ball"
+    },
+    "title": {
+      "translate": "advancements.extraparadoxmons.root"
+    }
+  },
+  "sends_telemetry_event": true
+}

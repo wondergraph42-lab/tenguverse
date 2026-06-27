@@ -1,0 +1,29 @@
+{
+    "species": "cobblemon:kirlia",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:kirlia",
+            "model": "cobblemon:cafe_kirlia.geo",
+            "texture": "cobblemon:textures/pokemon/kirlia/kirlia.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/kirlia/kirlia_shiny.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "layers": [
+                {
+                    "texture": "cobblemon:textures/pokemon/kirlia/cafe_kirlia.png"
+                }
+            ]
+        }
+    ]
+}

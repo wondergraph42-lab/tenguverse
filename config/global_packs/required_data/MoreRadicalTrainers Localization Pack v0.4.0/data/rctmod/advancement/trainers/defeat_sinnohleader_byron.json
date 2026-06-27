@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_sinnohleader_fantina",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_sinnohleader_byron"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_sinnohleader_byron.description"
+    },
+    "icon": {
+      "id": "cobblemonpokemonbadges:mine_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "sinnohleader_byron"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

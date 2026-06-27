@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:gengar",
+  "order": 4,
+  "variations": [
+    {
+      "aspects": ["ot"],
+      "poser": "cobblemon:gengar_ot",
+      "model": "cobblemon:gengar_ot.geo",
+      "texture": "cobblemon:textures/pokemon/0094_gengar_ot/gengar_ot.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0094_gengar_ot/gengar_ot_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": ["shiny", "ot"],
+      "texture": "cobblemon:textures/pokemon/0094_gengar_ot/gengar_ot_shiny.png"
+    }
+  ]
+}

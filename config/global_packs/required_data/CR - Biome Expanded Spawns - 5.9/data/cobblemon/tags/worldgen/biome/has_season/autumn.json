@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+	{
+      "id": "regions_unexplored:autumnal_maple_forest",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:golden_boreal_taiga",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:pumpkin_fields",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:silver_birch_forest",
+      "required": false
+    }
+  ]
+}

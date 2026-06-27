@@ -1,0 +1,71 @@
+{
+  "portraitScale": 2,
+ "portraitTranslation": [0, 0, 0],
+  "profileScale": 0.7,
+  "profileTranslation": [0, 0.7, 0],
+  "animations": {
+    "cry": "q.bedrock_stateful('gloomshade', 'cry')",
+    "recoil": "q.bedrock_stateful('gloomshade', 'recoil')",
+    "status": "q.bedrock_stateful('gloomshade', 'cry', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('gloomshade', 'battle_idle')"
+      ],
+      "quirks": []
+    },
+    "sculk-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": false,
+      "condition": "q.is_standing_on_blocks(2, 'minecraft:sculk')",
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('gloomshade', 'sculk_idle')"
+      ],
+      "quirks": []
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "condition": "!q.is_standing_on_blocks(2, 'minecraft:sculk')",
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('gloomshade', 'ground_idle')"
+      ],
+      "quirks": []
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "condition": "!q.is_standing_on_blocks(2, 'minecraft:sculk')",
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('gloomshade', 'ground_walk')"
+      ],
+      "quirks": []
+    },
+    "sculk-walking": {
+      "poseTypes": ["WALK"],
+      "condition": "q.is_standing_on_blocks(2, 'minecraft:sculk')",
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('gloomshade', 'sculk_swim')"
+      ],
+      "quirks": []
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "condition": "!q.is_standing_on_blocks(2, 'minecraft:sculk')",
+      "animations": ["q.bedrock('gloomshade', 'sleep')"]
+    },
+    "sculk-sleep": {
+      "poseTypes": ["SLEEP"],
+      "condition": "!q.is_standing_on_blocks(2, 'minecraft:sculk')",
+      "animations": ["q.bedrock('gloomshade', 'sculk_sleep')"]
+    }
+  }
+}
+ 

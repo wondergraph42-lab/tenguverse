@@ -1,0 +1,13 @@
+{
+  "bikeFallDamageEnabled": true,
+  "bikeFallDamageNoDamageMaxBlocks": 4,
+  "bikeSpeedMultiplier": 1.0,
+  "bikeDurabilityEnabled": true,
+  "bikeMaxDurability": 100,
+  "bikeFallDurabilityDamage": 10,
+  "bikeLowDurabilityThreshold": 25,
+  "bikeLowDurabilitySpeedPenaltyPercent": 15,
+  "bikeLavaBreaksInstantly": true,
+  "autoReturnBikeToInventoryOnDismount": false,
+  "autoTurnOffHeadlightOnDismount": true
+}

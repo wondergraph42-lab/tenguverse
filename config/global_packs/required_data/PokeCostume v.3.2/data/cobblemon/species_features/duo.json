@@ -1,0 +1,6 @@
+{
+  "keys": [ "duo" ],
+  "type": "flag",
+  "isAspect": true,
+  "default": false
+}

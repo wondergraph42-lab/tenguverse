@@ -1,0 +1,13 @@
+name = "Better Days Display"
+filename = "Better Days Display v1.1 MC1.21.x.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f10322131219592231991cb0d4bb23e1ece24884"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7764786
+project-id = 1313561

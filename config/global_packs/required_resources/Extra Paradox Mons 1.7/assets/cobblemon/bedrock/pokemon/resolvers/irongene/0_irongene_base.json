@@ -1,0 +1,44 @@
+{
+  "species": "cobblemon:irongene",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:irongene",
+      "model": "cobblemon:irongene.geo",
+      "texture": "cobblemon:textures/pokemon/irongene/irongene.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/irongene/irongene_emissive.png",
+          "emissive": "true"
+        },
+        {
+          "name": "transparent_orb",
+          "texture": "cobblemon:textures/pokemon/irongene/irongene_transparency.png",
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": ["sleep"],
+      "texture": "cobblemon:textures/pokemon/irongene/irongene_sleep.png"
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/irongene/irongene_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/irongene/irongene_shiny_emissive.png",
+          "emissive": "true"
+        },
+        {
+          "name": "transparent_orb",
+          "texture": "cobblemon:textures/pokemon/irongene/irongene_shiny_transparency.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

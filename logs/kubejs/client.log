@@ -1,0 +1,15 @@
+[08:37:39] [INIT] KubeJS 2101.7.2-build.368; MC 2101 NeoForge
+[08:37:39] [INIT] Loaded plugins:
+[08:37:39] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[08:37:39] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
+[08:37:39] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[08:37:39] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[08:37:39] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[08:37:39] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[08:37:39] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[08:37:39] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[08:37:39] [INFO] client_scripts:main.js#2: Hello Cobblemon Realms Player! (Loaded client scripts)
+[08:37:39] [INFO] Loaded script client_scripts:main.js in 0.003 s
+[08:37:39] [INFO] Loaded script client_scripts:regions_unexplored_baobab_hanging_sign_backup.js in 0.005 s
+[08:37:39] [INFO] Loaded 2/2 KubeJS client scripts in 0.094 s with 0 errors and 0 warnings
+[08:37:49] [INFO] Client resource reload complete!

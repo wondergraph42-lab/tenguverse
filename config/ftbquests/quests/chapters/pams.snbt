@@ -1,0 +1,1112 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "pams"
+	group: "3C1371271429A50A"
+	id: "6CAD3D564D5EDF3E"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4F65603181B9ECFD"
+			rewards: [{
+				count: 2
+				id: "250D2EAF16AF4CEA"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "113311349D8BAE43"
+					item: { count: 1, id: "pamhc2crops:elderberryseeditem" }
+					type: "item"
+				}
+				{
+					id: "08BF157EB269B614"
+					item: { count: 1, id: "pamhc2crops:flaxseeditem" }
+					type: "item"
+				}
+				{
+					id: "2814C5AF1486DCDE"
+					item: { count: 1, id: "pamhc2crops:garlicseeditem" }
+					type: "item"
+				}
+				{
+					id: "7CD55F691B67A631"
+					item: { count: 1, id: "pamhc2crops:gingerseeditem" }
+					type: "item"
+				}
+				{
+					id: "7170DB345517ACEA"
+					item: { count: 1, id: "pamhc2crops:grapeseeditem" }
+					type: "item"
+				}
+				{
+					id: "5D7EF61DEED1A437"
+					item: { count: 1, id: "pamhc2crops:greengrapeseeditem" }
+					type: "item"
+				}
+				{
+					id: "126ECFF45C3ACBDB"
+					item: { count: 1, id: "pamhc2crops:huckleberryseeditem" }
+					type: "item"
+				}
+				{
+					id: "5A0D77EC2EE620AA"
+					item: { count: 1, id: "pamhc2crops:jicamaseeditem" }
+					type: "item"
+				}
+				{
+					id: "23553D53C706E89F"
+					item: { count: 1, id: "pamhc2crops:juniperberryseeditem" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			id: "461489465FCFF44E"
+			rewards: [{
+				count: 2
+				id: "1B15C2F4F351693F"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "27E6765C85D86C93"
+					item: { count: 1, id: "pamhc2crops:agaveseeditem" }
+					type: "item"
+				}
+				{
+					id: "306719A79B4010EA"
+					item: { count: 1, id: "pamhc2crops:amaranthseeditem" }
+					type: "item"
+				}
+				{
+					id: "5DABACC63201940B"
+					item: { count: 1, id: "pamhc2crops:arrowrootseeditem" }
+					type: "item"
+				}
+				{
+					id: "1FCFC369DB2A55D2"
+					item: { count: 1, id: "pamhc2crops:artichokeseeditem" }
+					type: "item"
+				}
+				{
+					id: "06F0A5BA4B590F45"
+					item: { count: 1, id: "pamhc2crops:asparagusseeditem" }
+					type: "item"
+				}
+				{
+					id: "16F40CE74BD9A6F9"
+					item: { count: 1, id: "pamhc2crops:barleyseeditem" }
+					type: "item"
+				}
+				{
+					id: "7777CADDC8CBA856"
+					item: { count: 1, id: "pamhc2crops:beanseeditem" }
+					type: "item"
+				}
+				{
+					id: "60068F94C6C760E2"
+					item: { count: 1, id: "pamhc2crops:bellpepperseeditem" }
+					type: "item"
+				}
+				{
+					id: "4D2ABEDCB00AFCC5"
+					item: { count: 1, id: "pamhc2crops:blackberryseeditem" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			id: "714797A50CF81450"
+			rewards: [{
+				count: 2
+				id: "506A12D05B5841D3"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "51F8C33CB86D3D4F"
+					item: { count: 1, id: "pamhc2crops:blueberryseeditem" }
+					type: "item"
+				}
+				{
+					id: "4ED747FB2AC04142"
+					item: { count: 1, id: "pamhc2crops:broccoliseeditem" }
+					type: "item"
+				}
+				{
+					id: "216EEB07F49D8BDA"
+					item: { count: 1, id: "pamhc2crops:brusselsproutseeditem" }
+					type: "item"
+				}
+				{
+					id: "74D7AE25F0E592F5"
+					item: { count: 1, id: "pamhc2crops:cabbageseeditem" }
+					type: "item"
+				}
+				{
+					id: "1CF0D3A6BDE49948"
+					item: { count: 1, id: "pamhc2crops:cactusfruitseeditem" }
+					type: "item"
+				}
+				{
+					id: "15CE642850BC5A99"
+					item: { count: 1, id: "pamhc2crops:candleberryseeditem" }
+					type: "item"
+				}
+				{
+					id: "2E2CEDDA924F8C89"
+					item: { count: 1, id: "pamhc2crops:cantaloupeseeditem" }
+					type: "item"
+				}
+				{
+					id: "0D767CD1587DF0BB"
+					item: { count: 1, id: "pamhc2crops:cassavaseeditem" }
+					type: "item"
+				}
+				{
+					id: "3616F9C33BF472A0"
+					item: { count: 1, id: "pamhc2crops:cauliflowerseeditem" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			id: "07AEC131BDC3C5C6"
+			rewards: [{
+				count: 2
+				id: "28F65E35E6A3091E"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "13A4EF3630CBD5D0"
+					item: { count: 1, id: "pamhc2crops:celeryseeditem" }
+					type: "item"
+				}
+				{
+					id: "29E751E9FC3BA181"
+					item: { count: 1, id: "pamhc2crops:chickpeaseeditem" }
+					type: "item"
+				}
+				{
+					id: "791520C2DC71DB5C"
+					item: { count: 1, id: "pamhc2crops:chilipepperseeditem" }
+					type: "item"
+				}
+				{
+					id: "581FFC3BA0614D83"
+					item: { count: 1, id: "pamhc2crops:coffeebeanseeditem" }
+					type: "item"
+				}
+				{
+					id: "06AE6BE897C44811"
+					item: { count: 1, id: "pamhc2crops:cornseeditem" }
+					type: "item"
+				}
+				{
+					id: "55CB7C9BBD8ADBF6"
+					item: { count: 1, id: "pamhc2crops:cottonseeditem" }
+					type: "item"
+				}
+				{
+					id: "63F30015A6B2CEEC"
+					item: { count: 1, id: "pamhc2crops:cranberryseeditem" }
+					type: "item"
+				}
+				{
+					id: "3585A80C84EB6D75"
+					item: { count: 1, id: "pamhc2crops:cucumberseeditem" }
+					type: "item"
+				}
+				{
+					id: "24F64A221AF11883"
+					item: { count: 1, id: "pamhc2crops:eggplantseeditem" }
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			id: "6D8A1924F59D3BC9"
+			rewards: [{
+				count: 2
+				id: "6AF4DC7172405E64"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "225C65A7FDDB95EF"
+					item: { count: 1, id: "pamhc2crops:juteseeditem" }
+					type: "item"
+				}
+				{
+					id: "3BC04E24295BF332"
+					item: { count: 1, id: "pamhc2crops:kaleseeditem" }
+					type: "item"
+				}
+				{
+					id: "2B2EE1EAEE116A93"
+					item: { count: 1, id: "pamhc2crops:kenafseeditem" }
+					type: "item"
+				}
+				{
+					id: "613A3F6B9069093F"
+					item: { count: 1, id: "pamhc2crops:kiwiseeditem" }
+					type: "item"
+				}
+				{
+					id: "5A74A22FA1B615AE"
+					item: { count: 1, id: "pamhc2crops:kohlrabiseeditem" }
+					type: "item"
+				}
+				{
+					id: "08D1381069789C41"
+					item: { count: 1, id: "pamhc2crops:leekseeditem" }
+					type: "item"
+				}
+				{
+					id: "55E1B969AAFEF58C"
+					item: { count: 1, id: "pamhc2crops:lentilseeditem" }
+					type: "item"
+				}
+				{
+					id: "01CC5F81FE259D67"
+					item: { count: 1, id: "pamhc2crops:lettuceseeditem" }
+					type: "item"
+				}
+				{
+					id: "642EFC7FB3B41688"
+					item: { count: 1, id: "pamhc2crops:milletseeditem" }
+					type: "item"
+				}
+			]
+			x: -7.0d
+			y: -3.0d
+		}
+		{
+			id: "6738094B7D38A580"
+			rewards: [{
+				count: 2
+				id: "30CF765696B9DAFD"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "2980D9CE5A465BC1"
+					item: { count: 1, id: "pamhc2crops:mulberryseeditem" }
+					type: "item"
+				}
+				{
+					id: "0750638F2D46AB78"
+					item: { count: 1, id: "pamhc2crops:mustardseedsseeditem" }
+					type: "item"
+				}
+				{
+					id: "0901334ED623369A"
+					item: { count: 1, id: "pamhc2crops:oatsseeditem" }
+					type: "item"
+				}
+				{
+					id: "3FFD08A41D7E15A8"
+					item: { count: 1, id: "pamhc2crops:okraseeditem" }
+					type: "item"
+				}
+				{
+					id: "2726B4917E00C0FB"
+					item: { count: 1, id: "pamhc2crops:onionseeditem" }
+					type: "item"
+				}
+				{
+					id: "0AB222990E41A1D7"
+					item: { count: 1, id: "pamhc2crops:parsnipseeditem" }
+					type: "item"
+				}
+				{
+					id: "70078FA10E7BC0A5"
+					item: { count: 1, id: "pamhc2crops:peanutseeditem" }
+					type: "item"
+				}
+				{
+					id: "134CB13CD9214495"
+					item: { count: 1, id: "pamhc2crops:peasseeditem" }
+					type: "item"
+				}
+				{
+					id: "5072E0794EECE9E0"
+					item: { count: 1, id: "pamhc2crops:pineappleseeditem" }
+					type: "item"
+				}
+			]
+			x: -8.0d
+			y: -3.0d
+		}
+		{
+			id: "0817960B18D9266F"
+			rewards: [{
+				count: 2
+				id: "49B6BADB95F80C9B"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "5600C5C95DFD11E1"
+					item: { count: 1, id: "pamhc2crops:quinoaseeditem" }
+					type: "item"
+				}
+				{
+					id: "6F27455CF40A6D5B"
+					item: { count: 1, id: "pamhc2crops:radishseeditem" }
+					type: "item"
+				}
+				{
+					id: "73C85D8CA430C328"
+					item: { count: 1, id: "pamhc2crops:raspberryseeditem" }
+					type: "item"
+				}
+				{
+					id: "54C849398447F5D0"
+					item: { count: 1, id: "pamhc2crops:rhubarbseeditem" }
+					type: "item"
+				}
+				{
+					id: "43250E46D53ECD29"
+					item: { count: 1, id: "pamhc2crops:riceseeditem" }
+					type: "item"
+				}
+				{
+					id: "741363B75B76382B"
+					item: { count: 1, id: "pamhc2crops:rutabagaseeditem" }
+					type: "item"
+				}
+				{
+					id: "0C0D26EE6F88E56D"
+					item: { count: 1, id: "pamhc2crops:ryeseeditem" }
+					type: "item"
+				}
+				{
+					id: "3DB82FF203BA5863"
+					item: { count: 1, id: "pamhc2crops:scallionseeditem" }
+					type: "item"
+				}
+				{
+					id: "5DC96696060C0582"
+					item: { count: 1, id: "pamhc2crops:sesameseedsseeditem" }
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: -3.0d
+		}
+		{
+			id: "636CC6B14E636E86"
+			rewards: [{
+				count: 2
+				id: "67D52289DF500EC8"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "3EEA872EB19FB485"
+					item: { count: 1, id: "pamhc2crops:sisalseeditem" }
+					type: "item"
+				}
+				{
+					id: "65DAD2F922A3268C"
+					item: { count: 1, id: "pamhc2crops:soybeanseeditem" }
+					type: "item"
+				}
+				{
+					id: "3CCFFCE831C5BAF1"
+					item: { count: 1, id: "pamhc2crops:spiceleafseeditem" }
+					type: "item"
+				}
+				{
+					id: "660C3E89B4341FCF"
+					item: { count: 1, id: "pamhc2crops:spinachseeditem" }
+					type: "item"
+				}
+				{
+					id: "5B04D29296478058"
+					item: { count: 1, id: "pamhc2crops:strawberryseeditem" }
+					type: "item"
+				}
+				{
+					id: "0DF49C96416094AA"
+					item: { count: 1, id: "pamhc2crops:sweetpotatoseeditem" }
+					type: "item"
+				}
+				{
+					id: "2EF5B866B5A82408"
+					item: { count: 1, id: "pamhc2crops:taroseeditem" }
+					type: "item"
+				}
+				{
+					id: "520084E468E34F45"
+					item: { count: 1, id: "pamhc2crops:tealeafseeditem" }
+					type: "item"
+				}
+				{
+					id: "39F12C6ED412925E"
+					item: { count: 1, id: "pamhc2crops:tomatilloseeditem" }
+					type: "item"
+				}
+			]
+			x: -10.0d
+			y: -3.0d
+		}
+		{
+			id: "29A35FAD566893BC"
+			rewards: [{
+				count: 2
+				id: "4930A9E820EBCFA1"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "08AC623A63FCD07B"
+					item: { count: 1, id: "pamhc2crops:tomatoseeditem" }
+					type: "item"
+				}
+				{
+					id: "3202D13E547210F1"
+					item: { count: 1, id: "pamhc2crops:turnipseeditem" }
+					type: "item"
+				}
+				{
+					id: "35D6FDADAD59A638"
+					item: { count: 1, id: "pamhc2crops:waterchestnutseeditem" }
+					type: "item"
+				}
+				{
+					id: "1DAC3A18FEAC1A90"
+					item: { count: 1, id: "pamhc2crops:whitemushroomseeditem" }
+					type: "item"
+				}
+				{
+					id: "3171F459F487A0AC"
+					item: { count: 1, id: "pamhc2crops:wintersquashseeditem" }
+					type: "item"
+				}
+				{
+					id: "1F72D8561C2E9FBA"
+					item: { count: 1, id: "pamhc2crops:zucchiniseeditem" }
+					type: "item"
+				}
+			]
+			x: -11.0d
+			y: -3.0d
+		}
+		{
+			id: "329069E79F5B615C"
+			rewards: [{
+				count: 2
+				id: "0432A75434ABEFA5"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "19FF3DF0646A9235"
+					item: { count: 1, id: "pamhc2trees:apple_sapling" }
+					type: "item"
+				}
+				{
+					id: "7F810EFF4CB6946F"
+					item: { count: 1, id: "pamhc2trees:avocado_sapling" }
+					type: "item"
+				}
+				{
+					id: "737B9E86907785C3"
+					item: { count: 1, id: "pamhc2trees:candlenut_sapling" }
+					type: "item"
+				}
+				{
+					id: "6115C6A50FDE030A"
+					item: { count: 1, id: "pamhc2trees:cherry_sapling" }
+					type: "item"
+				}
+				{
+					id: "6017ECE49A2EC89A"
+					item: { count: 1, id: "pamhc2trees:chestnut_sapling" }
+					type: "item"
+				}
+				{
+					id: "7D7AD2F5552CD1D5"
+					item: { count: 1, id: "pamhc2trees:gooseberry_sapling" }
+					type: "item"
+				}
+				{
+					id: "26BD71489227B9CB"
+					item: { count: 1, id: "pamhc2trees:lemon_sapling" }
+					type: "item"
+				}
+				{
+					id: "400133B92FE40FDC"
+					item: { count: 1, id: "pamhc2trees:nutmeg_sapling" }
+					type: "item"
+				}
+				{
+					id: "1517250E714ED20A"
+					item: { count: 1, id: "pamhc2trees:orange_sapling" }
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: -4.0d
+		}
+		{
+			id: "6DA146DD6144F653"
+			rewards: [{
+				count: 2
+				id: "665386A05745801C"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "7E55AA1DF439027D"
+					item: { count: 1, id: "pamhc2trees:peach_sapling" }
+					type: "item"
+				}
+				{
+					id: "30CEE730EAA46399"
+					item: { count: 1, id: "pamhc2trees:pear_sapling" }
+					type: "item"
+				}
+				{
+					id: "7CD5756375EE18D4"
+					item: { count: 1, id: "pamhc2trees:plum_sapling" }
+					type: "item"
+				}
+				{
+					id: "26369CD27BA6B2FB"
+					item: { count: 1, id: "pamhc2trees:walnut_sapling" }
+					type: "item"
+				}
+				{
+					id: "780A1F825E7FA889"
+					item: { count: 1, id: "pamhc2trees:spiderweb_sapling" }
+					type: "item"
+				}
+				{
+					id: "775FF3CC8E23BD66"
+					item: { count: 1, id: "pamhc2trees:hazelnut_sapling" }
+					type: "item"
+				}
+				{
+					id: "739A7F32EC6B31CD"
+					item: { count: 1, id: "pamhc2trees:pawpaw_sapling" }
+					type: "item"
+				}
+				{
+					id: "166200A8C2E24EFF"
+					item: { count: 1, id: "pamhc2trees:soursop_sapling" }
+					type: "item"
+				}
+				{
+					id: "4CD1611EEF14DAC9"
+					item: { count: 1, id: "pamhc2trees:almond_sapling" }
+					type: "item"
+				}
+			]
+			x: -5.5d
+			y: -4.0d
+		}
+		{
+			id: "38705C213ECCC883"
+			rewards: [{
+				count: 2
+				id: "2557B9BD62162FE1"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6F0255FB96B719B7"
+					item: { count: 1, id: "pamhc2trees:apricot_sapling" }
+					type: "item"
+				}
+				{
+					id: "5D6F161CCE1BDE0F"
+					item: { count: 1, id: "pamhc2trees:banana_sapling" }
+					type: "item"
+				}
+				{
+					id: "59E1022245C5B273"
+					item: { count: 1, id: "pamhc2trees:cashew_sapling" }
+					type: "item"
+				}
+				{
+					id: "685A23B2A83BF2BA"
+					item: { count: 1, id: "pamhc2trees:cinnamon_sapling" }
+					type: "item"
+				}
+				{
+					id: "3A07485B4FF9EBA9"
+					item: { count: 1, id: "pamhc2trees:coconut_sapling" }
+					type: "item"
+				}
+				{
+					id: "7995381BD0BEF607"
+					item: { count: 1, id: "pamhc2trees:date_sapling" }
+					type: "item"
+				}
+				{
+					id: "161274F709D20953"
+					item: { count: 1, id: "pamhc2trees:dragonfruit_sapling" }
+					type: "item"
+				}
+				{
+					id: "4DE1F6731D707C3C"
+					item: { count: 1, id: "pamhc2trees:durian_sapling" }
+					type: "item"
+				}
+				{
+					id: "06C7E97FBEC0083C"
+					item: { count: 1, id: "pamhc2trees:fig_sapling" }
+					type: "item"
+				}
+			]
+			x: -6.5d
+			y: -4.0d
+		}
+		{
+			id: "5DEC6C39A19F0FE4"
+			rewards: [{
+				count: 2
+				id: "62407B9FCA33B7EC"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "7BAD2D6E60047A55"
+					item: { count: 1, id: "pamhc2trees:grapefruit_sapling" }
+					type: "item"
+				}
+				{
+					id: "507F8A113B8708E7"
+					item: { count: 1, id: "pamhc2trees:lime_sapling" }
+					type: "item"
+				}
+				{
+					id: "19A79CDBA4ADCFAB"
+					item: { count: 1, id: "pamhc2trees:mango_sapling" }
+					type: "item"
+				}
+				{
+					id: "13C05804DB1CD899"
+					item: { count: 1, id: "pamhc2trees:olive_sapling" }
+					type: "item"
+				}
+				{
+					id: "35CDFCB625FBC63F"
+					item: { count: 1, id: "pamhc2trees:papaya_sapling" }
+					type: "item"
+				}
+				{
+					id: "799538566E425226"
+					item: { count: 1, id: "pamhc2trees:paperbark_sapling" }
+					type: "item"
+				}
+				{
+					id: "58EC30320A931365"
+					item: { count: 1, id: "pamhc2trees:pecan_sapling" }
+					type: "item"
+				}
+				{
+					id: "2ACAB7D0DBD4B9F4"
+					item: { count: 1, id: "pamhc2trees:peppercorn_sapling" }
+					type: "item"
+				}
+				{
+					id: "4D7FABCBB33D4026"
+					item: { count: 1, id: "pamhc2trees:persimmon_sapling" }
+					type: "item"
+				}
+			]
+			x: -7.5d
+			y: -4.0d
+		}
+		{
+			id: "5722D39E3B4EDD63"
+			rewards: [{
+				count: 2
+				id: "04C660FE0A9FEAFF"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "4BFB64E87DB41FE9"
+					item: { count: 1, id: "pamhc2trees:rambutan_sapling" }
+					type: "item"
+				}
+				{
+					id: "3021DB5359DBFD97"
+					item: { count: 1, id: "pamhc2trees:tamarind_sapling" }
+					type: "item"
+				}
+				{
+					id: "73B585B7F94E7922"
+					item: { count: 1, id: "pamhc2trees:maple_sapling" }
+					type: "item"
+				}
+				{
+					id: "377A78A27A8E6ACB"
+					item: { count: 1, id: "pamhc2trees:pinenut_sapling" }
+					type: "item"
+				}
+				{
+					id: "25168A9295E9C4AF"
+					item: { count: 1, id: "pamhc2trees:pistachio_sapling" }
+					type: "item"
+				}
+				{
+					id: "511DBE5C377E2E11"
+					item: { count: 1, id: "pamhc2trees:pomegranate_sapling" }
+					type: "item"
+				}
+				{
+					id: "3924411125A48AB3"
+					item: { count: 1, id: "pamhc2trees:starfruit_sapling" }
+					type: "item"
+				}
+				{
+					id: "64AEB2E38DBC5A1A"
+					item: { count: 1, id: "pamhc2trees:vanillabean_sapling" }
+					type: "item"
+				}
+				{
+					id: "1906ACCAEF045F69"
+					item: { count: 1, id: "pamhc2trees:breadfruit_sapling" }
+					type: "item"
+				}
+			]
+			x: -8.5d
+			y: -4.0d
+		}
+		{
+			id: "747036E0FE12A7C2"
+			rewards: [{
+				count: 2
+				id: "0109B36EA37915FF"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "597BA7512FBBFE60"
+					item: { count: 1, id: "pamhc2trees:guava_sapling" }
+					type: "item"
+				}
+				{
+					id: "0D6501EB7E426D2F"
+					item: { count: 1, id: "pamhc2trees:jackfruit_sapling" }
+					type: "item"
+				}
+				{
+					id: "51E6866E33096CB7"
+					item: { count: 1, id: "pamhc2trees:lychee_sapling" }
+					type: "item"
+				}
+				{
+					id: "093A06DB96F26695"
+					item: { count: 1, id: "pamhc2trees:passionfruit_sapling" }
+					type: "item"
+				}
+			]
+			x: -9.5d
+			y: -4.0d
+		}
+		{
+			id: "2E54E17AB69B8D5C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "029A543E172F8779"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "767DF07A2EA37BFC"
+					item: { count: 1, id: "pamhc2foodextended:rawtofabbititem" }
+					type: "item"
+				}
+				{
+					id: "6F365D4433FDC63E"
+					item: { count: 1, id: "pamhc2foodextended:rawtofaconitem" }
+					type: "item"
+				}
+				{
+					id: "2383BFC6B3A25F50"
+					item: { count: 1, id: "pamhc2foodextended:rawtofeakitem" }
+					type: "item"
+				}
+				{
+					id: "678DFF13BB261E89"
+					item: { count: 1, id: "pamhc2foodextended:rawtofickenitem" }
+					type: "item"
+				}
+				{
+					id: "6910170F8AD8937D"
+					item: { count: 1, id: "pamhc2foodextended:rawtofuttonitem" }
+					type: "item"
+				}
+			]
+			x: -8.5d
+			y: 2.0d
+		}
+		{
+			id: "2EF6003F9EC0467E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7FBE4AB26D68123D"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "15C8F3547A6AD21C"
+					item: { count: 1, id: "pamhc2foodextended:gourmetbeefburgeritem" }
+					type: "item"
+				}
+				{
+					id: "6D424FB5AD68B152"
+					item: { count: 1, id: "pamhc2foodextended:gourmetmuttonburgeritem" }
+					type: "item"
+				}
+				{
+					id: "0E2442E0DDFA2AD8"
+					item: { count: 1, id: "pamhc2foodextended:gourmetporkburgeritem" }
+					type: "item"
+				}
+			]
+			x: -8.5d
+			y: 1.0d
+		}
+		{
+			id: "3972C9F523B80AC8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0131A6461FBDB5DC"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0F8187C721E2890E"
+				item: { count: 1, id: "pamhc2foodcore:bakewareitem" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 2.0d
+		}
+		{
+			id: "168A298EEF99A688"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6F41F8F9E148535D"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6C359D2D9A938975"
+				item: { count: 1, id: "pamhc2foodcore:cuttingboarditem" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 2.0d
+		}
+		{
+			id: "13DE2E5A1CEB96FB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "68ED1058F74679F4"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "27EE8614DF7B83E5"
+				item: { count: 1, id: "pamhc2foodcore:juiceritem" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 0.0d
+		}
+		{
+			id: "453A2C1E444358A4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "594DA543D5B8C2AD"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4B1647069B71EFC2"
+				item: { count: 1, id: "pamhc2foodcore:grinderitem" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 0.0d
+		}
+		{
+			id: "6AE4F63F42B0B8C1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "74709F8487B0B078"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7F4E908AE413626B"
+				item: { count: 1, id: "pamhc2foodcore:mixingbowlitem" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 1.0d
+		}
+		{
+			id: "44FFAE776FB8A240"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1ED1F634FAC1778F"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "655CDC8D7DC083F2"
+				item: { count: 1, id: "pamhc2foodcore:potitem" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 1.0d
+		}
+		{
+			id: "55C73E3068D3E2F0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0D8F79C58C49C1F1"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "00F1FB38BF1D47B8"
+				item: { count: 1, id: "pamhc2foodcore:rolleritem" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			id: "5027A1EEDBE58485"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7EF6C81608AA7367"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1C842E3F6FFEDDFB"
+				item: { count: 1, id: "pamhc2foodcore:saucepanitem" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -1.0d
+		}
+		{
+			id: "6CC9FB3DBE685094"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "71AD1019E7B7BE00"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6E1705E6E2A01F4C"
+				item: { count: 1, id: "pamhc2foodcore:skilletitem" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			id: "4C1972B939200EEC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6B6AD6669F5C302E"
+				table_id: 4519668197113171430L
+				type: "random"
+			}]
+			tasks: [{
+				id: "16266D6B6172FDD9"
+				item: { count: 1, id: "pamhc2crops:hotcoffeeitem" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: -1.0d
+		}
+	]
+}

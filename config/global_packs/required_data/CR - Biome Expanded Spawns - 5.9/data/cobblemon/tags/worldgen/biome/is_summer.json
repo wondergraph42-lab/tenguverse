@@ -1,0 +1,71 @@
+{
+  "replace": false,
+  "values": [
+    "#cobblemon:is_forest",
+	"#cobblemon:is_jungle",
+	"#cobblemon:is_lush",
+	"#cobblemon:is_reef",
+  "#cobblemon:is_warm_ocean",
+	"#cobblemon:is_swamp",
+	{
+      "id": "terralith:skylands_summer",
+      "required": false
+    },
+	{
+      "id": "biomesoplenty:dryland",
+      "required": false
+    },
+	{
+      "id": "biomesoplenty:wasteland",
+      "required": false
+    },
+	{
+      "id": "biomesoplenty:wooded_wasteland",
+      "required": false
+    },
+	{
+      "id": "biomesoplenty:rainforest",
+      "required": false
+    },
+	{
+      "id": "biomesoplenty:bayou",
+      "required": false
+    },
+	{
+      "id": "biomesoplenty:lush_savanna",
+      "required": false
+    },
+	{
+      "id": "biomesoplenty:lush_desert",
+      "required": false
+    },
+	{
+      "id": "biomesoplenty:marsh",
+      "required": false
+    },
+    {
+      "id": "#byg:is_swamp",
+      "required": false
+    },
+	{
+      "id": "#c:swamp",
+      "required": false
+    },
+	{
+      "id": "#forge:is_swamp",
+      "required": false
+    },
+	{
+      "id": "#wythers:is_swamp",
+      "required": false
+    },
+	{
+      "id": "terralith:ice_marsh",
+      "required": false
+    },
+    {
+      "id": "wythers:billabong",
+      "required": false
+    }
+  ]
+}

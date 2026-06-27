@@ -1,0 +1,9 @@
+{
+  "pokemon": ["shivershrub"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:blue_wool",
+      "aspects": ["cosmetic_fasthog"]
+    }
+  ]
+}

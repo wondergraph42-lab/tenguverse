@@ -1,0 +1,44 @@
+{
+	icon: {
+		id: "cobblemon:ultra_ball"
+	}
+	id: "5DEE25FD1ABAF622"
+	loot_size: 1
+	order_index: 37
+	rewards: [
+		{
+			auto: "disabled"
+			command: "/spawnpokemon chiyu lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "7CA6B6E45C7A3911"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon ogerpon lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:verdant_ball"
+			}
+			id: "7E6FB4246E6B5987"
+			permission_level: 2
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/spawnpokemon chienpao lvl=60"
+			exclude_from_claim_all: true
+			icon: {
+				id: "cobblemon:premier_ball"
+			}
+			id: "700874509BDC51DE"
+			permission_level: 2
+			type: "command"
+		}
+	]
+	use_title: true
+}

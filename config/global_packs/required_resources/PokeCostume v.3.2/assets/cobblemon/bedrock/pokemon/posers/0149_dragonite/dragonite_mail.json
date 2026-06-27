@@ -1,0 +1,72 @@
+{
+  "head": "head",
+  "portraitScale": 1.5,
+  "portraitTranslation": [-0.2, 3.0, 0],
+  "profileScale": 0.45,
+  "profileTranslation": [-0.04, 1.1, -1.8],
+  "animations": {
+    "cry": "q.bedrock_stateful('dragonite_mail', 'cry')",
+    "status": "q.bedrock_primary('dragonite_mail', 'cry', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND", "WALK"],
+      "isBattle": true,
+      "animations": [
+        "q.bedrock('dragonite_mail', 'battle_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('dragonite_mail', 'blink')"
+      ]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+        "q.bedrock('dragonite_mail', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('dragonite_mail', 'blink')"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.bedrock('dragonite_mail', 'ground_walk')"
+      ]
+    },
+    "flying": {
+      "transformTicks": 5,
+      "poseTypes": ["FLY"],
+      "animations": [
+        "q.bedrock('dragonite_mail', 'air_fly')"
+      ]
+    },
+    "hover": {
+      "transformTicks": 5,
+      "poseTypes": ["HOVER"],
+      "animations": [
+        "q.bedrock('dragonite_mail', 'air_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('dragonite_mail', 'blink')"
+      ]
+    },
+    "float": {
+      "poseTypes": ["FLOAT"],
+      "animations": [
+        "q.bedrock('dragonite_mail', 'surfacewater_idle')"
+      ]
+    },
+    "swim": {
+      "poseTypes": ["SWIM"],
+      "animations": [
+        "q.bedrock('dragonite_mail', 'surfacewater_swim')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": ["q.bedrock('dragonite_mail', 'sleep')"]
+    }
+  }
+}

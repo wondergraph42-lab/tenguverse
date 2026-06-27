@@ -1,0 +1,24 @@
+{
+	id: "3EB916476F8F8DE6"
+	loot_size: 1
+	order_index: 50
+	rewards: [
+		{
+			count: 3
+			id: "07BED7167B58AFAF"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+		}
+		{
+			count: 3
+			id: "6C840C48E9BAFE06"
+			item: {
+				count: 1
+				id: "cobblemonrealms:realms_coin"
+			}
+		}
+	]
+	use_title: true
+}

@@ -1,0 +1,33 @@
+{
+  "parent": "rctmod:trainers/defeat_unovaleader_cilan",
+  "display": {
+    "title": {
+      "translate": "advancements.rctmod.defeat_unovaleader_lenora"
+    },
+    "description": {
+      "translate": "advancements.rctmod.defeat_unovaleader_lenora.description"
+    },
+    "icon": {
+      "id": "cobblemonpokemonbadges:basic_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": [
+          "unovaleader_lenora"
+        ]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

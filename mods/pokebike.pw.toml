@@ -1,0 +1,13 @@
+name = "PokeBike [Cobblemon & Pixelmon Addon]"
+filename = "pokebike-neoforge-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b0dab28333c9b122608205f59cfa8652763f0beb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8049922
+project-id = 1418474

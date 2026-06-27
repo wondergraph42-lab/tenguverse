@@ -1,0 +1,15 @@
+{
+  "id": "cobblemon:crimsonmaw",
+  "speciesId": "cobblemon:crimsonmaw",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "normal",
+      "unlockForms": [
+        "normal"
+      ]
+    }
+  ],
+  "variations": []
+}

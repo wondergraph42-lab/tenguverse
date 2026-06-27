@@ -1,0 +1,82 @@
+{
+  "portraitScale": 1.3,
+  "portraitTranslation": [-0.1, 0.58, 0],
+  "profileScale": 0.7,
+  "profileTranslation": [0, 0.7, 0],
+  "animations": {
+    "cry": "q.bedrock_stateful('irondrill_mega', 'cry')",
+    "recoil": "q.bedrock_stateful('irondrill_mega', 'recoil')",
+    "status": "q.bedrock_stateful('irondrill_mega', 'cry', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('irondrill_mega', 'battle_idle')"
+      ],
+      "transformedParts": [
+         {
+           "part": "sword",
+           "isVisible": true
+         }
+         ],
+      "quirks": []
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('irondrill_mega', 'ground_idle')"
+      ],
+      "transformedParts": [
+         {
+           "part": "sword",
+           "isVisible": false
+         }
+         ],
+      "quirks": []
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('irondrill_mega', 'ground_walk')"
+      ],
+      "transformedParts": [
+         {
+           "part": "sword",
+           "isVisible": false
+         }
+         ],
+      "quirks": []
+    },
+    "run": {
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('irondrill_mega', 'ground_run')"
+      ],
+      "transformedParts": [
+         {
+           "part": "sword",
+           "isVisible": false
+         }
+         ],
+      "quirks": []
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": ["q.bedrock('irondrill_mega', 'sleep')"],
+      "transformedParts": [
+         {
+           "part": "sword",
+           "isVisible": false
+         }
+         ]
+    }
+  }
+}
+ 
