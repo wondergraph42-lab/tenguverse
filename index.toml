@@ -258,10 +258,6 @@ file = "config/almanac-common.toml"
 hash = "43303ea5835f439a1fc1e7eb771834cfce26450a2381ad192621e4ed5532ff29"
 
 [[files]]
-file = "config/almostunified/debug.json"
-hash = "435ad46870d033c8652097d64c6ec592907e5ab6f1877240532a6a1743d4fca5"
-
-[[files]]
 file = "config/almostunified/debug.json.bak"
 hash = "def5b541fa88db047795d5c0647faed56329319298336e072e6b86d5500c4941"
 

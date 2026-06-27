@@ -25,3 +25,5 @@ eula.txt
 config/fancymenu/assets/cobblemonrealms.gif
 config/fancymenu/assets/ourstorycollection/crhome.mp4
 **/*.mp4
+config/almostunified/debug.json
+**/debug.json
