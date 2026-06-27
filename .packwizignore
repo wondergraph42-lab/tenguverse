@@ -31,3 +31,14 @@ options.txt
 optionsof.txt
 optionsshaders.txt
 hotbar.nbt
+journeymap/data/**
+journeymap/*.cfg
+journeymap/waypoints/**
+journeymap/data/**
+journeymap/*.cfg
+journeymap/waypoints/**
+xaero/**
+XaeroWorldMap/**
+XaeroWaypoints/**
+schematics/**
+screenshots/**
