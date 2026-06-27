@@ -54704,11 +54704,6 @@ hash = "2e0b3ec8ddce4a8e0bce9c5ecb2f29d33dc4de721c9fc3c0c138b4225a806a43"
 metafile = true
 
 [[files]]
-file = "mods/jump-over-fences-forge.pw.toml"
-hash = "33c677f35f4d1f87cdf68b2d89372d5d6d608dd85291313637221a71bd2faa0e"
-metafile = true
-
-[[files]]
 file = "mods/jump-over-fences.pw.toml"
 hash = "3ee389e5b994aa1423e36140804840a6fe419dffd4798111c0624c2afebd95ab"
 metafile = true
@@ -54996,11 +54991,6 @@ metafile = true
 [[files]]
 file = "mods/my-nethers-delight.pw.toml"
 hash = "6d2a317fd568932754a3263ad6dda2f55781d5f191d752946335d033e293da34"
-metafile = true
-
-[[files]]
-file = "mods/myths-and-legends-cobblemon-addon.pw.toml"
-hash = "e6452b031866f7cc310fcb40d71701d20e83ed3631d1f8787590c64981636fe8"
 metafile = true
 
 [[files]]
@@ -55636,12 +55626,16 @@ hash = "c08f02560537aad4fce0f8187572e403fa6920cdb01156fc85e8de7cc3390c46"
 metafile = true
 
 [[files]]
-file = "resourcepacks/AllRideMons_CM-1.7.3.zip"
-hash = "e8ff8ce5610faa1378e2a97bece8015c0bc182e948b3c73a004a9626fc8d12a0"
+file = "resourcepacks/Cobblemon Interface v1.6.0.zip"
+hash = "eb40bd047c2e1443c43731e4d1ef1b9d7d0624476336f540b52a3e8fcb9eb315"
 
 [[files]]
-file = "resourcepacks/RCTpack RP.zip"
-hash = "cd95c7c44427bf36658dfcf6065ed334770430386cf247289a733e34193abe32"
+file = "resourcepacks/RCT Trainers+ [1.6] v2.1.zip"
+hash = "44482d5e099fef585e9d742af176d6e54de09a26a8b575b7a510c23d6479f22d"
+
+[[files]]
+file = "resourcepacks/Visual Titles 1.3.zip"
+hash = "7a08d58bc4c31767d08c98f0b824433eaa4b842b1dd8695e9e2b1d7ee856598b"
 
 [[files]]
 file = "resourcepacks/boenks-cobblemon-item-descriptions.pw.toml"
@@ -55651,11 +55645,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/cobblemon-dark-edition.pw.toml"
 hash = "7b4ea76b7407917adc3b336cb2831eed436aa45a6f7ef2cf78c75ab6e915ccd2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/cobblemon-interface-modded.pw.toml"
-hash = "5fa91576fc22dd0acb6d3f91384eb9c194f0cc0ce741506af572f78ac6bd8a3b"
 metafile = true
 
 [[files]]
@@ -55669,9 +55658,8 @@ hash = "330a84459becdfb4d26d0b1222ce1b171191f89b6f43c0401cd6e80906548268"
 metafile = true
 
 [[files]]
-file = "resourcepacks/cubic-sun-moon.pw.toml"
-hash = "987abf62fcc4e3dc807df91e549f20e95ff43b74a49c88ddbc395ea85d398b9b"
-metafile = true
+file = "resourcepacks/cubic-sun-moon-v1.8.5.zip"
+hash = "c3712a3ba511d35201d44bafce16c9d36e7185d6743aab02207bda0d5d109ede"
 
 [[files]]
 file = "resourcepacks/enhanced-poke-boss-bars.pw.toml"
@@ -55709,18 +55697,8 @@ hash = "5c92c7e92bf0671f69479ddf1434b35e9c6d3d5845e5e85a9c1fe1832997b7ae"
 metafile = true
 
 [[files]]
-file = "resourcepacks/rct-trainer-textures-plus.pw.toml"
-hash = "167976902ffe13cabdd5f54f5773652bd3a6f15978b3775e0abcb3578cc5af36"
-metafile = true
-
-[[files]]
 file = "resourcepacks/toms-cobblemoned.pw.toml"
 hash = "566f4ed74c4681fd85768dc5581a4c4aefebc139df765872f698206cf59197d6"
-metafile = true
-
-[[files]]
-file = "resourcepacks/visual-travelers-titles.pw.toml"
-hash = "6488e8100ae61aed581986f7a7a371590f4dcd20e031d86c3cf9ec53edc28aef"
 metafile = true
 
 [[files]]
