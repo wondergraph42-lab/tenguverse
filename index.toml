@@ -41164,6 +41164,10 @@ file = "mods/Cobbreeding-neoforge-2.2.1.jar"
 hash = "f0022f992bf935c649ae85dd15d416f209be0f04bbeffe61cd0d64568202d0e7"
 
 [[files]]
+file = "mods/MythsAndLegends-neoforge-1.9.0.jar"
+hash = "0f7fcb84a4d3d950beb4d7f10371d282a678160a0e8433524431b42a1b74a50b"
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "0085d9a1eb73a68fe1d07f26b27fb93b0e1a582ab0f47d068fc94d055165aa99"
 metafile = true
@@ -42499,11 +42503,6 @@ metafile = true
 [[files]]
 file = "mods/my-nethers-delight.pw.toml"
 hash = "6d2a317fd568932754a3263ad6dda2f55781d5f191d752946335d033e293da34"
-metafile = true
-
-[[files]]
-file = "mods/myths-and-legends.pw.toml"
-hash = "c5bdb73a49f80ac77c7e9a8942421315ea2d67164c4f57a7f83f1c6889866b13"
 metafile = true
 
 [[files]]
