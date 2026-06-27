@@ -1870,10 +1870,6 @@ file = "config/defaultoptions/keybindings.txt"
 hash = "9d8435f852a3916683d8e7fd008cef0dd51c7854cc7f6b2aaa10d358ee193948"
 
 [[files]]
-file = "config/defaultoptions/options.txt"
-hash = "4e292bcc91a4c890a6bd9fa176d3236cc2879489b117938d93bd7c9c9417d6d8"
-
-[[files]]
 file = "config/defaultoptions/servers.dat"
 hash = "bbb0654974890e6b07b00af4055be8153514a606353f12d243020751efc8a3b3"
 
@@ -1892,10 +1888,6 @@ hash = "1ac3e06b909d5fdcfb07405da21a1c546df068af8f910dd2c78bbb77a04b16e0"
 [[files]]
 file = "config/draggable_lists.json5"
 hash = "b9f4428f21aaacf95acf58e97de4b990c3e9b0bcf48c0b54c318b2b50e347b92"
-
-[[files]]
-file = "config/drippyloadingscreen/options.txt"
-hash = "8f2856539adc9186af648100795ab8168fe053ef64f2115fdbcea74c59584e02"
 
 [[files]]
 file = "config/dungeon_crawl-1.toml.bak"
@@ -2604,10 +2596,6 @@ hash = "13b45970646fa866a18ce62a0c77583a98aa417982b684f490ec11bdb751d2b7"
 [[files]]
 file = "config/fancymenu/normalized_scroll_screens.json"
 hash = "69fc1d364fbe7cadf5d35886e604f23f4c6198fc0c534a79fc348140277dd899"
-
-[[files]]
-file = "config/fancymenu/options.txt"
-hash = "048597ebcffcaed00538b3f702d55c21cb2153ed6ece8827d0e0109ebca569a9"
 
 [[files]]
 file = "config/fancymenu/slideshows/cm_showcase/credit.txt"
@@ -43109,10 +43097,6 @@ metafile = true
 file = "noble-shaders.pw.toml"
 hash = "c9f1c310c5479f30967c24ea1494ff1d2626afae01f90ae844b728638f889439"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "e3d559d8b378c7b555c8aea7d62a9dfed7d4fba5dabed88fa92f8b3d8b796ec5"
 
 [[files]]
 file = "patchouli_data.json"

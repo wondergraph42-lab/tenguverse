@@ -27,3 +27,7 @@ config/fancymenu/assets/ourstorycollection/crhome.mp4
 **/*.mp4
 config/almostunified/debug.json
 **/debug.json
+options.txt
+optionsof.txt
+optionsshaders.txt
+hotbar.nbt
