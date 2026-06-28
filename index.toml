@@ -36934,6 +36934,11 @@ hash = "cd321f6365bc3938e0671450aadcd40c8e03af5cb24d0a545fb07c890b4793ac"
 metafile = true
 
 [[files]]
+file = "mods/yuushya-townscape.pw.toml"
+hash = "e18eb2531a2d9422d91155507b90f287df1a5106a2dc1a95dc96b99c0fb7714c"
+metafile = true
+
+[[files]]
 file = "noble-shaders.pw.toml"
 hash = "c9f1c310c5479f30967c24ea1494ff1d2626afae01f90ae844b728638f889439"
 metafile = true
